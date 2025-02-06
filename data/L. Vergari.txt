@@ -1,0 +1,83 @@
+
+
+
+L Vergari 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-6605
+vergari@illinois.edu
+120 Talbot Laboratory
+
+
+For More Information
+Advanced Blankets & Coolants Laboratory
+
+Education
+B.S. in Energy Engineering, Politecnico di Milano, 2016
+
+M.S. in Nuclear Engineering, Politecnico di Milano, 2018
+
+M.S. in Nuclear and Energy Engineering, Politecnico di Torino, 2019
+
+Ph. D. in Nuclear Engineering, University of California Berkeley, 2023
+
+Other Professional Employment
+ANS 20.2 Member, 2020 - 2024
+
+ASME Task Group on Graphite Issues in MSRs, 2022 - Present
+
+IAEA Working Party on Raman Characterization of Graphite, 2023 - Present
+
+Professional Registrations
+Licensed Professional Engineer (Italy), 2020
+
+
+
+Research Areas
+Advanced Reactor Designs
+Electrochemistry
+Fusion Materials 
+Graphite Chemistry
+Molten Salt Chemistry
+Nuclear Chemical Engineering
+Nuclear Materials
+
+
+Selected Articles in Journals
+L. Vergari, H. Wu & R. Scarlat. Surface Fluorination of Nuclear Graphite Exposed to Molten 2LiF–BeF2 (FLiBe) Salt and Its Cover Gas at 700 °C.  ACS Applied Engineering Materials (2024)
+L. Vergari, R.O. Scarlat, R.Hayes & M.Fratoni. The corrosion effects of neutron activation of 2LiF-BeF2 (FLiBe). Nuclear Materials and Energy, 34,101289 (2023) https://doi.org/10.1016/j.nme.2022.101289.
+L. Vergari, J. Quincey, G. Meric, T. Merriman, M. Hackett & R.O. Scarlat. Self-lubrication of Nuclear Graphite in Argon at High Temperature. Tribology International, 107946 (2022) https://doi.org/10.1016/j.triboint.2022.107946. 
+L. Vergari, J. Quincey, G. Meric & R.O. Scarlat. Microstructural characterization data for nuclear graphite samples generated during tribology testing in argon. Data in Brief, 18796 (2022) https://doi.org/10.1016/j.dib.2022.108796. 
+L. Langford, N. Winner, A. Hwang, H. Williams, L. Vergari, R.O. Scarlat, M. Asta. Constant-potential molecular dynamics simulations of molten salt double layers for FLiBe and FLiNaK. Journal of Chemical Physics, 157, 094705 (2022) https://doi.org/10.1063/5.0097697 .
+L. Vergari, M. Nelson, A. Droster, C. Contescu, N. Gallego & R.O. Scarlat. Infiltration of molten fluoride salts in graphite: phenomenology and engineering considerations for reactor operations and waste disposal. Journal of Nuclear Materials, 154058 (2022) https://doi.org/10.1016/j.jnucmat.2022.154058 .
+L. Vergari & R.O. Scarlat. Kinetics and Transport of Hydrogen in Graphite at High Temperature and the Effects of Oxidation, Irradiation and Isotopics. Journal of Nuclear Materials, 153142. (2022) https://doi.org/10.1016/j.jnucmat.2021.153142. 
+L. Vergari & R.O. Scarlat. The impact of neutron irradiation, graphite oxidation and fluorination on tritium uptake into and desorption from graphite in molten salt environments. Fusion Engineering and Design, 168, 112627. (2021) https://doi.org/10.1016/j.fusengdes.2021.112627. 
+L. Vergari & R.O. Scarlat. Thermodynamics of hydrogen in graphite at high temperature and the effects of oxidation, irradiation and isotopics. Journal of Nuclear Materials, 152797. (2021) https://doi.org/10.1016/j.jnucmat.2021.152797. 
+L. Vergari & M. Fratoni.  Spent fuel management strategies for fluoride-cooled pebble bed reactors. Nuclear Engineering and Design, 378, 111189. (2021) https://doi.org/10.1016/j.nucengdes.2021.111189. 
+L. Vergari, A. Cammi & S. Lorenzi. Reduced order modeling for coupled thermal-hydraulics and reactor physics problems. Progress in Nuclear Energy, 140, 103899. (2021) https://doi.org/10.1016/j.pnucene.2021.103899 . 
+L. Vergari, A. Cammi & S. Lorenzi. Reduced order modeling approach for parametrized thermal-hydraulics problems: inclusion of the energy equation in the POD-FV-ROM method. Progress in Nuclear Energy, 118, 103071. (2020) https://doi.org/10.1016/j.pnucene.2019.103071 .
+
+Magazine Articles
+L. Vergari & M. Fratoni. Packaging TRISO. ANS Radwaste Solutions, Spring 2021
+
+
+Honors
+Future Leaders Society Induction, American Association of Colleges and University
+ (2023
+)
+Graduate Scholarship, American Nuclear Society (2022)
+James F. Schumar Scholarship, American Nuclear Society (2021)
+Young Researcher Award, Asia-Pacific Symposium on Tritium (2020)
+Berkeley Graduate Fellow, University of California, Berkeley
+ (2019
+)
+
+Recent Courses TaughtNPRE 330 - Materials in Nuclear Engrg
+NPRE 498 NC3 (NPRE 498 NC4) - Nuclear Chemical Engineering
+

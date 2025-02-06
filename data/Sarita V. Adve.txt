@@ -1,0 +1,44 @@
+
+
+
+Sarita V Adve 
+
+
+
+
+
+Richard T. Cheng Professor
+
+
+(217) 333-8461
+sadve@illinois.edu
+4104 Siebel Center for Comp Sci
+
+
+For More Information
+Prof. Adve's Home Page
+
+Education
+Computer Science, Ph.D., University of Wisconsin-Madison, 1993
+
+
+Research Areas
+Architecture, Compilers, and Parallel Computing
+Hardware systems
+Reliable and secure systems
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Cyberinfrastructures
+Data/Information Science and Systems
+Distributed computing and storage systems
+Energy
+Smart infrastructures
+Wearable and mobile computing
+
+Recent Courses TaughtCS 433 (CSE 422) - Computer System Organization
+CS 534 - Adv Topics in Comp Arch
+CS 598 KT9 (CS 598 SVA) - App-Cust Heterogeneous Systems
+ECE 499 SAO - Senior Thesis
+

@@ -1,0 +1,35 @@
+
+
+
+John D Stack 
+
+
+
+
+
+Professor Emeritus
+
+
+(217) 333-4357
+j-stack@illinois.edu
+437B Loomis Laboratory
+
+
+Education
+Ph.D., Physics, University of California, Berkeley, 1965
+
+BiographyProfessor John Stack received his Ph.D. in physics from the University of California, Berkeley, in 1965, after receiving a B.S. in physics from the California Institute of Technology in 1959. He joined the Department of Physics at the University of Illinois in 1966. Valued by his Illinois colleagues for the clarity of his thinking, thoroughness and physical insight, Professor Stack is a master of lattice gauge theory and has made important contributions to the understanding of confinement and other non-perturbative phenomena in quantum chromodynamics and high energy theory.
+Professor Stack is also an effective and highly regarded teacher — large classess or small, introductory classes for non-science students or esoteric courses for advanced Ph.D. physics candidates — and an able mentor of graduate students. One of his former students wrote of him "… the most valuable thing that I got out of the meetings and out of my long association with John Stack was a deeper appreciation of just what it means to be a physicist. When we were stuck on some point, he would approach the problem from a physics point of view. Often as not, this would give to me new insight. This is the single most important part of my education…."
+Since 2005, he has served as the associate head for graduate programs.
+Research StatementStudies in Lattice Field Theory 
+The primary purpose of this work is to gain a physical understanding of confinement and other non-perturbative phenomena in QCD. Part of this project is focused on the monopole approach to non-perturbative phenomena, explored here for pure SU(2) and SU(3) lattice gauge theory. The main aim is to develop methods of locating the magnetic current of monopoles which are stable under local smoothing and independent of the gauge used to make the abelian projection. A secondary aim is to identify the different parts of the magnetic current responsible for confinement and chiral symmetry breaking. The second part of this project is focussed on the center vortex approach to confinement. The emphasis will be on developing methods for vortex location and determining their size distribution. The dynamics of vortices at finite temperature, and the relation of the center vortex approach to monopoles will also be studied. All of the problems addressed in this project are intractable by analytic means, so the use of supercomputers is essential.
+
+Research Areas
+Biological Physics (theoretical)
+High Energy Physics (theoretical)
+
+
+Articles in Conference Proceedings
+W. W. Tucker and J. D. Stack. The maximal abelian gauge, in SU(3) lattice guage theory. Nucl. Phys. B (Proc. Suppl.) 106-107, 643-645 (2002).
+J. D. Stack and W. W. Tucker. The Gribov ambiguity for maximal Abelian and center gauges in SU(2) lattice gauge theory. Nucl. Phys. B (Proc. Suppl.) 94, 529-531 (2001).
+

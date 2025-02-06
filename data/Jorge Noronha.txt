@@ -1,0 +1,127 @@
+
+
+
+Jorge Noronha he/him/his
+
+
+
+
+
+Professor
+
+
+(217) 244-3541
+jn0508@illinois.edu
+437B Loomis Laboratory
+
+
+Education
+Ph.D. in Theoretical Physics (summa cum laude), Goethe University Frankfurt, Germany, 2007.
+
+M.Sc. in Theoretical Physics, Brazilian Center for Physics Research, Brazil, 2004.
+
+B.Sc. in Physics (cum laude), Federal University of Rio de Janeiro, Brazil, 2003.
+
+
+BiographyProfessor Jorge Noronha received his bachelors degree in Physics from the Federal University of Rio de Janeiro (UFRJ), Brazil, in 2003. After completing his M.Sc. in 2004 at the Brazilian Center for Physical Research (CBPF), he went on to obtain his Ph.D. in Physics from the Goethe University Frankfurt, Germany, in 2007. His Ph.D. thesis helped determine the properties of the ultradense matter present in the core of neutron stars in the presence of strong magnetic fields. Jorge was a postdoctoral research scientist at Columbia University in New York from 2008-2011 where he focused on the applications of string theory techniques (holographic correspondence) to investigate the dynamical properties of the quark-gluon plasma formed in ultrarelativistic heavy ion collisions. From 2011-2019 Jorge was a faculty member at the University of Sao Paulo in Brazil, where he developed novel techniques to describe out-of-equilibrium phenomena in relativistic systems under extreme conditions. Jorge joined the Physics Department at UIUC in August 2019.
+Academic Positions
+Associate Director, Illinois Center for Advanced Studies of the Universe (ICASU), 2020 - present. 
+Associate Professor of Physics, University of Illinois at Urbana-Champaign, Nuclear Theory, 2019-present.
+Associate Professor of Physics, University of Sao Paulo, Brazil, Nuclear Theory, 2017-2019.
+Assistant Professor of Physics, University of Sao Paulo, Brazil, Nuclear Theory, 2011-2016.
+Postdoctoral Research Scientist, Columbia University, NY, USA, Nuclear Theory, 2008-2011.
+
+Research StatementMy research establishes connections between string theory, relativistic fluid dynamics, and kinetic theory to tackle outstanding problems in high-energy nuclear theory that are beyond the reach of current first-principles techniques. A prime example is the fluid-like behavior displayed by the quark-gluon plasma, an exotic phase of quantum chromodynamics that existed microseconds after the Big Bang in which quarks and gluons were not confined inside protons and neutrons. Tiny specks of this early Universe matter are now being copiously produced in heavy ion collision experiments, which have provided overwhelming evidence that the quark-gluon plasma flows like a nearly frictionless strongly coupled liquid over distance scales not much larger than the size of a proton. This makes the quark-gluon plasma formed in colliders the hottest, smallest, densest, most perfect fluid known to humanity. How such a fluid dynamical behavior emerges from the fundamental interactions between quarks and gluons in quantum chromodynamics is one of the open problems that I want to shed light on through my research. I'm also interested in the novel properties displayed by viscous fluids and relativistic plasmas in general relativity and their applications in neutron star mergers and cosmology.
+Research Interests
+Holographic duality and its applications in the quark-gluon plasma formed in heavy-ion collisions.
+Relativistic fluid dynamics and kinetic theory under strong electromagnetic and gravitational fields.
+Quantum chromodynamics at finite temperature and density and applications in heavy-ion collisions and neutron star mergers.
+
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+High Energy Physics (theoretical)
+Nuclear Physics (theoretical)
+
+
+Selected Articles in Journals
+J. Noronha, Diverse data tighten constraints for neutron stars, invited paper in Nature (News and Views), June 8 (2022).
+F. S. Bemfica, M. M. Disconzi and J. Noronha, First-Order General-Relativistic Viscous Fluid Dynamics, Phys. Rev. X 12, 021044 (2022).
+E. R. Most, S. P. Harris, C. Plumberg, M. G. Alford, J. Noronha, J. Noronha-Hostler, F. Pretorius, H. Witek and N. Yunes, Projecting the likely importance of weak-interaction-driven bulk viscosity in neutron star mergers,
+Mon. Not. Roy. Astron. Soc. 509, no.1, 1096‐1108 (2021).
+G. S. Rocha, G. S. Denicol and J. Noronha, Novel Relaxation Time Approximation to the Relativistic Boltzmann Equation, Phys. Rev. Lett. 127, 042301 (2021).
+F. S. Bemfica, M. M. Disconzi, V. Hoang, J. Noronha and M. Radosz, Nonlinear Constraints on Relativistic Fluids Far From Equilibrium, Phys. Rev. Lett. 126, 222301 (2021).
+V. Dexheimer, J. Noronha, J. Noronha-Hostler, N. Yunes and C. Ratti, Future physics perspectives on the equation of state from heavy ion collisions to neutron stars, J. Phys. G: Nucl. Part. Phys. 48, 073001 (2021) - invited topical review.
+G. S. Denicol and J. Noronha, Exact hydrodynamic attractor of an ultrarelativistic gas of hard spheres, Phys. Rev. Lett. 124, 152301 (2020).
+F. S. Bemfica, M. M. Disconzi and J. Noronha, Nonlinear Causality of General First-Order Relativistic Viscous Hydrodynamics, Phys. Rev. D 100, 104020 (2019). Erratum: Phys. Rev. D 105, 069902  (2022).
+ F. S. Bemfica, M. M. Disconzi and J. Noronha, Causality of the Einstein- Israel-Stewart Theory with Bulk Viscosity, Phys. Rev. Lett. 122, 221602 (2019).
+G. S. Denicol and J. Noronha, Hydrodynamic attractor and the fate of perturbative expansions in Gubser flow, Phys. Rev. D 99, 116004 (2019).
+R. CRITELLI, R. Rougemont and J. Noronha, Holographic Bjorken flow of a hot and dense fluid in the vicinity of a critical point, Phys. Rev. D 99, 066004 (2019).
+G. S. Denicol, X. G. Huang, E. Molnar, G. M. Monteiro, H. Niemi, J. Noronha, D. H. Rischke and Q. Wang, Nonresistive dissipative magnetohydrodynamics from the Boltzmann equation in the 14-moment approximation, Phys. Rev. D 98, 076009 (2018).
+F. S. Bemfica, M. M. Disconzi and J. Noronha, Causality and existence of solutions of relativistic viscous fluid dynamics with gravity, Phys. Rev. D 98, 104064 (2018).
+G. Denicol and J. Noronha, Analytical attractor and the divergence of the slow-roll expansion in relativistic hydrodynamics, Phys. Rev. D 97, 056021 (2018).
+M. Strickland, J. Noronha and G. Denicol, The anisotropic non-equilibrium hydrodynamic attractor, Phys. Rev. D. 97, 036020 (2018).
+R. CRITELLI, J. Noronha, J. Noronha-Hostler, I. Portillo, C. Ratti and R. Rougemont, Critical point in the phase diagram of primordial quark-gluon matter from black hole physics, Phys. Rev. D 96, 096026 (2017).
+D. Bazow, G. S. Denicol, U. Heinz, M. Martinez and J. Noronha, Nonlinear dynamics from the relativistic Boltzmann equation in the Friedmann- Lemaitre-Robertson-Walker spacetime, Phys. Rev. D 94, no. 12, 125006 (2016).
+S. I. FINAZZO, R. CRITELLI, R. Rougemont and J. Noronha, Momentum transport in strongly coupled anisotropic plasmas in the presence of strong magnetic fields, Phys. Rev. D 94, 054020 (2016). Erratum:Phys. Rev. D 96, 019903 (2017).
+A. Buchel, M. P. Heller and J. Noronha, Entropy Production, Hydrodynamics, and Resurgence in the Primordial Quark-Gluon Plasma from Holography, Phys. Rev. D 94, 106011 (2016).
+J. Noronha-Hostler, B. Betz, J. Noronha and M. Gyulassy, Event-by-event hy- drodynamics + jet energy loss: A solution to the RAA vs. v2 puzzle, Phys. Rev. Lett. 116, 252301 (2016).
+R. Rougemont, A. Ficnar, S. FINAZZO and J. Noronha, Energy loss, equilibration, and thermodynamics of a baryon rich strongly coupled quark-gluon plasma, JHEP 1604, 102 (2016).
+D. Bazow, G. S. Denicol, U. Heinz, M. Martinez and J. Noronha, Analytic solution of the Boltzmann equation in an expanding system, Phys. Rev. Lett. 116, 022301 (2016).
+R. Rougemont, J. Noronha, and J. Noronha-Hostler, Suppression of baryon diffusion and transport in a baryon rich strongly coupled quark-gluon plasma, Phys. Rev. Lett. 115, 202301 (2015).
+S. I. FINAZZO, R. Rougemont, H. MARROCHIO and J. Noronha, Hydrodynamic transport coefficients for the non-conformal quark-gluon plasma from holography, JHEP 1502, 051 (2015).
+H. MARROCHIO, J. Noronha, G. S. Denicol, M. Luzum, S. Jeon and C. Gale, Solutions of Conformal Israel-Stewart Relativistic Viscous Fluid Dynamics, Phys. Rev. C 91, no. 1, 014903 (2015).
+G. S. Denicol, U. W. Heinz, M. Martinez, J. Noronha and M. Strickland, New Exact Solution of the Relativistic Boltzmann Equation and its Hydrodynamic Limit, Phys. Rev. Lett. 113, no. 20, 202301 (2014).
+J. Noronha-Hostler, G. S. Denicol, J. Noronha, R. P. G. Andrade and F. Grassi, Bulk Viscosity Effects in Event-by-Event Relativistic Hydrodynamics, Phys. Rev. C 88, 044916 (2013).
+G. S. Denicol, J. Noronha, H. Niemi, D. H. Rischke, Origin of the Relaxation Time in Dissipative Fluid Dynamics, Phys. Rev. D 83, 074019 (2011).
+B. Betz, J. Noronha, G. Torrieri, M. Gyulassy, D. H. Rischke, Universal Flow- Driven Conical Emission in Ultrarelativistic Heavy-Ion Collisions, Phys. Rev. Lett. 105, 222301 (2010).
+J. Noronha and A. Dumitru, Thermal Width of the Upsilon Large t'Hooft Coupling, Phys. Rev. Lett. 103, 152304 (2009).
+
+J. Noronha-Hostler, J. Noronha and C. Greiner, Transport Coefficients of Hadronic Matter near Tc, Phys. Rev. Lett. 103, 172302 (2009).
+J. Noronha, M. Gyulassy and G. Torrieri, Di-Jet Conical Correlations Associated with Heavy Quark Jets in anti-de Sitter Space/Conformal Field Theory Correspondence, Phys. Rev. Lett. 102, 102301 (2009).
+J. Noronha and I. A. Shovkovy, Color-flavor locked superconductor in a magnetic field, Phys. Rev. D 76, 105030 (2007).
+
+Invited Lectures
+Emergence of hydrodynamic behavior in rapidly expanding fluids
+The quest for the critical point of the strong force
+AdS/CFT and the big questions in heavy ion physics
+Pushing the boundaries of relativistic fluid dynamics
+Unveiling the secrets of nature’s primordial liquid
+Causality and existence of viscous fluid dynamics in general relativity
+Collective effects in nuclear collisions: theory overview
+Pushing the boundaries of fluid dynamics
+Viscous fluid dynamics in neutron star mergers
+Deconstructing Relativistic Hydrodynamics
+Deconstructing General-Relativistic Viscous Fluid Dynamics
+Deconstructing Relativistic Fluid Dynamics
+Relativistic Fluid Dynamics: From Particle Colliders to Neutron Star Mergers
+Fundamental constraints in relativistic fluids and their role in magnetohydrodynamics
+Pushing the boundaries of relativistic fluid dynamics
+Relativistic Fluid Dynamics: From Particle Colliders to Neutron Star Mergers
+
+Robert F. Christy Lecture Series
+
+Magazine Articles
+Diverse data tighten constraints for neutron stars, invited paper published in Nature News and Views, in 2022.
+
+Conferences Organized or Chaired
+Co-organizer of the 8-week Kavli Institute for Theoretical Physics (UC Santa Barbara) Program "The Many Faces of Relativistic Fluid Dynamics", May - July 2023.
+
+Honors
+Affiliated Member of the Brazilian Academy of Sciences (2015)
+Gernot and Frank Carin Prize  (2008)
+
+Teaching Honors
+List of Teachers Ranked as Excellent by their Students, University of Illinois - PHYS 504 Statistical Physics (Spring 2023)
+List of Teachers Ranked as Excellent by their Students, University of Illinois - PHYS 580 Quantum Mechanics I (Fall 2022)
+List of Teachers Ranked as Excellent by their Students, University of Illinois - PHYS 504 Statistical Physics (Spring 2022)
+List of Teachers Ranked as Excellent by their Students, University of Illinois - PHYS 580 Quantum Mechanics I (Fall 2021)
+List of Teachers Ranked as Excellent by their Students, University of Illinois - PHYS 504 Statistical Physics (Spring 2021)
+Best Undergraduate Teacher (Professor Homenageado do Curso de Bacharelado) at the Physics Department of the University of Sao Paulo, Brazil.  (2015)
+
+Recent Courses TaughtPHYS 101 - College Physics: Mech & Heat
+PHYS 211 - University Physics: Mechanics
+PHYS 504 - Statistical Physics
+PHYS 515 (ASTR 515) - General Relativity I
+PHYS 580 - Quantum Mechanics I
+

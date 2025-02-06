@@ -1,0 +1,100 @@
+
+
+
+Cunjiang Yu he/him/his
+
+
+
+
+
+Founder Professor
+
+
+
+cunjiang@illinois.edu
+ 
+
+
+For More Information
+Professor Yu's Home Page
+
+Education
+2010, Ph.D., Mechanical Engineering, Arizona State University, USA
+2007, M.S., Electronic Engineering, Southeast University, China
+2004 B.S., Mechanical Engineering, Southeast University, China
+
+Academic Positions
+2024-present, Founder Professor, Department of Electrical and Computer Engineering, Department of Mechanical Science and Engineering (Joint), Department of Materials Science and Engineering (Joint), Department of Bioengineering (Joint), Beckman Institute for Science and Technology (Part time faculty), Materials Research Laboratory, Holonyak Micro and Nanotechnology Laboratory, University of Illinois Urbana-Champaign
+
+
+
+Research Areas
+Bionanotechnology
+Biosensors and bioelectronics
+
+
+Research Topics
+Healthcare and medical technologies
+
+Selected Articles in Journals
+Dedong Yin, Pan Wang, Yongcun Hao, Wei Yue, Xinran Jiang, Kuanming Yao, Yuqiong Wang, Jingkun Zhou, Long Lin, Xinxin Han, Zhoulyu Rao, Han Wu, Feng Liu, Ao Xiao, Zaizai Dong, Meng Wu, Chenjie Xu, Jiandong Huang, Honglong Chang, Yubo Fan, Xinge Yu*, Cunjiang Yu*, Lingqian Chang*, Mo Li*, A battery-free, chipless, soft nanofluidic intracellular delivery patch for internal organs, Nature, 2025, Accepted.
+
+Qiong Wang†, Ming Yang†, Renyuan Sun†, Wenliang Liu, Wenlong Li, Baochun Xu, Shiming Yang, Ke Chen, Jun Xiao, Xuyong Chen, Xinyao Meng, Jiexiong Feng*, Cunjiang Yu*, and Zhiqiang Luo*, A battery-free, chipless, A biodegradable capacitive-coupling neurostimulator for wireless electroceutical treatment of inflammatory bowel diseases, Science Advances, 2025, Accepted.
+
+Faheem Ershad, Zhoulyu Rao, Sushila Maharajan, Fernanda C. Paccola Mesquita, Junkyu Ha, Lei Gonzalez, Tahir Haideri, Ernesto Curty da Costa, Angel Moctezuma-Ramirez, Yuqi Wang, Seonmin Jang, Yuntao Lu, Shubham Patel, Xiaoyang Wang, Yifan Tao, Joshua Weygant, Carlos Ezio Garciamendez-Mijares, Luis Carlos Orrantia Clark, Muhammad Zubair, Xiaojun Lance Lian, Abdelmotagaly Elgalad, Jian Yang, Camila Hochman-Mendez, Yu Shrike Zhang*, and Cunjiang Yu*, Bioprinted optoelectronically active cardiac tissues, Science Advances, 11, eadt7210, 2025.
+
+Seongchan Kim, Ohchan Kwon, Seonkwon Kim, Seonmin Jang, Seungho Yu, Choong Hoo Lee, Yoon Young Choi, Soo Young Cho, Ki Chul Kim, Cunjiang Yu*, Dae Woo Kim*, Jeong Ho Cho*, Modulating synaptic plasticity with metal−organic framework for information-filterable artificial retina, Nature Communications, 16, 162, 2025.
+
+Jiaqi Liu, Chengpeng Jiang, Qianbo Yu, Yao Ni, Cunjiang Yu*, Wentao Xu*, Multidimensional Free Shape-Morphing Flexible Neuromorphic Devices with Regulation at Arbitrary Points, Nature Communications, 16, 756, 2025.
+
+Zhoulyu Rao, Faheem Ershad, Yingshi Guan, Fernanda C. Paccola Mesquita, Ernesto Curty da Costa, Marco A Morales-Garza, Angel Moctezuma-Ramirez, Bin Kan, Yuntao Lu, Shubham Patel, Hyunseok Shim, Kuan Cheng, Wenjie Wu, Tahir Haideri, Xiaojun Lance Lian, Alamgir Karim, Jian Yang, Abdelmotagaly Elgalad, Camila Hochman-Mendez, and Cunjiang Yu*, Ultra-thin rubbery bio-optoelectronic stimulators for untethered cardiac stimulation, Science Advances, 10, eadq5061, 2024.
+
+Han Wu, Yuqiong Wang, Hu Li, Yongyan Hu, Youdi Liu, Xinran Jiang, Hong Sun, Feng Liu, Ao Xiao, Tianrui Chang, Long Lin, Kuan Yang, Zhiying Wang, Zaizai Dong, Yuhang Li, Shaotong Dong, Siqi Wang, Jie Chen, Yilin Liu, Dedong Yin, Haodong Zhang, Ming Liu, Shenshen Kong, Zhuoqin Yang, Xinge Yu, Yi Wang, Liu Wang*, Cunjiang Yu*, Lingqian Chang*, Accelerated intestinal wound healing via dual electrostimulation from a soft and biodegradable electronic bandage, Nature Electronics, 7, 299-312, 2024.
+
+Hongwei Sheng, Li Jiang, Qi Wang, Zongwen Liu, Yurong Lv, Hongyun Ma, Huasheng Bi, Jiao Yuan, Mingjiao Shao, Fengfeng Li, Wenquan Li, Erqing Xie, Youdi Liu, Zhaoqian Xie, Jing Wang*, Cunjiang Yu*, and Wei Lan*, A soft implantable energy supply system that integrates wireless charging and biodegradable Zn-ion hybrid supercapacitors, Science Advances, 9, eadh8083, 2023.
+
+Faheem Ershad, Wenjing Song, and Cunjiang Yu*, Hand-drawing perovskite devices, Nature Photonics, 17, 928, 2023.
+
+Youdi Liu, Faheem Ershad, Yifan Tao and Cunjiang Yu*, Better electronics from immiscibility, Nature Materials, 22, 801, 2023.
+
+Junli Shi, Yuan Dai, Yu Cheng, Sai Xie, Gang Li, Yuan Liu, Jingxiao Wang, Ruirui Zhang, Ningning Bai, Minkun Cai, Yuan Zhang, Yifei Zhan, Zhengyou Zhang, Cunjiang Yu, and Chuan Fei Guo, Embedment of sensing elements for robust, highly sensitive, and crosstalk-free iontronic skins for robotics applications, Science Advances, 9, eadf8831, 2023.
+
+Zhenghao Long, Xiao Qiu, Chak Lam Jonathan Chan, Zhibo Sun, Zhengnan Yuan, Swapnadeep Poddar, Yuting Zhang, Yucheng Ding, Leilei Gu, Yu Zhou, Wenying Tang, Abhishek Kumar Srivastava, Cunjiang Yu, Xuming Zou, Guozhen Shen, and Zhiyong Fan, A neuromorphic bionic eye with filter-free color vision using hemispherical perovskite nanowire array retina, Nature Communications, 14, 1972, 2023.
+
+Qingyang Zhang, Mengxin Xu, Liming Zhou, Shihao Liu, Wei Wang, Letian Zhang, Wenfa Xie*, and Cunjiang Yu*, A flexible organic mechanoluminophore device, Nature Communications, 14, 1257, 2023.
+
+Seonmin Jang, Hyunseok Shim, and Cunjiang Yu*, Fully rubbery Schottky diode and integrated devices, Science Advances, 8, eade428, 2022.
+
+Ying-Shi Guan, Faheem Ershad, Zhoulyu Rao, Zhifan Ke, Ernesto Curty da Costa, Qian Xiang, Yuntao Lu, Xu Wang, Jianguo Mei, Peter Vanderslice, Camila Hochman-Mendez, and Cunjiang Yu*, Elastic electronics based on micromesh-structured rubbery semiconductor films, Nature Electronics, 5, 881-892, 2022.
+
+Hyunseok Shim, Faheem Ershad, Shubham Patel, Yongcao Zhang, Binghao Wang, Zhihua Chen, Tobin J Marks, Antonio Facchetti, and Cunjiang Yu*, An elastic, reconfigurable synaptic transistor based on a stretchable bilayer semiconductor, Nature Electronics, 5, 660-671, 2022.
+
+Hyunseok Shim, Seonmin Jang, Anish Thukral, Seongsik Jeong, Jo Hyeseon, Bin Kan, Shubham Patel, Guodan Wei, Wei Lan, Hae-Jin Kim*, and Cunjiang Yu*, Artificial neuromorphic cognitive skins based on distributed biaxially stretchable elastomeric synaptic transistors, Proceedings of the National Academy of Sciences USA, 119(23), e2204852119, 2022.
+
+Zhoulyu Rao†, Yuntao Lu†, Zhengwei Li, Kyoseung Sim, Zhenqiang Ma, Jianliang Xiao, and Cunjiang Yu*, Curvy, shape-adaptive imagers based on printed optoelectronic pixels with a kirigami design, Nature Electronics, 4, 513-521, 2021.
+
+Hongwei Sheng†, Jingjing Zhou†, Bo Li, Yuhang He, Xuetao Zhang, Jie Liang, Jinyuan Zhou, Qing Su, Erqing Xie, Wei Lan*, Kairong Wang*, Cunjiang Yu*, A thin, deformable, high performance supercapacitor implant that can be biodegraded and bioabsorbed within an animal body, Science Advances, 7, eabe3097, 2021.
+
+Kyoseung Sim†, Faheem Ershad†, Yongcao Zhang†, Pinyi Yang, Hyunseok Shim, Zhoulyu Rao, Yuntao Lu, Anish Thukral, Abdelmotagaly Elgalad, Yutao Xi, Bozhi Tian, Doris A. Taylor, and Cunjiang Yu*, An epicardial bioelectronic patch made from soft rubbery materials and capable of spatiotemporal mapping of electrophysiological activity, Nature Electronics, 3, 775-784, 2020.
+
+Yingshi Guan, Anish Thukral, Shun Zhang, Kyoseung Sim, Xu Wang, Yongcao Zhang, Faheem Ershad, Zhoulyu Rao, Fengjiao Pan, Peng Wang, Jianliang Xiao, and Cunjiang Yu*, Air/water interfacial assembled rubbery semiconducting nanofilm for fully rubbery integrated electronics, Science Advances, 6, eabb3656, 2020.
+
+Faheem Ershad, Anish Thukral, Jiping Yue, Phillip Comeaux, Yuntao Lu, Hyunseok Shim, Kyoseung Sim, Nam-In Kim, Zhoulyu Rao, Ross Guevara, Luis Contreras, Fengjiao Pan, Yongcao Zhang, Ying-Shi Guan, Pinyi Yang, Xu Wang, Peng Wang, Xiaoyang Wu, and Cunjiang Yu*, Ultra-Conformal Drawn-on-Skin Electronics for Multifunctional Motion Artifact-Free Sensing and Point-of-Care Treatment, Nature Communications, 11, 3823, 2020.
+
+Binghao Wang†, Anish Thukral†, Zhaoqian Xie, Limei Liu, Xinan Zhang, Wei Huang, Xinge Yu*, Cunjiang Yu*, Tobin J Marks*, and Antonio Facchetti*, Flexible and stretchable metal-oxide nanofiber networks for multimodal and monolithically integrated wearable electronics, Nature Communications, 11, 2405, 2020.
+
+Kyoseung Sim, Song Chen, Zhengwei Li, Zhoulyu Rao, Jingshen Liu, Yuntao Lu, Seonmin Jang, Faheem Ershad, Ji Chen, Jianliang Xiao, and Cunjiang Yu*, Three-dimensional curvy electronics created using conformal additive stamp printing, Nature Electronics, 2, 471-479, 2019.
+
+Hyunseok Shim, Kyoseung Sim, Faheem Ershad, Pinyi Yang, Anish Thukral, Zhoulyu Rao, Haejin Kim, Yanghui Liu, Xu Wang, Guoying Gu, Li Gao, Xinran Wang, Yang Chai, and Cunjiang Yu*, Stretchable elastic synaptic transistors and neurologically integrated engineering systems, Science Advances, 5, eaax4691, 2019.
+
+Kyoseung Sim, Zhoulyu Rao, Zhanan zhou, Faheem Ershad, Jianming Lei, Anish Thukral, Jie Chen, Qing-An Huang, Jianliang Xiao, and Cunjiang Yu*, Metal oxide semiconductor nanomembrane based soft unnoticeable multifunctional electronics for wearable human-machine interfaces, Science Advances, 5, eaav9653, 2019.
+
+Kyoseung Sim, Zhoulyu Rao, Hae-Jin Kim, Anish Thukral, Hyunseok Shim, and Cunjiang Yu*, Fully rubbery integrated electronics from high effective mobility intrinsically stretchable semiconductors, Science Advances, 5, eaav5749, 2019.
+
+Chengjun Wang † , Kyoseung Sim † , Jin Chen, Hojin Kim, Zhoulyu Rao, Yuhang Li, Weiqiu Chen, Jizhou Song, Rafael Verduzco, and Cunjiang Yu*, Soft Ultrathin Electronics Innervated Adaptive Fully Soft Robots, Advanced Materials, 30, 1706695, 2018.
+
+Haejin Kim, Kyoseung Sim, Anish Thukral, and Cunjiang Yu*, Rubbery Electronics and Sensors from Intrinsically Stretchable Elastomeric Composites of Semiconductors and Conductors, Science Advances, 3, e701114, 2017.
+
+Yang Gao†, Ying Zhang†, Xu Wang†, Kyoseung Sim†, Jingshen Liu, Xue Feng, Ji Chen, Hangxun Xu*, and Cunjiang Yu*, Moisture Triggered Physically Transient Electronics, Science Advances, 3, e1701222, 2017.
+
+

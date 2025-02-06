@@ -1,0 +1,82 @@
+
+
+
+Minje Kim he/him/his
+
+
+
+
+
+Associate Professor
+
+
+
+minje@illinois.edu
+ 
+
+
+For More Information
+Personal Website
+
+Education
+Ph.D. in Computer Science, University of Illinois at Urbana-Champaign (2016)
+
+ M.S. in Computer Science and Engineering, POSTECH (2006)
+B.E. in Information and Computer Engineering, Ajou University (2004)
+
+BiographyMinje Kim is an associate professor in the Dept. of Computer Science at the University of Illinois at Urbana-Champaign. He is also an Amazon Visiting Academic, working at Amazon Lab126. Before then, he was an associate professor at Indiana University (2016-2023). He earned his Ph.D. in Computer Science at UIUC (2016). He worked as a researcher at ETRI, a national lab in Korea, from 2006 to 2011. He received his Master’s and Bachelor’s degrees in the Dept. of Computer Science and Engineering at POSTECH (Summa Cum Laude) and in the Division of Information and Computer Engineering at Ajou University (with honors) in 2006 and 2004, respectively. During his career as a researcher, he has focused on developing machine learning models for audio signal processing applications. He has been on more than 60 patents as an inventor. 
+Academic Positions
+Associate Professor,  Department of Computer Science, University of Illinois at Urbana-Champaign (2024 — present)
+Associate Professor,  Luddy School of Informatics, Computing and Engineering, Indiana University  (2016 — 2023)
+
+Other Professional Employment
+Researcher, Electronics and Telecommunications Research Institute (ETRI), Korea (2006-2011)
+
+Major Consulting Activities
+Amazon Visiting Academic, Amazon.com Inc., Sunnyvale, CA (Jul. 2020 — present)
+
+Research StatementMinje Kim has focused on improving the efficiency and scalability of machine learning models for audio applications. He developed model compression methods that use fewer computing resources for on-device processing, proposed the “personalization” concept that scales down the task to focus on specific users’ voices, and scalable model architectures that adapt to the dynamically changing resource constraints. These algorithms have been successfully used to solve various audio problems, such as signal enhancement, source separation, speech and audio compression, spatial audio, etc.
+Research Interests
+AI for Audio
+Model Compression
+Personalized AI
+Signal Separation
+Speech Enhancement
+Neural Speech and Audio Coding
+
+
+
+Journal Editorships
+Senior Area Editor,  ACM/IEEE Transactions in Audio, Speech and Language Processing
+Associate Editor, EURASIP Journal on Audio, Speech, and Music Processing
+Consulting Associate Editor, IEEE Open Journal of Signal Processing
+
+Conferences Organized or Chaired
+General Co-Chair, IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2023
+
+Organizing Co-Chair, Hands-free Speech Communication and Microphone Arrays (HSCMA) Workshop 2024
+
+
+Professional Societies
+International Speech Communication Association (ISCA), Member
+IEEE Signal Processing Society, Member
+IEEE, Senior Member
+IEEE Audio and Acoustic Signal Processing Technical Committee (2018-2020, 2021-2023), Elected Member 
+IEEE Audio and Acoustic Signal Processing Technical Committee (2024), Vice Chair
+
+Honors
+Richard T. Cheng Endowed Fellowship (2011)
+
+Teaching Honors
+Indiana University Trustees Teaching Award (2021)
+UIUC CS Outstanding Teaching Assistant (2015)
+
+Research Honors
+NSF CAREER Award (2021)
+IEEE Signal Processing Society Best Paper Award (2020)
+Starkey Signal Processing Research Student Grant (2014)
+Google ICASSP Student Travel Grant (2013)
+
+Recent Courses TaughtCS 545 - Machine Learning for Signals
+CS 598 GMA - Generative Models for Audio
+

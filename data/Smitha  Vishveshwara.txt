@@ -1,0 +1,78 @@
+
+
+
+Smitha Vishveshwara 
+
+
+
+
+
+Professor
+
+
+(217) 333-4370
+smivish@illinois.edu
+2109 Engineering Sciences Building
+
+
+Education
+Ph.D., Physics, Univ. of California, Santa Barbara, 2002
+
+BiographyProfessor Smitha Vishveshwara received her bachelor's degree in physics magna cum laude from Cornell University in 1996 and was supervised in undergraduate research by Carl Franck and David Mermin. She completed her Ph.D in theoretical physics from the University of California, Santa Barbara, in 2002 under the guidance of Matthew Fisher. Her graduate research includes the studies of localization physics in superconductors, Luttinger liquids, and quantum entanglement in carbon nanotubes. From 2002 to 2005, she worked in the groups of Paul Goldbart and Tony Leggett as a postdoctoral researcher in the Dept. of Physics at the University of Illinois at Urbana-Champaign. At this stage, she explored tunneling and fractional statistics in quantum Hall systems, Aharonov-Bohm effects in carbon nanotube, entanglement in spin chains, and critical dynamics in charged superconductors. Since 2005, she has remained in the department as a faculty member and has also gained affiliations with the university’s Materials Research Laboratory and Beckman Institute.
+Research StatementVishveshwara's research spans a broad range of topics in quantum condensed matter theory. Her group maintains active collaborations worldwide and strong ties with condensed matter and cold atomic experimentalists. Her work also interfaces with other sub-disciplines, such as with biological physics and gravitation. Some of her research directions are as follows:
+Strongly correlated systems and low dimensions: Interacting systems confined to low dimensions demonstrate striking collective phenemona that baffle and contradict the intuition obtained from three-dimensional electronic systems. Vishveshwara’s group has investigated various aspects of such systems, including induced superconductivity in carbon nanotubes, field-induced control of valley degrees of freedom in nanotube quantum dots, and interferometry in mesoscopic rings. In nanotubes, wires, and quantum Hall fluids, they have extensively characterized Luttinger liquid behavior
+Fractionalization, anyons, and Majorana fermions: Perhaps the most spectacular feature of two-dimensional interacting systems is the existence of ‘topological order’ and associated quantum particles, namely anyons, which possess ‘fractional statistics’ interpolating between the statistics of the well-known fermions and bosons. Vishveshwara has proposed ways to detect anyons in fractional quantum Hall systems inspired by the astronomical 1950’s setting of Hanbury Brown and Twiss and currently day photonic beam splitters. With regards to more exotic ‘non-Abelian’ anyons, her group has proposed schemes for interferometry in topological superconductors, which form a prime candidate for hosting the much sought after Majorana fermion. The group has avidly studied such superconductors in wire settings in the presence of disorder and quasiperiodic potential landscapes.
+Critical behavior and quench dynamics: Dynamically forcing a system across phase transitions gives rise to dramatically out-of-equilibrium behavior stemming from the critical slowing down of the system’s intrinsic relaxation.  Such quench induced regimes can exhibit universal scaling laws in non-equilibrium features, originally postulated by Kibble in the cosmic setting and by Zurek in that of liquid Helium. Vishveshwara and collaborators have explored this behavior for quantum quenches in spin chains and topological systems. They have identified a new scaling regime in the presence of decoherence and a feature they coined as ‘topological blocking’ in the latter system.
+Optical lattices and novel geometries for ultracold atoms: The laboratory realization of the coldest states of matter in the universe in suspended traps and lattices formed by interfering lasers beams has opened up incredible new terrains for fundamental physics and quantum computation. Vishveshwara’s theoretical group works to investigate and inform such experiments in optical lattice settings in situations that reveal co-existence of multiple phases or are subject to different potential landscapes. An on-going direction involves bubble-shaped condensates created in the microgravity setup of none other than the international space station.
+Condensed matter meets biophysics and gravity: Vishveshwara’s  close relationship with her parents, both scientists, extends to her research. Her work with her mother, biophysicist Saraswathi Vishveshwara, borrows concepts from percolation theory to address the connectivity of protein structure networks. Their long-distance communication during the pandemic lockdown has resulted in applying these studies to the coronavirus. Smitha Vishveshwara’s group, guided by her late father, black hole physicist C. V. Vishveshwara, has explored gravitational parallels in quantum Hall settings and identified the equivalent of his predicted black hole quasinormal mode signatures, which are related to gravitational wave ringdowns observed in LIGO’s landmark detection.
+PHYSICS-ART CONFLUENCES AND PUBLIC ENGAGEMENT
+Vishveshwara combines her passion for physics with that for the arts in various interconnected ways. She has developed a project-based interdisciplinary course, Where the Arts Meets Physics. In close collaboration with artists, she has created several pieces on the quantum world and the cosmos. The theater piece, Quantum Voyages, created with theater-maker Latrelle Bright, is a tale of two explorers guided through quantum realms by the spirit of wisdom, accompanied by a quantum ensemble, and visited by quantum physicists. The multimedia piece Quantum Rhapsodies, created in collaboration with the Jupiter String Quartet and a visuals team nucleated at the Beckman Institute, combines narrative, music, and visuals to meditate on the quantum world, and its role in our daily lives and in the Universe.
+
+Research Areas
+Atomic, Molecular, and Optical Physics
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+N. Lundblad, S. Vishveshwara, et al. Perspective on quantum bubbles in microgravity. Quantum Sci & Tech 8:2, 024003 (2023).
+V. Subramanyan, K. L. Kirkpatrick, Saraswathi Vishveshwara, Smitha Vishveshwara. Are microtubules electron-based topological insulators? Europhys. Lett. 143, 46001 (2023).
+K. Qian, D.J. Apigo, K. Padavić, K.H. Ahn, S. Vishveshwara, C. Prodan. Observation of Majorana-like bound states in metamaterial-based Kitaev chain analogs. Phys. Rev. Res. 5, L012012 (2023)
+R.A. Carollo, D.C. Aveline, B. Rhyno, S. Vishveshwara, C. Lannert, J.D. Murphree, E.R. Elliott, J.R. Williams, R.J. Thompson, N. Lundblad. Observation of ultracold atomic bubbles in orbital microgravity. Nature 606, 281–286 (2022).
+S. Vishveshwara and D. M. Weld. ℤ2 phases and Majorana spectroscopy in paired Bose-Hubbard chains. Phys. Rev. A 103, L051301 (2021).
+
+F. A. An, K. Padavić, E. J. Meier, S. Hegde, S. Ganeshan, J.H. Pixley, S. Vishveshwara, B. Gadway. Interactions and Mobility Edges: Observing the Generalized Aubry-Andr� Model. Phys. Rev. Lett. 126, 040603 (2021).
+
+J. Sau, S. Simon, S. Vishveshwara, J. R. Williams. From anyons to Majoranas. Nature Reviews Physics 2:12, 667-668 (2020).
+S. S. Hegde, G. Yue, Y. X. Wang, E. Huemiller, D.J. Van Harlingen, S. Vishveshwara. A topological Josephson junction platform for creating, manipulating, and braiding Majorana bound states. Annals of Physics 423, 168326 (2020).
+K. Padavić, K. Sun, C. Lannert, S. Vishveshwara. Vortex-antivortex physics in shell-shaped Bose-Einstein condensates. Phys. Rev. A 102, 043305 (2020).
+V. Gadiyaram, Smitha Vishveshwara, S. Vishveshwara. From Quantum Chemistry to Networks in Biology: A Graph Spectral Approach to Protein Structure Analyses. J. Chem. Info. & Model. (Special Issue Dedicated to Women Scientists) 59:5, 1715-1727 SI (2019). (Article reported in the American Chemical Society Blog: https://axial.acs.org/2019/05/23/protein-structure-analysis/)
+V. Subramanyan, S. Vishveshwara. Correlations, dynamics, and interferometry of anyons in the lowest Landau level. J. Stat. Mechanics-theory & Experiment 2019:10, 104003 (2019).
+S. S. Hegde, V. Subramanyan, B. Bradlyn, S. Vishveshwara. Quasinormal Modes and the Hawking-Unruh Effect in Quantum Hall Systems: Lessons from Black Hole Phenomena. Phys. Rev. Lett. 123, 156802 (2019).
+R. Rodriguez-Mota, S. Vishveshwara, T. Pereg-Barnea. Revisiting 2-pi phase slip suppression in topological Josephson junctions. Phys. Rev. B 99, 024517 (2019).  
+ 
+W. DeGottardi, M. J. Gullans, S. Hedge, S. Vishveshwara, M. Hafezi. Thermal radiation as a probe of one-dimensional electron liquids.  Phys. Rev. B 99, 235124 (2019). 
+R. Rodriguez-Mota, S. Vishveshwara, T. Pereg-Barnea. Detecting Majorana modes through Josephson junction ring-quantum dot hybrid architectures. J. Phys. & Chem. of Solids 128, 179-187 (2019). 
+
+Magazine Articles
+ "We Are of the Same Stardust" Moore Foundation Featured Perspective Article (2020).
+
+Research Honors
+Elected to the Chairline, American Physical Society Division of Condensed Matter Physics, 2021-2024 (Chair: Mar 2022 - Mar 2023)
+
+Margaret Burbidge Inaugural Visiting Professorship, UC San Diego and Heising-Simons Foundation 2019-2020 
+
+American Physical Society (APS) Fellow (2019)
+Center for Advanced Study Associate Position (2018-2019)
+Arnold T. Nordsieck Physics Award for Teaching Excellence (2018)
+Simons Fellowship (2012)
+NSF American Competitiveness and Innovation Fellow (2010) 
+Center for Advanced Studies Beckman Fellow (2009-2010)
+National Science Foundation CAREER Award (2007)
+
+Recent Courses TaughtPHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 485 - Atomic Phys & Quantum Theory
+PHYS 495 (MUS 499 SV) - Where the Arts Meets Physics
+PHYS 498 ART - Special Topics in Physics
+

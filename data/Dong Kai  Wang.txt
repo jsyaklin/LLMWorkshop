@@ -1,0 +1,47 @@
+
+
+
+Dong Kai Wang 
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+dwang47@illinois.edu
+2066 Electrical & Computer Eng Bldg
+
+
+Other Professional Employment
+Treasurer, IEEE CEDA Central Illinois Chapter (2023-Present)
+
+Research Interests
+ML for Computer Architecture
+CPU and Accelerator Microarchitecture
+
+
+Research Areas
+Computer architecture
+Logic design and VLSI
+
+
+Patents
+Leveraging Processing in Memory Registers as Victim Buffers (US-20240211393-A1)
+
+
+Journal Editorships
+Integration, the VLSI Journal
+IEEE Transactions on Computers
+
+Research Honors
+AMD HACC Outstanding Researcher Award (2024/5/8)
+
+Recent Courses TaughtECE 385 - Digital Systems Laboratory
+ECE 391 - Computer Systems Engineering
+ECE 411 - Computer Organization & Design
+ECE 425 - Intro to VLSI System Design
+ECE 498 HK - Advanced VLSI System Design
+

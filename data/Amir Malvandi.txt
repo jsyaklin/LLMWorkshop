@@ -1,0 +1,82 @@
+
+
+
+Amir Malvandi 
+
+
+
+
+
+Assistant Professor 
+
+
+(217) 300-6065
+amirm2@illinois.edu
+332E Agricultural Engr Sciences Bld
+
+
+Education
+Ph.D.  Agricultural and Biological Engineering - University of Illinois at Urbana-Champaign
+M.Sc  Mechanical Engineering  - Amirkabir University of Technology, Iran
+B.Sc  Mechanical Engineering - Ferdowsi University of Mashhad, Iran 
+
+Other Professional Employment
+Site Co-director, NSF IUCRC Center for Advanced Research in Drying
+
+Professional Registrations
+Society of Food Engineering (SOFE)
+American Society of Agricultural and Biological Engineers (ASABE)
+
+Resident Instruction
+ABE 436 : Renewable Energy Systems
+
+Research Interests
+Digital Twin
+Advanced Manufacturing
+Scientific Machine Learning
+IoT
+Process Intensification/Optimization
+
+
+
+Selected Articles in Journals
+AI-Enabled Optical Sensing for Smart and Precision Food Drying: Techniques, Applications and Future Directions
+A novel sub-pilot-scale direct-contact ultrasonic dehydration technology for sustainable production of distillers dried grains (DDG)
+Towards Efficient Modularity in Industrial Drying: A Combinatorial Optimization Viewpoint
+Real-time moisture monitoring of edible coated apple chips during hot air drying using miniature NIR spectroscopy and chemometrics
+Application of NIR spectroscopy and multivariate analysis for Non-destructive evaluation of apple moisture content during ultrasonic drying
+Drying characteristics and quality attributes of apple slices dried by a non-thermal ultrasonic contact drying method
+Modeling and parallel computation of the non-linear interaction of rigid bodies with incompressible multi-phase flow
+Torsion and curvature effects on fluid flow in a helical annulus
+Non-destructive measurement and real-time monitoring of apple hardness during ultrasonic contact drying via portable NIR spectroscopy and machine learning
+Thermophoresis and Brownian motion effects on heat transfer enhancement at film boiling of nanofluids over a vertical cylinder
+Effects of nanoparticle migration on force convection of alumina/water nanofluid in a cooled parallel-plate channel
+Modified Buongiornoâ€™s model for fully developed mixed convection flow of nanofluids in a vertical annular pipe
+Slip effects on unsteady stagnation point flow of a nanofluid over a stretching sheet
+Brownian motion and thermophoresis effects on slip flow of alumina/water nanofluid inside a circular microchannel in the presence of a magnetic field
+Film boiling of magnetic nanofluids (MNFs) over a vertical plate in presence of a uniform variable-directional magnetic field
+
+Magnetic field and slip effects on free convection inside a vertical enclosure filled with alumina/water nanofluid
+
+Nanoparticles migration effects on magnetohydrodynamic (MHD) laminar mixed convection of alumina/water nanofluid inside microchannels
+Magnetohydrodynamic mixed convective flow of Al2O3â€“water nanofluid inside a vertical microtube
+Effect of magnetic fields on heat convection inside a concentric annulus filled with Al2O3â€“water nanofluid
+Effects of nanoparticle migration on hydromagnetic mixed convection of alumina/water nanofluid in vertical channels with asymmetric heating
+Effects of nanoparticle migration and asymmetric heating on magnetohydrodynamic forced convection of alumina/water nanofluid in microchannels
+Thermal performance analysis of hydromagnetic Al2O3-water nanofluid flows inside a concentric microannulus considering nanoparticle migration and asymmetric heating
+
+
+Journal Editorships
+Associate Editor: ASABE - Processing Systems (PRS)
+
+Research Honors
+Ben and Georgeann Jones Graduate Student Award 2022
+
+Other Honors
+Student Presentation Award ASABE 2022
+
+Recent Courses TaughtABE 228 - Comp Problem-Solv for ABE II
+ABE 436 - Renewable Energy Systems
+ABE 498 XW3 - Special Topics
+ETMA 438 - Renewable Energy Applications
+

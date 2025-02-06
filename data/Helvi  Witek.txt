@@ -1,0 +1,105 @@
+
+
+
+Helvi Witek 
+
+
+
+
+
+Associate Professor
+
+
+
+hwitek@illinois.edu
+247 Loomis Laboratory
+
+
+For More Information
+Witek Gravity Group website
+
+Education
+2012 PhD in Physics, Instituto Superior Tecnico / University of Lisbon, Portugal
+
+Academic Positions
+since 01/2020: Assistant Professor, Department of Physics, University of Illinois Urbana-Champaign (UIUC), USA
+
+01/2018 - 12/2019: Royal Society University Research Fellow, Department of Physics, King's College London, UK.
+
+09/2016 - 12/2017: Marie-Curie Research Fellow, University of Barcelona, Spain.
+
+08/2015 - 09/2016: Research Fellow, School of Mathematical Sciences, University of Nottingham, UK.
+11/2012 - 07/2015: Research Associate, Department of Applied Mathematics and Theoretical Physics (DAMTP/CMS), University of Cambridge, UK.
+
+
+Research Interests
+Astrophysics/Gravitation/Cosmology
+
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+
+
+Monographs
+E. Barausse, E. Berti, T. Hertog, S. A. Hughes, P. Jetzer, P. Pani, T. P. Sotiriou, N. Tamanini, H. Witek and K. Yagi, et al. “Prospects for Fundamental Physics with LISA,” Gen. Rel. Grav. 52 (2020) no.8, 81 [arXiv:2001.09793 [gr-qc]]. (citations: 144)
+
+E. Berti et al., “Testing General Relativity with Present and Future Astrophysical Observations,” Class. Quant. Grav. 32, 243001 (2015), [arXiv:1501.07274 [gr-qc]]. (citations: 899)
+
+
+Selected Articles in Journals
+M. Elley, H. O. Silva, H. Witek and N. Yunes, "Spin-induced dynamical scalarization, de-scalarization and stealthness in scalar-Gauss-Bonnet gravity during black hole coalescence," [arXiv:2205.06240 [gr-qc]]. (citations: 1) (under review)
+
+K. Clough, T. Helfer, H. Witek, and E. Berti, “The problem with Proca: ghost instabilities in self-interacting vector fields,” [arXiv:2204.10868 [gr-qc]]. (citations: 3) (under review)
+
+A. K. R. Hegade, E. R. Most, J. Noronha, H. Witek and N. Yunes, “How do spherical black holes grow monopole hair?,” Phys. Rev. D 105, 064041 (2022). (citations: 3)
+
+B. Shiralilou, T. Hinderer, S. M. Nissanke, N. Ortiz and H. Witek, “Post-Newtonian gravitational and scalar waves in scalar-Gauss – Bonnet gravity,” Class. Quant. Grav. 39:3, 035002 (2022). (citations: 22)
+
+E.R. Most, S.P Harris, C. Plumberg, M.G. Alford, J. Noronha, J. Noronha-Hostler, F. Pretorius, H. Witek, N. Yunes. Projecting the likely importance of weak-interaction-driven bulk viscosity in neutron star mergers. Mon. Not. Roy. Astron. Soc. 509:1, 1096-1108 (2021). (citations: 18)
+
+C.B. Owen, N. Yunes, and H. Witek. Petrov type, principal null directions, and Killing tensors of slowly-rotating black holes in quadratic gravity. Phys. Rev. D 103, 124057 (2021). (citations: 4)
+
+Y. Xie, J. Zhang, H.O. Silva, C. de Rham, H. Witek, N. Yunes. Square Peg in a Circular Hole: Choosing the Right Ansatz for Isolated Black Holes in Generic Gravitational Theories. Phys. Rev. Lett. 126, 241104 (2021). (citations: 7)
+
+H.O. Silva, H. Witek, M. Elley, and N. Yunes. Dynamical descalarization in binary black hole mergers. Phys. Rev. Lett. 127, 031101 (2021). (citations: 40)
+
+G. Ficarra, P. Pani, and H. Witek. Impact of multiple modes on the black-hole superradiant instability. Phys. Rev. D 99, 104019 (2019). (citations: 25)
+
+M. Bošković, R. Brito, V. Cardoso, T. Ikeda, and H. Witek. Axionic instabilities and new black hole solutions. Phys. Rev. D 99, 035006 (2019). (citations: 57)
+
+H. Witek, L. Gualtieri, P. Pani, and T.P. Sotiriou. Black holes and binary mergers in scalar Gauss-Bonnet gravity: scalar field dynamics. Phys. Rev. D 99, 064035 (2019). (citations: 113)
+
+R. Benkel, T.P. Sotiriou and H. Witek. Black hole hair formation in shift-symmetric generalised scalar-tensor gravity. Class. Quantum Grav. 34, 064001 (2017). (citations: 65)
+
+M. Zilhão, H. Witek and V. Cardoso, “Nonlinear interactions between black holes and Proca fields,” Class. Quant. Grav. 32, 234003 (2015). (citations: 59)
+
+T. Delsate, D. Hilditch and H. Witek, “Initial value formulation of dynamical Chern-Simons gravity,” Phys. Rev. D91, 024027 (2015). (citations: 61)
+
+H. Okawa, H. Witek and V. Cardoso, “Black holes and fundamental fields in Numerical Relativity: initial data construction and evolution of bound states,” Phys. Rev. D89, 104032 (2014). (citations: 93)
+
+I. Hinder et al., “Error-analysis and comparison to analytical models of numerical waveforms produced by the NRAR Collaboration,” Class. Quant. Grav. 31, 025012 (2014). (citations: 155)
+
+H. Witek, V. Cardoso, A. Ishibashi and U. Sperhake, “Superradiant instabilities in astrophysical systems,” Phys. Rev. D87, 043513 (2013). (citations: 177)
+
+
+Other Publications
+Software: H. Witek, M. Zilhao, G. Bozzola, M. Elley, G. Ficarra, T. Ikeda, N. Sanchis-Gual, H. O. Silva,
+
+“Canuda: a public numerical relativity library to probe fundamental physics”
+
+Latest version: https://doi.org/10.5281/zenodo.5520862 (10/2021)
+
+Youtube channel presenting animations of simulations produced with Canuda: https://www.youtube.com/channel/UC_417F40VkEyQd48VHkZeDA
+
+
+Research Honors
+Royal Society University Research Fellowship (2018 - 2019)
+Marie-Curie Fellowship
+ (2016 - 2017
+)
+
+Recent Courses TaughtPHYS 101 - College Physics: Mech & Heat
+PHYS 211 - University Physics: Mechanics
+PHYS 325 - Classical Mechanics I
+PHYS 515 (ASTR 515) - General Relativity I
+

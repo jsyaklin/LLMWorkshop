@@ -1,0 +1,72 @@
+
+
+
+Derek W Hoiem 
+
+
+
+
+
+Professor
+
+
+(217) 333-0806
+dhoiem@illinois.edu
+3312 Siebel Center for Comp Sci
+
+
+For More Information
+Homepage
+
+BiographyDerek Hoiem is a Professor in the Siebel School for Computing and Data Science at the University of Illinois Urbana-Champaign, which he joined in 2009.  He earned his PhD in Robotics from Carnegie Mellon University in 2007 and completed a Beckman Postdoctoral Fellowship in 2008.  Prof. Hoiem is co-founder and Chief Science Officer of Reconstruct, providing an AI-based Visual Command Center to provide construction stakeholders with timely access to project information. Hoiem is an IEEE Fellow, and his research in computer vision and related areas has been recognized with an ACM Doctoral Dissertation Award honorable mention, CVPR best paper award, NSF CAREER grant, Intel Early Career Faculty award, Sloan Fellowship, IEEE PAMI Young Researcher Award, University Scholar, and ECCV Koenderink test of time award.
+Academic Positions
+Professor, Department of Computer Science, UIUC, 2021 to present
+
+Research Interests
+Computer Vision, Object Recognition, Scene Understanding, Graphics
+
+
+Research Areas
+Artificial Intelligence
+
+
+Honors
+University Scholar (2022)
+Dean's Award for Excellence in Research, Asssociate Professor (2021)
+Campus Distinguished Promotion Award  (2015)
+CW Gear Junior Faculty Award  (2014)
+IEEE PAMI Young Researcher Award (2014)
+Dean's Award for Excellence in Research, Assistant Professor (2014)
+Sloan Research Fellowship (2013)
+NSF CAREER Award (2011)
+
+Teaching Honors
+List of Teachers Ranked as Excellent (Fall 2021)
+List of Teachers Ranked as Excellent (Spring 2020)
+List of Teachers Ranked as Excellent (Fall 2017)
+List of Teachers Ranked as Excellent (Spring 2017)
+List of Teachers Ranked as Excellent (Spring 2015)
+List of Teachers Ranked as Excellent (Fall 2014)
+List of Teachers Rated Excellent (Fall 2013)
+List of Teachers Rated Excellent (Spring 2012)
+List of Teachers Rated Excellent (Fall 2011)
+List of Teachers Rated Excellent (Spring 2011)
+List of Teachers Rated Excellent (Fall 2010)
+
+Research Honors
+Koendrink Prize (2022)
+Dean's Award for Excellence in Research, Associate Professor (2021)
+Best Paper Award: IEEE Winter Conference on Applications in Computer Vision (WACV)(2015)
+IEEE PAMI Young Researcher Award (2014)
+Dean's Award for Excellence in Research, Assistant Professor (2014)
+Sloan Research Fellowship (2013)
+Intel Early Career Faculty Honor Program Award (2012)
+NSF CAREER Award (2011)
+ACM Doctoral Dissertation Award, Honorable Mention, 2008. (runner-up for best dissertation in computer science, internationally)
+Carnegie Mellon University SCS Distinguished Dissertation Award, 2008 (best dissertation in computer science at CMU)
+Best Paper Award: IEEE Computer Vision and Pattern Recognition (CVPR) (2006)
+
+Recent Courses TaughtCS 441 - Applied Machine Learning
+CS 445 - Computational Photography
+CS 598 DWH - 3D Vision
+

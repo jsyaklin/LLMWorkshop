@@ -1,0 +1,60 @@
+
+
+
+Bo Li 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-8141
+lbo@illinois.edu
+4310 Siebel Center for Comp Sci
+
+
+For More Information
+Bo Li's Homepage
+Bo Li's Google Scholar
+
+Research Interests
+Information Theory
+Game Theory
+Privacy
+Trustworthy Machine Learning
+Security
+Artificial Intelligence
+ 
+
+
+Research Areas
+Artificial Intelligence
+Security and Privacy
+
+
+Other Honors
+IJCAI Computers and Thought Award (2022)
+AI's 10 to Watch (2022)
+Google Faculty Research Award (2022)
+First prize in the International Verification Neural Networks Competition (VNN-COMP'22) (2022)
+Dean's Award for Excellence in Research (2022)
+C.W. Gear Outstanding Junior Faculty Award (2021)
+Facebook Research Award (2021)
+Best Paper Award in EWSN (2021)
+Teachers Ranked as Excellent Award (2021)
+Intel's 2020 Rising Star Faculty Award (2020)
+Amazon Research Award (2020)
+NSF CAREER Award (2020)
+MIT Technology Review 35 Innovators Under 35 (2020)
+Facebook Research Award (2019)
+Amazon Research Award (2019)
+IBM Research Award (2019)
+Q4 AWS Machine Learning Research Awards (2019)
+
+Recent Courses TaughtCS 307 - Model & Learning in Data Sci
+CS 442 (CS 498 LB1, CS 498 LB2) - Trustworthy Machine Learning
+CS 562 - Adv Topics in Sec, Priv and ML
+CS 598 BL - Adversarial Machine Learning
+

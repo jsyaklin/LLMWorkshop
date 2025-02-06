@@ -1,0 +1,99 @@
+
+
+
+Angela Di Fulvio 
+
+
+
+
+
+Associate Professor and Donald Biggar Willett Faculty Scholar
+
+
+(217) 300-3739
+difulvio@illinois.edu
+116 Talbot Laboratory
+
+
+For More Information
+List of manuscript pre-prints
+Public repository of original software developed by NML 
+Website of the Nuclear Measurement Laboratory
+
+Education
+University of Pisa, Pisa, Italy, Ph.D., Nuclear Engineering and Industrial Safety, 2012
+University of Pisa, Pisa, Italy, M.Sc., Bioengineering, Electronics and Information Curriculum,  2007
+University of Pisa, Pisa, Italy, B.Sc., Bioengineering,  2005
+
+Academic Positions
+2012 - 2014, Postdoctoral Research Associate, Yale University, Department of Diagnostic Radiology
+2014 - 2016, Postdoctoral Research Fellow of the Consortium for Verification Technology, University of Michigan, Department of Nuclear Engineering and Radiological Sciences
+2016 - 2018, Assistant Research Scientist, University of Michigan, Department of Nuclear Engineering and Radiological Sciences
+2018 - July 2023, Assistant Professor, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering
+
+August 2023 - present, Associate Professor (100%), University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering
+August 2023 - present, Associate Professor (0%), University of Illinois at Urbana-Champaign, Center for Digital Agriculture, National Center for Supercomputing Applications
+
+Research Interests
+Neutron detection, spectroscopy, dosimetry, and imaging.
+Radiation protection of the patient in radiation therapy.
+Instrumentation for Homeland Security, Nuclear nonproliferation, and verification.
+Radiation protection of the patient and neutron production in proton and ion-therapy.
+
+
+Research Areas
+Health Physics
+Next generation thermal neutron detectors
+
+
+Selected Articles in Journals
+A. V. Avachat, K. H. Mahmoud , A. G. Leja, J. J. Xu, M. A. Anastasio, M. Sivaguru, and A. Di Fulvio. Ortho-positronium lifetime for soft-tissue classification. Scientific Reports, 14(1): 21155, Sep 2024.
+Liu Z., Di Fulvio A. Simulated imaging of spent nuclear fuel using associated-particle-neutron-induced gamma rays
+(2024) Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 1066, art. no. 169617
+Leland, J., Fang, M., Pani, S., Venturini, Y., Locatelli, M., and Di Fulvio, A. (2024). Enabling pulse shape discrimination with commercial asics. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, page 169438
+Fang, M., Di Fulvio, A. Feasibility of neutron coincidence counting for spent TRISO fuel (2023) Annals of Nuclear Energy, 193, art. no. 110062
+Toumia, Y., Lunetta, E.,  Carr, M., Borgia, S., Tortorella, E., Domenici, F., d'Agostino, E., Telling, M.T.F., di Fulvio, A., Paradossi, G. Potential of BPA functionalized poly(vinylalcohol)-shelled perfluorobutane nanodroplets towards enhanced boron neutron capture therapy and in-situ dosimetry (2024) Applied Materials Today, 36, art. no. 102052
+Fang, M., Di Fulvio, A. Rotation-invariant rapid TRISO-fueled pebble identification based on feature matching and point cloud registration (2024) Annals of Nuclear Energy, 203, art. no. 110527.
+Abdulaziz, A., Zhou, J., Fang, M., McLaughlin, S., Di Fulvio, A., Altmann, Y. A variational autoencoder for minimally-supervised pulse shape discrimination (2024) Annals of Nuclear Energy, 204, art. no. 110496.
+Zhou, J., Abdulaziz, A., Altmann, Y., Di Fulvio, A. (2023) Generalized Method for the Optimization of Pulse Shape Discrimination Parameters, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, (in press)
+Fang, M., Lacy, J., Athanasiades, A., Di Fulvio, A. (2023) Boron Coated Straw-based Neutron Multiplicity Counter for Neutron Interrogation of TRISO Fueled Pebbles,  Annals of Nuclear Energy, (in press)
+Zhou, J., Gaughan, N., Becchetti, F., Torres-Isea, R., Febbraro, M., Zaitseva, N., and Di Fulvio, A. (2022). Light output quenching in response to deuterium-ions and alpha particles and pulse shape discrimination in deuterated trans-stilbene. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 1027, 166287
+Liu, Z., Fang, M., George, G., Meng, L.J., and A. Di Fulvio, (2022) “Neutron tomography of spent fuel casks,” Journal of Signal Processing Systems, 94, 399–409
+
+Gaughan, N., Zhou, J., Becchetti, F., Torres-Isea, R., Febbraro, M., Zaitseva, N., Altmann, Y., Di Fulvio, A., (2021) Characterization of d12-stilbene as neutron spectrometer, Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, Vol 1018, 165822
+
+Weiss, M., Fang, M., Altmann, Y., Paff, M., Di Fulvio, A., (2021) Effect of natural gamma background radiation on portal monitor radioisotope unmixing, Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, Vol 1002, 165269
+
+Fang, M., Altmann, Y., Della Latta, D., Salvatori, M., Di Fulvio, A., (2021) Quantitative imaging and automated fuel pin identification for passive gamma emission tomography, Nature Scientific Reports, 11: 2442
+
+Zhou, J., Leja, A., Salvatori, M., Latta, D. D., & Fulvio, A. D. (2021). Application of Monte Carlo algorithms to cardiac imaging reconstruction. Current Pharmaceutical Design, 27(16):1960-1972
+
+Rebei, N., Fang, M., Di Fulvio, A. (2020). Quantitative and three-dimensional assessment of holdup material. Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 984, 164630.
+
+Altmann, Y., Di Fulvio, A.,  Paff, M., Clarke, S.D., Davies, M., McLaughlin, S., Hero, A. and  Pozzi, S. (2020). Sparse spectral unmixing for gamma source identification at radiation portal monitors using expectation-propagation. Nature Scientific Reports, 10, 6811.
+Zhu, H., Altmann, Y., Fulvio, A.D., McLaughlin, S., Pozzi, S., Hero, A. (2019). A Hierarchical Bayesian Approach to Neutron Spectrum Unfolding with Organic Scintillators. IEEE Transactions on Nuclear Science, 66 (10), art. no. 8836651, 2265-2274. 
+Di Fulvio, A., Shin, T., Basley, A., Swenson, C., Sosa, C., Clarke, S., Chichester, D. Pozzi, S. (2018). Fast-neutron Multiplicity Counter for Active Measurements of Uranium Oxide Certified Material. Nuclear Inst. and Methods in Physics Research, A, Volume 907, 1 November 2018,  248-257
+d'Errico, F. & Di Fulvio, A. (2018). Advanced readout methods for superheated emulsion detectors. Review of Scientific Instruments, 89(5),053304. 
+
+Di Fulvio, A., Shin, T., Jordan, T., Sosa, C., Ruch, M., Clarke, S., Chichester, D., Pozzi, S. (2017). Passive assay of plutonium metal plates using a fast-neutron multiplicity counter. Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 855.
+Beyer, K. A., Di Fulvio, A., Stolarczyk, L., Parol, W., Mojzeszek, N., Kopec, R., Clarke, S. D., Pozzi, S. A. (2017). Organic scintillator for real-time neutron dosimetry. Radiation Protection Dosimetry, 1-5. 
+
+Di Fulvio, A., Tana, L., Caresana, M., D’Agostino, E., De San Pedro, M., Domingo, C., & D’Errico, F. (2013). Clinical simulations of prostate radiotherapy using BOMAB-like phantoms: Results for neutrons. Radiation Measurements, 57. 
+
+Journal Editorships
+Editorial Board Member for Nature Scientific Reports, 2023 - today
+Guest Editor of the  Virtual Special Issue (VSI)  in Annals of Nuclear Energy titled "AI for radiation detection, safeguards and nonproliferation”, 2023
+
+Professional Societies
+American Nuclear Society, Nuclear Nonproliferation Policy Division, Secretary, 2023 - 2024
+American Physical Society (APS) Topical Group on Instrumentation and Measurement Science, Vice-chair, 2022 - 2023
+Physicists Coalition for Nuclear Threat Reduction, Member, 2022 - present
+
+Service on Campus Committees
+Director, Program in Arms Control & Domestic and International Security (ACDIS), 2024 - 2029
+
+Recent Courses TaughtNPRE 451 - NPRE Laboratory
+NPRE 452 - Adv Radiological Science Lab
+NPRE 498 NS (NPRE 498 NSA, NPRE 498 NSO, NPRE 598 NS, NPRE 598 NSA, NPRE 598 NSO) - Nucl Safeguards & Nonprolif
+NPRE 595 - Student Research Seminar
+

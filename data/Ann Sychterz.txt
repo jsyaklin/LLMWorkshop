@@ -1,0 +1,255 @@
+
+
+
+ Ann Sychterz 
+
+
+
+
+
+Assistant Professor
+Faculty Affiliate, Mechanical Science and Engineering
+
+
+(217) 244-6148
+asychter@illinois.edu
+2122 Newmark Civil Engineering Bldg
+
+
+For More Information
+sychterz.cee.illinois.edu
+
+Education
+Ph.D, Advisor: Ian F.C. Smith. "Bimimetic Adaptive Control of a Deployable Tensgrity Structure". Civil Engineering, Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland, 2018
+
+M.A.Sc, Advisors: Sriram Narasimhan and Scott Walbridge. "Vibration Characterization of Aluminum Pedestrian Bridges". Civil Engineering, University of Waterloo, Canada, 2014
+B.A.Sc, Civil and Environmental Engineering, University of Waterloo, Canada, 2012
+
+BiographyAnn Sychterz(SICK-tesh) obtained her PhD in 2018 from the Swiss Federal Institute of Technology Lausanne (EPFL) addressing the novel use of control algorithms, statistical diagnostic tools, and real-time feedback on a full-scale tensegrity structure to enable smooth deployability, damage detection, adaptation, and learning. During her masters of applied science obtained in 2014 at the University of Waterloo, she built full-scale aluminum pedestrian bridges for vibration characterization and control. She completed a postdoctoral position at the University of Michigan on actuator optimization of adaptive origami structures. With her team at Sychterz Modular Adaptive Resilient Transformable Infrastructure (SMARTI) lab at the University of Illinois Urbana-Champaign, they harness geometrically nonlinear systems, such as tensegrity structures and origami, for adaptive civil infrastructure. She is a faculty affiliate with Mechanical Science and Engineering, faculty fellow of the National Center for Supercomputing Applications and a faculty affiliate of the Beckman Institute for Advanced Science and Technology in the Autonomous Materials Systems group.
+Academic Positions
+International Visiting Professor, Cluster of Excellence "Integrative Computational Design and Construction for Architecture", University of Stuttgart, 06/2024 - 08/2024
+Faculty Affiliate, Mechanical Science and Engineering, University of Illinois Urbana-Champaign, 08/2022 - Present
+Faculty Fellow, ORMIR, Gies College of Business, University of Illinois Urbana-Champaign, 08/2021 - 07/2022
+Levenick Sustainable Teaching Fellow, Institute for Sustainability Energy and Environment, University of Illinois Urbana-Champaign, 02/2021 - 01/2022
+Faculty Affiliate, Beckman Institute for Advanced Science and Technology, University of Illinois Urbana-Champaign, 10/2020 - Present
+Faculty Fellow, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign,  07/2020 - Present
+Assistant Professor, Civil and Environmental Engineering, University of Illinois Urbana-Champaign, 01/2020 - Present
+Postdoctoral Researcher, Advisor: Evgueni Filipov. Civil Engineering, University of Michigan at Ann Arbor, 02/2019 - 12/2019
+
+Professional Registrations
+Licensed Professional Engineer, Province of Ontario, 2024-present
+
+Teaching StatementTeaching Statement: I have developed much about my teaching philosophy through discussions at the ASCE ExCEEd teaching workshop, mirroring the traits of my teaching mentors, and through teaching swing dancing across the world for 15 years. Learning to assess the engagement of the students, I tailor delivery of my lessons through the type of media used, verbal and visual cues, and level of detail. In teaching swing dancing and civil engineering, I spend time on the structure of my lessons such that the beginning, end, and take away message are very clear. To ensure that students of all levels understand at least the general concepts, I employ the use of an analogy or concept with broad, medium, and fine level of detail. 
+Resident Instruction
+CEE 595 SRS - Sustainable and Resilient Infrastructure Systems Program seminar coordinator
+Semesters: Spring 2022 (15), Fall 2022 (18), Spring 2023 (17), Fall 2023 (21), Spring 2024 (17)
+CEE 498 ST - Theory and Creation of Structure
+Semesters: Fall 2022 (10)
+CEE 467 - Masonry Structures
+Semesters: Summer 2021 (19), Spring 2025 (34)
+CEE 465 - Design of Structural Systems
+Semesters: Spring 2020 (28), Spring 2021 (29), Fall 2021 (12), Spring 2022 (23), Spring 2023 (23), Fall 2023 (27), Spring 2024 (23), Fall 2024 (19)
+
+Course Development
+CEE 465 - Design of Structural Systems
+Contributions: Added content on green building practices and sustainability, engineering law and ethics for practice, and a Virtual Reality lab to complement module on load path.
+CEE 498 - Theory and Creation of Structure
+Contributions: This course was heavily revised from its initial offering in Fall 2021. New sections were added for my lectures on the mechanics of tensegrity structures, origami structures, and kinematics. I revised the homework assignments and designed new midterm and final examinations for this co-taught offering of the course with Bill Baker.
+CEE 467 - Masonry Structures
+Contributions: This course was revised & updated the course content, created learning objectives, created new in-class notes, created a semester project, and developed new assessments.
+
+Student Organizations
+Illini Swing Society, 2020, Lessons Chair
+Society of Women Engineers, 2021, Faculty advisor
+
+Design Teams
+Masonry Arch Design Team, Faculty Advisor, 2021-2022
+Illinois Solar Decathlon, Structures Faculty Advisor, 2024- present
+UIUC Steel Bridge Team, Faculty Technical Advisor, 2024 - present
+
+Other Undergraduate Advising Activities
+Worldwide Youth in Science and Engineering (WYSE) summer camp, summer 2020, created and taught module "Self-Balancing Structures" for highschool students
+
+Research StatementResearch Statement: My research seeks to create new lightweight, adaptive, and deployable structures with innovative control and machine learning techniques to address changing environmental challenges as it applies to structural engineering design, efficiency, and resilience. A structure that can self-identify damage, adapt, and learn for developing infrastructure systems that provide safety and continuous functionality even when subjected to extreme loading conditions.  Resiliency and reserve capacity for strength and stiffness in this work will be addressed through changing the shape and stiffness of a structure. The increasing frequency of intense weather and environmental changes from climate change are driving the need for adaptive structural systems. 
+Research Interests
+Optimized sensor placement for civil structures
+Structural dynamics
+Form-finding methods
+Machine learning and robotics for civil structures
+Damage mitigation and risk assessment in large-scale structures
+Adaptive and deployable structures
+
+
+Research Areas
+Structural Engineering
+Sustainable and Resilient Infrastructure Systems
+
+
+Selected Articles in Journals
+Baruah, A.C. and Sychterz A.C. Dynamic Characterization of Meter-Scale Adaptive Origami Structure, Structures, 2024, p1-13. https://doi.org/10.1016/j.istruc.2024.108033 
+
+Tucker, K. and Sychterz A.C. Analyzing Geosystems with Deployable Compliant Mechanisms for Enhanced Tension Capacity, Journal of the International Association for Shell and Spatial Structures, 2024. p1-16. https://doi.org/10.20898/j.iass.2024.011
+Forster, D., Paul, S., Bischoff, M., and Sychterz, A.C. Structural Assessment of Architected Material Using the Redundancy Matrix and Experimental Testing, ASME Journal of Applied Mechanics, 2024, p1-10. https://doi.org/10.1115/1.4065840.
+Paul, S. and Sychterz A.C., Multi-Layered Randomized Architected Material under Tensile Loading for a Tensegrity Structure, Journal of Engineering Mechanics, https://doi.org/10.1061/JENMDT.EMENG-7456, 2023, 1- 12.
+
+Gathman, H.F and Sychterz, A.C., Design of a full-scale aluminum plate-based tensegrity structure, Journal of the International Association for Shell and Spatial Structures, 64 (3), https://doi.org/10.20898/j.iass.2023.003, 2023, 211-244.
+
+Baruah, A.C and Sychterz A.C., Assessment and comparison of cable-actuation of pill bug inspired adaptive origami structure using computer vision and dynamic relaxation, Frontiers in Built Environment, 8 (1), https://doi.org/10.3389/fbuil.2022.813543, 2021, 1-9.
+
+Sychterz, A.C., Bernardi, I., Tom, J., Beemer, R. Nonlinear soil-structure behavior of a deployable and compliant anchor system, Canadian Journal of Civil Engineering, 49(6), 10.1139/cjce-2021-0204, 2021, 1085-1094.
+
+Sychterz, A.C. and Baruah, A.C., Active Control for Adaptive Origami Structures Undergoing Damage, Engineering Structures, 24 (1), 10.1016/j.engstruct.2021.112457, 2021, 1-9.
+
+Sychterz, A.C. and Smith, I.F.C., Damage mitigation of near-full-scale deployable tensegrity structure through behavior biomimetics, Journal of Structural Engineering, 146 (1), 10.1061/(ASCE)ST.1943-541X.0002470, 2020.
+
+Articles in Conference Proceedings
+Reksowardojo, A. and Sychterz, A.C. Controlled geometry changes as a strategy for active diagnosis of damage in discrete structures, ASCE Engineering Mechanics Institute 2025, Irvine, United States, 2025, 4p.
+
+Wang, Z. and Sychterz, A.C. An Adaptive Dynamic Relaxation method with First Kinematic Equilibrium: A Study on Error comparison and time efficiency, ASCE Engineering Mechanics Institute 2025, Irvine, United States, 2025, 4p.
+
+Hummad, K. and Sychterz, A.C. Enhancing the Design of Deployable Anchors for Coastal Slope Stabilization Through Dynamic Relaxation, ASCE Engineering Mechanics Institute 2025, Irvine, United States, 2025, 4p.
+
+Paul, S. and Sychterz A.C. Predicting Tensile Behavior of Multi-Layered Randomized Architected Material (MLRAM) using Artificial Intelligence, ASCE Engineering Mechanics Institute 2025, Irvine, United States, 2025, 4p.
+
+Baruah, A.C. and Sychterz A.C. Damage Classification of Deployable Origami Structure Using Supervised Machine Learning, ASCE Engineering Mechanics Institute 2025, Irvine, United States, 2025, 4p.
+
+Capretta, E. and Sychterz, A.C. Experimental Data-Informed Computational Analysis of Installation Processes for Deployable Ground Anchors, ASCE Engineering Mechanics Institute 2025, Irvine, United States, 2025, 4p.
+
+Khan, A., Henschen, J., Sychterz, A.C., and Perry, L. Exploring Faculty Perspectives on Challenging Threshold Concepts in Structural Engineering, American Society of Engineering Education Annual Conference and Exposition 2025, Montreal, Canada, 8p.
+Rodgers, C., Rahman, A., Sychterz, A.C., and Henschen, J. Case Study: Developing and Implementing VR Technology for Civil Engineering Education, American Society of Engineering Education Annual Conference and Exposition 2025, Montreal, Canada, 8p.
+
+Capretta, E., Hummad, K., Rahman, S., Beemer, R., and Sychterz, A.C. Shear Plane Analysis of Deployable Anchors and Insights from X-ray Microtomography, Proceedings of the International Symposium on Frontiers in Offshore Geotechnics, Nantes, France, 2025, 6p.
+
+Capretta, E., Hummad, K., and Sychterz, A.C. Experimental and analytical stability of thick origami panels for deployable anchors to prevent coastal erosion, Proceedings of the Annual Stability Conference, 2025, Louisville USA, 2025, 8p.
+
+Baruah, A.C. and Sychterz, A.C. Sensor placement for control of a meter-scale origami structure, Proceedings of the International Association for Shell and Spatial Structures, 2024, Zurich, 2024 4p.
+
+Capretta, E., Hummad, K., and Sychterz, A.C. Analytical and experimental testing for increased shear plane of deployable geosystems for coastal stabilization, Engineering Mechanics Institute conference 2024, Chicago, United States. 8p.
+
+Baruah, A.C. and Sychterz, A.C. Optimizing sensor placement for characterization and control of a meter-scale origami pill-bug structure, Engineering Mechanics Institute conference 2024, Chicago, United States. 4p.
+
+Paul, S. and Sychterz A.C. Non-linear modelling of multi-layered randomized architected material (MLRAM) under tensile loading for a tensegrity structure, Engineering Mechanics Institute conference 2024, Chicago, United States. 4p.
+
+Sychterz, A.C. Stability of a deployable awns on a compliant steel geosystem for nonlinear soil-structure interaction, American Institute for Steel Construction NASCC 2024 Structural Stability Research Council, San Antonio, United States. 8p.
+
+Tucker, K. and Sychterz A.C. Comparison of biologically inspired functionally-graded deployable geosystems with experimental measurements, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Melbourne, Australia, 2023, 10p.
+
+Baruah A.C. and Sychterz A.C. 'Damage detection of cable-actuated origami structure using dynamic relaxation, Engineering Mechanics Institute Conference 2022, Baltimore, Maryland. 4p.
+
+Paul, S. and Sychterz, A.C. Robustness of Multilayered Random-network Architected Material through Experimental Testing, ASCE Engineering Mechanics Institute Conference 2022, Baltimore, Maryland, USA, 4p.
+
+Grendzinski, M. and Sychterz, A.C. Characterization of Torque-Driven Underground Compliant Structures Using Pushover Analysis, Engineering Mechanics Institute Conference 2022, Baltimore, Maryland. 4p.
+Torres, J.A. and Sychterz, A.C. Virtual Reality as a Vehicle for Education in the Domains of Building Systems, American Society of Engineering Education Annual Conference and Exposition 2022, Minneapolis, MN. 8p.
+
+Tucker, K and Sychterz, A.C. Analyzing Geosystems with Deployable Compliant Mechanisms for Enhanced Tension Capacity, Canadian Society of Civil Engineers Annual Conference 2022, Whistler, British Columbia. 8p.
+
+Sychterz, A.C. Adaptive Aluminum Tensegrity Structure as a Bike Parking Canopy, 5th International Conference on Structures & Architecture, Aalborg, 2022, 8p.
+Paul, S. and Sychterz A.C. A Computational Analysis for an Adaptive Tensegrity-based Four-Module Roof Structure, Canadian Society for Civil Engineering VIRTUAL Conference 2021, 9p.
+
+Baruah, A.C. and Sychterz A.C. Pill-bug inspired adaptive origami tuned-mass dampers, Canadian Society for Civil Engineering VIRTUAL Conference 2021, 8p.
+
+Gathman, H and Sychterz A.C. Analysis of full-scale plate-based tensegrity structure using dynamic relaxation, Canadian Society for Civil Engineering VIRTUAL Conference 2021, 8p.
+
+Paul, S. and Sychterz A.C. Dynamic Characterization of an Adaptive Tensegrity-based Four-Module Roof Structure, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Surrey, UK, 2021, 10p.
+
+Baruah, A.C. and Sychterz A.C. Active control of 3D printed pill-bug inspired adaptive origami, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Surrey, UK, 2021, 10p.
+
+Gathman, H and Sychterz A.C. Full-scale plate-based tensegrity bike parking canopy, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Surrey, UK, 2021, 10p.
+
+Sychterz A.C. and Smith, I.F.C., Path-finding for deployment and midspan connection of a tensegrity structure, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Boston, United States, 2018, 10p.
+Sychterz, A.C and Smith I.F.C., Dynamic effects of cable rupture in a tensegrity structure, Fourth conference on Smart Monitoring, Assessment and Rehabilitation of Civil Structures, Zürich, Switzerland, 2017, 8p.
+Sychterz, A.C. and Smith, I.F.C., Towards biomimetic actuation for a deployable structure, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Tokyo, Japan, 2016, 9p. 
+Sychterz, A.C. and Smith, I.F.C., Shape control for self-stress following deployment of a tensegrity footbridge, 24th International Workshop on Intelligent Computing in Engineering, Krakow, Poland, 2016, 11p.
+Sychterz, A.C., Dalil Safaei, S., and Smith, I.F.C., Friction modeling of a deployable tensegrity footbridge, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Amsterdam, The Netherlands, 2015, 11p.
+Sychterz, A.C., Narasimhan, S., and Walbridge, S., A study on modal characterization and dynamic analysis of two aluminium pedestrian bridges in Québec, International Aluminium Conference INALCO 2013 Conference Proceedings Montreal, Canada, 2013, 10p.
+Sychterz A.C., Sadhu, A., Narasimhan, S., and Walbridge, S., Results from Modal Testing of the Daigneault Creek Bridge, Canadian Society for Civil Engineering (CSCE) 2013 General Conference Proceedings, Montreal, Canada, 2013, 10p.
+
+Magazine Articles
+"This Human-Sized Origami Reimagines Emergency Shelters", Wired Magazine, https://www.wired.com/story/this-human-sized-origami-reimagines-emergency-shelters, April 27, 2021. 
+
+Journal Editorships
+Guest Editor, ASCE Journal of Structural Engineering Special Collection "Adaptive and intelligent systems in structural engineering".
+Guest Editor, Frontiers in Built Environment: Structural Sensing, Special Issue “Sensor Systems and Resiliency Diagnostics for Spatial Infrastructure".
+
+Conferences Organized or Chaired
+ASCE SEI 2025 Phoenix, Minisymposium Coordinator "Advances in Intelligent Structural Sensing and Control" supported by Structural Control and Sensing Technical Committee
+ASCE EMI 2025 Irvine, Minisymposium Coordinator "Geometries and Design" supported by Experimental Analysis and Instrumentation Technical Committee
+Illinois Structural Engineering Conference 2024, UIUC, co-chair
+ASCE EMI/PMC 2024, local organizing committee member
+ASCE SEI Structures Congress, 2024, San Antonio, Minisymposium Coordinator "Innovations in Modular Rapidly Erectable and Deployable Structures" supported by Modular Rapidly Erectable and Deployable Structures Technical Committee
+ECCOMAS 2024, Lisbon, Minisymposium Coordinator "Track 1900 Adaptive and Compliant Engineering Structures"
+ASCE EMI 2024, Chicago, Minisymposium Coordinator "Geometries and Design" supported by Experimental Analysis and Instrumentation Technical Committee
+ASCE Structural Engineering Institute (SEI) Structures Congress, 2023, New Orleans, Minisymposium Coordinator "Advances in Intelligent Structural Sensing and Control" supported by Structural Control and Sensing Technical Committee
+ASCE EMI 2023, Atlanta, Minisymposium Coordinator "Geometries and Design" supported by Experimental Analysis and Instrumentation Technical Committee
+ASCE EMI 2022, Baltimore, Minisymposium Coordinator "Geometries and Design" supported by Experimental Analysis and Instrumentation Technical Committee
+European Community on Computational Methods in Applied Sciences (ECCOMAS 2022), Olso, Minisymposium Coordinator "Track 1900 Adaptive and Compliant Engineering Structures"
+CSCE 2022, Canada, Session Chair and Technical Committee
+Canadian Society for Civil Engineering (CSCE) 2021, Canada, Session Chair and Technical Committee
+American Society of Civil Engineers (ASCE) Engineering Mechanics Institute (EMI) International conference 2021, Durham, UK, Minisymposium 74 "Adaptive and Controllable Modular Structures", Session Chair and Technical Committee
+
+Presentations
+Sychterz A.C., Pill-Bug Inspired Adaptive Origami Tuned-Mass Dampers, ASCE EMI 2021, virtual, United States.
+Sychterz A.C. Analysis of full-scale adaptive aluminum tensegrity canopy, ASCE EMI-International Conference, 2021, Durham, UK.
+
+Sychterz A.C. and Smith, I.F.C., Damage mitigation of a near-full-scale deployable tensegrity structure through behavior biomimetics, Engineering Mechanics Institute (EMI) Conference 2019, Pasadena, United States, 2019.
+Sychterz A.C. and Smith, I.F.C., Element location and classification following a damage event of a near-full-scale deployable tensegrity structure, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Barcelona, Spain, 2019.
+Sychterz A.C. and Filipov, E., Actuator optimization for adaptive origami structures, 56th Annual Technical Meeting of the Society of Engineering Science (SES2019), St. Louis, MO, 2019.
+
+Professional Societies
+Committee member, ASEE Civil Engineering Division, 2023 - present
+Committee member, ASCE EMI Structural Health Monitoring Committee, 2022- present
+Committee member, ASCE EMI Dynamics, 2022 - present
+Vice-Chair, ASCE SEI Younger Members Committee, 2023-2024
+Chair, ASCE SEI Structural Control and Sensing Technical Committee, 2022-2025
+Secretary, ASCE SEI Modular, Rapidly-Erectable, and Deployable Structures Technical Committee, 2023-2024
+Chair, ASCE EMI Experimental Analysis and Instrumentation Technical Committee, 2023-2026
+Structural Engineers Association of Illinois, Affiliate member, 01/2024 - present.
+Society of Women Engineers, Member, 2004264, 01/2021- present.
+American Society of Civil Engineers (ASCE), M.ASCE, 9432728, 09/2012 - present.
+Structural Engineering Institute (SEI) of ASCE, M.ASCE, 09/2012 - present.
+Engineering Mechanics Institute (EMI) of ASCE, M.ASCE, 01/2019 - present.
+International Association for Shell and Spatial Structures (IASS), Member (Working Group 15 Structural Morphology),44814104, 04/2015 - present.
+
+Other Outside Service
+Reviewer, Engineering Structures
+Reviewer, ASCE Journal of Bridge Engineering
+Reviewer, Journal of Sound and Vibration
+
+Honors
+Outstanding Young Engineer Award, Structural Engineers Association of Illinois (SEAOI)  (04/2024)
+ASCE SEI Future Leaders Award (02/2024)
+IntCDC International Visiting Professor, University of Stuttgart, Germany (06/2024)
+ASCE SEI Futures Fund Young Professionals Award (01/2023)
+Early Postdoc.Mobility, Swiss National Science Foundation (SNSF) (02/2019)
+
+Teaching Honors
+ASCE ExCEEd Assistant Mentor (07/2024)
+ASCE ExCEEd Assistant Mentor (08/2023)
+ASCE ExcEEd Fellow (07/2022)
+Levenick Sustainable Teaching Fellowship (01/2021)
+
+Research Honors
+Canadian Graduate Scholarship, CGS M
+Natural Sciences and Engineering Research Council of Canada (NSERC) (09/2013)
+Ontario Graduate Scholarship
+Ministry of Advance Education and Skills Development (09/2012)
+
+Improvement Activities
+ASCE ExCEEd assistant mentor, online, July 2024 [invited]
+KEEN Workshop EML 1.0, August 8-11, Salt Lake City 2023
+KEEN Consultant, University of Illinois summer 2023
+ASCE ExcEEd assistant mentor, Colorado State, July 2023
+KEEN National Conference, 2023
+ASCE ExCEEd teaching workshop, West Point Military Academy, July 2022
+KEEN National Conference, Feb 2021
+ExCEEd online: Debrief the Semester: Lessons learned from the term
+ExCEEd online: Adapting Demos to an Online Environment 
+ExCEEd online: Reimagining exams and assessments
+Academy of Excellence in Engineering Education (AE3) Collins Scholars fellow, University of Illinois Urbana-Champaign, December 2020
+
+Recent Courses TaughtCEE 465 - Design of Structural Systems
+CEE 467 - Masonry Structures
+CEE 498 ST3 (CEE 498 ST4, CEE 498 STO) - Theory & Creation of Structure
+CEE 595 SRS - SRIS Seminar
+CEE 595 SUS - Sustain & Resiliant Infrst Sys
+

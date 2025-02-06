@@ -1,0 +1,86 @@
+
+
+
+Caroline Kathrin Riedl she/her/hers
+
+
+
+
+
+Associate Research Professor
+
+
+
+criedl@illinois.edu
+467 Loomis Laboratory
+
+
+BiographyCaroline Riedl completed her undergraduate physics degree in 2001 and her graduate degree in particle physics in 2005, both at the University of Erlangen-Nuremberg (Germany). She was then a fellow with INFN Frascati and a postdoc at DESY, while working with the HERMES at DESY collaboration and later the CMS at CERN collaboration. She joined the UIUC physics faculty in 2013 as a research assistant professor, was stationed at CERN between 2014 and 2018 and has been a full research professor since 2024.
+In recent years, Riedl's research has been focused on the transverse-momentum-dependent (TMD) structure of nucleons and nuclei, on which data from the sPHENIX experiment at Brookhaven National Lab in proton-proton collisions and semi-inclusive deep-inelastic scattering or Drell-Yan data from the COMPASS experiment at CERN help shed some light. Both experiments study the azimuthal distributions of final-state particles emerging from the scattering process relative to the spin orientation of the transversely polarized proton or nucleus. She was the project manager for two major UIUC-built instrumentation contributions to these projects - a drift chamber for COMPASS (DC5), and most of the absorber blocks for the sPHENIX electromagnetic calorimeter (EMCal).
+Now continuing her research activities before joining UIUC, she studies diffractive DIS data at the future electron-ion collider (EIC) and their simulation in the first EIC detector, ePIC. Diffractive signatures are sensitive to spatial distributions of partons in the nucleon or nucleus.
+Academic Positions
+Research Professor, University of Illinois Urbana-Champaign. Nuclear Physics. Since 2024
+Research Associate Professor, University of Illinois at Urbana-Champaign. Nuclear Physics. 2021-2024
+
+Research Assistant Professor, University of Illinois at Urbana-Champaign. Nuclear Physics. 2013 - 2021.
+Research Associate (Postdoc), DESY-Zeuthen, Germany. Particle Physics. 2006 - 2012.
+Research Associate (Fellow), INFN Fracsati, Italy. Particle Physics. 2005 - 2006.
+Graduate student / teaching assistant, University of Erlangen-Nuremberg, Germany. 2002 - 2005.
+
+
+Research StatementI am interested in the structure of nucleons and nuclei. Modern approaches to investigate nuclear structure involve transverse momentum dependent parton distribution functions (TMDs) and generalized parton distributions (GPDs). COMPASS at CERN collected TMD-related Drell-Yan data in 2015 and 2018. The analysis of these data hints to a sign change between the Sivers TMD measured in Drell-Yan vs. that measured in semi-inclusive deep-inelastic scattering. In 2022, COMPASS collected semi-inclusive deep-inelastic scattering data on a transversely polarized deuteron target; these data will allow for better constraints of the transversity TDM PDF and the related tensor charge, a fundamental property of the nucleon. The sPHENIX 2024 data collected with transversely polarized proton beams also allows for TMD-related studies. Illinois students are analyzing the 2022 COMPASS and the 2024 sPHENIX data. In parallel, we prepare simulations and hardware for the ePIC experiment at the Electron Ion Collider, the future polarized electron-proton collider at BNL to start data taking in the mid-1930s.
+
+Learn more about our research at COMPASS
+Learn more about our research at sPHENIX
+
+Some of my recent talks:
+
+High Energy QCD from RHIC to the EIC (APS/DNP 2024) 
+Transverse-momentum-dependent nucleon structure with COMPASS (Seminar 2024)
+Recent advances in spin-physics measurements (EINN 2023)
+Transverse-momentum dependent proton structure (APS 2023) 
+Study of the nucleon structure in Semi-Inclusive DIS off (un)polarized targets at COMPASS (DIS 2023)
+Generalized parton distributions at COMPASS (CPHI 2022)
+Probing nucleon spin structure in deep-inelastic scattering, proton-proton collisions and Drell-Yan processes (61. Cracow School of Theoretical Physics 2021)
+Recent Highlights from Spin-Physics Experiments (DIS conference 2021)
+Status and Plans of sPHENIX (RHIC & AGS User Meeting 2020)
+Mapping the Transverse Structure of Protons (Seminar 2020)
+Mapping Proton Quark Structure using Petabytes of COMPASS Data (Blue Waters Symposium 2019)
+TMD overview talk (APS meeting 2016)
+GPD overview talk (CERN workshop 2016)
+
+Research Interests
+Experimental nuclear and particle physics: investigation of the spin and multi-dimensional structure of nucleons and nuclei 
+Transverse-momentum dependent parton distribution functions (TMD PDFs) in semi-inclusive deep-inelastic scattering (SIDIS), Drell-Yan processes, and proton-proton collisions (pp)
+Generalized parton distributions (GPDs) in exclusive diffractive processes in DIS, and the effects of gluon saturation
+
+Development and construction of detectors for nuclear and particle physics research
+
+
+
+Research Areas
+Nuclear Physics (experimental)
+
+
+Selected Articles in Journals
+High-statistics measurement of Collins and Sivers asymmetries for transversely polarised deuterons. COMPASS Collaboration, Phys. Rev. Lett. 133 (2024) 101903. 
+Final COMPASS results on the transverse-spin-dependent azimuthal asymmetries in the pion-induced Drell-Yan process. COMPASS Collaboration, Phys. Rev. Lett. 133 (2024) 071902. 
+Design and Beam Test Results for the 2D Projective sPHENIX Electromagnetic Calorimeter Prototype, C.A. Aidala, et al., IEEE Transactions on Nuclear Science, 68(2):173{181, 2021
+
+First measurement of transverse-spin-dependent azimuthal asymmetries in the Drell-Yan process. COMPASS Collaboration, Phys. Rev. Lett. 119, 112002 (2017).
+Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. CMS Collaboration, Phys. Lett. B 716 (2012) 30-61.
+Beam-helicity asymmetry arising from deeply virtual Compton scattering measured with kinematically complete event reconstruction. HERMES Collaboration, JHEP 10 (2012) 042.
+Precise determination of the spin structure function g1 of the proton, deuteron and neutron. HERMES Collaboration, Phys. Rev. D 75 (2007) 012007.
+First Measurement of the Tensor Structure Function b1 of the Deuteron. HERMES Collaboration, Phys. Rev. Lett. 95 (2005) 242001.
+
+Articles in Conference Proceedings
+Probing nucleon spin structure in deep-inelastic scattering, proton-proton collisions
+
+and Drell-Yan processes, Proceedings for the 61. Cracow School of Theoretical Physics,
+
+Acta Phys. Pol. B 53, 5-A2 (2022) and arXiv:2204.03684
+
+Exclusive Physics at HERMES and COMPASS, Proceedings of the 16th conference on Elastic and Diffractive Scattering, Borgo, Corsica, France, 29 Jun - 4 Jul 2015, Acta Phys. Pol. Suppl. 8 (2015) 875-881.
+Spin Physics: Session Summary, C. Aidala, S. Liuti, C. Riedl, Proceedings of the 18th International Workshop on Deep-Inelastic Scattering and Related Subjects, Florence, Italy, 19-23 April, 2010, arXiv:1007.4563 [hep-ph].
+Positrons and Electrons at HERA and HERMES, C. Riedl, Proceedings for the International Workshop on Positrons at Jefferson Lab (JPOS09), JLab, Newport News, VA (USA), March 25-27, 2009.
+

@@ -1,0 +1,74 @@
+
+
+
+ Fabien Evrard he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+fevrard@illinois.edu
+317 Talbot Laboratory
+
+
+For More Information
+Research Website
+
+Education
+PhD, Mech. Engineering - Imperial College London (2018)
+
+MRes, Applied Mathematics - University of Toulouse (2013)
+
+MSc, Aerospace Engineering - ISAE-Supaéro (2013)
+
+
+Academic Positions
+Affiliate Assistant Professor in Computational Science and Engineering (0% appointment), University of Illinois Urbana-Champaign (May 2024 - present)
+Assistant Professor in Aerospace Engineering, University of Illinois Urbana-Champaign (Jan 2024 - present)
+
+Marie Skłodowska-Curie Postdoctoral Fellow, Cornell University (2022 - 2023)
+
+Postdoctoral Researcher and Junior Group Leader, Otto-von-Guericke University Magdeburg (2018 - 2023)
+
+
+Professional Registrations
+ Institute for Liquid Atomization and Spray Systems (ILASS), Member
+American Institute of Aeronautics and Astronautics (AIAA), Member
+American Physical Society (APS), Member
+
+Research Interests
+Computational fluid dynamics
+
+Surface-tension-driven flows
+
+Particle-laden flows
+
+
+
+
+Selected Articles in Journals
+F. Denner, F. Evrard, B. van Wachem, Conservative finite-volume framework and pressure-based algorithm for flows of incompressible, ideal-gas and real-gas fluids at all speeds, Journal of Computational Physics, vol. 409, 109348 (2020)
+
+F. Evrard, F. Denner, B. van Wachem, Euler-Lagrange modelling of dilute particle-laden flows with arbitrary particle-size to mesh-spacing ratio, Journal of Computational Physics: X, vol. 8, 100078 (2020)
+
+F. Evrard, F. Denner, B. van Wachem, Quantifying the errors of the particle-source-in-cell Euler-Lagrange method, International Journal of Multiphase Flow, vol. 135, 103535 (2021)
+
+F. Evrard, R. Chiodi, A. Han, B. van Wachem, O. Desjardins, First moments of a polyhedron clipped by a paraboloid, SIAM Journal on Scientific Computing, vol. 45, pp. A2250-A2274 (2023)
+
+M. Hausmann, F. Evrard, B. van Wachem, A large eddy simulation model for two-way coupled particle-laden turbulent flows, Physical Review Fluids, vol. 8, 084301 (2023)
+
+
+Articles in Conference Proceedings
+H. Zille, F. Evrard, J. Reuter, S. Mostaghim, B. van Wachem, Assessment of multi-objective and coevolutionary genetic programming for predicting the stokes flow around a sphere, Proceedings of the 14 International Conference on Evolutionary and Deterministic Methods For Design, Optimization and Control, June 2021, 171-190
+
+
+Teaching Honors
+List of Teachers Ranked Excellent by their Students (Spring 2024)
+
+Recent Courses TaughtAE 410 (CSE 461) - Computational Aerodynamics
+AE 498 CFD (AE 498 CFO) - Applied CFD
+

@@ -1,0 +1,67 @@
+
+
+
+Wolfgang Pfaff 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-8256
+wpfaff@illinois.edu
+204 Seitz Materials Research Lab
+
+
+For More Information
+Pfaff Lab group website
+
+Education
+PhD, Delft University of Technology, Netherlands, 2013
+Diplom (MSc), University of Regensburg, Germany, 2009
+
+BiographyWolfgang Pfaff received his PhD in Applied Physics from Delft University of Technology (Netherlands) in 2013, under the supervision of Ronald Hanson. His graduate work focused mainly on the quantum control, measurement, and entanglement of individual spins of Nitrogen Vacancy centers, resulting in the first-ever demonstration of deterministic quantum teleportation between distant qubits. Following his graduation, Pfaff joined the lab of Rob Schoelkopf at Yale, where he worked on highly coherent superconducting cavities as quantum memories, and pioneered protocols for distributing quantum information between superconducting devices. Pfaff joined Microsoft Quantum in 2017, using his expertise in superconducting quantum devices to investigate how future, topologically protected qubits can be measured and controlled. He joined the Physics department at the University of Illinois Urbana-Champaign in Fall 2020 to set up his own lab focusing on superconductiong and hybrid quantum circuits, and in particular on how to scale them.
+Academic Positions
+Assistant Professor, Dept. of Physics, University of Illinois at Urbana-Champaign, 2020-present
+Postdoctoral Associate, Dept. of Applied Physics, Yale University, 2014-2017
+
+Other Professional Employment
+Senior Researcher, Microsoft Quantum Lab Delft, Delft University of Technology, Netherlands, 2019-2020
+Researcher, Microsoft Quantum Lab Delft, Delft University of Technology, Netherlands, 2017-2019
+
+Research Interests
+Quantum networks and distributed quantum computing
+Open quantum systems
+Quantum optics
+Superconducting quantum circuits
+Quantum information processing
+
+
+Research Areas
+Atomic, Molecular, and Optical Physics
+Condensed Matter Physics (experimental)
+Quantum Information Science
+
+
+Selected Articles in Journals
+A. Irfan, M. Yao, A. Lingenfelter, X. Cao, A. A. Clerk, and W. Pfaff, Loss Resilience of Driven-Dissipative Remote Entanglement in Chiral Waveguide Quantum Electrodynamics, Phys. Rev. Research 6, 033212 (2024).
+A. Lingenfelter, M. Yao, A. Pocklington, Y.-X. Wang, A. Irfan, W. Pfaff, and A. A. Clerk, Exact Results for a Boundary-Driven Double Spin Chain and Resource-Efficient Remote Entanglement Stabilization, Phys. Rev. X 14, 021028 (2024).
+D. de Jong, C. G. Prosko, L. Han, F. K. Malinowski, Y. Liu, L. P. Kouwenhoven, W. Pfaff. Controllable Single Cooper Pair Splitting in Hybrid Quantum Dot Systems. Phys. Rev. Lett. 131, 157001 (2023).
+D. de Jong, C. G. Prosko, D. M. A. Waardenburg, L. Han, F. K. Malinowski, P. Krogstrup, L. P. Kouwenhoven, J. V. Koski, and W. Pfaff. Rapid microwave-only characterization and readout of quantum dots using multiplexed gigahertz-frequency resonators. Phys. Rev. Appl. 16, 014007 (2021).
+
+C. J. Axline, L. D. Burkhart, W. Pfaff, M. Zhang, K. Chou, P. Campagne-Ibarcq, P. Reinhold, L. Frunzio, S. M. Girvin, L. Jiang, M. H. Devoret, and R. J. Schoelkopf. On-demand quantum state transfer and entanglement between remote microwave cavity memories, Nat. Phys. 14:7, 705-710 (2018).
+M. Reagor, W. Pfaff, C. Axline, R. W. Heeres, N. Ofek, K. Sliwa, E. Holland, C. Wang, J. Blumoff, K. Chou, M. J. Hatridge, L. Frunzio, M. H. Devoret, L. Jiang, and R. J. Schoelkopf. Quantum memory with millisecond coherence in circuit QED. Phys. Rev. B 94, 014506 (2016). 
+W. Pfaff, B. J. Hensen, H. Bernien, S. B. van Dam, M. S. Blok, T. H. Taminiau, M. J. Tiggelman, R. N. Schouten, M. Markham, D. J. Twitchen, and R. Hanson. Unconditional quantum teleportation between distant solid-state quantum bits. Science 345:6196, 532-535 (2014).
+H. Bernien, B. Hensen, W. Pfaff, G. Koolstra, M. S. Blok, L. Robledo, T. H. Taminiau, M. Markham, D. J. Twitchen, L. Childress, and R. Hanson. Heralded entanglement between solid-state qubits separated by three meters. Nature, 497: 86 (2013).
+
+Pending Articles
+M. Mollenhauer, A. Irfan, X. Cao, S. Mandal, and W. Pfaff, A High-Efficiency Plug-and-Play Superconducting Qubit Network, arXiv:2407.16743.
+
+X. Cao, A. Irfan, M. Mollenhauer, K. Singirikonda, and W. Pfaff, Parametrically Controlled Chiral Interface for Superconducting Quantum Devices, arXiv:2405.15086.
+
+Recent Courses TaughtPHYS 102 - College Physics: E&M & Modern
+PHYS 486 - Quantum Physics I
+PHYS 487 - Quantum Physics II
+

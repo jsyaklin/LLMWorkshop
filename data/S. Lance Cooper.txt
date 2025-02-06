@@ -1,0 +1,101 @@
+
+
+
+S Lance Cooper 
+
+
+
+
+
+Professor
+
+
+(217) 333-2589
+slcooper@illinois.edu
+227B Loomis Laboratory
+
+
+Education
+Ph.D.	Physics	University of Illinois	Sept. 1988
+
+BiographyLance Cooper received a B.S. in Physics summa cum laude from the University of Virginia in 1982 and a Ph.D in Physics from the University of Illinois in 1988. After a two-year postdoctoral appointment at AT&T Bell Labs, Professor Cooper joined the UIUC faculty in 1990. From 1993-1995, he was a member of the Defense Science Study Group (DSSG), a Divisional Associate Editor for Physical Review Letters from 2006-2011, and the Secretary-Treasurer for the Division of Condensed Matter Physics of the American Physical Society from 2015-2019.
+The Cooper group uses optical spectroscopy to reveal the properties of and excitations in novel states of matter in strongly correlated materials. His group has developed particular expertise in light-scattering experiments on materials under extreme conditions of low temperature, high pressure, and high magnetic field. The Cooper group's Raman spectroscopy experiments have shed light on the behavior of matter through various pressure- and magnetic-field-tuned quantum (T~0 K) phase transitions.
+The Cooper group's first accomplishment with its "extreme conditions" optical spectroscopy capability was a study of the evolution of the crystal lattice ("phonon") and atomic spin dynamics through the pressure-tuned destruction of the insulating state of layered ruthenate materials. More recently, his group has studied how high pressures "melt" charge- and orbital-ordered insulating states, even at T=0 K, creating novel metallic phases. His group has also shown that magnetic fields can be used both to control the elastic properties of materials (e.g., "magnetic field induced shape memory") and to thwart long-range order down to T=0 K.
+The Cooper group has used floating zone, vapor transport, evaporative, and other methods to grow high quality single crystals, including spinel materials such as Mn3O4 and CoCr2O4, orbital ordering materials such as KCuF3, layered chalcogenide materials such as TiSe2, and topological insulators like Bi2Se3.
+Lance Cooper also runs a Physics Grad Student Blog with job, fellowship, academic deadline, and other information of interest to graduate students; the Physics Careers seminar, in which Physics PhDs -- mostly Illinois alumni -- describe their jobs and the importance of a physics PhD and their grad school experiences to their careers; and a Physics Grad Student Travel Award program.
+Documents
+Curriculum Vitae
+
+Research StatementField- and pressure-tuned spectroscopy of magnetically frustrated and strong spin-lattice coupled materials 
+The development at low temperatures of some form of long-range order -- such as magnetism, orbital-order, charge-order, or superconductivity -- is ubiquitous in materials, and reflects the tendency of a material to lower its ground state degeneracy near T=0 K. We are interested in growing -- using float zone and other growth techniques -- and spectroscopically studying materials in which structural geometry and competing interactions conspire to frustrate the onset of long range magnetic and/or orbital order, even down to T=0 K. This interest is motivated by the novel low temperature phase behavior frustrated materials have been proposed to exhibit -- including orbital- and spin-liquid phases -- and by a desire to elucidate the connection between frustration and exotic properties such as colossal magnetoresistance, and multiferroic and magnetodielectric behavior. Our current efforts include using various single crystal growth methods to grow geometically frustrated materials, and then applying field- and pressure-dependent optical spectroscopy to study orbital- and spin-disordered phases in several classes of materials, including the layered ruthenates, spinels such as Mn3O4, iridates like Sr2IrO4, and vanadates such as Ni3V2O8. Our results have revealed interesting routes by which magnetic and orbital frustration can be tuned with field or pressure and show the connection between orbital/spin frustration and highly tunable properties of matter.
+Field- and pressure-tuned melting of orbital order in correlated materials 
+We are also interested in creating and investigating novel orbital-liquid phases in various orbital-ordered systems such as Ca2RuO4, Ca3Ru2O7,and KCuF3. Our results have revealed pressure-induced transitions to novel quantum liquid-like phases in which structural elements fluctuate even at T=0 K, as well as pressure- and magnetic-field-tunable insulator-metal transitions governed by controllable changes induced in the orbital population.
+Pressure-tuned quantum phase transitions and superconductivity in layered chalcogenide materials
+We are interested in studying how charge ordered and charge density wave (CDW) states melt into disordered quantum phases at low temperatures and investigating the novel phases that are predicted to develop under these conditions.  To study this, we use vapor transport growth methods to grow various layered chalcogenide single crystals, including TiSe2, TaSe2, TaS2, Bi2Se3, and Bi2Te3, and we study the quantum (T~0 K) phase transitions in these materials using pressure- and temperature-dependent inelastic light scattering.  For example, our low temperature, pressure-dependent inelastic light scattering studies of the critical ('soft') mode in 1T-TiSe2 indicate that lattice compression leads to quantum melting of the CDW phase through a novel incommensurate phase that may have hexatic order, and our more recent light scattering studies of the soft mode in CuxTiSe2 provided evidence for x-dependent quantum mode softening and the coexistence of fluctuating CDW order and superconductivity in this system.
+
+Research Areas
+Condensed Matter Physics (experimental)
+
+
+Chapters in Books
+S.L. Cooper, Exploring the magnetostructural phases of the layered ruthenates with Raman scattering, Chapter 5 in "Frontiers of 4d- and 5d-Transition Metal Oxides," (World Scientific Publishing, 2013).
+S. L. Cooper, P. Abbamonte, N. Mason, C.S. Snow, M. Kim, H. Barath, J.F. Karpus, C. Chialvo, J.P. Reed, Y.I. Joe, X. Chen, and D. Casa, Raman scattering as a tool for studying complex materials, Chapter 6 in "Optical techniques for materials characterization" (Taylor & Francis, 2011).
+S. L. Cooper, H. Rho, and C. S. Snow. Illuminating magnetic cluster formation with inelastic light scattering, Chapter 20 in "Nanoscale Phase Separation and Colossal Magnetoresistance," ed. by E. Dagotto (Springer-Verlag: Berlin, 2003).
+S. L. Cooper, Optical spectroscopic studies of metal-insulator transitions in perovskite-related oxides, in Structure and Bonding 98, pgs. 161-219, ed. J. B. Goodenough (Springer-Verlag: Berlin-Heidelberg, 2001).
+S. L. Cooper, Magnetic and Electronic Raman Scattering Studies of High Tc Superconductors, in "Handbook on the Physics and Chemistry of Rare Earths", eds. K. A. G. Schneider, Jr., L. Eyring, and M. B. Maple (Elsevier Science, 2001), p. 31.
+S. L. Cooper and K. E. Gray. Anisotropy and interlayer coupling in the high Tc cuprates, in "Physical Properties of High Temperature Superconductors IV," ed. D. M. Ginsberg (World Scientific: Singapore, 1994), pgs. 61-188.
+
+Selected Articles in Journals
+B. Kovanen, P. Prior, J. R. Gallagher, C. M. Elliott, J. S. Popovics, S. L. Cooper, and J. L. Zilles. Supporting STEM faculty in adopting and adapting writing pedagogies. 2024 ASEE Annual Conference and Exposition (2024).
+J. E. Slimak, A. Cote, G. J. MacDougall, and S. L. Cooper. Soft Phonon Anomalies and Electron-Phonon Coupling in Cubic Lanthanide Sesquioxides Eu2O3 and Yb2O3. Physical Review B 108, 045128 (2023).
+A. Cote, J. E. Slimak, A. Sethi, S. L. Cooper, G. MacDougall, D. Reig-i-Plessis and A. M. Hallas, Q. Zhang, Y. Zhao, C. Brown, J. Lynn, D. Adroja, G. Morris, and T. Kolodiazhnyi . Direct confirmation of long-range magnetic order and evidence for multipoles in Ce2O3, Physical Review B, submitted, and arXiv:2303.11878 (2023).
+R. Ware, M. Mericle, C. Elliott, J.S. Popovics, S.L. Cooper, J.R. Gallagher, P. Prior, and J.L. Zilles. Promoting pedagogical change around writing: Observations of discursive turbulence. 2022 ASEE Annual Conference and Exposition (2022).
+J.E. Slimak, A. Sethi, T. Kolodiazhnyi, and S.L. Cooper. Soft mode behavior and evidence for pressure-induced magnetostructural effects in Pr2O3. Physical Review Research 2, 043169 (2020).
+
+S. Buchenau, S. Scheitz, A. Sethi, J.E. Slimak, T.E. Glier, P.K. Das, T. Dankwort, L. Akinsinde, L. Kienle, A. Rusydi, C. Ulrich, S.L. Cooper, and M. Ruebhausen. Temperature and magnetic field dependent Raman study of electron-phonon interactions in thin films of Bi2Se3 and Bi2Te3 nanoflakes. Physical Review B 101, 245431 (2020).
+B. Kovanen, R. Ware, M. Mericle, N. Turnipseed, J.P. Coleman, C. Elliott, J.S. Popovics, S.L. Cooper, J.R. Gallagher, P. Prior, and J.L. Zilles. Implementing writing-as-process in engineering education. 2020 ASEE Annual Conference and Exposition (2020).
+J.R. Gallagher, N. Turnipseed, J.Y. Yoritomo, C.M. Elliott, S.L. Cooper, J.S. Popovics, P. Prior, and J.L. Zilles. A collaborative longitudinal design for supporting writing pedagogies of STEM faculty. Technical Communication Quarterly 29, 411-426 (2020).
+A. Sethi, J. E. Slimak, T. Kolodiazhnyi, and S. L. Cooper. Emergent vibronic excitations in the magnetodielectric regime of Ce2O3. Physical Review Letters 122, 177601 (2019). 
+B. Wolin, X. Wang, T. Naibert, S.L. Gleason, G.J. MacDougall, H.D. Zhou, S.L. Cooper, and R. Budakian. Real-space magnetic imaging of the multiferroic spinels MnV2O4 and Mn3O4. Physical Review Materials 2, 064407 (2018).
+J.Y. Yoritomo, N. Turnipseed, S.L. Cooper, C.M. Elliott, J.R. Gallagher, J.S. Popovics, P. Prior, and J. Zilles.  Examining engineering writing instruction at a large research university through the lens of writing studies. 2018 ASEE Annual Conference and Exposition (2018).
+D. Phelan, F. Han, A. Lopez-Bezanilla, M. Krogstad, Y. Gim, Y. Rong, J. Zhang, D. Parshall, H. Zheng, S.L. Cooper, M. Feygenson, W.G. Yang, and Yu-Sheng Chen. Structural properties of barium stannate. Journal of Solid State Chemistry 262, 142 (2018).
+R. Soto-Garrido, Y. Wang, E. Fradkin, and S.L. Cooper. Higgs modes in the pair density wave superconducting state. Physical Review B 95, 214502 (2017).
+A. Sethi, T. Byrum, R.D. McAuliffe, S.L. Gleason, J.E. Slimak, D.P. Shoemaker, and S.L. Cooper. Magnons and magnetodielectric effects in CoCr2O4: Raman scattering studies. Physical Review B 95, 174413 (2017).
+T. Byrum, S.L. Gleason, A. Thaler, G.J. MacDougall, and S.L. Cooper. Effects of magnetic field and twinned domains on magnetostructural phase mixture in Mn3O4:  Raman scattering studies of untwinned crystals. Physical Review B 93, 184418 (2016).
+Y. Gim, A. Sethi, Q. Zhao, J.F. Mitchell, G. Cao, and S. L. Cooper. Isotropic and anisotropic regimes of the field-dependent spin dynamics in Sr2IrO4: Raman scattering studies. Physical Review B 93, 024405 (2016).
+S.L. Gleason, Y. Gim, T. Byrum, A. Kogar, P. Abbamonte, E. Fradkin, G.J. MacDougall, D.J. Van Harlingen, C. Petrovic, and S.L. Cooper. Structural contributions to the pressure-tuned charge-density-wave to superconductor transition in ZrTe3: Raman scattering studies. Physical Review B 91, 155214 (2015). 
+S-C. Weng, R. Xu, A.H. Said, B.M. Leu, Y. Ding, H. Hong, X. Fang, M.Y. Chou, A. Bosak, P. Abbamonte, S.L. Cooper, E. Fradkin, S.-L. Chang, and T.-C. Chiang. Pressure-induced antiferrodistortive phase transition in SrTiO3:  Common scaling of soft-mode with pressure and temperature. Europhysics Letters 107, 36006 (2014).
+Y.I. Joe, X.M. Chen, P. Ghaemi, K.D. Finkelstein, G.A. de la Pena, Y. Gan, J.C.T. Lee, S. Yuan, J. Geck, G.J. MacDougall, T.C. Chiang, S.L. Cooper, E. Fradkin, P. Abbamonte. Emergence of charge density wave domain walls above the superconducting dome in TiSe2. Nature Physics 10, 421-425 (2014). 
+S.L. Gleason, T. Byrum, Y. Gim, A. Thaler, P. Abbamonte, G.J. MacDougall, L.W. Martin, H.D. Zhou, and S.L. Cooper. Magnon spectra and strong spin-lattice coupling in magnetically frustrated MnB2O4 (B=Mn,V): Inelastic light scattering studies. Phys. Rev. B 89, 134402 (2014).
+S.L. Cooper. Exploring the magnetostructural phases of the layered ruthenates with Raman scattering. Frontiers of 4d-and 5d-Transition Metal Oxides, 99-162 (2013)
+S. Yuan, M. Kim, J.T. Seeley, J.C.T. Lee, S. Lal, P. Abbamonte, and S.L. Cooper. Inelastic light scattering measurements of a pressure-induced quantum liquid in KCuF3, Phys. Rev. Lett. 109, 217402 (2012).
+J.T. Lee,  Yuan Shi, S. Lal, Joe Young II, Gan Yu, S. Smadici, K. Finkelstein, Feng, A. Rusydi, P.M. Goldbart, S.L. Cooper, P. Abbamonte, Two-stage orbital order and dynamical spin frustration in KCuF3. Nature Physics 8, 63-66, (2012)
+M. Kim, X.M. Chen, X. Wang, C.S. Nelson, R. Budakian, P. Abbamonte and S.L. Cooper. Pressure- and field-tuning the magnetostructural phases of Mn3O4:  Raman scattering and x-ray diffraction studies. Phys. Rev. B 84, 174424 (2011).
+S. L. Cooper, P. Abbamonte, N. Mason, C.S. Snow, M. Kim, H. Barath, J.F. Karpus, C. Chialvo, J.P. Reed, Y.I. Joe, X. Chen, and D. Casa. Raman scattering as a tool for studying complex materials. Optical techniques for materials characterization, Chapter 6 (Taylor & Francis, 2011).
+M. Kim, X. Chen, Y.I. Joe, E. Fradkin, P. Abbamonte, and S. L. Cooper. Mapping the magneto-structural quantum phases of Mn3O4. Phys. Rev. Lett. 104, 136402 (2010).
+M. Kim, H. Barath, S. L. Cooper, P. Abbamonte, E. Fradkin, M. Rubhausen, C.L. Zhang, and S-W. Cheong, Raman scattering studies of temperature- and field-Induced melting of charge order in (La,Pr,Ca)MnO3, Phys. Rev. B 77, 134411, p. 1-13 (2008).
+H. Barath, M. Kim, J.F. Karpus, S. L. Cooper, P. Abbamonte, E. Fradkin, E. Morosan, and R.J. Cava, Quantum and classical mode softening near the charge-density-wave/superconductor transition of CuxTiSe2. Phys. Rev. Lett. 100, 106402-1-4 (2008).
+R. Gupta, M. Kim, H. Barath, S. L. Cooper, and G. Cao. Field- and pressure-induced phases in Sr4Ru3O10: a spectroscopic investigation. Phys. Rev. Lett. 96, 067004-1-4 (2006).
+J. F. Karpus, R. Gupta, H. Barath, S. L. Cooper, and G. Cao. Field-induced orbital and magnetic phases in Ca3Ru2O7. Phys. Rev. Lett. 93, 167205-1-4 (2004).
+C. S. Snow, J. F. Karpus, S. L. Cooper, T. E. Kidd, and T.-C. Chiang. Quantum melting of the charge-density-wave state in 1T-TiSe2. Phys. Rev. Lett. 91, 136402 (2003).
+C. S. Snow, S. L. Cooper, G. Cao, J. E. Crow, H. Fukazawa, S. Nakatsuji, and Y. Maeno. Pressure-tuned collapse of the Mott-like state in Can+1RunO3n+1 (n=1,2): Raman spectroscopic studies. Phys. Rev. Lett. 89, 226401-1-4 (2002).
+H. Rho, C. S. Snow, S. L. Cooper, Z. Fisk, A. Comment, and J.-P. Ansermet. Evolution of magnetic polaron and spin-carrier interactions through the metal-insulator transition in Eu1-xGdxO. Phys. Rev. Lett. 88, 127401-1-4 (2002).
+
+Teaching Honors
+2018 Campus Award for Excellence in Graduate Student Mentoring
+2011 Engineering Council Outstanding Advisor Award
+2008 Arnold T. Nordsieck Award for Teaching Excellence
+2006 and 2007 Accenture Award for Excellence in Academic Advising
+2006 Excellence in Lecturing Award, UIUC Student Senate
+
+Research Honors
+2013 American Physical Society Outstanding Referee Award
+Sony Faculty Scholar, 2003-2006
+Fellow, American Physical Society, 2003
+	     
+
+Recent Courses TaughtPHYS 595 - Communicating Scientific Resrc
+PHYS 596 - Graduate Physics Orientation
+PHYS 598 PEN - Communicating Physics Research
+PHYS 598 POL - Special Topics in Physics
+

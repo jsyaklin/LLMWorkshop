@@ -1,0 +1,60 @@
+
+
+
+Chris Anderson he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-6482
+cpand@illinois.edu
+270 Seitz Materials Research Lab
+
+
+For More Information
+Google scholar
+Anderson group website
+
+Education
+Ph.D. Physics, University of Chicago
+B.S. Physics, B.S. Chemistry, University of Michigan
+
+
+Academic Positions
+Assistant Professor, Materials Science and Engineering (100%)
+Assistant Professor, Physics (0%)
+Assistant Professor, ECE (0%)
+
+Assistant Professor, Holonyak Micro and Nanotechnology Lab (0%)
+Assistant Professor, Materials Research Laboratory (0%)
+
+Research StatementThe Anderson lab combines materials science, applied physics, and electrical engineering to manipulate and generate photons with solid-state materials. Such light is key for scaling modular quantum computers, boosting quantum sensing, and distributing entanglement over long distances for quantum communications. Our group is interested in enabling these applications by using wafer-scalable semiconductor spin qubits to form quantum repeaters with photonic devices, and by harnessing materials near quantum phase transitions to make giant optical nonlinearities. The Anderson lab also broadly works to discover new materials and techniques that tackle outstanding hurdles in making useful quantum technology.
+
+Research Areas
+Advanced Materials for Electronics and Communications
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Photonic integrated circuits (PICs)
+Quantum Information Science
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor materials
+
+
+Research Topics
+Quantum Information Processing
+
+Selected Articles in Journals
+C. P. Anderson and D. D. Awschalom, Embracing imperfection for quantum technologies, Physics Today 76 (8), 26–33 (2023)
+C. P. Anderson, A. Bourassa, K. C. Miao, G. Wolfowicz, P. J. Mintun, A. L. Crook, H. Abe, J. Ul-Hassan, N. T. Son, T. Ohshima, D. D. Awschalom, Electrical and optical control of single spins integrated in scalable semiconductor devices, Science 336, 6470, 1225-1230 (2019)
+C. P. Anderson, E. O. Glen, C. Zeledon, A. Bourassa, Y. Jin, Y. Zhu, C. Vorwerk, A. L. Crook, H. Abe, J. Ul-Hassan, T. Ohshima, N. T. Son, G. Galli, and D. D. Awschalom, Five-second coherence of a single spin with single-shot readout in silicon carbide, Science Advances 8, 5 (2022)
+G. Wolfowicz*, F. J. Heremans*, C. P. Anderson*, S. Kanai, H. Seo, A. Gali, G. Galli, D. D. Awschalom, Quantum guidelines for solid-state spin defects, Nature Reviews Materials 6, 906–925 (2021)
+A. Bourassa*, C. P. Anderson*, K. C. Miao, M. Onizhuk, H. Ma, A. Crook, H. Abe, J. Ul-Hassan, T. Ohshima, N. T. Son, G. Galli, D. D. Awschalom, Entanglement and control of single nuclear spins in isotopically engineered silicon carbide, Nature Materials 19, 1319-1325 (2020)
+
+Recent Courses TaughtMSE 487 - Materials for Nanotechnology
+MSE 595 - Materials Colloquium
+

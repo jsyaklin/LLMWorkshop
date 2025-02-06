@@ -1,0 +1,86 @@
+
+
+
+Min Jee Jang she/her/hers
+
+
+
+
+
+Assistant Professor
+
+
+
+mjjang@illinois.edu
+3110 Everitt Laboratory
+
+
+For More Information
+Jang lab
+
+Education
+B.S., Bio and Brain Engineering, Korea Advanced Institute of Science and Technology, 2009
+M.S., Bio and Brain Engineering, Korea Advanced Institute of Science and Technology, 2011
+Ph.D., Bio and Brain Engineering, Korea Advanced Institute of Science and Technology, 2015
+
+Academic Positions
+2015 - 2016, Research Professor, Korea University College of Medicine
+2016 - 2023, Postdoctoral Scholar, Division of Biology and Biological Engineering, California Institute of Technology
+2024-present, Affiliate Faculty, Carl R. Woese Institute for Genomic Biology
+2024-present, Affiliate Faculty, Neuroscience Program, University of Illinois Urbana-Champaign
+2024 - Present, Assistant Professor, Department of Bioengineering, The Grainger College of Engineering, University of Illinois Urbana-Champaign
+
+Research Interests
+As a principal investigator at UIUC Bioengineering, my vision is to pioneer cutting-edge technologies for targeted, non-invasive genetic access to specific types and states of brain cells. Despite significant progress in mapping the diverse landscape of brain cell types based on their gene expression profiles, we have yet to fully understand (1) what the unique role of this genetically defined cell type in brain function and disease is, (2) which cell types should be targeted to achieve desired functional outcomes, and (3) how this “cell type” inferred from transcriptomic snapshots is related to the dynamic nature of the brain. Advances in genetic toolkits, including systemic AAVs we developed, have addressed some critical challenges in tackling those questions by enabling the delivery of molecular tools, such as optical actuator and sensors, or gene-editing tools, to the brain of the living animals. However, our current ability for genetic access to the brain has profoundly limited due to the lack of cell-type specificity and temporal resolution. Leveraging my unique combination of expertise in viral vector engineering and spatial transcriptomics, my laboratory will aim to better understand the genetic and
+epigenetic programs governing brain cell types and dynamics and, with the knowledge we gained, to develop new gene delivery toolkits that enable efficient, specific, and programmable expression of transgenes in the targeted cell types and states. Ultimately, I hope to contribute to deepening our fundamental understanding of brain’s working mechanism at genetic levels and transforming our technologies into personalized genetic medicine for neurological and psychiatric disorders.
+
+
+Research Areas
+Cell and molecular engineering
+Molecular imaging
+Quantitative biology
+Viral and genetic circuitry
+
+
+Research Topics
+Bioimaging at Multi-Scale
+Computational and Systems Biology
+Molecular, Cellular and Tissue Engineering
+Neural Engineering
+Synthetic Bioengineering
+
+Selected Articles in Journals
+Chuapoco MR, Flytzanis N, Goeden N, Octeau JC, Roxas KM, Chan KY, Scherrer J, Winchester J, Blackburn RJ, Campos LJ, Arokiaraj CM, Miles TF, Jang MJ, Vendemiatti J, Deverman BE, Pickel J, Fox AS, Gradinaru V. (2023) “Intravenous gene transfer throughout the brain of infant Old World primates using AAV”, Nature Nanotechnology, 18, 1241-1251
+Jang MJ, Coughlin GM, Jackson CR, Chen X, Chuapoco MR, Vendemiatti JL, Wang ZA, Gradinaru V. (2023) “Spatial transcriptomics for profiling the tropism of viral vectors in tissues”, Nature Biotechnology, 41, 1272-1286
+Kahan A, Greenbaum A, Jang MJ, Robinson JE, Cho JR, Chen X, Kassraian P, Wagenaar DA, Gradinaru V. (2021) “Light-guided sectioning for precise localization and 3D visualization of in situ optical implants”, Cell Reports, 36(13), 109744
+Kumar SR, Miles TF, Chen X, Brown D, Dobreva T, Huang Q, Ding X, Luo Y, Einarsson PH, Greenbaum A, Jang MJ, Deverman BE, Gradinaru V. (2020) “Multiplexed Cre-dependent selection yields systemic AAVs for targeting distinct brain cell types”, Nature Methods, 17, pp. 541-550
+Challis RC, Kumar SR, Chan KY, Challis C, Beadle K, Jang MJ, Kim HM, Rajendran PS, Tompkins JD, Shivkumar K, Deverman BE, Gradinaru V. (2019) “Systemic AAV vectors for widespread and targeted gene delivery in rodents”, Nature Protocols, 14, pp. 379-414
+Chan KY, Jang MJ, Yoo BB, Greenbaum A, Ravi N, Wu W-L, Sanchez-Guardao L, Lois C, Mazmanian SK, Deverman BE, Gradinaru V. (2017) “Engineered AAVs for efficient noninvasive gene delivery to the central and peripheral nervous systems”, Nature Neuroscience, 20, pp. 1172-1179 (Cover picture)
+
+Invited Lectures
+    Invited seminar, Ulsan National Institute of Science and Technology, Apr 2022
+    Invited seminar, Korea University College of Medicine, Apr 2022
+    American Society for Stereotactic and Functional Neurosurgery Biannual Meeting, Jun 2022
+    Postdoctoral Rising Star Symposium, University of Utah, Sep 2022
+    Mount Sinai Neuroscience seminars, Icahn School of Medicine at Mount Sinai, Oct 2022 
+    Society for Neuroscience, Nanosymposium, Nov 2022
+    Workshop facilitator, 4th Neuronex investigator meeting, Nov 2022
+    Invited seminar, Korean Advanced Institute of Science and Technology, Feb 2023
+    Invited seminar, Seoul National University College of Medicine, Mar 2023
+    Invited seminar, Sungkyunkwan University, Mar 2023
+    Invited seminar, Brown University, Mar 2023
+    Invited seminar, Stanford CEGS/RAMP meeting, Apr 2023
+    Invited seminar, Yonsei University College of Medicine, May 2023
+    American Society for Gene and Cell Therapy, Symposium, May 2023
+
+Service on Department Committees
+Neural Engineering Working Group
+
+Honors
+NARSAD Young Investigator Award (2021-2023)
+Meritorious Abstract Travel Award (2021)
+Outstanding Poster Presentation Award (2020)
+Caltech Divisional Postdoctoral Fellowship (2018-2020)
+
+Recent Courses TaughtNE 100 - Intro to Neural Engineering
+

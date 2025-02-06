@@ -1,0 +1,66 @@
+
+
+
+Gagandeep Singh 
+
+
+
+
+
+Assistant Professor
+
+
+
+ggnds@illinois.edu
+ 
+
+
+For More Information
+More about me here.
+
+Education
+Ph.D. in Computer Science, ETH Zurich, Nov 2014 - Sep 2020.
+
+Masters in Computer Science, ETH Zurich, Sep 2012 - Sep 2014.
+
+Bachelors in Computer Science and Engineering, IIT Patna, Aug 2008 - May 2012.
+
+
+Resident Instruction
+CS 477: Formal Software Development Methods, Spring 2024
+CS 521: Trustworthy AI Systems, Fall 2023 
+CS 477: Formal Methods for Software Development, Spring 2023
+
+CS 521: Trustworthy AI Systems, Fall 2022
+CS 598: Logic and Artificial Intelligence, Fall 2021
+
+
+Research Interests
+Systems
+Artificial Intelligence
+Programming Languages
+
+
+Research Areas
+Artificial Intelligence
+Programming Languages / Formal Methods / Software Engineering
+
+
+Journal Editorships
+Formal Methods in System Design
+
+Conferences Organized or Chaired
+Static Analysis Symposium (SAS) 2022
+
+Honors
+President of India Gold Medal, IIT Patna (2012)
+Institute Silver Medal, IIT Patna (2012)
+ETH Excellence Scholarship (2012)
+ETH Medal for Best Master's thesis (2014)
+ACM SIGPLAN John C. Reynolds Doctoral Dissertation (2021)
+
+Recent Courses TaughtCS 477 (ECE 478) - Formal Software Devel Methods
+CS 521 - Adv Topics in Pgm Systems
+CS 591 ACT - Advanced Compiler Technology
+CS 598 GDS - Logic and AI
+

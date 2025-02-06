@@ -1,0 +1,39 @@
+
+
+
+ David Forsyth 
+
+
+
+
+
+Fulton Watson Copp Chair in Computer Science
+
+
+(217) 265-6851
+daf@illinois.edu
+3310 Siebel Center for Comp Sci
+
+
+Research Interests
+Computer vision, Computer graphics, Machine learning
+
+
+Research Areas
+Artificial Intelligence
+Interactive Computing
+
+
+Research Topics
+Machine learning
+Machine vision
+
+Recent Courses TaughtCS 497 - CS Team Project
+CS 498 AM1 (CS 498 AML, CS 498 AMO) - Applied Machine Learning
+CS 544 - Optimiz in Computer Vision
+CS 588 - Autonomous Vehicle System Eng
+CS 591 DAF - Vision Seminar
+CS 598 AIG - AI & Comp Vis mt Comp Graphics
+ECE 549 (CS 543) - Computer Vision
+ECE 598 MAV (CS 598 MAV) - Methods for Bld Auton Vehicles
+

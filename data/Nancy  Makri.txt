@@ -1,0 +1,46 @@
+
+
+
+Nancy Makri 
+
+
+
+
+
+Edward William and Jane Marr Gutgsell Professor in Chemistry
+
+
+(217) 333-6589
+nancy@makri.scs.uiuc.edu
+355D Noyes Laboratory
+
+
+BiographyProfessor Nancy Makri received her B.S. from the University of Athens in 1985 and her Ph.D. from the University of California at Berkeley in 1989. 
+
+She spent two years as a Junior Fellow at Harvard before joining the faculty at Illinois in the spring of 1992. Her research interests are in theoretical quantum dynamics.
+Research StatementWe strive to advance theoretical understanding of quantum mechanical processes in large molecules and the condensed phase. Full solution of the Schrödinger equation is feasible only for small molecules, as the required numerical effort increases exponentially with the number of particles. We develop new theoretical approaches and simulation methods based on Feynman’s path integral formulation of quantum dynamics and its semiclassical limit. 
+
+Methodology
+The path integral representation avoids storage of multidimensional wave functions at the cost of introducing auxiliary integration variables at each time step. Evaluating the resulting multidimensional integrals presents a challenge: the number of paths grows exponentially with time, while importance sampling fails due to phase cancellation. 
+
+We developed the first rigorous methodology for following the dynamics of a quantum particle interacting with a polyatomic medium. A path integral represents the subsystem of interest, while the collective effects of the environment are evaluated in the semiclassical approximation using trajectories in combined forward-backward time to alleviate the phase cancellation problem. Through dephasing effects, the medium helps shorten the range of temporal correlations, allowing an exact decomposition of the path sum into an iterative scheme that circumvents the need for global summation over astronomical numbers of paths. The method allows a faithful description of all aspects of quantum mechanical processes in condensed phase environments and, if the environment consists of harmonic phonon modes, yields the exact quantum mechanical result. 
+
+Reaction Rates
+We have performed path integral calculations to benchmark adiabatic and nonadiabatic reaction rates in generic dissipative environments and to explore the interplay between coherence and dissipation at low temperatures. Our simulation of hydrogen diffusion in silicon identified important tunneling contributions and an inverse isotope effect. 
+
+Photosynthesis
+Our path integral simulations helped resolve a long-standing controversy concerning the primary charge separation mechanism. Further, we have been exploring the energy transfer process in light-harvesting complexes using the path integral representation of quantum statistical mechanics. 
+
+Quantum Control
+We are investigating the possibility of using coherent light to manipulate exciton tunneling and transport in nanostructures. We have identified novel mechanisms for sustaining charge localization or inducing coherent oscillations in semiconductor double-quantum wells.
+
+Research Areas
+Atomic, Molecular, and Optical Physics
+Condensed Matter Physics
+
+
+Recent Courses TaughtCHEM 540 - Quantum Mechanics
+CHEM 542 - Quantum Mech and Spectroscopy
+CHEM 545 - Physical Chemistry Seminar
+CHEM 550 - Advanced Quantum Dynamics
+

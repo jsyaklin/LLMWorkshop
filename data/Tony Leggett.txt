@@ -1,0 +1,87 @@
+
+
+
+Tony Leggett 
+
+
+
+
+
+John D. and Catherine T. MacArthur Chair Emeritus of Physics
+
+
+(217) 333-2077
+aleggett@illinois.edu
+2113 Engineering Sciences Building
+
+
+BiographySir Anthony J. Leggett, the John D. and Catherine T. MacArthur Professor and Center for Advanced Study Professor of Physics, has been a faculty member at Illinois since 1983. He is widely recognized as a world leader in the theory of low-temperature physics, and his pioneering work on superfluidity was recognized by the 2003 Nobel Prize in Physics. He is a member of the National Academy of Sciences, the American Philosophical Society, the American Academy of Arts and Sciences, the Russian Academy of Sciences (foreign member), and is a Fellow of the Royal Society (U.K.), the American Physical Society, and the American Institute of Physics. He is an Honorary Fellow of the Institute of Physics (U.K.). He was knighted (KBE) by Queen Elizabeth II in 2004 "for services to physics."
+Professor Leggett has shaped the theoretical understanding of normal and superfluid helium liquids and other strongly coupled superfluids. He set directions for research in the quantum physics of macroscopic dissipative systems and use of condensed systems to test the foundations of quantum mechanics. His research interests lie mainly within the fields of theoretical condensed matter physics and the foundations of quantum mechanics. He has been particularly interested in the possibility of using special condensed-matter systems, such as Josephson devices, to test the validity of the extrapolation of the quantum formalism to the macroscopic level; this interest has led to a considerable amount of technical work on the application of quantum mechanics to collective variables and in particular on ways of incorporating dissipation into the calculations. He is also interested in the theory of superfluid liquid 3He, especially under extreme nonequilibrium conditions, in high-temperature superconductivity,in the low-temperature properties of glasses and in topological quantum computing,particularly in so-called  "p+ip" Fermi superfluids.
+Research Statement Aspects of Cuprate Superconductivity
+We are exploring a scenario for cuprate superconductivity in which a major factor is the reduction, due to increased screening by the Cooper pairs, of the long-wavelength, mid-infrared-frequency part of the Coulomb interaction. In addition, independently of this scenario, we are attempting to explain the c-axis transport properties of the cuprates and are looking at some problems associated with the "pseudogap" regime and with the peculiar features resulting from the existence of gap nodes. 
+
+Experimentally Oriented Studies of Basic Conceptual Issues in the Foundations of Quantum Mechanics 
+We are studying the application of the quantum-mechanical formalism to the description of various experiments that severely test one’s understanding of its meaning. In addition, we study possible alternative explanations of ostensibly relevant experiments in the literature. 
+
+Superfluidity and Phase Coherence in Very Degenerate Atomic Gases 
+Studies are being made of the superfluid density of an arbitrary many-body system, possible phase-coherence and interference experiments in Bose-condensed atomic gases, superfluidity in very degenerate dilute Fermi gases, and thermal transport in the ultralow-temperature regime of superfluid 3He.
+
+Research Areas
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Books Authored or Co-Authored (Original Editions)
+A.J. Leggett. Quantum Liquids: Bose condensation and Cooper pairing in condensed matter systems (Oxford University Press, 2006).
+A. J. Leggett. The Problems of Physics. (Oxford University Press: Oxford & N.Y.). (1987). [German translation: Physik: Probleme, Themen, Fragen, (BirkhÃ¤user Verlag, Basel, 1989); Japanese translation: Butsurigaku no Susume, Kinokuniya, Tokyo, 1990) Italian translation: I Problemi Della Fisica (Einaudi, Rome, 1991)] (electronic edition 2006).
+
+Chapters in Books
+A. J. Leggett. Josephson Devices as Tests of Quantum Mechanics Towards the Everyday Level.   In Fundamentals and Frontiers of the Josephson Effect. eds. C. Rice, S.K. Heukerott, F. Tafuri (Springer) Springer Series in Materials Science 286, 63-80(2019)
+A. J. Leggett. Realism and the Physical World. In Quantum Theory: A Two-Time Success Story: Yakir Aharonov Festschrift the Global Financial Crisis and the Indian Economy in  . 9-20 (2014)
+A.J. Leggett and Y. Lin. Some Reflections Concerning Geometrical Phases. In Memory of Akira Tonomura: Physicist and Electron Microscopist. World Scientific (K. Fujikawa and Y.A. Ono, eds) (2014).
+
+Selected Articles in Journals
+A. J. Leggett. The EPR-Bell Experiments: The Role of Counterfactuality and Probability in the Context of Actually Conducted Experiments. Philosophies 9:5, 133 (2024).
+A. J. Leggett, Y. Liu. Symmetry properties of superconducting order parameter in Sr2RuO4 :  A brief review. J. Supercon. & Novel Magn. 34, 1647-1673 (2021).
+
+A.J. Leggett. Matchmaking Between condensed matter and quantum foundations, and other stories: My six decades in physics.  Annual Review of Condensed Matter Physics, 11, 1-16  (2020).
+Y-C. Chen, B. Song, A.J. Leggett, P. Ao, X. Zhu. Resonant confinement of an excitonic polariton and ultraefficient light harvest in artificial photosynthesis. Phys. Rev. Lett. 122, 257402 (2019).
+A.J. Leggett. Reflections on the past, present and future of condensed matter physics. Science Bulletin 63(16), pp. 1019-1022 (2018)
+J. Levallois, M. K. Tran, D. Pouliot, C. N. Presura, L. H. Greene, J. N. Eckstein, J. Uccelli, E. Giannini, G. D. Gu, A. J. Leggett, D. van der Marel. Temperature-dependent ellipsometry measurements of partial Coulomb energy in superconducting cuprates.  Phys. Rev. X 6, 031027 (2016)
+A.J.Leggett. Liquid 3-He:a strongly correlated but well understood Fermi liquid. Reps. Prog.Phys. 79, 054501 (2016)
+A. J. Leggett. Majorana fermions in condensed-matter physics. Intl. J Mod. Phys. B 20:19, 1630012 (2016).
+G. C. Knee, K. Kakuyanagi, M.-C. Yeh, Y. Matsuzaki, H. Yamaguchi, S. Saito, A. J. Leggett, W. J. Munro. A strict experimental test of macroscopic realism in a superconducting flux qubit. Nature Comm. 7:4 13253 (2016)
+A.J. Leggett. Einstein's Opponents: The public controversy about the theory of relativity in the 1920s. Contemporary Physics 56:3, 377-378 (2015).
+A.J. Leggett. Physics and Necessity: Rationalist Pursuits from the Cartesian past to the quantum present. Contemporary Physics, 56:4, 497-499 (2015)
+A. J. Leggett. A theoretical description of the new phases of liquid 3He. Rev. Mod. Phys. 47, 331-414 (1975).
+
+Articles in Conference Proceedings
+A. J. Leggett. Majorana Fermions in Condensed Matter Physics. Memorial meeting for Nobel Laureate Professor Abdus Salam's 90th birthday, Singapore, 26 January, 2016 ,Memorial Volume on Abdus Salam's 90th Birthday, ed. Lars Brink, Michael Duff and Kok Khoo Phua, World Scientific, Singapore (2017).
+ 
+A. J. Leggett. Realism and the Physical World. Yakir Aharonov Festschrift,  Rep. Progr. Phys. 71, 022001 (2008). Also published in Proceedings "Quantum Theory: A Two-Time Success Story", eds. D. Struppa, J. Tollaksen (Springer-Verlad Milan) 9-20 (2015).
+A. J. Leggett and Y. Lin. Some Reflections Concerning Geometrical Phases. In Memory of Akira Tonomura Physicist and Electron Microscopist (Eds. Fujikawa and Y. A. Ono, World Scientific). p 74-85 (2014).
+
+Pending Articles
+A.J. Leggett, Note on the "Size" of Schroedinger's Cat. (submitted 2016)
+
+Honors
+Knighted, Order of the British Empire (KBE) "for services to physics" by Queen Elizabeth II,  2005
+
+Research Honors
+2003 Nobel Prize in Physics (with V. L. Ginzburg and A. A. Abrikosov) "for pioneering contributions to the theory of superconductors and superfluids"
+2002/2003 Wolf Foundation Prize for research on condensed forms of matter (with B. I. Halperin)
+1999-Foreign Member, Russian Academy of Sciences
+1999-Eugene Feenberg Memorial Medal
+1998-Honorary Fellow, Institute of Physics, UK
+1997-Elected Foreign Associate, National Academy of Sciences
+1991-Paul Dirac Medal and Prize (British Institute of Physics)
+(The Eighth Simon Prize was awarded in 1976, the Tenth London Award in 1978, 
+	while  the Maxwell Prize and Dirac prizes are annual).
+1985-Fellow of the American Physical Society (November 1985)
+1981-Ninth Simon Memorial Prize of the British Institute of Physics
+1981-Eleventh Fritz London Memorial Award
+1980-Fellow of the Royal Society
+1975-Maxwell Medal and Prize of the British Institute of Physics 
+
+Recent Courses TaughtPHYS 598 CPP - Special Topics in Physics
+

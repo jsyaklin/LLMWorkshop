@@ -1,0 +1,61 @@
+
+
+
+Daniel M Liberzon 
+
+
+
+
+
+Professor
+Richard T. Cheng Professor
+
+
+(217) 244-6750
+liberzon@illinois.edu
+144 Coordinated Science Lab
+
+
+For More Information
+Prof. Liberzon's Home Page
+
+Education
+Ph.D., Mathematics, Brandeis University, 1998
+
+Academic Positions
+Richard T. Cheng Professor, Department of Electrical and Computer Engineering, UIUC, 2020-present
+
+Research Interests
+Uncertain and stochastic systems
+Control with limited information
+Nonlinear control theory
+Switched and hybrid systems
+
+
+Research Areas
+Control
+Discrete-event, switched and hybrid systems
+Nonlinear systems and control
+
+
+Books Authored or Co-Authored (Original Editions)
+D. Liberzon, Calculus of Variations and Optimal Control Theory: A Concise Introduction, Princeton University Press, 2012
+D. Liberzon, Switching in Systems and Control, Birkhauser, Boston, 2003
+
+Journal Editorships
+Senior Editor for Automatica (Nonlinear Systems and Control area), 2017-2022
+
+Research Honors
+IFAC Fellow, elected in 2016
+IEEE Fellow, Class of 2013
+AACC Donald P. Eckman Award, 2007
+IFAC Young Author Prize, 2002
+NSF CAREER Award, 2002
+
+Recent Courses TaughtECE 486 - Control Systems
+ECE 515 (ME 540) - Control System Theory & Design
+ECE 517 - Nonlinear & Adaptive Control
+ECE 528 (ME 546, SE 520) - Analysis of Nonlinear Systems
+ECE 553 (MATH 595) - Optimum Control Systems
+ECE 586 DL - Topics in Decision and Control
+

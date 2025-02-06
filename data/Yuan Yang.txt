@@ -1,0 +1,441 @@
+
+
+
+Yuan Yang he/him/his
+
+
+
+
+
+Associate Professor
+
+
+
+yuany@illinois.edu
+ 
+
+
+For More Information
+Illinois-Carle Joint Neural Engineering and Rehabilitation Laboratory 
+
+
+Education
+PhD, Signal and Images, Telecom ParisTech (now known as Télécom Paris – Institut Polytechnique de Paris or Polytechnic Institute of Paris) and CNRS LTCI, Paris, France, 2013
+
+MS, Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China, 2010 
+
+BS, Biomedical Engineering, Central South University, Changsha, China, 2008
+
+
+Academic Positions
+Associate Professor (Tenure-Track), University of Illinois Urbana-Champaign, Bioengineering (100%) and Beckman Institute (0%), 08/2023 - Present
+
+Assistant Professor (Tenure-Track), the University of Oklahoma, Biomedical Engineering (100%), Electrical and Computer Engineering (0%), and Rehabilitation Sciences (0%), 08/2020-08/2023
+
+Assistant Professor, Northwestern University Feinberg School of Medicine, Physical Therapy and Human Movement Sciences, 07/2017-07/2020
+
+
+Professional Activities
+Grant Reviewer/Panel Member, NIH Special Emphasis Panel for Small Business: Musculoskeletal Sciences in Diagnostics, Devices, and Rehabilitation. USA.  2023-Present	
+Diversity, Equity & Inclusion Committee Member, Department of Bioengineering, University of Illinois Urbana-Champaign, Urbana, IL, 2023-Present
+
+Other Professional Employment
+Committee Member, IEEE Engineering in Medicine and Biology Society Biomedical Signal Processing Technical Committee, 2023 - Present
+
+Continuing Education
+ECE/NE 410 Neural Circuits and Systems
+
+
+Course Development
+2024 (Spring semester) I developed new learning materials (including new lecture slides, classroom games, and graduate project reading materials) for UIUC ECE/NE 410 Neural Circuits and Systems. I also added a field trip for students to visit Illinois Carle Neural Engineering and Rehabilitation Engineering to learn brain and muscle signal measurements.  The frontiers of relevant research and real-world examples were also introduced in the classroom activities of this course to link the knowledge with state-of-the-art research and applications. Health disparity issues in neurological disorders have been discussed to enhance DEI principles in course teaching. 
+2022 (Spring semester) I created and taught the University of Oklahoma Biomedical Engineering graduate course "Neural System and Rehabilitation Engineering" (OU code: BME 5970, 3 EC). This new course teaches advanced knowledge of neural control of movement, the musculoskeletal system, and movement impairment and disability. We discuss the frontiers of rehabilitation engineering including assistive technologies, brain-computer interfaces, regenerative rehabilitation, and machine learning in rehabilitation. The course also teaches writing skills for NIH/AHA aims page for research projects in the field of rehabilitation engineering. The gender and geographical disparity issues in rehabilitation engineering have been discussed in the course via literature review and classroom discussion.  
+
+2020 - 2023 (Fall semester) I made pedagogical innovation to the University of Oklahoma Biomedical Engineering undergraduate course "Bioelectricity" (OU code: BME 3133, 3 EC): the infusion of CDC and AHA data for heart-related bioelectricity provides an inspiring real-world connection; Link the knowledge to the application by providing demos, videos, short research paper reading in the class; Classroom activities to allow every student to give a short presentation at the end of the courses. Health disparity issues in cardiovascular diseases have been discussed to enhance DEI principles in course teaching. 
+
+
+Short Courses
+2019 (Summer) I taught movement neuroscience and new techniques for assessing functional neural connectivity in the sensorimotor system at the US Dutch Summer School for Motor Control, Chicago, IL. 
+2017 (Summer) I taught biomechanics and new techniques for assessing stretch reflexes and somatosensory functions at the Dutch Summer School for Motor Control, Delft, The Netherlands
+
+
+
+Research Areas
+Biomedical imaging
+Diffusion weighted imaging
+Functional MRI
+Neural engineering (general)
+Neural modeling
+Neuromuscular coupling
+Physiological systems
+Signal processing
+System biomechanics (gait, rehabilitation, limb movement)
+
+
+Research Topics
+Bioimaging at Multi-Scale
+Computational and Systems Biology
+Neural Engineering
+
+Books Authored or Co-Authored (Original Editions)
+None
+
+Books Edited or Co-Edited (Original Editions)
+None.
+
+Chapters in Books
+Yang Y, Neural coding by electroencephalography (EEG), In X. Hu (Ed.), Intelligent Biomechatronics in Neurorehabilitation, 1st edition. Elsevier, USA. 2020. pp 41-49.
+
+
+Selected Articles in Journals
+Williamson, J.N., Yang, Y (2024), Sex Differences in Aging and Injured Brain Neural Regeneration Research, Neural Regeneration Research, in press. (impact factor: 5.9). Invited prespective paper
+
+Parmar N, Sirpal P, Dewald JPA, Refai HH, Yang Y (2024), Beta-Band Cortico-Muscular Phase Coherence in Hemiparetic Stroke, Biomedical Signal Processing and Control, 97(2024): 106719. https://doi.org/10.1016/j.bspc.2024.106719 (impact factor: 4.9)
+Williamson, J.N., James, S.A., Mullen, S.P., Sutton, B.P., Wszalek, T., Mulyana, B. E., Mukli, P. Yabluchanskiy, A., Alzheimer’s Disease Neuroimaging Initiative Consortium and Yang, Y. (2024). Sex difference in interacting genetic and functional connectivity biomarkers in Alzheimer’s disease. GeroScience, online ahead of print: https://doi.org/10.1007/s11357-024-01151-x (impact factor: 5.6).
+
+He D#, Sikora W.A#., James, S.A., Williamson, J.N., Lepak L.V., Cheema C.F., Sidorov E.V., Li S, Yang Y., (2024). Alteration in Resting-State Brain Activity in Stroke Survivors Following Repetitive Finger Stimulation. American Journal of Physical Medicine & Rehabilitation, 103(5):395-400. PMID: 38261754, PMCID: PMC11031333. # co-first author. (impact factor: 3.0) 
+
+Peng R H-T; He D, James, S.A., Williamson, J.N., Skadden C; Jain S, Hassaneen W, Miranpuri A, Kaur A, Sarol J. N, Yang Y (2024), Determining the effects of targeted high-definition transcranial direct current stimulation on reducing post-stroke upper limb motor impairments—a randomized cross-over study. Trials, 25:34. PMID: 38195605 PMCID: PMC10775560. (impact factor: 2.5)
+
+Williamson JN, James SA, Mukli P, Yabluchanskiy A, Wu DH, Sonntag W; Alzheimer’s Disease Neuroimaging Initiative Consortium; Yang Y. Sex difference in brain functional connectivity of hippocampus in Alzheimer's disease. Geroscience. 2024 Feb;46(1):563-572. PMID: 37743414; PMCID: PMC10828268. (impact factor: 5.6)
+
+Mukli P, Pinto CB, Owens CD, Csipo T, Lipecz A, Szarvas Z, Peterfi A, Langley ACDCP, Hoffmeister J, Racz FS, Perry JW, Tarantini S, Nyúl-Tóth Á, Sorond FA, Yang Y, James JA, Kirkpatrick AC, Prodan CI, Toth P, Galindo J, Gardner AW, Sonntag WE, Csiszar A, Ungvari Z, Yabluchanskiy A (2024). Impaired Neurovascular Coupling and Increased Functional Connectivity in the Frontal Cortex Predict Age-Related Cognitive Dysfunction. Advanced Science, 11(10), 2303516. doi: 10.1002/advs.202303516. PMID: 38155460. PMCID: PMC10962492 (impact factor: 15.1).
+
+Tang Y, Xiong X, Tong G, Yang Y, Zhang H. Multimodal diagnosis model of Alzheimer's disease based on improved Transformer. Biomed Eng Online. 2024 Jan 19;23(1):8. doi: 10.1186/s12938-024-01204-4. PMID: 38243275; PMCID: PMC10799436. (impact factor: 3.9)
+
+Sirpal, P., Sikora, W. A., Azizoddin D. R., Refai, H. H., Yang, Y. (2023). Association between Opioid Dependence and Scale Free Fractal Brain Activity: An EEG Study. Fractal and Fractional, 7(9), 659. selected for issue cover. (impact factor: 5.4)
+
+Williamson JN, James SA, He D, Li S, Sidorov E.V, Yang Y, (2023), High-Definition Transcranial Direct Current Stimulation for Upper Extremity Rehabilitation in Moderate-to-Severe Ischemic Stroke - A Pilot Study, Front. Hum. Neurosci., 17:1286238. PMID: 37900725 PMCID: PMC10602806. (impact factor: 2.9)
+
+Yang Y, Yabluchanskiy A (2023). Sex-specific hippocampal connectivity markers in mild cognitive impairment. Aging (Albany NY). 2023, 15, 7: 2371-2372, PMID: 37053017, PMCID: PMC10120893 (impact factor: 5.955) . Invited editorial. 
+Tang, Y., Tong, G., Xiong, X., Zhang, C., Zhang, H., Yang, Y. (2023). Multi-site diagnostic classification of autism spectrum disorder using adversarial deep learning on resting-state fMRI. Biomedical Signal Processing and Control, 85, 104892 (impact factor: 5.1).
+
+Vasudeva B, Tian R, Wu D.H., James S.A., Refai, H.H., Ding L, Yang Y (2022), Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-Frequency Phase Coupling, Biomedical Signal Processing and Control, 74 (2022): 103492, PMID: 35111233 PMCID: PMC8803274 (impact factor: 5.1).
+
+Williamson J. N#, Sikora W. A#, James S. A, Parmar N. J, Lepak L.V, Cheema C.F., Refai H.H, Wu D. H, Sidorov E.V, Dewald J. P. A, Yang Y (2022), Cortical Reorganization of Early Somatosensory Processing in Hemiparetic Stroke, Journal of Clinical Medicine, 11(21):6449, PMID: 36362680, PMCID: PMC9654771 # co-first author (impact factor: 4.964). 
+
+Williamson J. N, Yabluchanskiy A, Mukli P, Wu DH, Sonntag W, Ciro C, Yang Y (2022), Sex Differences in Brain Functional Connectivity of Hippocampus in Mild Cognitive Impairment. Frontiers in Aging Neuroscience. 14:959394. PMID: 36034134, PMCID: PMC9399646 (impact factor: 5.75).
+
+Gao Y, Tang, Y, Zhang H, Yang Y, Dong, T, Jia Q (2022), Sex Differences of Cerebellum and Cerebrum: Evidence from Graph Convolutional Network, Interdisciplinary Sciences: Computational Life Sciences, 14(2): 532-544, PMID: 35103919 (impact factor: 3.492).
+
+Tian R, Dewald J.P.A. Yang Y (2021), Assessing the Usage of Indirect Motor Pathways following a Hemiparetic Stroke, IEEE Trans Neural Syst Rehabilitation Eng; 29:1568-72, PMID: 34343095 PMCID: PMC8372540 (impact factor: 4.528).
+
+He, F, Yang, Y (2021). Nonlinear System Identification of Neural Systems from Neurophysiological Signals. Neuroscience. 458: 213-228, PMID: 33309967, PMCID: PMC7925423 (impact factor: 3.708). Invited opinion review.
+
+Tian R, Dewald J.P.A, Sinha N, Yang Y (2021), Assessing Neural Connectivity and Associated Time Delays of Muscle Responses to Continuous Position Perturbations, Annals of Biomedical Engineering, 49(1):432-440. PMID: 32705425, PMCID: PMC7775285 (impact factor: 4.219).
+
+Bao S, Chen C, Yuan K, Yang Y, Tong R. K-Y (2021), Disrupted Cortico-peripheral Interactions after Motor Dysfunction, Clin. Neurophysiol., 132(12): 3136-3151, PMID: 34749233 (impact factor: 4.861).
+
+Li, Y., Yang, X., Zhou, Y., Chen, J., Du, M. and Yang, Y (2021). Adaptive Stimulation Profiles Modulation for Foot Drop Correction using Functional Electrical Stimulation: A Proof of Concept Study. IEEE Journal of Biomedical and Health Informatics, 25(1):59-68, PMID: 32340970 (impact factor: 7.021).
+
+Sinha N, Yang Y (2021), Strategic Diversification for Asynchronous Asset Trading: Insights from Generalized Coherence Analysis of Cryptocurrency Price Movements, Ledger, 6: 102-125.
+
+Gu Y, Yang Y, Dewald J.P.A, van der Helm F.C.T., Schouten A.C., and Wei H-L (2021), Nonlinear Modeling of Cortical Responses to Mechanical Wrist Perturbations using the NARMAX Method, IEEE Transactions on Biomedical Engineering, 68(3): 948-958, PMID: 32746080 (impact factor: 4.424).
+
+Mukli P, Csipo T, Lipecz A, Stylianou O, Racz F.S, Owens C, Perry C, Tarantini S, Sorond F.A, Kellawan J.M, Purebl G, Yang Y, Sonntag W.E, Csiszar A, Ungvari Z, Yabluchanskiy A. (2021) Sleep deprivation alters task-related changes in functional connectivity of the frontal cortex: a near-infrared spectroscopy study, Brain and Behavior, 11(8):e0213, PMID: 34156165, PMCID: PMC8413792 (impact factor: 3.405).
+
+Sinha, N., Heckman, C., Yang, Y. (2020). Slowly activating outward membrane currents generate input-output sub-harmonic cross frequency coupling in neurons. Journal of Theoretical Biology, 509, 110509. PMID: 33022285, PMCID: PMC7704641 (impact factor: 2.691).
+
+Yang Y, Yao J, Dewald J.P.A, van der Helm F.C.T, Schouten A.C, Quantifying the Nonlinear Interaction in the Nervous System based on Phase-locked Amplitude Relationship, IEEE Transactions on Biomedical Engineering, 67(9): 2638-2645, PMID: 31976876, PMCID: PMC7363527 (impact factor: 4.424).
+Yang Y, Sinha N, Tian R, Gurari N, Drogos JM, Dewald J.P.A. (2020), Quantifying altered neural connectivity of the stretch reflex in chronic hemiparetic stroke. IEEE Transactions on Neural System and Rehabilitation Engineering, 28(6): 1436-1441, PMID: 32275603, PMCID: PMC7340533 (impact factor: 4.528).
+
+Sinha N, Heckman C.J, Dewald J.P.A, Yang Y (2020), Cross-frequency coupling in descending motor pathways: theory and simulation, Frontiers in System Neuroscience, 13:86, PMID: 31992973, PMCID: PMC6971171 (impact factor: 3.293).
+
+Xiong B, Zeng N, Li Y, Du M, Huang M, Shi W, Mao G, Yang, Y (2020). Determining the Online Measurable Input Variables in Human Joint Moment Intelligent Prediction Based on the Hill Muscle Model. Sensors, 20(4), 1185, PMID: 32098065, PMCID: PMC7070854 (impact factor: 3.275).
+
+Yuan, D., Li, Y., Wang, T., Chen, J., Chen, D., Lin, D., & Yang, Y. (2020). A closed-loop electrical stimulation system triggered by EOG for acupuncture therapy. Systems Science & Control Engineering, 8(1), 128-140 (impact factor: 2.80).
+Li Y, Chen J, and Yang Y (2019), A method for suppressing electrical stimulation artifacts from electromyography, International Journal of Neural Systems, 29(6): 1850054, PMID: 30646793 (impact factor: 6.325).
+Xin J, Zhang XY, Tang Y and Yang Y (2019), Brain differences between men and women evidence from deep learning, Frontiers in Neuroscience, 13:185, PMID: 30906246, PMCID: PMC6418873 (impact factor: 5.152).
+
+Chen X, Chen J, Liang J, Li Y, Courtney C.A, Yang Y† (2019), Entropy-based Surface Electromyogram Feature Extraction for Knee Osteoarthritis Classification, IEEE Access, 7, 164144 – 164151 (impact factor: 3.745).
+Xiong B, Li Y, Huang M, Shi W, Du M, Yang Y (2019), Feature selection of input variables for intelligence joint moment prediction based on particle swarm optimization, IEEE Access, 7, 182289-182295 (impact factor: 3.745).
+
+Xiong B, Zeng N, Li H, Yang Y, Li Y, Huang M, Shi W, Du M, Zhang, Y (2019), Intelligent prediction of human lower extremity joint moment: an artificial neural network approach, IEEE Access, 7, 29973-29980 (impact factor: 3.745).
+
+Filatova OG#, Yang Y#, Dewald JPA, Tian R, Maceira-Elvira P, Takeda Y, Kwakkel G, Yamashita O, and van der Helm FCT (2018), Dynamic information flow based on EEG and diffusion MRI in stroke: a proof-of-principle study, Frontiers in Neural Circuits, 2018; 12: 79. PMCID: PMC6174251, PMID: 30327592 (#co-first authorship, I am the PI and corresponding author of this co-first author work. impact factor: 3.156).
+
+Tian, R#, Yang, Y#, van der Helm, F.C. and Dewald, JPA (2018). A novel approach for modeling neural responses to joint perturbations using the NARMAX method and a hierarchical neural network. Frontiers in Computational Neuroscience, 12: 96. PMCID: PMC6291451 (#co-first authorship, I am the PI and corresponding author of this co-first author. impact factor: 3.387).
+
+Yang Y, Dewald, J. P. A., van der Helm, F. C. T and Schouten, A. C (2018), Unveiling neural coupling within the sensorimotor system: directionality and nonlinearity. European Journal of Neuroscience, 48(7): 2407-2415. PMID: 28887885 PMCID: 28887885 (impact factor: 3.115). Invited opinion review.
+
+Gursel Ozmen N., Gumusel L. and Yang Y (2018). A Biologically Inspired Approach to Frequency Domain Feature Extraction for EEG Classification. Computational and Mathematical Methods in Medicine, 2018: 9890132. PMCID: PMC5896285, PMID: 29796060 (impact factor: 2.238).
+
+Hu X, Zhao T, Yao J, Kuang Y, Yang Y (2018), Advances in Neural Engineering for Rehabilitation, Behavioural Neurology, 2018: 9240921 PMID: 29422721 PMCID: 29422721 (impact factor: 2.8).  Invited editorial.
+Tang Y, Liu B, Yang Y, Wang C, Li M, Tang B, Guo J (2018). Identifying mild-moderate Parkinson's disease using whole-brain functional connectivity, Clinical Neurophysiology, 129(12):2507-2516, PMID: 30347309 (impact factor: 4.861).
+Yang Y, Guliyev B and Schouten AC (2017) Dynamic Causal Modeling of the Cortical Responses to Wrist Perturbations. Frontiers in Neuroscience, 11:518. PMID: 28955197 PMCID: PMC5601387 (impact factor: 5.152).
+
+Yang Y Chevallier S, Wiart J and Bloch I (2017), Subject-specific time-frequency selection for multi-class motor imagery-based BCIs using few Laplacian EEG channels, Biomedical Signal Processing and Control, 38, 302-311 (impact factor: 5.076). 
+Yang Y, Solis-Escalante T, Yao J, Daffertshofer A, Schouten A.C., and van der Helm F.C.T. (2016), A general approach for quantifying nonlinear connectivity in the nervous system based on phase coupling, International Journal of Neural Systems, 26 (1): 1550031. PMID: 26404514 (impact factor: 6.325). 
+Yang Y, Solis-Escalante T, Yao J, van der Helm F.C.T, Dewald J.P.A and Schouten A.C (2016), Nonlinear Connectivity in the Human Stretch Reflex Assessed by Cross-frequency Phase Coupling, International Journal of Neural Systems, 26(8): 1650043, PMID: 27440467 (impact factor: 6.325). 
+Yang Y, Solis-Escalante T, van der Helm F.C.T, Schouten A.C (2016), A generalized coherence framework for detecting and characterizing nonlinear interactions in the nervous system, IEEE Transactions on Biomedical Engineering, 63(12): 2629-2637, PMID: 27362753 (impact factor: 4.424). 
+Yang Y, Solis-Escalante T, van de Ruit M, van der Helm F.C.T and Schouten A.C (2016), Nonlinear coupling between cortical oscillations and muscle activity during isotonic wrist flexion, Frontiers in Computational Neuroscience, 10:126. PMID: 27999537 PMCID: 27999537 (impact factor: 3.387).
+
+Articles in Conference Proceedings
+Williamson, J. N, Mulyana, B. E., Peng, R. H. T., He, D., James, S. A., Sidorov E.V., Yang, Y. (2024) Targeted Brain Stimulation Alters Resting State EEG and Reduces Post-Stroke Impairment, accepted for International Conference on NeuroRehabilitation (ICNR2024), to be held between November 5-8, 2024 in La Granja, Spain. (to be published in proceedings)
+Peng, R. H. T., Mulyana, B. E., Rajabtabar Darvish​, M., Sung, J.,  Yang, Y. (2024) Implications of Hemispheric Shift of Sensory Feedback during Post-stroke Motor Control on Personalized Stroke Rehabilitation, accepted for International Conference on NeuroRehabilitation (ICNR2024), to be held between November 5-8, 2024 in La Granja, Spain. (to be published in proceedings)
+Wong A, Walishetti A, Yang Y (2024), Integrating Home-Based EEG Systems into Public Health Telemonitoring: A Scoping Review, IEEE-EMBS International Conference on Health Innovations in Point of Care Technology (IEEE HI-POCT), Phoenix, AZ, Sept 19-20. High school student paper.
+
+Peng, R. H. T., Parmar, N., Williamson, J. N., Sirpal, P., Mulyana, B. E., Rajabtabar Darvish​, M., Sung, J., Sidorov, E. V.,  Yang, Y. (2024), Alteration of Cortical Somatosensory Feedback in Post-Stroke Movement Control. the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024), Orlando, Florida, July 15-19, 2024. EMBC NextGen Scholar Award (recipient: Peng, R. H. T.)
+
+Williamson, J. N., James, S. A., He, D., Peng, R. H. T., Mulyana, B. E., Yang, Y. (2024), Bilateral High-Definition Transcranial Direct Current Stimulation for Stroke Rehabilitation. the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024), Orlando, Florida, July 15-19, 2024. 
+
+Sinha N, Dewald JPA, Yang, Y. (2024), Perturbation-induced electromyographic activity is predictive of flexion synergy expression and a sensitive measure of post-stroke motor impairment. the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024), Orlando, Florida, July 15-19, 2024.  
+
+Williamson, J., Sikora, W. A., Lepak, L. V., Cheema, C., James, S., Sidorov, E. V., & Yang, Y. (2023). Somatosensory Evoked Potentials As A Measure Of Sensorimotor Impairment In Hemiparetic Stroke. Stroke, 54(Suppl_1), AWP63-AWP63.
+
+James, S., Duginski, G., & Yang, Y. (2022). Impact of Short Term Focal Vibration Intervention On Upper Extremities In Chronic Stroke. Archives of Physical Medicine and Rehabilitation, 103(12), e176-e177.
+
+Yang, Y., Sidorov, E., & Dewald, J. P. (2021). Targeted tDCS reduces the expression of the upper limb flexion synergy in chronic hemiparetic stroke. Archives of Physical Medicine and Rehabilitation, 102(10), e10.
+Mackenbach, C., Tian, R., Yang Y. (2020). Effects of Electrode Configurations and Injected Current Intensity on the Electrical Field of Transcranial Direct Current Stimulation: A Simulation Study. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) pp. 3517-3520.
+
+Van De Ruit, M., Perenboom, M., Yang, Y., Ferrari, M.D., Schouten, A.C. and Tolner, E.A., 2019. Revealing non-linear response characteristics of the migraine brain upon sum-of-sine visual stimulation. Cephalalgia, 39(1_suppl.), pp.160-160.
+
+Shi W, Xiong B, Huang M, Du M, Yang Y (2019). An Extreme Learning Machine Method for Diagnosis of Patellofemoral Pain Syndrome. In International Conference on Extreme Learning Machine, pp. 22-30. Springer, 2019.
+
+Perenboom, M., Yang, Y., Carpay, J., van der Helm, F., Ferrari, M., Schouten, A. and Tolner, E., 2017. Nonlinear visual processing is faster in migraine with aura. Cephalalgia, 37(Suppl. 1), pp.56-57.
+
+Yang Y, Schouten A.C, Solis-Escalante T and van der Helm F.C.T (2015), Probing the nonlinearity in neural systems using cross-frequency coherence framework. 17th IFAC Symposium on System Identification/IFAC-PapersOnLine 48(28): 1386-1390. 
+Yang Y, Kyrgzov O, Wiart J and Bloch I (2013), Subject-specific channel selection for classification of motor imagery electroencephagraphic data. in Proceeding of 38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 26-31 May 2013, Vancouver, Canada, pp. 1277 – 1280. 
+Yang Y, Wiart J and Bloch I (2013), Towards next generation human-computer interaction – brain-computer interfaces: applications and challenges, in Proceeding of 1st International Symposium of Chinese CHI and ACM SIGCHI Conference CHI, 27 April -2 May 2013, Paris, France, pp 1-2.
+Kyrgyzov O, Bloch I, Yang Y, Wiart J, Souloumiac A (2013), Data ranking and clustering via normalized graph cut based on asymmetric affinity, in Proceeding of 17th International Conference on Image Analysis and Processing (ICIAP), in Series of Lecture Notes Computer Science (Springer), 8157: 562-571.
+Yang Y, Chevallier S, Wiart J and Bloch I (2012), Time-frequency selection in two bipolar channels for improving the classification of motor imagery EEG, in Proceeding of 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC), 28 Aug - 01 Sep 2012, San Diego, USA, pp. 2744-2747. PMID: 23366493.
+Yang Y, Chevallier S, Wiart J, Bloch I (2012), Automatic selection of the number of spatial filters for motor-imagery BCI, in proceeding of 20th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN), 25-27 April 2012, Bruges, Belgium, pp. 109-114.
+Yang Y, Chevallier S, Wiart J and Bloch I (2012), A self-paced hybrid BCI based on EEG and EOG, in Proceeding of 3rd TOBI workshop - Bringing BCIs to End-users: Facing the Challenge, 20-22 March 2012, Wurzburg, Germany, pp. 33-34. 
+Gu G, Yang Y, Guo H, Zhu Y, and Qiu Y (2010), The phase analysis of ongoing EEG oscillations under face/object perception, in Proceeding of 3rd International Conference on Biomedical Engineering and Informatics (IEEE BMEI), 16-18 Oct. 2010, Yantai, China, pp:1063-1066. 
+Yang Y, Guo H, Tong S, Zhu Y, and Qiu Y (2009), Neurophysiology study of early visual processing of face and non-face recognition under simulated prosthetic vision, In proceeding of 31th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2009), Minneapolis, MN. USA, September 2009, pp: 3952-3955. PMID: 19964326
+
+Book Reviews (in print or accepted)
+None
+
+Refereed Conference Papers and Presentations
+Sung J., Rajabtabar Darvish, M., Mulyana B, Peng, R. H. T., Yang Y., The Expression of Flexion Synergy Enhances Spasticity in Stroke, Neuroscience (SfN) 2024. Chicago, IL, Oct 5-9, 2024. Trainee Professional Development Award (recipient: Sung J, postdoc )
+
+Rajabtabar Darvish, M., Sung J., Mulyana B, Peng, R. H. T., Yang Y., Cortical Dynamics of Synergy-Induced Hyperactive Stretch Reflex, Neuroscience (SfN) 2024. Chicago, IL, Oct 5-9, 2024.
+
+Peng R. H.T., Camacho P.B., Sutton B, Dewald J.P. Yang Y. (2024), Asymmetry of Motor Pathway Tractography in Chronic Hemiparetic Stroke, Neuroscience (SfN) 2024. Chicago, IL, Oct 5-9, 2024.
+
+Mulyana B, Williamson J.N, Yang Y., High-definition transcranial direct current stimulation guided by delta-alpha ratio topography for precision stroke rehabilitation: a hypothetical study, Neuroscience (SfN) 2024. Chicago, IL, Oct 5-9, 2024.
+
+Yang J., Williamson, J. N.,  Yang, Y (2024), Effect of Tau Biomarkers and Gender Differences on Brain Functional Connectivity in Alzheimer’s Disease.  Alzheimer’s Association International Conference (AAIC) 2024, Philadelphia, USA, July 28-Aug 1, 2024.
+Sirpal P, Refai, HH, Dewald JPA, Yang Y (2024), Quantifying EEG Transition Zones: Insights Into Post-Stroke Brain Dynamics During Motor Tasks, the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024), Orlando, Florida, July 15-19, 2024. 
+Peng, R. H. T., Camacho, P., Sutton, B., Subramanian, A., Wszalek, T., Anderson, A., Mulyana, B. E., Lam, F., & Yang, Y. (2024), Improving Focality and Minimizing Cross-Hemispheric Current Leakage in Bilateral HD-tDCS. the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024), Orlando, Florida, July 15-19, 2024. , Orlando, Florida, July 15-19, 2024. 
+Mulyana B. E.,  Yang Y (2024), Safety and Quality Evaluation of Concurrent Transcranial Electrical Stimulation with fMRI, the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024), Orlando, Florida, July 15-19, 2024. 
+Mulyana B. E., Yuan Yang (2024), Real-time standalone image reconstruction for multi-slice multiband EPI using matrix vectorization and GPUs CUDA implementation, the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024), Orlando, Florida, July 15-19, 2024. 
+Peng, R. H. T. , Yang Y. (2024), Addressing Domain Shift Challenges in Brain Lesion Segmentation for Neurorehabilitation:  A Multi-Image Approach with the 3D UNet Model. 7th Illinois AI and Health Summit: Healthy Aging of Brain and Mind with AI, Chicago, IL, April 15, 2024.
+Yang J., Williamson, J. N.,  Yang, Y (2024), Sex Differences in Tau Biomarkers and Brain Functional Connectivity in Alzheimer’s Disease. 7th Illinois AI and Health Summit: Healthy Aging of Brain and Mind with AI, Chicago, IL, April 15, 2024.
+
+Peng, R. H. T., Williamson, J. N., Skadden, C., James, S., Sidorov, E. V., Mostafa, W. H., Miranpuri, A., Jain, S., Li, S., Daniels, R., & Yang, Y. (2024), Targeted High-definition Transcranial Direct Current Stimulation For Reducing Post-stroke Upper Limb Motor Impairments. International Stroke Conference 2024, Phoenix, Arizona, Feb.7-9, 2024.
+
+Williamson J. N., Peng, R. H. T., He, D., James, S. A., Sidorov, E. V., & Yang, Y. (2024), High-Definition Transcranial Direct Current Stimulation Altering Resting-State Brain Activity in Chronic Stroke. Bugher Foundation Collaborative Symposium 2024, Phoenix, Arizona, Feb.7-9, 2024.
+
+Williamson, J.N., James, S.A., Brixey, J.R., Apple, B., Sharps, J., Monrose, A., He. D.,  Sidorov, E., Yang, Y. (2023). Transcranial magnetic stimulation induced motor evoked potentials as a measure of motor impairments and recovery post stroke. 32nd Annual Meeting of Society for the Neural Control of Movement, Victoria, BC, Canada , April. 17-21, 2023
+
+Williamson, J.N., James, S.A., Brixey, J.R., Apple, B., Sharps, J., Monrose, A., He. D., Li, S., Dewald, J.P.A., Corcos, D.M., Kolobe, T.H.A., Sidorov, E., Yang, Y. (2023). High-Definition Transcranial Direct Current Stimulation for Upper Extremity Rehabilitation Post Stroke: A Pilot Trial. American Society of Neurorehabilitation Annual Meeting, Charleston, SC, Mar. 14-16, 2023
+
+Lepak L.V., Cheema C.F, James S.A., Yang Y (2023), Computer-Guided Non-Invasive High-Definition Transcranial Direct Current Brain Stimulation as a Targeted Intervention after a Stroke, American Physical Therapy Association (APTA) Combined Sections Meeting (CSM), San Diego, CA, Feb 23-25, 2023.
+
+Williamson, J.N., James, S.A., Apple, B., Sharps, J., Monrose, A., He. D., Kolobe, T.H.A., Sidorov, E., Yang, Y. (2022). High-Definition Transcranial Direct Current Stimulation for Upper Extremity Rehabilitation Post Stroke: A Pilot Trial in Oklahoma. Advances in Stroke Recovery Scientific Conference, Virtual, Jan. 29-30, 2023
+
+Williamson, J.N., Yabluchanskiy, A, Mukli, P., Wu, D.H., Sonntag, W., Ciro, C., Yang, Y. (2022). Sex Differences in Hippocampal Connectivity in Mild Cognitive Impairment. College of Allied Health 12th Annual Research Day, Oklahoma City, OK, April 22, 2022
+
+Williamson, J.N., Sikora W., Parmar, N., Lepak, L.V., Cheema, C., Dewald, P., Wu, D.H., Sidorov, E.V.., Yang, (2022). Cortical Somatosensory Reorganization in Hemiparetic Stroke. Society of Neuroscience 2022, San Diego, CA, Nov. 12-16, 2022
+
+Williamson, J.N., James, S.A., Yabluchanskiy, A, Mukli, P., Wu, D.H., Sonntag, W., Ciro, C., Yang, Y. (2022). Sex Differences in Interacting Genetic and Imaging Biomarkers in Progression of Alzheimer’s Disease. Biomedical Engineering Society Annual Meeting, San Antonio, TX, Oct. 12-15, 2022
+
+Williamson, J.N., James, S.A., Apple, B., Sharps, J., Monrose, A., He. D., Kolobe, T.H.A., Sidorov, E., Yang, Y. (2022). High-Definition Transcranial Direct Current Stimulation for Upper Extremity Rehabilitation Post Stroke: A Pilot Trial in Oklahoma. Medical Rehabilitation Research Resource Network: Rehabilitation Clinical Trials Innovations, Designs, and Tribulations, Virtual, Sept. 29-30, 2022
+
+Williamson, J.N., James, S.A., Apple, B., Sharps, J., Sidorov, E., Yang, Y. (2022). High-Definition Transcranial Direct Current Stimulation for Improving Upper Extremity Motor Function Post Stroke. 3rd Annual Workshop on Noninvasive Brain Stimulation, Minneapolis, MN, June 8-10, 2022
+
+Sikora W.A, Azizoddin D.R, Lepak L.V, Cheema C.F, Safdar F, Ashton B.R, Yang Y (2022). Cortical Mechanisms of Pain in the Adult Somatosensory Cortex: A Pilot EEG Study. Biomedical Engineering Society BMES Annual Meeting; October 13-16; San Antonio, TX2022
+
+Sikora, W.A, Tian R, Yang Y (2021), Predicting Sex from Resting-state Functional MRI Based on Functional Connectivity of Brain Regions, Biomedical Engineering Society BMES Annual Meeting; October 6-9, Orlando, Florida 2021
+
+Tian R, Sikora, W.A, Yang Y (2021), Influence of White Matter Tract Orientation on the Effect of tDCS: a computer simulation study, Biomedical Engineering Society BMES Annual Meeting; October 6-9, Orlando, Florida 2021
+
+Yang Y., Sidorov E.V., Dewald J.P.A (2021), Targeted tDCS reduces the expression of the upper limb flexion synergy in chronic hemiparetic stroke, American Congress of Rehabilitation Medicine (ACRM) 98th Annual Conference: Progress in Rehabilitation Research, September 26-29, 2021.
+Yang Y, Tian R, Sanha N, Gurari N, Drogos J, Dewald J.P.A (2020). Determining the Increased Usage of Indirect Motor Pathways in Hemiparetic Stroke, American Physical Therapy Association (APTA) Combined Sections Meeting (CSM), Platform presentation in Research Section, Feb 12-15, 2020, Denver, CO, ID 24201.
+
+Yang Y, Tian R, Cummings M, Hogenhuis C.H.E.Y, Deol J, Drogos J, Dewald J.P.A (2019). Determine the usage of indirect motor pathways following a hemiparetic stroke: A pilot study. Neuroscience 2019; October 19-23, 2019; Chicago, IL. no. 5134.
+
+Yang Y, Hogenhuis C.H.E.Y, Tian R, Cates A, van de Herm F.C.T, Dewald J.P.A (2019). Effects of Electrode Distance and Injected Current Intensity on High-definite tDCS: A Simulation Study. Biomedical Engineering Society BMES Annual Meeting; October 16-19, 2019; Philadelphia, PA, no 559.
+
+Yang Y, Tian R, Cummings M, Drogos J, Dewald J.P.A (2019). Transcranial direct current stimulation over lesioned motor cortices reduces the expression of the flexion synergy and nonlinear brain-muscle connectivity in hemiparetic stroke. American Society of Neurorehabilitation (ASNR) Annual Meeting; October 16-18, 2019; Chicago, IL. no. T50.
+
+Tian R, Dewald J.P.A., Sinha N, Yang Y (2019), Assessing linear and nonlinear connectivity and associated time delays in the muscle responses to continuous elbow joint perturbations, Biomedical Engineering Society BMES Annual Meeting; October 16-19, 2019; Philadelphia, PA, no 214
+
+Yang Y (2019), Multi-model brain imaging approach for tracking neural information flow in stroke, The Workshop on AI + Radiology: Collaboration between Physicians, Engineers, and Computer Scientists, September 11, 2019, Chicago, IL.
+Wang L, Noordanus E, Yang Y, van Opstal J.A (2019), Evaluating nonlinear auditory steady-state responses in EEG using multi-spectral phase-coherence analysis. Neuroscience 2019; October 19-23, 2019; Chicago, IL. no. 7651
+
+Yang Y, Filatova O, Maceira P.E, Takeda Y, Dewald J.P.A, Kwakkel G, Yamashita O, van der Helm F.C.T (2017), Multimodal brain imaging for improving EEG source localization: Application to Chronic Stroke, selected for Young Scientist Award Presentation in 2nd Congress on NeuroRehabilitation and Neural Repair, 22-24 May 2017, Maastricht, the Netherlands.
+
+Yang Y, Solis-Escalante T, Schouten A.C, van der Helm F.C.T (2017), Nonlinear Neuronal Coupling in the human stretch reflex, in 6th Dutch Bio-Medical Engineering Conference, January 26-27, 2017, Egmond aan Zee, The Netherlands, oral presentation.
+Maceira-Elvira P, Filatova O. G, Yang Y, Takeda Y, Dewald J.P.A., Kwakkel G, Yamashita O, van der Helm, F.C.T (2017), Neural Dynamics based on EEG and diffusion MRI: Potential in studying stroke, in the 3rd International Conference on Basic and Clinical Multimodal Imaging (BaCi), 29 Aug-9 Sept. 2017, Bern, Switzerland, oral presentation.
+
+Perenboom M, Yang Y, Schouten A.C, Tolner E. (2017), Nonlinear dynamics of the visual system in migraine, in 6th Dutch Bio-Medical Engineering Conference, January 26-27, 2017, Egmond aan Zee, The Netherlands, oral presentation.
+
+Yang Y, van der Helm F.C.T, Solis-Escalante T, van de Ruit M, Yao J, Dewald J.P.A, and Schouten A.C (2017), Nonlinear coupling between cortical oscillations and muscle activity during steady-state force generation, in 27th Annual Meeting of Neural Control of Movement, May 1-5, 2017, Dublin, Ireland.
+Perenboom M.J.L, Yang Y, Carpay J, van der Helm F.C.T, Ferrari M, Schouten A.C, Tolner E.A (2017), Nonlinear visual processing is faster in migraine with aura, in the 18th Congress of the International Headache Society, September 7-10, 2017, Vancouver, Canada, oral presentation.
+
+Perenboom M.J.L, Yang Y, van der Helm F.C.T, Ferrari M.D, Schouten A.C, Tolner E.A, Nonlinearity of the visual system assessed by cross-frequency phase coupling, selected for best abstract presentation in the 19th biennial International Pharmaco EEG Society Meeting, 26-30 Oct 2016, The Netherlands.
+
+Yang Y, Solis-Escalante T, Yao J, van der Helm F.C.T, Dewald J.P.A, Schouten A.C, Nonlinear connectivity in the human stretch reflex revealed by nonlinear phase coherence and multisine perturbations, in the 11st Congress of the International Society of Electrophysiology and Kinesiology (ISEK Congress), 5-8 July, 2016, Chicago, USA.
+Yang Y, Solis-Escalante T, van der Helm F.C.T, Schouten A.C (2016), Nonlinear dynamics in the corticospinal interaction during movement control, selected for Young Investigator Training Program (YITP) in the 10th FENS Forum of Neuroscience, 2-6 July 2016, Copenhagen, Denmark.   
+Yang Y, Schouten A.C, Yao J, Solis-Escalante T, Dewald J.P.A., van der Helm F.C.T (2016), Quantifying nonlinear connectivity in the human stretch reflex, in the 22nd Annual Meeting of the Organization for Human Brain Mapping (OHBM), 26-30 June 2016, Geneva, Switzerland.
+van der Helm F.C.T, Yang Y, Solis-Escalante T, Vlaar M, Yao J, Dewald J.P.A, Schouten A.C, 4D EEG: Assessing the role of the sensorimotor cortex in reflex modulation during motor control, in the 11st Congress of the International Society of Electrophysiology and Kinesiology (ISEK Congress), 5-8 July, 2016, Chicago, USA.
+Kalogianni K, Yang Y, Vardy A, Schouten A, van der Helm F, de Munck J. Source localization with the MUSIC algorithm and the effect of spatial prewhitening: a SEP paradigm,in the 21st Annual Meeting of the Organization for Human Brain Mapping (OHBM), 8-12 June 2015, Hamburg, German.
+
+Yang Y, Solis-Escalante T, Yao J, van der Helm, F.C.T, Schouten A.C. (2015), Nonlinear connectivity of the afferent pathway in sensorimotor control, in the 21st Annual Meeting of the Organization for Human Brain Mapping (OHBM), 13-18 June 2015, Hawaii, USA.
+Solis-Escalante T, van der Vliet R, Yang Y, Schouten A.C., van der Helm F.C.T, (2015), Quantifying performance and neuromuscular admittance during manual tracking of a visual target, in Neuroscience 2015, October 17-21, 
+
+Solis-Escalante T, Yang Y, Schouten A.C, van der Helm F.C.T (2015), Scalp topography of nonlinear components of somatosensory of somatosensory steady-state responses to mechanical wrist stimulation, in 5th Dutch Bio-Medical Engineering Conference, January 22-23, 2015, Egmond aan Zee, The Netherlands.
+Yang Y, Solis-Escalante T, Schouten A.C, van der Helm F.C.T (2015), Nonlinear connectivity in sensorimotor control, in 5th Dutch Bio-Medical Engineering Conference, January 22-23, 2015, Egmond aan Zee, The Netherlands.
+Yang Y, Schouten A.C., van der Helm F.C.T, (2015), Multi-sine stimuli are a powerful tool for imaging nonlinearity in nervous systems, in the 2nd International Conference on Basic and Clinical Multimodal Imaging (BaCi), 1-5 Sept. 2015, Utrecht, The Netherlands.
+Yang Y, Solis-Escalante T, Vlaar M.P, Schouten A.C, van der Helm F.C.T (2014), Exploring brain connectivity during force production while perturbing the wrist, selected for Young Investigator Training Program (YITP) in the 9th FENS Forum of Neuroscience, July 5-9, 2014 Milan, Italy.
+
+Pending Articles
+Sirpal P, Refai, HH, Dewald JPA. Yang Y, The Magnitude of a Synergy Inducing Motor Execution Task in Stroke Increases EEG Signal Complexity (2024), Medical and Biological Engineering and Computing, [Under review].
+
+Sirpal, P., Refai, H.H., Dewald, J.P.A., Yang, Y, (2024), Deciphering Transitions and Quantitative Network Extraction: EEG Insights into Stroke-Induced Brain Dynamics and Dysfunction During Upper Extremity Motor Tasks, Computer in Biology and Medicine [In preparation]
+
+ 
+
+Williamson, J.N., He D, James, S.A., Mulyana, B. E., Li S, Sidorov E.V., Yang Y (2024), Non-Invasive Brain Stimulation on Resting-State Brain Activity in Ischemic Stroke. Disability and Rehabilitation [Submitted].
+
+Sirpal P, Yang Y, Electroencephalography (EEG) measurement, In Automation in Tele-Neurorehabilitation, CRC Press Taylor & Francis Group, UK: London (Invited)
+
+
+Invited Lectures
+Implications of hemispheric shift of sensory during post-stroke motor control on personalized stroke rehabilitation
+Targeted brain stimulation alters resting state EEG and reduces post-stroke impairment
+NeuroEngineering-based Precision Rehabilitation in Stroke
+Targeted high-definition tDCS for stroke rehabilitation
+
+Targeted Brain Stimulation for Stroke Recovery
+			
+		
+	
+
+
+High-Definition Transcranial Direct Current Stimulation Altering Resting-State Brain Activity in Chronic Stroke
+
+Targeted high-definition transcranial direct current stimulation to reduce sensorimotor impairments post hemiparetic stroke 
+
+Neural Engineering for Sensorimotor Rehabilitation in Hemiparetic Stroke
+
+Neural Assessments and Targeted Interventions for Hemiparetic Stroke 
+Accessing Functional Neural Connectivity in Hemiparetic Stroke 
+Quantifying neuronal connectivity in the nervous system using cross-frequency coupling metric and multisine stimulations
+
+Quantifying neuronal connectivity in the nervous system using cross-frequency coupling metric and multisine stimulations.
+
+Quantifying nonlinear connectivity in the human sensorimotor system
+Quantifying connectivity in motor control using connectivity measures and multisine stimulations
+Quantifying connectivity in motor control using causality measures and multisine perturbations
+Subject-specific optimization in brain-computer interfaces
+
+Reports
+Schouten AC, Vlaar M, Solis-Escalante T, Yang Y, van der Hem FCT (2019), Cortical response evoked by wrist joint manipulation, Nonlinear System Identification Benmarks, Doi: 10.4121/uuid:176d8f78-d9fd-491e-90e7-9370e249b701.
+
+Journal Editorships
+Review Editor in Engineering and Technology, Frontiers for Young Minds, Switzerland, 2024-Present
+Guest Associate Editor of the Research topics: Cortico-Muscular Network Interactions, Frontiers in Network Physiology, Systems Interactions and Organ Networks Section, Switzerland, 2023-2024
+Associate Editor in Brain Imaging Methods, Frontiers in Neuroscience and Frontiers in Neuroimaging, Switzerland, 2022-Present
+Associate Editor, Medical & Biological Engineering & Computing, Springer Nature, USA,  2022-Present  
+
+Guest Associate Editor of Research Topic: Multimodal Fusion and Mining of Biological and Medical Big Data in Neurological and Psychiatric Disorders, Frontiers in Neuroscience, 2022
+Guest Associate Editor of the Research topic: Integrative Modeling and System Identification for Reverse Engineering of Sensorimotor Networks at Multiple Scales, Frontiers in Systems Neuroscience, Switzerland, 2022
+
+Guest Associate Editor of the Research Topic: Nonlinear Connectivity, Causality and Information Processing in Neuroscience, Frontiers in Computational Neuroscience and Frontiers in Neuroinformatics, Switzerland, 2021	
+Associate Editor and Editorial Board Member, the Quantitative Psychology and Measurement Special Section, Frontiers in Applied Mathematics and Statistics and Frontiers in Psychology, Switzerland, 2017 - 2024	
+Guest Editor, Special Issue on Neural Engineering for Rehabilitation, Behavioural Neurology, 2016-2017
+
+Conferences Organized or Chaired
+Session Chair, IEEE EMBC 2024 Session "Lower limb Rehabilitation & Assistance Robots", Orlando, FL, July 19, 2024. 
+Session Chair, IEEE EMBC 2024 Session "Neural Stimulation & Modulation 1", Orlando, FL, July 18, 2024. 
+Session Chair, IEEE EMBC 2024 Session "Deep Learning for Clinical Applications", Orlando, FL, July 18, 2024. 
+Chair, IEEE EMBC 2024 Mini-symposium "Frontiers in non-invasive, non-Pharmaceutical Technologies for Movement Rehabilitation in Chronic Stroke",  Orlando, FL, July 17, 2024. 
+Committee Member, TENCON 2022 - IEEE Region 10 Conference Robotic and Artificial Intelligence Technical Committee, Hongkong, 2022	
+Co-organizer (with Julius Dewald, CJ Heckman, Lee E Miller, Gert Kwakkel, Frans van der Helm, Alfred Schouten), US Dutch Summer School for Motor Control, Chicago, IL. 2019
+Co-organizer (with Frans van der Helm, Alfred Schouten, and Julius Dewald), Dutch Summer School for Motor Control, Delft, The Netherlands. 2017
+Session Chair, the 6th Dutch Conference for Biomedical Engineering, Egmond aan Zee, The Netherlands,2017
+Co-organizer (with Robert Kearney, Eric Perreault, and Alfred Schouten), Special Session "System Identification to Unravel Human Motion Control" in the 17th International Federation of Automatic Control Symposium on System Identification, Beijing, China. 2015
+
+Professional Societies
+Member, Sigma Xi, The Scientific Research Honor Society, USA, 2024-Present
+
+Member,  Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment, USA, 2024 - Present
+Committee Member, IEEE EMBS Biomedical Signal Processing Technical Committee, USA, 2023 - Present	
+Member, ACRM Brain Injury Interdisciplinary Special Interest Group, USA, 2022 - Present.
+Member, ACRM Stroke Interdisciplinary Special Interest Group, USA, 2022 - Present.
+Council Member, Oklahoma Neuroscience Chapter, a subsidiary of the Society of Neuroscience (SfN), Oklahoma, USA, 2022 - 2023. 
+Member, Neural Control of Movement, USA, 2022 - 2023.
+Associate Editor, IEEE EMBS Student Paper Competition Committee, USA, 2021 - Present.
+
+Member, American Heart Association, USA, 2021 - Present.
+Member, Society of Neuroscience, USA, 2019 - Present.
+
+Service on Department Committees
+Neural Engineering Working Group Member, Department of Bioengineering, University of Illinois Urbana-Champaign, Urbana, IL, 2024-Present
+Faculty Search Committee Member, Department of Bioengineering, University of Illinois Urbana-Champaign, Urbana, IL, 2024-Present
+Diversity, Equity & Inclusion Committee Member, Department of Bioengineering, University of Illinois Urbana-Champaign, Urbana, IL, 2023-Present
+Search Committee Member for Research Assistant Professor in Machine Learning and Imaging Hire, Department of Bioengineering, University of Illinois Urbana-Champaign, Urbana, IL, 2023-2024
+
+
+Service on College Committees
+Poster Judge, Health Innovation Research Day, Carle Illinois College of Medicine, University of Illinois, 2024
+Career and Leadership Coaching Program to peer coach and support other faculties, University of Illinois, 2024
+Faculty Mentor, Oklahoma Engineering Day, Gallogly College of Engineering, University of Oklahoma, 2020-2021
+Reviewer and Interviewer,  Northwestern University M.D. and Ph.D. dual degree Program. 2019-2021.
+Faculty Mentor, Northwestern University Clinical & Translational Sciences Institute K12 Career Development Program, 2020
+Faculty Mentor, Northwestern University Medical Scientist Training Program,  Chicago, IL, 2019-2021
+
+Poster Judge, Area of Scholarly Concentration for MD Education Research Day, Northwestern University Feinberg School of Medicine, Chicago, IL, 2019-2020
+
+Service on Campus Committees
+I contributed to the U of I’s international collaborations. I hosted Prof. Pei-Fang Tang, a National Taiwan University (NTU) professor and the NTU and U of I System travel grant awardee, to visit the UIUC campus (BioE, Beckman Institute, University LIFE Home facility, etc.) and Carle Foundation Hospital. This activity facilitates research collaboration among NTU, UIUC, and Carle in Neural Engineering, 2024
+Ad hoc mentor, Oklahoma Shared Clinical and Translational Resources (U54GM104938), University of Oklahoma Health Science Center, Oklahoma City, Oklahoma, 2023 
+
+PPG Proposal Internal Selection Committee Member, the University of Oklahoma Vice President for Research and Partnerships(OU VPRP) Office Limited Submission Committee for NIH Centers of Biomedical Research Excellence (COBRE, PPG) Proposal Review, University of Oklahoma, Norman, Oklahoma, 2023
+
+ Graduate College Representative for Ph.D. theses at the Department of Health and Exercise Science, School of Computer Sciences, and School of Electrical and Computer Engineering, University of Oklahoma, Norman, OK, 2021-2023
+Faculty Mentor, Community Medicine - Summer Intern, University of Oklahoma Tulsa Campus, 2021-2022
+
+Service to Federal and State Government
+Grant Reviewer/Panel Member, NIH Member Conflict Musculoskeletal and Dental Sciences Special Emphasis Panel (SEP). ZRG1 MSOS-L(03), USA, 2024 July.
+Grant Reviewer/Panel Member, NIH Sensory-Motor Neuroscience (SMN) Study Section, USA, 2024 - Present
+
+Grant Reviewer/Panel Member, NIH Special Emphasis Panel for Small Business (SBIR/STTR) Grant Review: Musculoskeletal Sciences in Diagnostics, Devices, and Rehabilitation, USA, 2023 - Present
+
+Grant Reviewer/Panel Member, NSF the Information & Intelligent Systems Division (IIS), NSF-NIH Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH) Human in the Loop Panel. USA. 2023
+
+Grant Reviewer/Panel Member, NIH Acute Neural Injury and Epilepsy (ANIE) Study Section, USA, 2022
+
+Expert Committee Member in "Physical Activity and Rehabilitation - Neuroimaging and Readaptation" Review Panel, Fonds de recherche du Quebéc -Santé (FRQS) and the Canada Foundation for Innovation (CFI), Canada, 2022
+Grant Reviewer, Clinical & Translational Science Institute of Southeast Pilot Award, Medical College of Wisconsin, 2021-2022
+
+International Grant Reviewer, the Italian Multiple Sclerosis Society (AISM-FISM), Italy, 2020
+
+Other Outside Service
+External grant review service for Duke Molecular Physiology Institute, Aug - Sept, 2024. 
+Lab tour for NIH P41 Center for Label-free Imaging and Multi-scale Biophotonics (CLIMB) Summer School, June 2024 
+Science Mentor, Frontiers for Young Minds, 2024-Present.
+Poster Judge, 7th Illinois AI and Health Summit: Healthy Aging of Brain and Mind with AI approaches, Chicago, April 15, 2024
+Awardee Mentor, Burgher Foundation Foundation Collaborative Symposium: Mentor/Mentee Event, 2024
+Faculty Mentor, Progress in Clinical Motor Control II Conference: Movement and Rehabilitation Sciences  - Special Event Senior Scientist Meet and Greet with postdoc and Ph.D. trainees, 2023 
+Organizer, OU-OUHSC Neural Control and Rehabilitation Booth at Oklahoma EPSCoR Education-sponsored Women in Science Conference 2022
+Organizer and exhibitor, OU Neurorehabilitation at Empathy Exhibition at Science Museum Oklahoma, 2021
+Ad hoc Reviewer, for more than 40 SCI journals including Neurorehabil Neural Repair, NeuroImage, IEEE Trans. Neural Syst. Rehabilitation Eng., IEEE. Trans. Biomed. Eng., J Neurophysiol, Exp. Brain Res., Hum. Mov. Sci., etc. 2015-Present.
+
+Honors
+NSF CAREER Award
+ (2023
+)
+American Heart Association Career Development Award
+ (2022
+)
+Outstanding Reviewer (2017)
+Outstanding Reviewer (2017)
+Hojjat Adeli Award for Outstanding Contributions in Neural Systems (2017)
+
+Recent Courses TaughtBIOE 210 - Linear Alg for Biomed Data Sci
+ECE 410 (NE 410) - Neural Circuits and Systems
+

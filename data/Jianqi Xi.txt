@@ -1,0 +1,86 @@
+
+
+
+Jianqi Xi he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-6494
+jianqixi@illinois.edu
+111A Talbot Laboratory
+
+
+For More Information
+Personal Website
+
+Google Scholar
+
+
+Education
+Ph.D., Materials Science and Engineering, University of Tennessee-Knoxville, 2017
+
+Academic Positions
+Assistant Professor, University of Illinois Urbana-Champaign, Nuclear Materials, 01/2024-Present
+Scientist III, ThermoFisher Scientific, Ion Beam Radiation, 01/2023-12/2023
+Scientist, University of Wisconsin-Madison, Nuclear Materials, 07/2021-01/2023
+Postdoc, University of Wisconsin-Madison, Nuclear Materials, 11/2017-07/2021
+Postdoc, University of Tennessee-Knoxville, Nuclear Materials, 08/2017-11/2017
+
+Documents
+
+AI-assisted multiscale modeling of materials degradation
+Interface engineering elemental diffusion
+Molten salt property investigation
+
+Other Professional Employment
+
+
+Session Chair of Conference Symposium “Ceramics Modeling, Genome and Informatics”, ICACC-2019
+
+Research Interests
+Fusion Materials
+Synergistic effects of radiation and corrosion on structural materials
+
+Chemical degradation of materials in corrosive environments (e.g., molten salt, high-temperature water, and air)
+
+Multiscale modeling of microstructure evolutions of materials under irradiation
+
+Data-driven/ML material design with desirable radiation/corrosion-resistant properties
+
+
+
+Research Areas
+Nuclear Materials
+
+
+Chapters in Books
+Code for nuclear materials
+
+
+Selected Articles in Journals
+J. Xi, H. Zhang, R. Su, S. Wei, X. Hu, B. Queylat, T. Kim, A. Couet, I. Szlufarska, "Coupling of radiation and grain boundary corrosion in SiC", NPJ Mater. Degrad. 8, 16 (2024)
+
+X. Hu, N. Liu, V. Jambur, S. Attarian, R. Su, H. Zhang, J. Xi, H. Luo, J. Perepezko, I. Szlufarska, "Amorphous shear bands in crystalline materials as drivers of plasticity", Nat. Mater. 22, 1071-1077 (2023)
+
+J. Xi, I. Szlufarska, "Control of surface chemical reactions through solid stiffness", Phys. Rev. Lett., 129, 106101 (2022)
+
+J. Xi, C. Liu, D. Morgan, I. Szlufarska, "Deciphering water-solid reactions during hydrothermal corrosion of SiC", Acta Mater., 209, 116803 (2021)
+
+J. Xi, H. Jiang, C. Liu, D. Morgan, I. Szlufarska, "Corrosion of Si, C, and SiC in molten salt", Corr. Sci., 146, 1-9 (2019)
+
+
+Honors
+Outstanding Reviewer in the Journal of Semiconductor Science and Technology
+ (2018
+)
+Joseph E. Spruiell Award for Excellence in Research, University of Tennessee, Knoxville
+ (2017
+)
+
+Recent Courses TaughtNPRE 445 (NPRE 521) - Interact of Radiation w/Matter
+

@@ -1,0 +1,65 @@
+
+
+
+Mark Neubauer 
+
+
+
+
+
+Professor
+
+
+(217) 244-3913
+msn@illinois.edu
+411 Loomis Laboratory
+
+
+For More Information
+Personal Web Page
+Research Group Website
+
+Education
+Ph.D - University of Pennsylvania, Philadelphia, PA (June 2001)
+
+BiographyProfessor Neubauer received his Ph.D from the University of Pennsylvania (2001). After receiving his Ph.D, he worked as a postdoctoral research associate at the Massachusetts Institute of Technology (2001-2004) and the University of California, San Diego (2004-2007). Professor Neubauer joined the faculty at the University of Illinois in Fall 2007.
+Professor Neubauer is an experimental physicist whose research has spanned a diverse set of topics in the study of elementary particles and their interactions. The ultimate goal of this pursuit is to gain a deeper understanding of Nature at its most fundamental level and to elucidate the physics that lies beyond the standard model.
+His research began as a Ph.D. student at the University of Pennsylvania working on the Sudbury Neutrino Observatory (SNO) experiment, which was designed to resolve the long-standing deficit of solar ne observed in previous experiments. His Ph.D. thesis, Evidence for neFlavor Change Through Measurement of the 8B Solar n Flux at SNO demonstrated in 2001 that ~2/3 of solar neutrinos change flavor before detection on Earth, which can occur if neutrinos have non-zero mass and mixing. This result was published soon thereafter in a Phys. Rev. Lett. article
+As a postdoctoral fellow at MIT and then UCSD, he conducted research at the current energy frontier provided by proton-antiproton collisions at the Fermilab Tevatron. As member of the Collider Detector at Fermilab (CDF) experiment, he made important contributions to heavy flavor and high-pt physics, including searches for the Higgs boson and new physics. In 2002, he and colleagues at MIT undertook a complete re-design of the CDF analysis computing model, out of which emerged the CDF Analysis Facility (CAF), for which he served as project leader from 2002 to 2004. He played a leading role in the study of electroweak dibosons at CDF as convener of the Diboson Physics Group (2006-2007). In 2006, he led the first-ever observation of WZ diboson production. In 2007, he and colleagues provided the first evidence for ZZ production at a hadron collider.
+As a member of the ATLAS Collaboration at the Large Hadron Collider, Professor Neubauer contributed to discovery of the Higgs boson in 2012.
+Research StatementParticle physics is embarking on a journey of exploration of the energy frontier with the turn-on of Run II at the LHC at CERN in Geneva, Switzerland. At the LHC, protons are collided together with 13 TeV of center of mass energy. My research is broadly focused on searches for new phenomena at the LHC. Professor Neubauer's Group is developing electronics for the ATLAS Fast Hardware Tracker (FTK) system which will provide high-quality tracks from the silicon hit information for use in trigger decision and downstream processing. I am also involved in a number of computing projects for scientific research, including principle investigator for the ATLAS Tier-2 cluster at Illinois -- one of three clusters in the Midwest Tier-2 which is the largest LHC Tier-2 in the world, a member of the Open Science Grid Executive Team, and co-PI for the conceptualization of a Scientific Software Innovation Institute for high-energy physics.
+
+Research Areas
+High Energy Physics (experimental)
+
+
+Selected Articles in Journals
+M. Aaboud et al. (ATLAS Collaboration), Search for new resonances decaying to a W or Z boson and a Higgs boson in the llbb, lvbb, and vvbb channels with pp collisions at sqrt(s) = 13 TeV with the ATLAS detector, Phys. Lett. B 765, 32 (2017)
+M. Aaboud et al. (ATLAS Collaboration), Searches for heavy diboson resonances in pp collisions at sqrt(s)=13 TeV with the ATLAS detector , JHEP 1609, 173 (2016)
+G. Aad et al. (ATLAS Collaboration). Observation and measurement of Higgs boson decays to WWÂ with the ATLAS detector, Phys. Rev. D 92, no. 1, 012006 (2015)
+G. Aad et al. (ATLAS Collaboration). Search for Charged Higgs Bosons through the Apparent Violation of Lepton Universality in Top Pair Events using pp Collision Data at 8 TeV with the ATLAS Experiment. JHEP 03, 76 (2013)
+
+G. Aad et al. (ATLAS Collaboration). Observation of a New Particle in the Search for the Standard Model Higgs Boson with the ATLAS Detector at the LHCÃ¢â‚¬Â, Phys. Lett. B. 716, 1 (2012)
+
+J.D. Hobbs, M.S. Neubauer, S. Willenbrock. Tests of the Standard Electroweak Model at the Energy Frontier. arXiv:1003.5733 (2010) Rev. Mod. Phys. 84, 1477
+T. Aaltonen, et al. (CDF Collaboration). Strong Evidence for ZZ Production in p‾p Collisions at √s = 1.96-TeV. Phys. Rev. Lett. 100, 201801 (2008).
+A. Abulencia, et al. (CDF Collaboration). Observation of WZ Production. Phys. Rev. Lett. 98, 161801 (2007).
+A. Abulencia, et al. (CDF Collaboration). Measurement of the Λb0 Lifetime in Λb0 ---> J/ψΛ0 in p‾p Collisions at √s = 1.96-TeV. Phys. Rev. Lett. 98, 122001 (2007).
+Q.R. Ahmad et al. [SNO Collaboration], "Measurement of the rate of Ã¯ÂÂ®e + d  p + p + e- Interactions Produced by 8B Solar Neutrinos," Phys. Rev. Lett 87, 071301 (2001)
+
+Research Honors
+Breakthrough Prize in Fundamental Physics, 2016 (2016)
+Dean's Award for Excellence in Research, 2013 (2013)
+Fellow, Center for Advanced Study (University of Illinois), 2012-2013 (2012-2013)
+National Science Foundation CAREER Award, 2011 (2011)
+Faculty Fellow, National Center for Supercomputing Applications, 2008-2009 (2008)
+Arnold O. Beckman Research Award, 2007 (2007)
+
+Recent Courses TaughtPHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 246 - Intro to Computational Physics
+PHYS 398 DAP (PHYS 398 MLA) - Soph/Junr Special Topics Phys
+PHYS 470 - Subatomic Physics
+PHYS 498 MLP - Special Topics in Physics
+PHYS 503 - Instr Phys Appl Machine Learn
+

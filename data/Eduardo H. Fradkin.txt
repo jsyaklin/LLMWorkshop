@@ -1,0 +1,439 @@
+
+
+
+Eduardo H Fradkin 
+
+
+
+
+
+Donald Biggar Willett Professor in Engineering and Director of ICMT
+
+
+(217) 333-4409
+efradkin@illinois.edu
+2119 Engineering Sciences Building
+
+
+For More Information
+Publications list
+Abbreviated curriculum vitae
+Eduardo Fradkin's personal website
+
+Education
+Ph.D. - Physics, Stanford University, 1979
+B.S. - Physics (Licenciado), University of Buenos Aires Argentina, 1974 
+
+BiographyProfessor Eduardo Fradkin is a Donald Biggar Willett Professor of Physics and a Center for Advanced Study Professor at the University of Illinois. He is the current Director of the Institute for Condensed matter Theory. He received his Licenciado (Master's) degree in physics from Universidad de Buenos Aires (Argentina) and his PhD in physics from Stanford University in 1979. He came to the University of Illinois in 1979 as a postdoctoral research associate, and became an assistant professor of physics at Illinois in 1981. He was promoted to associate professor in 1984, and became a full professor in 1989. Professor Fradkin is an internationally recognized leader in theoretical physics, who has contributed to many problems at the interface between quantum field theory (QFT) and condensed matter physics (CMP). Eduardo is a fellow of the American Physical Society, a fellow of the American Academy of Arts and Sciences and member of the National Academy of Sciences.
+In his early work, he pioneered the use of concepts from CMP and statistical physics, such as order parameters and phase diagrams, to problems of QFT and high energy physics, in particular to the non-perturbative behavior of gauge theories. Perhaps his most important result in this area was the proof that when matter fields carry the fundamental unit of charge, the Higgs and confinement phases of gauge theories are smoothly connected to each other and are as different as a liquid is from a gas. This result remains one of the cornerstones of our understanding of the phases of gauge theories and represents a lasting contribution to elementary particle physics.
+Professor Fradkin's unique perspective has allowed him to invoke and apply results from QFT to CMP. He was one of the first theorists to use gauge theory concepts in the theory of spin glasses and to use concepts of chaos and non-linear systems in equilibrium statistical mechanics of frustrated systems. Professor Fradkin has pioneered the application of QFT methods to the physics of correlated disordered electronic systems and the quantum stability of the spontaneously dimerized state of polyacetylene.
+Professor Fradkin also pioneered the use of Dirac fermions for CMP problems, particularly in two space dimensions. A prime example is his work on Dirac fermions on random fields (which he began with former graduate student Dr. Matthew Fisher), which is now regarded as the universality class of the transition between quantum Hall plateaus in the integer Hall effect. This work is also important for the description of quasiparticles in disordered d-wave superconductors. He also applied, quite early on, these ideas to the physics of what nowadays are known as topological insulators, showing that in the presence of lattice topological defects, these systems exhibit a non-trivial electronic spectrum with a parity anomaly.
+A major achievement of Professor Fradkin's recent research has been the development, in collaboration with former graduate student Dr. Ana López, of the fermion Chern-Simons field theory of the fractional quantum Hall effect. This theory has played a central role in the current research effort in this exciting problem in CMP. Professor Fradkin and his collaborators have extended this theory to the more challenging problem of the non-Abelian quantum Hall states and developed a theory of a non-Abelian interferometer to study the unusual properties of the vortices of these quantum fluids. This approach is one of the possible directions for the development of a topological qubit.
+More recently Professor Fradkin and his collaborators introduced the notion of electronic liquid crystal states, which are phases of quantum fermionic strongly correlated systems exhibiting properties akin to those of classical complex fluids. These ideas play a crucial role in the current understanding of the pseudogap regime of high temperature superconductors. More recently, this approach led to Fradkin and coworkers to develop the concept of Intertwined Orders and to the proposal of a novel superconducting state, the Pair density Wave, may be the prime competitor of d-wave superconductivity.
+Fradkin and his graduate student Hart Goldman developed a loop model approach which provides a heuristic derivation of the web of dualities that relate multiple theories of interest in condensed matter and high energy physics.
+Academic Positions
+Center for Advanced Study Professor of Physics
+Donald Biggar Willett Professor in Engineering, 2015-present 
+Professor, University of Illinois, 1989-Present
+Associate Professor, University of Illinois, 1984-89
+Assistant Professor, University of Illinois, 1981-84
+Visiting Res. Asst. Prof., University of Illinois, 1980-81
+Research Associate, University of Illinois, 1979-80
+
+Other Professional Employment
+Member of the Scientific Council and Steering Committee of the South American Institute for Fundamental Research (ICTP-SAIFR), Sao Paulo, Brazil, since November 2017.
+Member of the Board of Editors of the Annual Reviews of Condensed Matter Physics
+Simons Distinguished Visiting Scholar, Kavli Institute for Theoretical Physics of the University of California Santa Barbara, CA (September 2-17, 2014, and April 6- May 1, 2015).
+Member of the International Scientific Board of the International Center for Advanced Studies (Buenos Aires, Argentina), since 2015.
+Visiting Professor, Department of Physics, Faculty of Exact and Natural Sciences, University of Buenos Aires, Argentina, December 2006, July 2010, June 2013.
+Director, Institute for Condensed Matter Theory, University of Illinois at Urbana-Champaign (since Spring 2011)
+Member of the Board of Scientific Directors of the Journal of Statistical Mechanics: Theory and Experiment  (JSTAT) (since 2011)
+Visiting Professor, Department of Physics, Faculty of Exact and Natural Sciences, University of Buenos Aires, Argentina, July 2010.
+Program Organizer and Visiting Scientist, Kavli Institute for Theoretical Physics, University of California Santa Barbara, Santa Barbara, CA, Summer 2009.
+Member of the Scientific Advisory Board Committee of the Institute of Theoretical Physics of the University of Amsterdam, The Netherlands.
+Visiting Scientist at the Program on Frontiers in Quantum Computation at the Princeton Center for Theoretical Physics, February 2008.
+
+Professional Registrations
+Asociación Física Argentina
+
+American Physical Society
+
+Research StatementProfessor Fradkin is an internationally recognized leader in theoretical physics, who has contributed to many problems at the interface between quantum field theory (QFT) and condensed matter physics (CMP). He pioneered the use of concepts from CMP and statistical physics, such as order parameters and phase diagrams, to problems of QFT and high energy physics. Perhaps his most important result in this area was the proof that when matter fields carry the fundamental unit of charge, the Higgs and confinement phases of gauge theories are smoothly connected to each other and are as different as a liquid is from a gas. This result remains one of the cornerstones of our understanding of the phases of gauge theories and represents a lasting contribution to elementary particle physics. Professor Fradkin's unique perspective has allowed him to invoke and apply results from QFT to CMP. He was one of the first theorists to use gauge theory concepts in the theory of spin glasses and to use concepts of chaos and non-linear systems in equilibrium statistical mechanics of frustrated systems. 
+Professor Fradkin has pioneered the application of QFT methods to the physics of correlated disordered electronic systems and the quantum stability of the spontaneously dimerized state of polyacetylene. Professor Fradkin also pioneered the use of Dirac fermions for CMP problems, particularly in two space dimensions. A prime example is his work on Dirac fermions on random fields, which is now regarded as the universality class of the transition between quantum Hall plateaus in the integer Hall effect. This work is also important for the description of quasiparticles in disordered d-wave superconductors. A major achievement of Professor Fradkin's recent research has been the development of the fermion Chern-Simons field theory of the fractional quantum Hall effect. This theory has played a central role in the current research effort in this exciting problem in CMP. He has recently developed a theory of electronic liquid crystal phases in strongly correlated systems and formulated a mechanism of high temperature superconductivity based on this new concept. This theory plays a central role in the interpretation of experiments in these systems of foremost importance. He is also a leader in the theory of topological phases in condensed matter and on the role of quantum entanglement at quantum critical points.
+Research Interests
+Topological phases of matter and the Fractional Quantum Hall effects
+High temperature superconductors and strongly correlated systems
+Phase transitions in 2-D systems
+Electronic properties of disordered systems
+Statistical mechanics of frustrated and disordered systems
+Field theoretic problems of condensed matter physics
+Ph.D. thesis title:  Phase transitions in lattice gauge theories
+Field theoretic problems of condensed matter systems.
+Statistical mechanics of frustrated and disordered systems.  
+Electronic properties of disordered systems.
+Phase transitions in 2-D systems.  
+High temperature superconductors, strongly correlated systems & fractional quantum Hall effect. Topological phases of matter.
+
+
+Research Areas
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Books Authored or Co-Authored (Original Editions)
+Eduardo Fradkin. Quantum Field Theory, An Integrated Approach. Princeton University Press (2021)
+Eduardo Fradkin. Field Theories of Condensed Physics, Second Edition. Cambridge University Press. (2013).
+Eduardo Fradkin. Field Theories of Condensed Matter Systems. (Addison-Wesley Advanced Book Program: Redwood City). Frontiers in Physics Series (1991).
+
+Chapters in Books
+Eduardo Fradkin. Field Theoretic Aspects of Condensed Matter Physics. Chapter in "Encyclopedia of Condensed Matter Physics 2e", Tapash Chakraborty and Hideo Aoki editors , Volume 1, pages 27-131  (Elsevier) (2024). 
+Eduardo Fradkin. Electronic Liquid Crystal Phases in Strongly Correlated Systems, in Proceedings of the Les Houches Summer School on "Modern theories of correlated electron systems", Les Houches, Haute Savoie, France (May 2009), Daniel C. Cabra, Andreas Honecker, and Pierre Pujol, editors, Lecture Notes in Physics 843, Springer-Verlag Berlin Heidelberg (2012),
+
+S. A. Kivelson and E. H. Fradkin. How optimal inhomogeneity produces high temperature superconductivity, Chapter 15 in  "Treatise of High Temperature Superconductivity", ed. J. R. Schrieffer and J. S. Brooks (Springer-Verlag). (2007).
+A. López and E. H. Fradkin. Fermionic Chern-Simons field theory for the fractional Hall effect. Composite Fermions in the Quantum Hall Effect. ed. O. Heinonen (World Scientific). (1998).
+
+E. H. Fradkin and A. López. Universality in the fractional quantum Hall effect. Low Dimensional Quantium Field Theories for Condensed Matter Physicists. eds. S. Lundgvist et al. (World Scientific). (1995).
+
+A. López and E. H. Fradkin. Fractional quantum Hall effect and Chern-Simons gauge theories. Field theoretical methods in condensed matter physics. (The Physical Society of Japan). (1995). Article in Phys. Rev. B 44, 5246 (1991).
+
+H. Q. Lin, E. R. Gagliano, D. K. Campbell, E. H. Fradkin, and J. E. Gubernatis. The Phase Diagram of the One-Dimensional Extended Hubbard Model. The Hubbard Model. eds. D. Bairiswyl et al. (Plenum Press). 315-327 (1995).
+E. H. Fradkin and L. P. Kadanoff. Disorder variables and para-Fermions in two-dimensional statistical mechanics. From Order to Chaos: Essays: Critical, Chaotic and Otherwise. ed. L. P. K. ed. (World Scientific). (1994). Article in Nucl. Phys. B 170 (FS1) (1980 ).
+E. H. Fradkin. Field theory of the fractional quantum Hall effect. Physical Phenomena at High Magnetic Fields. ed. E. Manousakis (Addison-Wesley: Redwood City). (1992).
+A. Balatsky and E. H. Fradkin. Singlet quantum Hall effect and Chern-Simons theories. Quantum Hall Effect. M. Stone ed. (World Scientific)). (1992). Article in Phys. Rev. B 43, 10622 (1991) .
+A. Lopez and E. H. Fradkin. Fractional Quantum Hall Effect and Chern-Simons Gauge Theories. The Physical Society of Japan Phys. Rev. B 44, 5246-5262 (1991).
+E. H. Fradkin. Anyons for beginners. J. J. Giambiagi Festschrift. ed. H. Falomir (World Scientific: Singapore). 169-189 (1990).
+E. H. Fradkin. Anomalies in field theory and condensed matter physics. Connections Among Particle, Nuclear, Statistical and Condensed Matter Physics. eds. J. Giambiagi et al. (World Scientific)). 190-207 (1988).
+E. H. Fradkin. Interactions and localization in a disordered electron gas. Recent Advances in Field Theory and Statistical Mechanics. Proc. Les Houches Summer School in Theoretical Physics, Les Houches, Session XXXIX, 1982, eds. J. B. Zuber and R. Stora, (Elsevier, B. V.) 527-553 (1984).
+E. H. Fradkin and L. Susskind. Order and disorder in gauge systems and magnets. Lattice Gauge Theories. (The Physical Society of Japan). ( Article in Phys. Rev. D 17, 2637 -1978.) (1980).
+
+Selected Articles in Journals
+Matthew C. O'Brien and Eduardo Fradkin, Interplay of Quantum and Thermal Fluctuations in Two-Dimensional Randomly Pinned Charge Density Waves, Journal of Statistical Mechanics: Theory and Experiment 2025, 013105 (2025).
+
+Caitlin S. Kengle, Dipanjan Chaudhuri, Xuefei Guo, Thomas A. Johnson, Simon Bettler, Wolfgang Simeth, Matthew J. Krogstad, Zahir Islam, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan, and Peter Abbamonte, Absence of a bulk charge density wave signature in x-ray measurements of UTe2. Physical Review B 110, 145101 (2024).
+
+Marcus Rosales and Eduardo Fradkin. Electronic structure of topological defects in the pair density wave superconductor. Physical Review B 110, 214508 (2024)
+
+Songyang Pu, Ajit C. Balram, Joseph Taylor, Eduardo Fradkin, and Zlatko Papic. Microscopic Model for Fractional Quantum Hall Nematics. Physical Review Letters 132, 236503 (2024).
+
+Arjun Raghavan, Marisa Romanelli, Julian May-Mann, Anuva Aishwarya, Leena Aggarwal, Anisha G. Singh, Maja D. Bachmann, Leslie M. Schoop, Eduardo Fradkin, Ian R. Fisher & Vidya Madhavan. Atomic-scale visualization of a cascade of magnetic orders in the layered antiferromagnet GdTe3. npj Quantum Materials 9, 47 (2024).
+
+A. Aishwarya, J. May-Mann, A. Almoalem, A. Ran, S.R. Saha, J. Paglione, N.P. Butch, E. Fradkin, and V. Madhavan Melting of the charge density wave by generation of pairs of topological defects in UTe2. Nat. Phys. 20, 964-969 (2024).
+
+R.S. Severino, P.D. Mininni, E. Fradkin, V. Bekeris, G. Pasquini, G.S. Lozano. Ginzburg-Landau approach to the vortex-domain wall interaction in superconductors with nematic order. Phys. Rev. B 109, 094513 (2024).
+J. Cao, A. Kou, and E. Fradkin. Signatures of parafermion zero modes in fractional quantum Hall--superconductor heterostructures. Phys. Rev. B 109, L161106 (2024).
+
+M.C. O'Brien and E. Fradkin. An exactly solvable model of randomly pinned charge density waves in two dimensions. J. Stat. Mech.: Theory & Experiment 2024:1, 013104 (2024). 
+
+A. Aishwarya, J. May-Mann, A. Raghavan, L. Nie, M. Romanelli, S. Ran, S. R. Saha, J. Paglione, N.P. Butch, E. Fradkin and V. Madhavan. Magnetic-field-sensitive charge density waves in the superconductor UTe2. Nature  618,  928-933 (2023).
+
+B. Moy, H. Goldman, R. Sohal and E. Fradkin. Theory of Oblique Topological Insulators. SciPostPhysics 14, 023 (2023).
+
+R.S. Severino, P.D. Mininni, E. Fradkin, V. Bekeris, G. Pasquini, G.S. Lozano. Vortices in a Ginzburg-Landau Theory of Superconductors with Nematic Order. Phys. Rev. B 106, 094512 (2022).
+
+S. Lee, E.W. Huang, T.A. Johnson, X. Guo, A.A. Husain, M. Mitrano, K. Lua, A.V. Zakrzewski, G.A. de la Peña, Y. Peng, H. Huang, S.-J. Lee, H. Jang, J.-S. Lee, Y.I. Joe, W.B. Doriese, P. Szypryt, D.S. Swetz, S. Chi, A.A. Aczel, G.J.MacDougall, S.A. Kivelson, E. Fradkin, and P. Abbamonte. Generic character of the charge and spin density waves in superconducting cuprates. PNAS 119, e2119429119/1-6 (2022).
+R. Sohal, L. Nie, X.-Q. Sun, and E. Fradkin. Thermalization of randomly coupled SYK models. J. Stat. Mech. 013103 (2022).
+S. Lee, J. Collini, S.X.-L. Sun, M. Mitrano, X. Guo, C. Eckberg, J. Paglione, E. Fradkin, and P. Abbamonte. Multiple Charge Density Waves and Superconductivity Nucleation at Antiphase Domain Walls in the Nematic Pnictide Ba1-xSrxNi2As2. Phys. Rev. Lett. 127, 027602 (2021).
+
+H. Goldman, R. Sohal, and E. Fradkin. Composite particle construction of the Fibonacci fractional quantum Hall state. Phys. Rev. B 103, 235118 (2021).
+
+H. Goldman, R. Sohal, and E. Fradkin. Non-Abelian Fermionization and the Landscape of Quantum Hall Phases. Phys. Rev. B 102, 195151 (2020).
+
+R. Sohal and E. Fradkin.Intertwined order in fractional Chern insulators from finite-momentum pairing of composite fermions. Phys. Rev. B 101, 245154 (2020)
+
+J. May-Mann, R. Levy, R. Soto-Garrido, G. Young Cho, B. K. Clark, and E. Fradkin. Topology and the one-dimensional Kondo-Heisenberg model. Phys. Rev. B 101, 165133 (2020).
+
+D. F. Agterberg, J.C. S. Davis, S. D. Edkins, E. Fradkin, D. J. Van Harlingen, S. A. Kivelson, P. A. Lee, L. Radzihovsky, J. M. Tranquada, and Y. Wang. The Physics of Pair Density Waves: Cuprate Superconductors and Beyond. Ann. Rev. Cond. Matt. Phys. 11, 231 (2020).
+H. Goldman, R. Sohal, and E. Fradkin. Landau-Ginzburg theories of non-Abelian quantum Hall states from non-Abelian bosonization. Phys. Rev. B 100, 115111 (2019).
+L. H. Santos, Y. Wang, and E. Fradkin. Pair-Density-Wave Order and Paired Fractional Quantum Hall Fluids.Phys. Rev. X 9, 021047 (2019).
+J. Schmidt, V. Bekeris, G. S. Lozano, M. V. Bortulé, M. Marziali Bermúdez, C. W. Hicks, P. C. Canfield, E. Fradkin, and G. Pasquini. Nematicity in the superconducting mixed state of strain detwinned underdoped Ba(Fe1-xCox)2As2. Phys. Rev. B 99, 064515 (2019).
+P. Roura-Bas, L. Arrachea, and E. Fradkin. Helical spin thermoelectrics controlled by a side-coupled magnetic quantum dot in the quantum spin Hall state. Phys. Rev. B 98, 195429 (2018).
+D. G. Barci, E. Fradkin, and L. Ribeiro. Bosonization of Fermi liquids in a weak magnetic field. Phys. Rev. B 98, 155146 (2018).
+H. Goldman and E. Fradkin. Dirac composite fermions and emergent reflection symmetry about even-denominator filling fractions. Phys. Rev. B 98, 165137 (2018).
+Y. Ferreirós and E. Fradkin. Boson-fermion duality in a gravitational background. Annals of Physics 399, 1-25 (2018).
+E. Plamadeala and E. Fradkin. Scrambling in the Quantum Lifshitz Model. J. Stat. Mech.: Theory and Experiment, 2018, 063102 (2018).
+Y. Wang, S. D. Edkins, M. H. Hamidian, J. C. S. Davis, E. Fradkin, and S. A. Kivelson. Pair density waves in superconducting vortex halos. Phys. Rev. B 97, 174510 (2018). (Editor's Suggestion)
+H. Goldman and E. Fradkin. Loop models, modular invariance, and three-dimensional bosonization. Phys. Rev. B 97, 195112 (2018).
+R. Sohal, L. H. Santos, and E. Fradkin. Chern-Simons composite fermion theory of fractional Chern insulators. Phys. Rev. B 97, 125131 (2018).
+H. J. Changlani, D. Kochkov, K. Kumar, B. K. Clark, and E. Fradkin. Macroscopically Degenerate Exactly Solvable Point in the Spin-1/2 Kagome Quantum Antiferromagnet. Phys. Rev. Lett. 120, 117202 (2018) (Editor's Suggestion)
+P. Roura-Bas, L. Arrachea, and E. Fradkin. Enhanced thermoelectric response in the fractional quantum Hall effect. Phys. Rev.  B 97, 081104(R) (2018).
+A. Kogar, S. Vig, M. S. Rak, A. A. Husain, F. Flicker, Y. I. Joe, L. Venema, G. J. MacDougall, T. C. Chiang, E. Fradkin, J. van Wezel, and P. Abbamonte. Exciton condensation in 1T-TiSe2 observed with meV-resolved electron energy-loss spectroscopy,  Science 358, 1314 (2017).
+X. Chen, E. Fradkin, and W. Witczak-Krempa. Quantum spin chains with multiple dynamics. Phys. Rev. B 96, 180402(R) (2017).
+X. Chen, E. Fradkin, and W. Witczak-Krempa. Gapless quantum spin chains: multiple dynamics and conformal wavefunctions. J. Phys. A: Mathematical & Theoretical  50,  464002 (2017).
+S. Vig, A. Kogar, M. Mitrano, A. A. Husain, V. Mishra, M. S. Rak, L. Venema, P. D. Johnson, G. D. Gu, E. Fradkin, M. R. Norman, P. Abbamonte. Measurement of the dynamic charge response of materials using low-energy, momentum-resolved electron energy-loss spectroscopy (M-EELS). SciPost Physics 3, 026 (2017).
+G. Young Cho, J. C. Y. Teo, and E. Fradkin. Symmetric-gapped surface states of fractional topological insulators. Phys. Rev. B  96, 161109(R) (2017).
+L. Nie, A. V. Maharaj, E. Fradkin, and S. A. Kivelson.  Vestigial nematicity from spin and/or charge order in the cuprates.  Phys. Rev. B 96, 085142 (2017).  
+P. Ye, M. Cheng, and E. Fradkin. Fractional S-duality, classification of fractional topological insulators, and surface topological order. Phys. Rev. B 96, 085125 (2015).
+V. Chua, W. Assawasunthonnet, and E. Fradkin. Effective field theory of an anomalous Hall metal from interband quantum fluctuations. Phys. Rev. B 96, 035110 (2017).
+R. Soto-Garrido, Y. Wang, E. Fradkin, and S. L. Cooper. Higgs modes in the pair density wave superconducting state. Phys. Rev. B 95, 214502 (2017).
+Z. Wang, D. Walkup, P. Derry, T. Scaffidi, M. Rak, S. Vig, A. Kogar, I. Zeljkovic, A. Husain, L. H. Santos, Y. Wang, A. Damascelli, Y. Maeno, P. Abbamonte, E. Fradkin, and V. Madhavan. Quasiparticle Interference and Strong Electron-Mode Coupling in the Quasi-One-Dimensional Bands of Sr2RuO4. Nat. Phys. 13, 799 (2017) (cover issue)
+E. Fradkin. Disorder Operators and Their Descendants. Invited article to a volume in memory of Leo Kadanoff. J. Stat. Phys. 167, 427 (2017). 
+X. Chen, W. Witczak-Krempa, T. Faulkner, and E. Fradkin. Two-cylinder entanglement entropy under a twist. J. Stat. Mech.: Theory & Experiment 2016, 043104 (2017).
+S. Yan, D. Iaia, E. Morosan, E. Fradkin, P. Abbamonte, and V. Madhavan. The influence of domain walls in the incommensurate charge density wave state of Cu intercalated 1T-TiSe2. Phys. Rev. Lett. 116, 106405 (2017).
+K. Kumar, H. J. Changlani, B. K. Clark, and E. Fradkin. Numerical evidence for a chiral spin liquid in the XXZ antiferromagnetic Heisenberg model on the kagome lattice at m=2/3 magnetization. Phys. Rev. B 94, 134410 (2016).
+P. Ye, T. L. Hughes, J. Maciejko, and E. Fradkin. Composite particle theory of three-dimensional gapped fermionic phases: Fractional topological insulators and charge-loop excitation symmetry. Phys. Rev. B 94, 115104 (2016).
+Y. Gan, G. A. de la Peña, A. Kogar, B. Uchoa, D. Casa, T. Gog, E. Fradkin, and P. Abbamonte. Reexamination of the effective fine structure constant of graphene as measured in graphite. Phys. Rev. B93, 195150 (2016).
+Y. You, G. Young Cho, E. Fradkin. Nematic quantum phase transition of composite Fermi liquids in half-filled
+Landau levels and their geometric response. Phys. Rev. B 93, 205401 (2016).
+Y. Wang, G. Young Cho, T. L. Hughes, and E. Fradkin. Topological superconducting phases from inversion symmetry breaking order in spin-orbit-coupled systems. Phys. Rev. B 93, 134512 (2016).
+A. P. O. Chan, T. Kvorning, S. Ryu, and E. Fradkin.Effective hydrodynamic field theory and condensation picture of topological insulators. Phys. Rev. B 93, 155122 (2016).
+L. H. Santos and E. Fradkin. "Instanton effects in lattice models of bosonic symmetry-protected topological states". Phys. Rev. B 93, 155145 (2016).
+X. Chen, X. Yu, G. Young Cho, B. K. Clark, and E. Fradkin. Many-body Localization Transition in  Rokhsar-Kivelson-type wave functions. Phys. Rev.  B 92, 212204 (2015).
+N. Samkharadze, K. A. Schreiber, G. C. Gardner, M. J. Manfra, E. Fradkin and G. A. Csáthy. Observation of a transition from a topologically ordered to a spontaneously broken symmetry phase. Nat. Phys. 12, 191 (2016).
+K. Sun, K. Kumar, and E. Fradkin. A discretized Chern-Simons gauge theory on arbitrary graphs. Phys. Rev. B 92, 115148 (2015). (Editor's suggestion)
+X. M. Chen, A. J. Miller, C. Nugroho, G. A. de la Peña, Y. I. Joe, A. Kogar, J. D. Brock, J. Geck, G. J. MacDougall, S. L. Cooper, E. Fradkin, D. J. Van Harlingen, P. Abbamonte. Influence of Ti doping on the incommensurate charge density wave in 1T-TaS2. Phys. Rev. B 91, 245113 (2015).
+J. C. Y. Teo, T. L. Hughes, and E. Fradkin. Theory of Twist Liquids: Gauging and Anyonic Symmetry. Annals of Physics 360, 349 (2015).
+E. Fradkin, S. A. Kivelson, and J. M. Tranquada. Colloquium: Theory of intertwined orders in high temperature superconductors. Rev. Mod. Phys, 87, 457 (2015)
+S. L. Gleason, Y. Gim, T. Byrum, A. Kogar, P. Abbamonte, E. Fradkin, G. J. MacDougall, D. J. Van Harlingen, X. Zhu, C. Petrovic, and S. L. Cooper. Structural contributions to the pressure-tuned charge-density-wave to superconductor transition in ZrTe3: Raman scattering studies. Phys. Rev. B 91, 155124 (2015).
+R. Soto-Garrido, G. Young Cho, and E. Fradkin. Quasi-one-dimensional pair density wave superconducting state. Phys. Rev. B 91, 195102 (2015).
+X. Chen, G. Young Cho, T. Faulkner, and E. Fradkin. Scaling of entanglement  in  2+1-dimensional scale-invariant  field theories. J. Stat. Mech., 2015, P02010 (2015).
+A. Gromov, G. Young Cho, Y. You, A. G. Abanov, and E. Fradkin. Erratum: Framing Anomaly in the Effective Theory of the Fractional Quantum Hall Effect [Phys. Rev. Lett. 114, 016805 (2015)]. Phys. Rev. Lett. 114, 149902 (2015).
+A. Gromov, G. Young Cho, Y. You, A. G. Abanov, and E. Fradkin. Framing Anomaly in the Effective Theory of the Fractional Quantum Hall Effect. Physical Review Letters 114, 016805(2015). (Editor's Suggestion)
+Y. You, G. Young Cho and E. Fradkin. Theory of the Nematic Fractional Quantum Hall State. Phys. Rev.  X 4, 041050 (2014).
+G. Young Cho, R. Soto-Garrido and E. Fradkin. Topological Pair-Density-Wave Superconducting States. Phys. Rev. Lett. 113, 256405 (2014). 
+K. Kumar, K. Sun, and E. Fradkin. Chern-Simons theory for magnetization plateaus of the spin-1/2 XXZ quantum Heisenberg model on the kagome lattice. Phys. Rev. B 90, 174409 (2014).
+G. Young Cho, Y. You and E. Fradkin. Geometry of fractional quantum Hall Fluids. Phys. Rev. B 90, 115139 (2014).
+R. Soto Garrido and E. Fradkin. Pair-Density-Wave  Superconducting States and Electronic Liquid Crystal Phases. Phys. Rev. B 89, 165126 (2014).
+E. Fradkin, E. F. Moreno and F. A. Schaposnik. Bosonization of fermions coupled to topologically massive gravity. Phys. Lett. B 730, 284 (2014).
+S. Papanikolaou, D. Charrier, and E. Fradkin. Ising nematic fluid phase of hard-core dimers on the square lattice. Phys. Rev.  B 89, 035128 (2014).
+Y. You and E. Fradkin. Field theory of nematicity in the spontaneous quantum anomalous Hall effect. Phys. Rev. B 88, 235124 (2013). (Editor's Suggestion)
+X. Chen and E. Fradkin. Quantum entanglement and thermal reduced density matrices in fermion and spin systems on ladders. J. Stat. Mech. (2013) P08013
+H. Aita, L. Arrachea, C. Naón, and E. Fradkin, Heat transport through quantum Hall edge states: Tunneling versus capacitive couplings to reservoirs. Phys. Rev. B 88, 085122 (2013).
+A. Dobry, A. Jaefari, and E. Fradkin, Inhomogeneous superconducting phases in the frustrated Kondo-Heisenberg chain. Phys. Rev. B 87, 245102 (2013)
+A. Chan, Taylor L. Hughes, S. Ryu, and Eduardo Fradkin. Effective field theories for topological insulators by functional bosonization. Phys. Rev. B 87, 085132 (2013).
+B. Hsu and E. Fradkin. Dynamical stability of the quantum Lifshitz theory in 2+1 Dimensions. Phys. Rev. B 87, 085102 (2013).
+E. Fradkin and S. A. Kivelson. High-temperature superconductivity: Ineluctable complexity. Nat. Phys. 8, 864 (2012).
+X. Chen, B. Hsu, T. Hughes and E. Fradkin, The Renyi Entropy and the Multifractal Spectrum of Systems Near the Localization Transition. Phys. Rev. B 86, 134201 (2012).
+B. Uchoa, J. P Reed, Y. Gan, Y. I. Joe, E. Fradkin, P. Abbamonte, and D. Casa. The electron many-body problem in graphene. Physica Scripta T 2012, 014014 (2012).
+A. Jaefari and E. Fradkin. Pair-density-wave superconducting order in two-leg ladders. Phys. Rev. B 85, 035104 (2012).
+L. Arrachea and E. Fradkin. Chiral heat transport in driven quantum Hall and quantum spin Hall edge states. Phys. Rev. B 84, 235436 (2011).
+D. G. Barci and E. Fradkin.  Role of nematic fluctuations in the thermal melting of pair-density-wave phases in two-dimensional superconductors. Phys. Rev. B 83, 100509(R) (2011).
+D. Schuricht, F. H. L. Essler, A. Jaefari, and E. Fradkin.  Boundary effects on the local density of states of one-dimensional Mott insulators and charge density wave states. Phys. Rev. B 83, 035111 (2011).
+M. Kim, X. M. Chen, Y. I. Joe, E. Fradkin, P. Abbamonte, and S. L. Cooper.  Mapping the magnetostructural quantum phases of Mn3O4. Phys. Rev. Lett. 104, 136402 (2010).
+A. Jaefari, S. Lal, and E. Fradkin.  Charge-density wave and superconductor competition in stripe phases of high-temperature superconductors. Phys. Rev. B 82, 144531 (2010).
+E. Berg, E. Fradkin, and S. A. Kivelson.  Pair-density-wave correlations in the Kondo-Heisenberg model. Phys. Rev. Lett. 105, 146403 (2010).
+B. Hsu and E. Fradkin.  Universal behavior of entanglement in 2D quantum critical dimer models. J. of Stat. Mech.: Theo. and Exp. P09004 (2010).
+B. Fregoso and E. Fradkin.  Unconventional magnetism in imbalanced Fermi systems with magnetic dipolar interactions. Phys. Rev. B 81, 214443 (2010).
+E. Fradkin and S. A. Kivelson.  Electron nematic phases proliferate. Science 327:5962 155-156 (2010).
+T. L. Hughes, R. G. Leigh, and E. Fradkin. Torsional response and dissipationless viscosity in topological insulators. Phys. Rev. Lett. 107, 075502 (2011).
+J. P. Reed, B. Uchoa, Y. I. Joe, Y. Gan, D. Casa, E. Fradkin, and P. Abbamonte. The effective fine structure constant of freestanding graphene measured in graphite.  Science 330, 805-808 (2010).
+B. Hsu and E.  Fradkin. Universal behavior of entanglement in 2D quantum critical Models. J. of Stat. Mech.: Theo. and Exp. P09004 (2010).
+E. Fradkin, S. A. Kivelson, M. J. Lawler, J. P. Eisenstein, and A. P. Mackenzie. Nematic Fermi fluids in Condensed Matter Physics. Annual Reviews of Cond. Matter Phys. 1, 153 (2010).
+B. M. Fregoso and E. Fradkin. Unconventional magnetism in imbalanced Fermi systems with magnetic dipolar interactions. Phys. Rev. B 81, 214443 (2010).
+D. S. Caplan, V. Orlyanchik, M. B. Weissman, D. J. Van Harlingen, E. H. Fradkin, M. J. Hinton, and T. R. Lemberger. Anomalous noise in the pseudogapregime of YBa_2Cu_3O_{7-delta}. Phys. Rev. Lett. 104, 177001 (2010).
+M. Kim, H. Barath, X. Chen, Y. -I Joe, E. Fradkin, P. Abbamonte, and S. L. Cooper. Magnetic field and pressure controlled phases in complex materials. Adv. Mat. 22, 1148 (2010).
+S. A. Kivelson and E. Fradkin. Fluctuation diamagnetism in high temperature superconductors. Viewpoint invited article. Phys. 3, 15 (2010).
+M. Kim, X. Chen, Y.-I. Joe, E. Fradkin, P. Abbamonte and S. L. Cooper. Mapping the magneto-structural quantum phases of Mn3O4. Phys. Rev. Lett. 104, 136402 (2010).
+E. Fradkin and S. A. Kivelson. Electron nematics proliferate.  "Perspectives"  invited  article, Science 327, 155 (2010).
+B. Hsu, E. Grosfeld, and E. Fradkin. Quantum noise and entanglement generated by a local quantum quench. Phys. Rev. B 80, 235412 (2009). (Editor's Suggestion)
+B. M. Fregoso and E. Fradkin. Ferro-nematic ground state of the dilute dipolar Fermi gas. Phys. Rev. Lett. 103, 205301 (2009).
+E. Fradkin. Scaling of entanglement entropy at 2D quantum Lifshitz fixed points and topological fluids. J. of Phys. A 42, 504011 (2009). (Special issue on Entanglement Entropy: P. Calabrese, J. Cardy, and B. Doyon, editors)
+E. Berg, E. Fradkin, and S. A. Kivelson. Charge 4e superconductivity from pair density wave order in certain high temperature superconductors. Nature Physics 5, 830-833 (2009). 
+E. Berg, E. Fradkin, S. A. Kivelson and J. M. Tranquada. Striped superconducting order: How the cuprtaes intertwine spin, charge, and superconducting orders. New J. of Phys. 11, 115004 (2009).
+B. M. Fregoso, K. Sun, E. Fradkin, and B. L. Lev. Biaxial nematic phases in ultracold dipolar Fermi gases. New J. of Phys. 11, 103003 (2009).
+K. Sun, H. Yao, E. Fradkin, and S. A. Kivelson. Topological insulators and nematic phases from spontaneous symmetry breaking in 2D Fermi systems with a quadratic band vrossing. Phys. Rev. Lett. 103, 046811 (2009).
+B. Hsu, M.l Mulligan, E. Fradkin, and E.-A. Kim. Universal entanglement entropy in two-dimensional conformal quantum critical points. Phys. Rev. B 79, 115421 (2009).
+E. Berg, E. Fradkin, and S. A. Kivelson. Theory of the striped superconductor. Phys. Rev. B 79, 064515 (2009). (Editor's Suggestion)
+K. Sun and E. Fradkin. Time reversal symmetry breaking and spontaneous anomalous Hall effect in Fermi fluids. Phys. Rev. B 78, 245122 (2008).
+H. Barath, M. Kim, S. L. Cooper, P. Abbamonte, E. Fradkin, I. Mahns, M. Rubhausen, N. Aliouane, and D. N. Argyriou, Domain fluctuations near the field-induced incommensurate-commensurate phase transition of  TbMnO3. Phys. Rev. B 78, 134407 (2008).
+K. Sun, B. M. Fregoso and E. Fradkin. Fluctuating stripes in strongly correlated electron systems and the nematic-smectic quantum phase transition. Phys. Rev. B. 78, 085124 (2008).
+D. Schuricht, F. Essler, A. Jaefari, and E. Fradkin. Local density of states of 1D Mott insulators and CDW states with a boundary. Phys. Rev. Lett. 101, 086403 (2008).
+E.-A. Kim, M. J. Lawler, P. Oreto, S. Sachdev, E. Fradkin, and S. A. Kivelson. Theory of the nodal nematic quantum phase transition in superconductors. Phys. Rev. B 77, 184514 (2008).
+M. Kim, H. Barath, S. L. Cooper, P. Abbamonte, E. Fradkin, M. Rubhausen, C. L. Zhang, and S.-W. Cheong. Raman scattering studies of temperature- and field-induced melting of charge order in (La,Pr,Ca)MnO3. Phys. Rev. B 77, 134411 (2008).
+S. Dong, E. Fradkin, R. G. Leigh, and S. Nowling, Topological entanglement entropy in Chern-Simons theories and quantum Hall fluids. J. of High Energy Phys. 2008 (5),016 (2008).
+E. Fradkin. Quantum physics: Debut of the quarter electron (News & Views article in Nature). Nature 452, 822-823 (2008).
+H. Barath, M. Kim, J. F. Karpus, S. L. Cooper, P. Abbamonte, E. Fradkin, E. Morosan, and R. J. Cava, Quantum and classical mode softening near the charge-density-wave/superconductor transition of Cu_x Ti Se_2: Raman spectroscopic studies. Phys. Rev. Lett. 100, 106402 (2008).
+S. Papanikolaou, R. M. Fernandes, E. Fradkin, P. W. Phillips, J. Schmalian, and R. Sknepnek. Universality of liquid-gas Mott transitions at finite temperatures. Phys. Rev. Lett. 100, 026408 (2008).
+S. Papanikolaou, K. S. Raman, and E. Fradkin. Topological phases and topological entropy of two-dimensional systems with finite correlation length. Phys. Rev. B 76, 224421(2007).
+E. Berg, E. Fradkin, E.-A. Kim, S. Kivelson, V. Oganesyan, J. M. Tranquada, and S. Zhang. Dynamical layer decoupling in a stripe-ordered high Tc superconductor. Phys. Rev. Lett. 99, 127003 (2007).
+S. Papanikolaou, E. Luijten, and E. Fradkin. Quantum criticality, lines of fixed points, and phase separation in doped two-dimensional quantum dimer models}. Phys. Rev. B 76, 134514 (2007).
+C. Chamon, E. Fradkin, and A. Lopez. Fractional statistics and duality: strong coupling behavior of edge states of quantum Hall liquids in the Jain sequence. Phys. Rev. Lett. 98, 176801 (2007).
+E. Fradkin, S. A. Kivelson, and V. Oganesyan. Discovery of a nematic electron fluid in a transition metal oxide. Invited paper published in "Perspectives in Science", Science 315, 196 (2007).
+S. Papanikolaou, K. S. Raman, and E. Fradkin. Devil's staircases, quantum dimer models and stripe formation in strong coupling models of quantum frustration. Phys. Rev. B 75, 094406 (2007).
+C. Wu, K. Sun, E. Fradkin, and S. Zhang. Fermi liquid instabilities in the spin channel. Phys. Rev. B 75, 115103 (2007).
+M. Lawler and E. Fradkin. Local quantum criticality in the nematic quantum phase transition of a Fermi fluid. Phys. Rev. B 75, 033304 (2007).
+E. Fradkin and J. E. Moore. Entanglement entropy of 2D conformal quantum critical points: hearing the shape of a quantum drum. Phys. Rev. Lett. 97, 050404-1-4 (2006).
+E.-A. Kim, M. Lawler, S. Vishveshwara, and Eduardo Fradkin. Measuring fractional charge and statistics in fractional quantum Hall fluids through noise experiments. Phys. Rev. B 74, 155324-1-23 (2006).
+J. Robertson, S. A. Kivelson, A. Kapitulnik, and E. Fradkin. Distinguishing patterns of charge order;  Stripes or checkerboards. Phys. Rev. B 74, 134507 (2006).
+A. H. Castro Neto, P. Pujol, and E. H. Fradkin. Ice: a strongly correlated proton system. Phys. Rev. B 74, 024302 (2006).
+E. Carlson, K. A. Dahmen, E. H. Fradkin, and S. Kivelson. Hysteresis and noise from electronic nematicity in high temperature superconductors. Phys. Rev. Lett. 96, 097003 (2006).
+M. Lawler, D. Barci, V. Fernandez, E. H. Fradkin, and L. Oxman. Non-perturbative behavior of the quantum phase transition to a nematic Fermi fluid. Phys. Rev. B 73, 085101(2006).
+E.-A. Kim, M. Lawler, S. Vishveshwara, and E. H. Fradkin. Signatures of fractional statistics in noise experiments in quantum Hall fluids. Phys. Rev. Lett. 95, 176402 (2005).
+P. Fendley and E. H. Fradkin. Realizing non-Abelian statistics in time-reversal-invariant systems. Phys. Rev. B 72, 024412-1-8 (2005).
+S. E. Brown, E. H. Fradkin, and S. A. Kivelson. Surface pinning of fluctuating charge order: an extraordinary surface phase transition. Phys. Rev. B 71, 224512-1-8 (2005).
+Z. Nussinov and E. H. Fradkin. Discrete sliding symmetries, dualities, and self-dualities of quantum orbital compass models and p+ip superconducting arrays. Phys. Rev. B 71, 195120-1-9 (2005).
+I. Yang, W. Kang, K. W. Baldwin, L. N. Pfeiffer, K. W. West, E. A. Kim, and E. Fradkin. Quantum Hall line junction with impurities as a multislit Luttinger liquid interferometer. Phys. Rev. B 71, 113312-1-4 (2005).
+E.-A. Kim, S. Vishveshwara, and E. H. Fradkin. Cooper-pair tunneling in junctions of singlet quantum Hall states and superconductors. Phys. Rev. Lett. 93, 266803-1-4 (2004).
+M. J. Lawler and E. H. Fradkin. Quantum Hall smectics, sliding symmetry, and the renormalization group. Phys. Rev. B 70, 165310-1-7 (2004).
+E. H. Fradkin, D. A. Huse, R. Moessner, V. Oganesyan, and S. L. Sondhi. Bipartite Rokhsar-Kivelson points and Cantor deconfinement. Phys. Rev. B 69, 224415-1-8 (2004).
+E. Arrigoni, E. H. Fradkin, and S. A. Kivelson. Mechanism of high-temperature superconductivity in a striped Hubbard model. Phys. Rev. B 69, 214519-1-8 (2004).
+A. Lopez and E. H. Fradkin. Fermion Chern-Simons theory of hierarchical fractional quantum Hall states. Phys. Rev. B 69, 155322-1-10 (2004).
+S. A. Kivelson, E. H. Fradkin, and T. H. Geballe. Quasi-one-dimensional dynamics and Nematic phases in the two-dimensional Emery model. Phys. Rev. B 69, 144505-1-7 (2004).
+E. Ardonne, P. Fendley, and E. H. Fradkin. Topological order and conformal quantum critical points. Ann. of Phys. 310, 493-551 (2004).
+S. A. Kivelson, I. P. Bindloss, E. Fradkin, V. Oganesyan, J. Tranquada, A. Kapitulnik, and C. Howald. How to detect fluctuating stripes in the high-temperature superconductors. Rev. Mod. Phys. 75, 1201-1241 (2003).
+E. A. Kim and E. H. Fradkin. Double point contact in quantum Hall line junctions. Phys. Rev. Lett. 91, 156801-1-4 (2003).
+C. J. Wu, L. W. Vincent, and E. H. Fradkin. Competing orders in coupled Luttinger liquids. Phys. Rev. B 68, 115104-1-16 (2003).
+E. A. Kim and E. H. Fradkin. Interedge tunneling in quantum Hall line junctions. Phys. Rev. B 67, 045317-1-17 (2003).
+S. A. Kivelson, D. H. Lee, E. H. Fradkin, and V. Oganesyan. Competing order in the mixed state of high-temperature superconductors. Phys. Rev. B 66, 144516-1-8 (2002).
+D. G. Barci and E. H. Fradkin. Theory of the quantum Hall smectic phase. II. Microscopic theory. Phys. Rev. B 65, 245320-1-19 (2002).
+D. G. Barci, E. H. Fradkin, S. A. Kivelson, and V. Oganesyan. Theory of the quantum Hall smectic phase. I. Low-energy properties of the quantum Hall smectic fixed point. Phys. Rev. B 65, 245319-1-14 (2002).
+R. Moessner, S. L. Sondhi, and E. H. Fradkin. Short-ranged resonating valence bond physics, quantum dimer models, and Ising gauge theories. Phys. Rev. B 65, 024504-1-16 (2001).
+E. H. Fradkin, V. Jejjala, and R. G. Leigh. Non-commutative Chern-Simons for the quantum Hall system and duality. Nucl. Phys. B 642, 483-500 (2002).
+M. Granath, V. Oganesyan, S. A. Kivelson, E. H. Fradkin, and V. J. Emery. Nodal quasiparticles in stripe ordered superconductors. Phys. Rev. Lett. 87, 167011-1-4 (2001).
+W. V. Liu and E. H. Fradkin. Antiferromagnetic spin ladders effectively coupled by one-dimensional electron liquids. Phys. Rev. Lett. 86, 1865-1868 (2001).
+V. Oganesyan, S. A. Kivelson, and E. H. Fradkin. Quantum theory of a nematic Fermi fluid. Phys. Rev. B 64, 195109-1-6 (2001).
+N. P. Sandler and E. H. Fradkin. Fractional quantum Hall junctions and two-channel Kondo models. Phys. Rev. B 63, 235301-1-11 (2001).
+A. Lopez and E. H. Fradkin. Bulk effective actions and edge states for quantum Hall states in bilayers.  [Erratum to Phys. Rev. B 64, 049903 (2001).  Phys. Rev. B 64 049903 (2001).
+A. Lopez and E. H. Fradkin. Effective field theory for the bulk and edge states of quantum Hall states in unpolarized single layer and bilayer systems. Phys. Rev. B 63, 085306-1-26 (2001).
+E. H. Fradkin, M. Huerta, and G. R. Zemba. Effective Chern-Simons theories of pfaffian and parafermionic quantum Hall states, and orbifold conformal field theories. Nucl. Phys. B 601, 591 (2001).
+V. J. Emery, E. H. Fradkin, S. A. Kivelson, and T. C. Lubensky. Quantum theory of the smectic metal state in stripe phases. Phys. Rev. Lett. 85, 2160-2163 (2000).
+E. H. Fradkin, S. A. Kivelson, E. Manousakis, and K. Nho. Nematic phase of the two-dimensional electron gas in a magnetic field. Phys. Rev. Lett. 84, 1982-1985 (2000).
+D. C. Cabra, E. H. Fradkin, G. L. Rossini, and F. A. Schaposnik. Non-Abelian fractional quantum Hall states and chiral coset conformal field theories. Intl. J. Mod. Phys. B 115, 4857-4870 (2000).
+E. H. Fradkin and S. A. Kivelson. Liquid-crystal phases of quantum Hall systems. Phys. Rev. B 59, 8065-8072 (1999).
+A. Lopez and E. H. Fradkin. Universal structure of the edge states of the fractional quantum Hall states. Phys. Rev. B 59, 15323-15331 (1999).
+N. P. Sandler, C. Chamon, and E. H. Fradkin. Noise measurements and fractional charge in fractional quantum Hall liquids. Phys. Rev. B 59, 12521-12536 (1999).
+C. D. Fosco, E. H. Fradkin, and A. Lopez. Dynamical domain wall defects in 2+1 dimensions. Phys. Lett. B 451, 31-37 (1999).
+E. H. Fradkin, C. Nayak, and K. Schoutens. Landau-Ginzburg theories for non-Abelian quantum Hall states. Nucl. Phys. B 546, 711-730 (1999).
+N. P. Sandler, C. de C. Chamon, and E. H. Fradkin. Andreev reflection in the fractional quantum Hall effect. Phys. Rev. B 57, 12324-12332 (1998).
+E. H. Fradkin, C. Nayak, A. Tsvelik, and F. Wilczek. A Chern-Simons effective field theory for the Pfaffian quantum Hall State. Nucl. Phys. B 516, 704-718 (1998).
+S. A. Kivelson, E. H. Fradkin, and V. J. Emery. Electronic liquid-crystal phases of a doped Mott insulator. Nature 393, 550-553 (1998).
+C. R. Cassanello and E. H. Fradkin. Overscreening of magnetic impurities in dx2-y2 wave superconductors. Phys. Rev. B 56, 11246-261 (1997).
+
+C. Chamon and E. H. Fradkin. Distinct universal conductances in tunneling to quantum Hall states: The role of contacts. Phys. Rev. B 56, 2012-2025 (1997).
+H. E. Castillo, C. Chamon, E. H. Fradkin, P. M. Goldbart, and C. Mudry. Exact calculation of multifractal exponents of the critical wave function of Dirac fermions in a random magnetic field. Phys. Rev. B 56, 10668-10677 (1997).
+A. Lopez, M. Fuentes, and E. H. Fradkin. Interacting electrons on a half time coupled to impurities. Nucl. Phys. B 501, 745-772 (1997).
+E. H. Fradkin. Superconductivity's cousin. Nature 387, 18-19 (1997).
+C. R. Cassanello and E. H. Fradkin. Bilayers of chiral spin states. Phys. Rev. B 53, 8708-8725 (1996).
+M. Fuentes, A. Lopez, and E. H. Fradkin. Exact effective action for fermions in one dimension with backscattering at a boundary. Phys. Rev. B 53, 16568-16572 (1996).
+C. R. Cassanello and E. H. Fradkin. Kondo effect in flux phases. Phys. Rev. B 53, 15079-15094 (1996).
+D. Cabra, E. H. Fradkin, G. L. Rossini, and F. A. Schaposnik. Gauge invariance and finite temperature effective actions of Chern-Simons gauge theories with fermions. Phys. Lett. B 383, 434-438 (1996).
+E. H. Fradkin and S. Kivelson. Modular invariance, self-duality and the phase transition between quantum Hall plateaus. Nucl. Phys. B 474, 543-574 (1996).
+A. Lopez and E. H. Fradkin. Fermionic Chern-Simons theory for the fractional quantum Hall effect in bilayers. Phys. Rev. B 51, 4347-4368 (1995).
+A. H. Castro Neto and E. H. Fradkin. Exact solution of the Landau fixed point via bosonization. Phys. Rev. B 51, 4084-4104 (1995).
+M. Fuentes, A. Lopez, E. H. Fradkin, and E. Moreno. Bosonization rules in 1/2 + 1 dimensions. Nucl. Phys. B 450, 603-640 (1995).
+N. Bralic  E. H. Fradkin, V. Manias, and F. A. Schaposnik. Bosonization of three-dimensional non-Abelian fermion field theories. Nucl. Phys. B 446, 144-156 (1995).
+
+A. H. Castro Neto and E. H. Fradkin. Bosonization of the low energy excitations of Fermi liquids. Phys. Rev. Lett. 72, 1393-1397 (1994).
+C. Mudry and E. H. Fradkin. Mechanism of spin and charge separation in one-dimensional quantum antiferromagnets. Phys. Rev. B 50, 11409-11428 (1994).
+A. Lopez, A. G. Rojo, and E. H. Fradkin. Chern-Simons theory of the anisotropic quantum Heisenberg antiferromagnet on a square lattice. Phys. Rev. B 49, 15139-15158 (1994).
+A. H. Castro Neto and E. H. Fradkin. Bosonization of Fermi liquids. Phys. Rev. B 49, 10877-10892 (1994).
+C. Mudry and E. H. Fradkin. Separation of spin and charge quantum numbers in strongly correlated systems. Phys. Rev. B 49, 5200-5219 (1994).
+E. H. Fradkin and F. A. Schaposnik. The fermion-boson mapping in three-dimensional quantum field theory. Phys. Lett. B 338, 253-258 (1994).
+A. Lopez and E. H. Fradkin. Response functions and spectrum of collective excitations of fractional-quantum-Hall effect systems. Phys. Rev. B 47, 7080-7094 (1993).
+E. H. Fradkin. Wave functionals for field theories and path integrals. Nucl. Phys. B B389, 587-600 (1993).
+A. H. Castro Neto and E. H. Fradkin. The thermodynamics of quantum systems and generalizations of Zamolodchikov's C-theorem. Nucl. Phys. B 400, 525-546 (1993).
+E. H. Fradkin, E. F. Moreno, and F. A. Schaposnik. Ground-state wave functionals for (1 + 1)-dimensional fermion field theories. Nucl. Phys. B 392, 667-699 (1993).
+A. Lopez and E. H. Fradkin. Universal properties of the wave functions of fractional quantum Hall systems. Phys. Rev. Lett. 69, 2126-2129 (1992).
+E. H. Fradkin, E. Moreno, and F. Schaposnik. Equivalence of the path-integral theory of spinning particles and the topological nonlinear s model in d=2 dimensions. Phys. Rev. D 45, 595-604 (1992).
+E. H. Fradkin and F. A. Schaposnik. Chern-Simons gauge theories, confinement and the chiral spin liquid. Phys. Rev. Lett. 66, 276-279 (1991).
+J. W. Cannon, R. T. Scalettar, and E. H. Fradkin. Ground-state phase diagram of the one-dimensional extended Hubbard model. Phys. Rev. B 44, 5995-6001 (1991).
+A. Lopez and E. Fradkin. Fractional quantum Hall effect and Chern-Simons gauge theories. Phys. Rev. B 44, 5246 (1991).
+A. Balatsky and E. H. Fradkin. Singlet quantum Hall effect and Chern-Simons theories. Phys. Rev. B 43, 10,622-10,634 (1991).
+D. Withoff and E. H. Fradkin. Phase transitions in gapless Fermi systems with magnetic impurities. Phys. Rev. Lett. 64, 1835-1838 (1990).
+J. W. Cannon and E. H. Fradkin. The phase diagram of the extended Hubbard model in one spatial dimension. Phys. Rev. D 41, 9435-9443 (1990).
+X. G. Wen, E. Dagotto, and E. H. Fradkin. Anyons on a torus. Phys. Rev. B 42, 6110 (1990).
+E. H. Fradkin. Superfluidity of the lattice anyon gas and topological invariance. Phys. Rev. B 42, 570-586 (1990).
+E. H. Fradkin, C. von Reichenbach, and F. A. Schaposnik. Conformal properties of the Kondo models. Nucl. Phys. B 430, 692-702 (1990).
+E. H. Fradkin and S. Kivelson. Short range resonating valence bond theories and superconductivity. Mod. Phys. Lett B [Rapid Commun. in High Tc Superconductivity] 4, 225-232 (1990).
+C. Mudry and E. H. Fradkin. Ground states of infinite-range spin-1/2 quantum Heisenberg antiferromagnets. Phys. Rev. B 40, 11177-11184 (1989).
+E. H. Fradkin. Jordan-Wigner transformation for quantum-spin systems in two dimensions and fractional statistics. Phys. Rev. Lett. 63, 322-325 (1989).
+L. F. Cugliandolo, E. H. Fradkin, and F. A. Schaposnik. Zero modes on the lattice: The vortex fermion system. Phys. Lett. B 224, 407-411 (1989).
+E. H. Fradkin, C. von Reichenbach, and F. A. Schaposnik. Bosonization of the Kondo problem. Nucl. Phys. B 316, 710-734 (1989).
+E. H. Fradkin and M. Stone. Topological terms in one and two-dimensional quantum Heisenberg antiferromagnets. Phys. Rev. B 38, 7215-7218 (1988).
+E. Dagotto, E. H. Fradkin, and A. Moreo. SU(2) gauge invariance and order parameters in strongly coupled electronic systems. Phys. Rev B [Rapid Comm.] 38, 2926-2929 (1988).
+E. H. Fradkin, C. M. Naón, and F. A. Schaposnik. The complete bosonization of two-dimensional QCD in the path-integral framework. Phys. Rev. D 36, 3809-3812 (1987).
+F. Nori, Q. Niu, E. H. Fradkin, and S.-J. Chang. Superconducting-normal phase boundary of quasicrystalline arrays in a magnetic field. Phys. Rev. B 36, 8338-8342 (1987).
+A. Singh and E. H. Fradkin. Localization and correlation effects in itinerant ferromagnets. Phys. Rev. B 35, 6894-6901 (1987).
+E. H. Fradkin and M. Kohmoto. Quantized Hall effect and geometric localization of electrons on lattices. Phys. Rev. B 35, 6017-6023 (1987).
+E. H. Fradkin, C. M. Naón, and F. A. Schaposnik. Constrained Fermi systems and Virasorgo algebras. Phys. Lett. B 200, 95-97 (1987).
+D. Boyanovsky, E. Dagotto, and E. H. Fradkin. Anomalous currents, induced charge and bound states on a domain wall of a semiconductor. Nucl. Phys. B 285, 340-362 (1987).
+E. H. Fradkin, E. Dagotto, and D. Boyanovsky. Physical realization of the parity anomaly in condensed matter physics. Phys. Rev. Lett. 57, 2967-2970 (1986).
+M. Ma and E. H. Fradkin. Superconductivity and localization in the presence of strong spin-orbit scattering. Phys. Rev. Lett. 56, 1416-1418 (1986).
+D. Withoff and E. H. Fradkin. Magnetization of the Coqblin-Schrieffer model in the large-N limit at non-zero field. Phys. Rev. B 34, 8172-8175 (1986).
+
+P. M. Goldbart, O. Martin, and E. H. Fradkin. Gauge invariant spin glasses. Phys. Rev. B 34, 301-305 (1986).
+E. H. Fradkin. Critical behavior of disordered degenerate semiconductors. II: Spectrum and transport properties in mean field theory. Phys. Rev. B 33, 3263-3268 (1986).
+E. H. Fradkin. Critical behavior of disordered degenerate semiconductors. I: Models, symmetries and formalism. Phys. Rev. B 33, 3257-3262 (1986).
+E. Dagotto, E. H. Fradkin, and A. Moreo. A comment on the Nielsen-Ninomiya theorem. Phys. Lett. B 172, 383-386 (1986).
+M. P. A. Fisher and E. H. Fradkin. Localization in a magnetic field: Tight binding model with one-half of a flux quantum per plaquette. Nucl. Phys. B 251, 457-471 (1985).
+E. H. Fradkin. N-color Ashkin-Teller model in two dimensions: Solution in the large-N limit. Phys. Rev. Lett. 53, 1967-1970 (1984).
+
+E. H. Fradkin. The roughening transition in quantum interfaces. Phys. Rev. B 28, 5338-5341 (1983).
+M. Ma and E. H. Fradkin. Localization and interactions in a disordered electron gas. Phys. Rev. B 28, 2990-3006 (1983).
+J. E. Hirsch and E. H. Fradkin. Phase diagram of one-dimensional electron-phonon systems. II. The molecular-crystal model. Phys. Rev. B 27, 4302-4316 (1983).
+E. H. Fradkin and J. E. Hirsch. Phase diagram of one-dimensional electron-phonon systems I: The Su-Schrieffer-Heeger model. Phys. Rev. B 27, 1680-1697 (1983).
+E. H. Fradkin, O. Hernández, B. A. Huberman, and R. Pandit. Periodic incommensurate and chaotic states in a continuum statistical mechanical model. Nucl. Phys. B 215, 137-168 (1983).
+
+J. E. Hirsch and E. H. Fradkin. Effects of quantum fluctuations on the Peierls instability: A Monte Carlo study. Phys. Rev. Lett. 49, 402-405 (1982).
+G. Forgacs and E. H. Fradkin. Anisotropy and marginality in the two-dimensional fully frustrated Ising model. Phys. Rev. B 23, 3442-3447 (1981).
+E. H. Fradkin, M. Srednicki, and L. Susskind. Fermion representation for the Z2 lattice gauge theory in 2 + 1 dimensions. Phys. Rev. D 21, 2885-2891 (1980).
+E. H. Fradkin and L. P. Kadanoff. Disorder variables and para-fermions in two-dimensional statistical mechanics. Nucl. Phys. B 170, 1-15 (1980).
+E. H. Fradkin and S. Shenker. Phase diagram of Lattice gauge theories with Higgs fields. Lattice Gauge Theories, 1979 (The Physical Society of Japan)) Phys. Rev. D 19, 3682-3697 (1980).
+E. H. Fradkin and S. Raby. Real space renormalization-group scheme for spin and gauge systems. Phys. Rev. D 20, 2566-2582 (1979).
+E. H. Fradkin and L. Susskind. Order and disorder in gauge systems and magnets. Phys. Rev. D 17, 2637-2658 (1978).
+E. H. Fradkin, B. A. Huberman, and S. H. Shenker. Gauge symmetries in random magnetic systems. Phys. Rev. B 18, 4789-4812 (1978).
+E. H. Fradkin and T. P. Eggarter. Ising models with several phase transitions. Phys. Rev. A 14, 495-499 (1976).
+
+Articles in Conference Proceedings
+Eduardo Fradkin, "Electronic Liquid Crystal Phases in Strongly Correlated Systems",  in Proceedings of  the Les Houches Summer School on "Modern theories of correlated electron systems", Les Houches, Haute Savoie, France (May 2009), Daniel C. Cabra,  Andreas Honecker, and Pierre Pujol, editors, Lecture Notes in Physics 843, Springer-Verlag Berlin Heidelberg (2012).
+
+Journal Editorships
+Member of the Board of Editors of the Annual Review of Condensed Matter Physics
+Member of the Board of Scientific Directors of the Journal of Statistical Mechanics: Theory and Experiment
+
+Conferences Organized or Chaired
+Member of the International Advisory Committee of the 13th International conference on Materials and Mechanisms of Superconductivity (M2S 2022), Vancouver, British Columbia, Canada, July 17-22, 2022.
+Co-organizer of the Rapid Response Workshop on Recent Progress in the Experimental and Theoretical search for Pair-Density-Wave Order held at the Kavli Institute for Theoretical Physics of the University of California Santa Barbara, May 9-20, 2022
+Co-organizer of the The David Pines Symposium on Superconductivity Today and Tomorrow, ICMT, Urbana IL, March 29-30, 2019.
+Member of the Review Committee of the Laboratory of Condensed Matter Theory of RIKEN, Wako, Saitama, Japan, December 22, 2017.
+Member of the International Advisory Committee of the 12th International Conference on Materials and Mechanisms of Superconductivity (M2S-2018), which will be held in Beijing, China, during August 19-24, 2018.
+Member of the International Advisory Committee of the 28th International Conference on Low Temperature Physics (LT28), at the Swedish Exhibition Centre/Gothia Towers, Gothenburg, Sweden,  August 9-16, 2017.
+Co-organizer of the workshop on Intertwined Orders in Strongly Correlated Systems,, Laguna Beach, CA, January 29-31, 2016. 
+Co-organizer of the workshop on Geometrical Degrees of Freedom in Topological Phases at the Banff International Research Station, Banff, Alberta, Canada, August 21-26, 2016.
+Co-organizer of the Nobel Symposium 156, "New forms of matter: topological insulators and superconductors", Stockholm, Sweden, June 13-15, 2014. 
+Co-organizer of the Workshop on Field Theoretic Computer Simulations for Particle Physics and Condensed Matter, held at  Boston University, Boston MA.  May 8-10, 2014.
+Co-organizer of the Program "The Physics of Higher Temperature Superconductivity" at the Kavli Institute for Theoretical Physics, University of California, Santa Barbara. June 15-September 15, 2009.
+Co-organizer of the Conference "Critical Issues Related to Higher Temperature Superconductors", Kavli Insititute for Theoretical Physics, University of California Santa Barbara, Santa Barbara, California, June 22-26, 2009
+Co-organizer of the Program on The Physics of Higher Temperature Superconductivity, Kavli Insititute for Theoretical Physics, University of California Santa Barbara, Santa Barbara, California,  Jun 15, 2009 - Sep 11, 2009
+Chair of the Invited panel (which I proposed) on the Current Status of the Theory of High Temperature Superconductors at the 2008 March Meeting of the American Physical Society.
+Organizer of the Workshop on Topological Phases in Condensed Matter, Institute of Condensed Matter Theory, University of Illinois, Urbana IL October 24-26, 2008
+Chair of the Invited Panel (which I proposed) on Entanglement and Quantum Criticality at the 2007 March Meeting of the American Physical Society.
+Chair of the Invited panel (which I proposed) on Non-Abelian Fractional Statistics, the Fractional Quantum Hall Effect and Topological Quantum Computing at the 2006 March Meeting of the American Physical Society.
+
+Other Scholarly Activities
+Member of the External Review Committee of the Department of Physics of Washington University at St. Louis, St. Louis, Missouri, September 2017.
+Chair of the External Review Committee for the University of Kentucky Department of Physics. February 2014.
+
+Other Outside Service
+Chair of Section 13 (Physics) of the National Academy of Sciences (2024-2027).
+Chair of the Condensed Matter Physics Panel of Section 13 of the National Academy of Sciences.
+Member of the Scientific Council of the South American Institute for Scientific Research (ICTP-SAIFR), São Paulo, Brazil (since Fall 2017)
+Member of the External review Committee of the department of Physics of Washington University in Saint Louis, St. Louis, Missouri, September 26, 2017.
+Member of the Advisory Panel for the Bunge & Born Foundation 2017 Physics Prize (Argentina) (2017).
+Member of the International  Board of the International Center for Advanced Studies (Universidad Nacional de San Martín, Argentina) (since 2016)
+
+Teaching Honors
+Teachers Ranked as Excellent by Their Students (Spring 1996, Fall 2000, Spring 2020, Fall 2022)
+
+Research Honors
+Eugene Feenberg Memorial Medal 2024 (July 31, 2024)
+Fellow of the American Association for the Advancement of Science (October 2021)
+Member of the National Academy of Sciences of Argentina (Córdoba) (May 2021)
+Member of the Academia de Ciencias de América Latina (Latin American Academy of Sciences) (May 2019)
+Center for the Advanced study Professor (UIUC), since 2016 (2016)
+Simons Distinguished Vising Scholar, Kavli Institute for Theoretical Physics (Santa Barbara, CA) (September 2014 and April 2015)
+Associate of the Center for Advanced Study (UIUC) (Spring 2015)
+Member of the National Academy of Sciences (April 2013)
+Cesar Milstein Fellowship, Ministry of Science, Technology and Productive Innovation, Argentina, July 2007, June 2011 (July 2007, June 2011)
+Arnold O. Beckmann Award of the research Board of the University of Illinois (Academic Year 2006-2007)
+Fellow of the American Academy of Arts and Sciences (2009) (2009)
+Simon Guggenheim Memorial Foundation Fellowship Award (1998) (1998)
+Fellow of the American Physical Society (1998) (1998)
+
+Other Honors
+Donald Biggar Willett Professor of Physics, department of Physics, University of Illinois at Urbana-Champaign  (since 2014)
+
+Recent Courses TaughtPHYS 581 - Quantum Mechanics II
+PHYS 582 - General Field Theory
+PHYS 583 - Advanced Field Theory
+PHYS 598 TPH - Topological Quantum CM
+

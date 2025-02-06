@@ -1,0 +1,52 @@
+
+
+
+Angela Kou 
+
+
+
+
+
+Assistant Professor
+
+
+
+akou@illinois.edu
+216 Seitz Materials Research Lab
+
+
+For More Information
+Research group website
+
+
+Research StatementProf. Kou's work is at the interface between condensed matter physics and quantum information science, with a focus on topological materials. Her research uses superconducting circuits and scanned probe microscopies to build and investigate topological materials.
+Post-Doctoral Research OpportunitiesWe are looking for postdocs to work on superconducting qubits and/or sensing of topological materials.
+Graduate Research OpportunitiesWe are looking for students to work on building superconducting circuits for sensing topological materials.
+Research Interests
+Topological materials
+Novel superconducting circuits
+
+Hybrid superconducting circuits
+
+
+Research Areas
+Condensed Matter Physics (experimental)
+Quantum Information Science
+
+
+Selected Articles in Journals
+M. Pita-Vidal, A. Bargerbos, R. Zitko, L.J. Splitthoff, L. Grunhaupt, J. J. Wesdorp, Y. Liu, L. P. Kouwenhoven, R. Aguado, B. van Heck, A. Kou, C.K. Anderson, Direct manipulation of a superconducting spin qubit strongly coupled to a transmon qubit. Nature Physics 19, 1110 (2023).
+
+M. Pita-Vidal, A. Bargerbos, D. van Woerkom, C.-K. Yang, B. van Heck, P. Krogstrup, L. P. Kouwenhoven, G. de Lange, A. Kou. A gate-tunable, field-compatible fluxonium. Phys. Rev. Appl. 14, 064038 (2020). (Editor's Suggestion)
+
+A. Bargerbos, W. Uilhoorn, J. G. Kroll, C.-K. Yang, P. Krogstrup, L. P. Kouwenhoven, G. de Lange, B. van Heck, A. Kou. Observation of vanishing charge dispersion of a nearly open superconducting island. Phys. Rev. Lett. 124, 246802 (2020).
+
+W. C. Smith, A. Kou, X. Xiao, U. Vool, M. H. Devoret. Superconducting circuit protected by two-Cooper-pair tunneling. npj Quantum Inf. 6, 8 (2020).
+A. Kou, W. C. Smith, U. Vool, R. T. Brierley, H. Meier, L. Frunzio, S. M. Girvin, L. I. Glazman, M. H. Devoret. A fluxonium-based artificial molecule with a tunable magnetic moment. Phys. Rev. X 7, 031037 (2017).
+H. Meier, R. T. Brierley, A. Kou, S. M. Girvin, L. I. Glazman. Signatures of quantum phase transitions in the dynamic response of fluxonium qubit chains. Phys. Rev. B 92, 064516 (2015).
+
+Recent Courses TaughtPHYS 102 - College Physics: E&M & Modern
+PHYS 212 - University Physics: Elec & Mag
+PHYS 436 - Electromagnetic Fields II
+PHYS 498 SQD - Special Topics in Physics
+

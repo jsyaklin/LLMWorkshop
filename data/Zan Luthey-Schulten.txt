@@ -1,0 +1,42 @@
+
+
+
+Zan Luthey-Schulten she/her/hers
+
+
+
+
+
+Murchison-Mallory Endowed Chair in Chemistry
+
+
+(217) 333-3518
+zan@illinois.edu
+A544 Chemical and Life Sci Lab
+
+
+BiographyZaida (Zan) Luthey-Schulten is the Murchison-Mallory Endowed Chair in Chemistry at UIUC and director of the National Science Foundation’s Science and Technology Center for Quantitative Cell Biology, which includes faculty from six disciplines as well as industry partners from Abberior Instruments, the J. Craig Venter Institute, and NVIDIA and collaborators from Germany, the Netherlands, and Sweden. She is also an affiliate professor in the Department of Physics, the Beckman Institute, and the Institute for Genomic Biology and a fellow of both the Biophysical and American Physics Societies. She received her PhD from Harvard University and came to the University of Illinois from the Physics Department of the Technical University of Munich. Her research team is known for their GPU-based software, Lattice Microbes, to create 4D simulations of a living minimal cell, JCVI-Syn3A, over its life cycle.  Structures of its entire proteome were predicted using Alpha Fold and used to guide labeling for imaging experiments and simulations at the atomistic level.
+Research StatementResearch: Energy Landscapes of Biological Molecules Exploring the Evolution of Structure Function/Folding
+
+Evolution of Translation
+Origins of Life
+Physical Bioinformatics
+Prediction of Protein Structure and Function with QR profiles and Alpha Fold ML algorithms
+Docking with Steered Molecular Dynamics (SMD)
+VMD/Multiple Alignment: Evolutionary Analysis Tools
+Protein Folding: Hybrid Molecular Dynamics
+4D (space+time) whole cell simulations
+physics of cell morphology 
+physics of stochastic dynamics in biological processes
+
+
+Research Areas
+Biological Physics
+
+
+Recent Courses TaughtCHEM 444 - Physical Chemistry II
+CHEM 544 - Statistical Thermodynamics
+CHEM 545 - Physical Chemistry Seminar
+CHEM 546 - Advanced Statistical Mechanics
+CHEM 576 (CSE 576, BIOP 576) - Computational Chemical Biology
+

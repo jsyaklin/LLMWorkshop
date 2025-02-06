@@ -1,0 +1,53 @@
+
+
+
+Richard Cooke 
+
+
+
+
+
+Professor
+
+
+(217) 333-0944
+rcooke@illinois.edu
+332 J Agricultural Engr Sciences Bld
+
+
+Education
+B.S., Agricultural Engineering, University of the West Indies, St. Augustine, Trinidad, 1981
+M.S., Agricultural Engineering, University of Guelph, Ontario, Canada, 1986
+Ph.D., Agricultural Engineering, Virginia Polytechnic Institute, 1993
+
+Academic Positions
+Drainage Extension Specialist University of Illinois Adjunct Professor in the Department of Agricultural and Biological Engineering Njala University, Sierra Leone
+
+Associate Professor, Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, 2001-current 
+
+Assistant Professor, Nov 1994-Aug 2001, Department of Agricultural Engineering, University of Illinois Urbana-Champaign
+Research Associate, Nov 1993-Oct 1994, Department of Agricultural Engineering, Virginia Tech, Blacksburg, VA
+Teaching Assistant, Aug 1990-Oct 1994, Department of Agricultural Engineering, Virginia Tech, Blacksburg, VA
+Research Assistant, Aug 1990-Oct 1993, Department of Agricultural Engineering, Virginia Tech, Blacksburg, VA
+Lecturer, Aug 1986-Jul 1990, Faculty of Engineering, University of the West Indies,Trinidad
+Teaching Assistant, Sep 1983-Jun 1986, School of Engineering, University of Guelph, Guelph, Ontario, CANADA
+
+Research Interests
+Optimizing Subsurface Drainage System Design - Subsurface drainage systems have almost invariably been designed to maximize crop yield. However, drainage systems can also be used to mitigate the effects of flooding, by increasing the soil water storage volume in areas that are prone to flooding. I propose to develop two routines for the design of subsurface drainage systems, that will maximize soil storage volume without adversely affecting crop yields. The specific objectives of this project are to Develop a routine to evaluate the region of influence of subsurface drainage systems with irregularly spaced laterals, or randomly placed drains; and to develop a routine for multiobjective design of subsurface drainage systems. These routines will facilitate the identification of regions of a field that are in need of addition drainage, and will make it possible to incorporate soil storage and water quality considerations into the design of subsurface drainage systems. Potential users of the routines developed would be private, state and federal agencies responsible for soil and water resources management, such as private farmers, the Soil Conservation Service, and planners in local drainage districts. 
+
+
+
+Books Authored or Co-Authored (Original Editions)
+Numerical analysis of tile drainage from a cracked clayey soil Cooke, R. A. C. 1987 Ottawa: National Library of Canada.
+
+Honors
+Dissertation Research Award, Virginia Polytechnic Institute and State University Sigma Xi (1995)
+
+Recent Courses TaughtABE 457 - NPS Pollution Processes
+ABE 459 - Drainage and Water Management
+ABE 594 (TSM 594) - Graduate Seminar
+ETMA 199 - Geomatics for Conservation Eng
+PSM 555 - PSM Internship
+TSM 199 - Geomatics & Fld Meas for S&W
+TSM 199 - Soil Construction & Field Mthd
+

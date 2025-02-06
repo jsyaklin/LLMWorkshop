@@ -1,0 +1,76 @@
+
+
+
+Hiroyasu Tsukamoto he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-1333
+hiroyasu@illinois.edu
+319L Talbot Laboratory
+
+
+For More Information
+Research Group Website
+
+STEM Outreach for Japanese Students
+
+
+Education
+Ph.D., Space Engineering (Outstanding Dissertation), Caltech,Â 2023Â 
+
+M.S., Space Engineering, Caltech, 2018
+
+B.S., Aeronautics and Astronautics, Kyoto University, 2017
+
+
+Academic Positions
+Assistant Professor of Aerospace, UIUC, 2024 – present
+
+Adjunct Assistant Professor of Aerospace, UIUC, 2023 – 2024
+
+Postdoctoral Researcher in Robotics, NASA-JPL, Caltech, 2023 – 2024
+
+
+Other Professional Employment
+Affiliate, Maritime and Multi-Agent Autonomy, Mobility and Robotic Systems Section, NASA-JPL, Caltech, 2023 – 2024
+
+
+Graduate Research OpportunitiesSeeÂ Open Positions.
+Research Interests
+Nonlinear Systems and Control
+
+Aerospace and Robotic Autonomy
+Formal Guarantees for Autonomy
+
+Data-Diven Control and Learning
+
+
+
+Research Areas
+Controls, Dynamical Systems and Estimation
+Space Systems 
+
+
+Selected Articles in Journals
+H. Tsukamoto, S.-J. Chung, and J.-J. E. Slotine, “Contraction Theory for Nonlinear Stability Analysis and Learning-based Control: A Tutorial Overview,” Annual Reviews in Control, Nov. 2021
+
+H. Tsukamoto, S.-J. Chung, Y. K. Nakka, B. Donitz, D. Mages, and M. Ingham, “Neural-Rendezvous: Provably Robust Guidance and Control to Encounter Interstellar Objects,” in AIAA Journal of Guidance, Control, and Dynamics, Oct. 2024
+
+
+Honors
+Innovators Under 35 Japan Award, MIT Technology Review
+ (Dec. 2024
+)
+William F. Ballhaus Prize for Outstanding Dissertation, Caltech
+ (Jan. 2023
+)
+
+Recent Courses TaughtAE 598 EDO (AE 598 EDS, AE 598 ONE) - Estimation of Dynamical System
+AE 598 SR - Formal Methods in AE Robotics
+

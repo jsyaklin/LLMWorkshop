@@ -1,0 +1,61 @@
+
+
+
+Syed Bahauddin Alam he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-5835
+alams@illinois.edu
+119 Talbot Laboratory
+
+
+For More Information
+Illinois Experts profile
+Google Scholar
+Personal Website
+
+Education
+Bangladesh University of Engineering and Technology (BUET), B.Sc. in Electrical and Electronics Engineering, 2011
+University of Cambridge, MPhil in Nuclear Energy, 2013
+University of Cambridge, PhD in Nuclear Engineering, 2018
+
+
+BiographyDr. Syed Bahauddin Alam is an Assistant Professor of Nuclear, Plasma and Radiological Engineering at the University of Illinois Urbana-Champaign (UIUC). He leads MARTIANS (Machine Learning & ARTficial Intelligence for Advancing Nuclear Systems) Lab [https://sbahauddin.tech/]. Dr. Alam received several Awards and Honors for his research and teaching. He received the Outstanding Teaching Award from Missouri S&T in 2021. He was awarded the Most Exemplary Graduate Fellow Award on “Nuclear Nonproliferation Fellowship 2017” by the Korea Advanced Institute of Science & Tech (KAIST). He was also the winner of the ANS Best Student Paper Award in recognition of the “Exceptional Quality of the Paper” (ICAPP 2016), Nominated for the Young Generation/Student Award for the Outstanding Paper (ICAPP 2017), and ANS Best Technical Poster Award (NURETH-16). He was also awarded the Cambridge Philosophical Society “Research Studentships Award” (2017) during his Ph.D. at Cambridge University.
+Research Thrusts:
+Thrust 1: Artificial Intelligence (AI) & Machine Learning (ML) applications for nuclear systems
+Thrust 1A: Intelligent Digital Twins for Nuclear Plant Asset Monitoring with Explainable AI
+Thrust 1B: Structural Health Monitoring of Nuclear Components
+Thrust 2: Multiphysics modeling for advanced nuclear system
+Thrust 2A: Multi-Scale & Coupled Multiphysics (Neutronics/Thermal-Hydraulics/Fuel Performance)  
+Thrust 2B: Multiscale Modeling with Uncertainty Quantification and Robust Optimization
+Thrust 2C: Modeling of Advanced Nuclear/Reactor System Design with Optimization 
+Thrust 3: Cross-cutting & system decision-making for nuclear systems
+Thrust 3A: Verification & Validation of Multiphysics Model
+Thrust 3B: Zero-Trust: Next-Generation Cyber Threats
+Thrust 3C: Instrumentation, Controls, & Natural Language Processing
+Academic Positions
+2023-Present, Assistant Professor, University of Illinois Urbana-Champaign, Nuclear Plasma and Radiological Engineering (100% FTE)
+
+2023-Present, Assistant Professor, University of Illinois Urbana-Champaign, National Center for Supercomputing Applications (0% FTE)
+2020-2023, Assistant Professor, Missouri University of Science and Technology,  Nuclear Engineering and Radiation Science
+
+Research Interests
+Advanced Nuclear/Reactor System Design with Instrumentation & Controls
+Coupled Multiphysics (Neutronics/Thermal-Hydraulics/Fuel Performance) with Predictive Algorithms 
+Multiscale Modeling with Uncertainty Quantification and Robust Optimization
+Artificial Intelligence & Machine Learning-Driven Digital Twin for Nuclear Systems
+
+
+Research Areas
+Reactor Physics
+
+
+Recent Courses TaughtNPRE 200 - Mathematics for NPRE
+NPRE 247 - Modeling Nuclear Energy System
+

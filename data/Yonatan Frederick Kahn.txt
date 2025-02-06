@@ -1,0 +1,55 @@
+
+
+
+Yonatan Frederick Kahn 
+
+
+
+
+
+Assistant ProfessorCompton Faculty Fellow
+
+
+(217) 300-7262
+yfkahn@illinois.edu
+415 Loomis Laboratory
+
+
+For More Information
+Personal webpage
+
+BiographyYonatan Kahn is a theoretical physicist whose research is focused on dark matter and its detection strategies. Professor Kahn received his Ph.D. in 2015 from MIT, under the supervision of Jesse Thaler. He holds degrees in music, physics, and mathematics from Northwestern University (B.A., B.Mus 2009) and completed Part III of the Mathematical Tripos with Distinction at the University of Cambridge in 2010 supported by a Churchill Scholarship. He previously held postdoctoral positions at the Kavli Institute for Cosmological Physics (KICP) at the University of Chicago and Princeton University. Professor Kahn joined the faculty of the University of Illinois in 2019.
+Academic Positions
+U of I lead PI and quantum physics and sensing focus area co-lead, Superconducting Quantum Materials and Systems Center (SQMS) at Fermilab (2020 - )
+
+Research StatementI'm a theoretical physicist on the hunt for dark matter. Of all the mass energy in the universe, the particles comprising everything we've ever measured or observed directly -- stars, planets, interstellar gas, all life on Earth -- make up only 15% of the cosmic pie chart. The vast majority of the mass of the universe has only been observed indirectly, and has been dubbed dark matter. Despite this, the gravitational effects of dark matter are numerous and profound, and many independent measurements have all converged on a remarkably consistent story: there exists some stuff in the universe which feels the gravitational force but not the electromagnetic or strong nuclear forces, to any appreciable extent.
+The problem is, we know next to nothing about dark matter apart from the fact that it's out there. How much does it weigh? Does it interact with itself, or weakly with ordinary particles? Are there multiple species of dark matter, perhaps analogous to the proton, neutron, and electron which make up ordinary matter? Much effort has focused on a particular scenario: dark matter weighing about as much as an atomic nucleus, interacting with atomic nuclei via the weak nuclear force, and consisting of just a single particle species. This kind of dark matter is known as a WIMP, or weakly-interacting massive particle, and it's a beautiful theory: with a minimal number of moving parts, it predicts exactly the right amount of dark matter, and is tied to both the Standard Model and supersymmetry. Alas, the simplest explanation is not guaranteed to be the correct one. Dozens of experiments have searched for this particle -- passing through the Earth, annihilating at the center of the galaxy, or being produced in particle colliders -- to no avail. The WIMP scenario is certainly not ruled out, but it is becoming highly constrained.
+I'm interested in exploring theories of dark matter beyond the WIMP: lighter particles (MeV-scale or sub-eV scale, in particle physics units), particles with different interactions (a dark photon rather than the weak nuclear force, or with electrons rather than nuclei), or multiple species of particles. Each of these theories would give different experimental signatures, and my research is focused on proposing experiments to look for these different kinds of dark matter. I'm especially drawn to the creativity and open-mindedness required to find just the right experimental avenue to detect these particles, and also to the possibility of collaboration between different fields of science (neutrino physics, condensed matter, physical chemistry, plasma physics, materials science) to develop the right equipment to build the experiment. I believe discovering the identity of dark matter is the most pressing question in particle physics which is likely to be resolved on a 50-year timescale, and I want to help cover all the bases in case dark matter is hiding in a place we least expected it.
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+High Energy Physics (theoretical)
+Quantum Information Science
+
+
+Books Authored or Co-Authored (Original Editions)
+Conquering the Physics GRE (Yoni Kahn and Adam Anderson). Cambridge University Press, 2018
+
+Selected Articles in Journals
+Y. Hochberg, Y.F. Kahn, R.K. Leane, et al. 2022. New approaches to dark matter detection. Nat.Rev.Phys. (2022).
+
+C. Gao, W.P. Halperin, Y. Kahn, M. Nguyen, J. Schuette-Engel, J.W. Scott. 2022. Axion wind detection with the homogeneous precession domain of superfluid helium-3. Phys.Rev.Lett. 129 (2022) 21, 211801. arXiv:2208.14454.
+Y. Kahn and T. Lin. 2021. Searches for light dark matter using condensed matter systems. Rep. Prog. Phys. 85 (2022) 6, 066901. arXiv:2108.03239.
+
+C. Blanco, Y. Kahn, B. Lillard, and S.D. McDermott. 2021. Dark Matter Daily Modulation with Anisotropic Organic Crystals. Phys.Rev.D 104 (2021) 036011. arXiv:2103.08601.
+
+Y. Hochberg, Y. Kahn, N. Kurinsky, B.V. Lehmann, T.C. Yu, K.K. Berggren. 2021. Determining Dark Matter-Electron Scattering Rates from the Dielectric Function. Phys.Rev.Lett. 127 (2021) 15, 151802. arXiv:2101.08263.
+Z. Bogorad, A. Hook, Y. Kahn, and Y. Soreq. 2019. Probing ALPs and the Axiverse with Superconducting Radiofrequency Cavities. Phys. Rev. Lett. 123 (2019) 2, 021801. arXiv:1902.01418.
+Y. Kahn, B.R. Safdi, and J. Thaler. 2016. Broadband and Resonant Approaches to Axion Dark Matter Detection. Phys. Rev. Lett. 117 (2016) 14, 141801. arXiv:1602.01086
+
+Recent Courses TaughtPHYS 212 - University Physics: Elec & Mag
+PHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 225 - Relativity & Math Applications
+PHYS 575 - Particle Physics I
+

@@ -1,0 +1,63 @@
+
+
+
+Thomas Faulkner 
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-8598
+tomf@illinois.edu
+433 Loomis Laboratory
+
+
+Education
+PhD, Massachusetts Institute of Technology, 2009
+BSc,  Physics, University of Melbourne, 2004
+
+BiographyThomas Faulkner received his bachelors degree in Physics from the University of Melbourne in 2003. He went on to obtain his Ph.D. from MIT in 2009 working under the guidance of Hong Liu and Krishna Rajagopal. His thesis involved using string theory techniques to study QCD under extreme conditions. From 2009-2012 Thomas held a postdoctoral position at the Kavli Institute for Theoretical Physics in UCSB where he continued to make interesting connections between problems in strongly correlated many body physics and string theory. Thomas also held a postdoctoral position at the Institute for Advanced Studies in Princeton from 2012-2013 where he became interested in Entanglement Entropy and the role it plays in fundamental aspects of quantum gravity. Thomas joined the department in 2014.
+Research Statement 
+ Broadly speaking my research interests lie at the intersection of exotic phases of quantum matter and string theory. These two 
+subjects are connected via the celebrated holographic duality or AdS/CFT, which asserts that certain string theories are dual to quantum phases of matter. That is there can be two different ways of looking at the same system. By using tools developed in both the condensed matter and string communities I hope to gain insight into fundamental questions on both sides of the duality.  
+ More specifically I am interested in: 
+ 1. Entanglement Entropy in quantum many body systems. As a tool to study quantum phases of matter, quantum gravity and black holes. 
+ 2. String inspired models of strongly correlated phenomena. Ranging from Non-Fermi Liquids and Quantum Criticality to transport and disorder. 
+ 3. Holographic models of QCD under extreme conditions. Signatures of strongly coupled physics in the quark-gluon plasma produced
+at heavy ion colliders. 
+
+Research Areas
+Condensed Matter Physics (theoretical)
+High Energy Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+S. Dutta, T. Faulkner. A canonical purification for the entanglement wedge cross-section. J. High Energy Phys. 2021:3, 178 (2021).
+
+F. Ceyhan, T. Faulkner. Recovering the QNEC from the ANEC. Commun. Math. Phys. 377:2, 999-1045 (2020).
+
+S. Balakrishnan, T. Faulkner, Z. U. Khandker, H. Wang. A General Proof of the Quantum Null Energy Condition. J. High Energy Phys. 09, 020 (2019).
+
+T. Faulkner, A. Lewkowycz. Bulk locality from modular flow. J. High Energy Phys. 1707, 151 (2017).
+T. Faulkner, R. Leigh, O. Parrikar, H. Wang. Modular Hamiltonians for Deformed Half-Spaces and the Averaged Null Energy Condition. J. High Energy Phys. 1609, 038 (2016).
+T. Faulkner, A. Lewkowycz and J. Maldacena, Quantum corrections to holographic entanglement entropy. J. High Energy Phys. 1311, 074 (2013).
+T. Faulkner, N. Iqbal, H. Liu, J. McGreevy, D. Vegh, Strange Metal Transport Realized by Gauge/Gravity Duality. Science 329, 1043 (2010). 
+T. Faulkner, H. Liu, J. McGreevy, D. Vegh, Emergent quantum criticality. Fermi surfaces, and AdS(2),  Phys. Rev.  D 83, 125002 (2011)
+
+Research Honors
+DOE - Early Career Award (Sep 2018)
+DARPA - Young Faculty Award (Sep 2015)
+
+Recent Courses TaughtPHYS 102 - College Physics: E&M & Modern
+PHYS 212 - University Physics: Elec & Mag
+PHYS 486 - Quantum Physics I
+PHYS 487 - Quantum Physics II
+PHYS 505 - Classical Electromagnetism
+PHYS 581 - Quantum Mechanics II
+PHYS 583 - Advanced Field Theory
+PHYS 598 QEN - Special Topics in Physics
+

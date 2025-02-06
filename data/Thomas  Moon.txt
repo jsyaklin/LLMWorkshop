@@ -1,0 +1,85 @@
+
+
+
+Thomas Moon 
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+tmoon@illinois.edu
+3060 Electrical & Computer Eng Bldg
+
+
+For More Information
+Thomas Moon's Homepage
+
+Academic Positions
+Assistant Teaching Professor
+
+Resident Instruction
+ENG 573 – Capstone Project
+ENG 572 – Practicum
+ECE 496/499 – Senior Research and Thesis
+ECE 463 – IoT and Software-Defined Radio Lab
+ECE 420 – Embedded DSP Laboratory
+ECE 310 - Digital Signal Processing
+ECE 205- Introduction to Electric and Electronic Circuits
+ECE 220 - Computer Systems & Programming
+
+Research Interests
+Engineering Education
+Internet of Things
+Signal Processing
+mmWave Radar
+Wireless Sensing
+
+
+Research Areas
+Signal Processing
+Wireless communication systems
+
+
+Research Topics
+RF and microwave engineering
+
+Selected Articles in Journals
+Moon, Thomas; Park, Jounsup; Kim, Seungmo; 	BlueFMCW: Random frequency hopping radar for mitigation of interference and spoofing	EURASIP Journal on Advances in Signal Processing	2022	1	17-Jan	2022	SpringerOpen
+Moon, Thomas; Gaun, Junfeng; Hassanieh, Haitham; 	Know your channel first, then calibrate your mmWave phased array	IEEE Design & Test	37	4	42-51	2020	IEEE
+Moon, Thomas; Choi, Hyun Woo; Keezer, David C; Chatterjee, Abhijit; 	Efficient Built-In Test and Calibration of High Speed Serial I/O Systems Using Monobit Signal Acquisition	Journal of Electronic Testing	35		809-822	2019	Springer US
+Tzou, Nicholas; Bhatta, Debesh; Muldrey Jr, Barry J; Moon, Thomas; Wang, Xian; Choi, Hyun; Chatterjee, Abhijit; Signal, Cost Sparse Multiband; Multi-Rate, Characterization Using Asynchronous; 	2015 JETTA-TTTC Best Paper Award	J Electron Test	32		659-660	2016	Springer
+Tzou, Nicholas; Bhatta, Debesh; Muldrey, Barry J; Moon, Thomas; Wang, Xian; Choi, Hyun; Chatterjee, Abhijit; 	Low cost sparse multiband signal characterization using asynchronous multi-rate sampling: Algorithms and hardware	Journal of Electronic Testing	31		85-98	2015	Springer US
+Moon, Thomas; Choi, Hyun Woo; Tzou, Nicholas; Chatterjee, Abhijit; 	Wideband sparse signal acquisition with dual-rate time-interleaved undersampling hardware and multicoset signal reconstruction algorithms	IEEE Transactions on Signal Processing	63	24	6486-6497	2015	IEEE
+Choi, Hyun Woo; Moon, Thomas; Chatterjee, Abhijit; 	Timing noise characterization of high-speed digital bit sequences using incoherent subsampling and algorithmic clock recovery	IEEE Transactions on Instrumentation and Measurement	63	12	2733-2749	2014	IEEE
+
+Articles in Conference Proceedings
+Moon, Thomas; Beyond FFT: Precision Vibration Tracking with FMCW Radar and Kalman Estimators
+2024 IEEE Radar Conference
+Moon, Thomas; Do, Minh N; 	Implement Your DSP Algorithm on Android Tablet: Real-time DSP Laboratory Course	2021 ASEE Virtual Annual Conference Content Access				2021	
+Moon, Thomas; Gaun, Junfeng; Hassanieh, Haitham; 	Online millimeter wave phased array calibration based on channel estimation	2019 IEEE 37th VLSI Test Symposium (VTS)			6-Jan	2019	IEEE
+Jog, Suraj; Wang, Jiaming; Guan, Junfeng; Moon, Thomas; Hassanieh, Haitham; Choudhury, Romit Roy; 	Many-to-many beam alignment in millimeter wave networks	USENIX Conference on Networked Systems Design and Implementation, NSDI'19				2019	
+Keezer, David C; Chen, Te-Hui; Moon, Thomas; Stonecypher, DT; Chatterjee, Abhijit; Choi, Hyun Woo; Kim, SY; Yoo, Hosun; 	An FPGA-based ATE extension module for low-cost multi-GHz memory test	2015 20th IEEE European Test Symposium (ETS)			6-Jan	2015	IEEE
+Moon, Thomas; 	Testing and characterization of high-speed signals using incoherent undersampling driven signal reconstruction algorithms					2015	Georgia Institute of Technology
+Moon, Thomas; Choi, Hyun Woo; Keezer, David C; Chatterjee, Abhijit; 	Multi-channel testing architecture for high-speed eye-diagram using pin electronics and subsampling monobit reconstruction algorithms	2014 IEEE 32nd VLSI Test Symposium (VTS)			6-Jan	2014	IEEE
+Moon, Thomas; Choi, Hyun Woo; Chatterjee, Abhijit; 	Low-cost multi-channel testing of periodic signals using monobit receivers and incoherent subsampling	2013 IEEE 31st VLSI Test Symposium (VTS)			6-Jan	2013	IEEE
+Moon, Thomas; Tzou, Nicholas; Wang, Xian; Choi, Hyun; Chatterjee, Abhijit; 	Low-cost high-speed pseudo-random bit sequence characterization using nonuniform periodic sampling in the presence of noise	2012 IEEE 30th VLSI Test Symposium (VTS)			146-151	2012	IEEE
+Wang, Xian; Choi, Hyun Woo; Moon, Thomas; Tzou, Nicholas; Chatterjee, Abhijit; 	Higher than Nyquist test waveform synthesis and digital phase noise injection using time-interleaved mixed-mode data converters	2012 IEEE International Test Conference			10-Jan	2012	IEEE
+Tzou, Nicholas; Moon, Thomas; Wang, Xian; Choi, Hyun; Chatterjee, Abhijit; 	Dual-frequency incoherent subsampling driven test response acquisition of spectrally sparse wideband signals with enhanced time resolution	2012 IEEE 30th VLSI Test Symposium (VTS)			140-145	2012	IEEE
+Moon, Thomas; Choi, Hyun Woo; Chatterjee, Abhijit; 	Low cost high-speed test data acquisition: Accurate period estimation driven signal reconstruction using incoherent subsampling	2012 IEEE International Test Conference			9-Jan	2012	IEEE
+Pathak, Mohit; Lee, Young-Joon; Moon, Thomas; Lim, Sung Kyu; 	Through-silicon-via management during 3D physical design: When to add and how many?	2010 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)			387-394	2010	IEEE
+
+Recent Courses TaughtECE 205 - Electrical & Electronic Ckts
+ECE 206 - Electrical & Electronics Lab
+ECE 220 - Computer Systems & Programming
+ECE 310 - Digital Signal Processing
+ECE 311 - Digital Signal Processing Lab
+ECE 398 MA - Intro Modrn to Comm Python SDR
+ECE 420 - Embedded DSP Laboratory
+ECE 463 - Digital Communications Lab
+ENG 572 - Professional Practicum
+ENG 573 - Capstone Project
+

@@ -1,0 +1,86 @@
+
+
+
+Rafael Fernandes he/him/his
+
+
+
+
+
+Professor
+
+
+
+rafaelf@illinois.edu
+2701 Engineering Sciences Building
+
+
+For More Information
+For my full publication list, please check my Google Scholar page
+
+
+Education
+B.S. Physics, University of Campinas, Brazil (2003)
+
+M.Sc. Physics, University of Campinas, Brazil (2005)
+
+Ph.D. Physics, University of Campinas, Brazil (2008)
+
+
+BiographyProfessor Rafael Fernandes is a condensed matter physics theorist known for his contributions to the elucidation of electronic nematicity and vestigial electronic order is quantum materials. He received his Bachelor's (2003), Master's (2005) and Doctoral (2008) degrees from the University of Campinas in Brazil. His PhD work, supervised by Dr. Harry Westfahl Jr., focused on the properties of competing interactions in different types of electronic systems, such as magnetic thin films, strongly-correlated Mott insulators, and electronic liquid crystals. From 2008 to 2011, he was a postdoc at Ames National Lab and Iowa State University, working under the supervision of Prof. Joerg Schmalian primarily on the then recently discovered family of unconventional iron-based superconductors. From 2011 to 2012, he held a joint postdoctoral appointment in Columbia University and Los Alamos National Lab, where he was supervised by Prof. Andy Millis and Prof. Sasha Balatsky. Besides continuing to focus on iron-based superconductors, he also worked on superconductivity in quantum paraeletrics. In 2012, he joined the faculty at the University of Minnesota, where he became a Distinguished McKnight University Professor. In 2024, Professor Fernandes joined the Department of Physics at the University of Illinois Urbana-Champaign.
+Academic Positions
+Professor, University of Illinois Urbana-Champaign (2024-present)
+Distinguished McKnight University Professor, University of Minnesota (2023-2024)
+Professor, University of Minnesota (2021-2024)
+Associate Professor, University of Minnesota (2017-2021)
+Assistant Professor, University of Minnesota (2012-2017)
+Postdoc, Columbia University and Los Alamos National Laboratory (2011-2012)
+Postdoc, Ames Laboratory and Iowa State University (2008-2011)
+
+Research StatementIn quantum materials, the microscopic interactions between the electrons, sometimes combined with the topological properties of their wave-functions, lead to the emergence of novel collective electronic behaviors that cannot be simply mapped to the individual properties of a single electron. My research focuses on the microscopic understanding and modeling of the collective behavior of electrons in quantum materials, in order to establish a clear relationship between their microscopic behavior and their macroscopic properties. I often work on different model quantum materials of broad interest to the condensed matter physics community. These materials allow one not only to focus on specific aspects of the challenging problem of interacting quantum many-body systems, but also to concretely compare theoretical predictions with experimental observations. My overarching goal is to apply and generalize the new ideas, methods, and frameworks developed to understand these specific materials to the broader problem of interacting quantum matter. For example, investigations of nematicity in iron pnictides provided the basis for a robust framework to explore vestigial phases in more general settings. Such a framework, in turn, resulted in the discovery or proposal of vestigial phases in intercalated dichalcogenides, heavy fermions, and twisted moiré systems. By carefully investigating quantum materials, I aim to unveil the fundamental physics of the microscopic quantum world, as well as to open promising avenues for the exploration and control of novel phenomena. To understand and explore quantum materials, I employ a variety of quantum many-body theoretical techniques to solve relevant phenomenological and microscopic models. These techniques range from analytical methods, such as large-N and other field-theory techniques, to numerical methods, such as classical and quantum Monte Carlo simulations. I am also interested in incorporating realistic materials properties in my models, particularly those associated with the elastic properties of the crystal. Finally, my research also involves close collaborations with first-principles groups and experimental groups employing diverse experimental probes, such as scanning tunneling microscopy, angle-resolved photo-emission spectroscopy, nuclear magnetic resonance, pump-and-probe optical spectroscopy, and neutron and x-ray scattering. 
+Research Interests
+    Electronic nematicity and nemato-elastic phenomena in correlated electronic systems.
+    Altermagnetism and unconventional multipolar magnetic orders.
+    Intertwined and vestigial electronic phases in superconducting and magnetic systems.
+    Unconventional charge-order in kagome and related materials.
+    Electron-phason coupling in moiré superlattices.
+    Unconventional multi-component superconductivity.
+    Quantum Monte Carlo simulations of strongly interacting multi-band systems and quasicrystals.
+
+
+Research Areas
+Condensed Matter Physics
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+Optical Manipulation of the Charge Density Wave state in RbV3Sb5, Y. Xing, S. Bae, E. Ritz, F. Yang, T. Birol, A. N. Capa Salinas, B. R. Ortiz, S. D. Wilson, Z. Wang, R. M. Fernandes, and V. Madhavan, Nature 631, 60 (2024)
+
+Topological transition from nodal to nodeless Zeeman splitting in altermagnets, R. M. Fernandes, V. S. de Carvalho, T. Birol, and R. G. Pereira, Phys. Rev. B 109, 024404 (2024)
+
+Theory of criticality for quantum ferroelectric metals, A. Klein, V. Kozii, J. Ruhman, and R. M. Fernandes, Phys. Rev. B 107, 165110 (2023).
+
+Iron Pnictides and Chalcogenides: A New Paradigm for Superconductivity, R. M. Fernandes, A. I. Coldea, H. Ding, I. R. Fisher, P. J. Hirschfeld, and G. Kotliar, Nature 601, 35 (2022).
+
+Theory of the charge-density wave in AV3Sb5 kagome metals, M. H. Christensen, T. Birol, B. M. Andersen, and R. M. Fernandes, Phys. Rev. B 104, 214513 (2021).
+
+Nematicity and Competing Orders in Superconducting Magic-Angle Graphene, Y. Cao, D. Rodan-Legrain, J. M. Park, F. N. Yuan, K. Watanabe, T. Taniguchi, R. M. Fernandes, L. Fu, and P. Jarillo-Herrero, Science 372, 264 (2021).
+
+Modeling unconventional superconductivity at the crossover between strong and weak electronic interactions, M. H. Christensen, X. Wang, Y. Schattner, E. Berg, and R. M. Fernandes, Phys. Rev. Lett. 125, 247001 (2020).
+
+Intertwined vestigial order in quantum materials: nematicity and beyond, R. M. Fernandes, P. P. Orth, and J. Schmalian, Annual Review of Condensed Matter Physics 10, 133 (2019).
+
+Correlations and electronic order in a two-orbital honeycomb lattice model for twisted bilayer graphene, J. W. F. Venderbos and R. M. Fernandes, Physical Review B 98, 245103 (2018).
+
+What drives nematic order in iron-based superconductors? R. M. Fernandes, A. V. Chubukov, and J. Schmalian, Nature Physics 10, 97 (2014).
+
+
+Honors
+Mercator Fellow, DFG, Germany (2020-present)
+Fellow, American Physical Society (2017)
+Cottrell Scholar Award (2016 – 2019)
+DOE Early Career Award (2014 – 2019)
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+

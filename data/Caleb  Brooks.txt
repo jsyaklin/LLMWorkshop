@@ -1,0 +1,296 @@
+
+
+
+Caleb Brooks 
+
+
+
+
+
+Associate Professor and Donald Biggar Willett Faculty Scholar
+
+
+(217) 265-0519
+csbrooks@illinois.edu
+111C Talbot Laboratory
+
+
+For More Information
+Multiphase Thermo-fluid Dynamics Laboratory
+Illinois Microreactor RD&D Center
+
+Education
+Purdue University, Ph.D., School of Nuclear Engineering, 2014
+Purdue University, B.S., School of Nuclear Engineering, 2008
+
+Academic Positions
+2024-Present, WPI Associate Professor, International Institute for Carbon-Neutral Energy Research, Kyushu University
+2020-Present, Associate Professor, Department of Nuclear, Plasma, and Radiological Engineering, University of Illinois
+2014-2020, Assistant Professor, Department of Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana-Champaign
+
+Resident Instruction
+NPRE/ME 598: Computational Multi-phase Flow
+NPRE 511: Nuclear Reactor Heat Transfer
+NPRE 449: Nuclear System Engineering and Design
+NPRE 448: Nuclear System Engineering and Design
+NPRE 349: Introduction to NPRE Heat Transfer
+NPRE 247: Modeling Nuclear Energy System
+
+
+Research Areas
+Advanced Reactor Designs
+Interfacial Area Transport
+Reactor Physics
+Reactor Thermal-Hydraulics
+Reactor Transient and Accident Analysis
+Twoâ€Phase Flow and Heat Transfer
+
+
+Selected Articles in Journals
+Zhang, T., Brooks, C.S., Assessment of ASYST and RELAP5 for Predicting Stability and Limit Cycles of a Low-pressure Natural Circulation Loop with Flashing Instability, Applied Thermal Engineering, (accepted)
+
+Chen, J., Brooks, C.S., 2024. Validation and Application of a Coupled Xenon Transport and Reactor Dynamic Model of the Molten Salt Reactor Experiment, Nuclear Science and Techniques (accepted).
+
+Chen, J., Brooks, C.S., 2024. Design and Cost-Benefit Analysis of the Xenon Removal System for the Molten Salt Demonstration Reactor, Annals of Nuclear Energy, 207, 110705. DOI: 10.1016/j.anucene.2024.110705
+
+Aziz, A., Callaway, C., Brown, N., Brooks, C.S., Review and modeling of integrated energy systems with nuclear reactor coupled desalination and district heating, Nuclear Science and Engineering, 2024
+Zhang, T., Brooks, C.S., 2024. System Code Validation of Periodic Two-phase Flow from Low-pressure Oscillations, Applied Thermal Engineering, 247, 123089. DOI: 10.1016/j.applthermaleng.2024.123089
+
+Chen, J., Brooks, C.S., 2024. Modeling of Transient and Steady State Xenon Behavior in the Molten Salt Reactor Experiment, Annals of Nuclear Energy, 204, 110525. DOI: 10.1016/j.anucene.2024.110525
+
+Bottini, J.L., Zhang, T., Brooks, C.S., 2024, Validation of two-group interfacial area transport equation in boiling, International Journal of Heat and Mass Transfer, 226, 125515. DOI: 10.1016/j.ijheatmasstransfer.2024.125515
+
+Chaube, A., Ahmed, Z., Sieh, B., Brooks, C.S., Bindra, H., 2024. Nuclear microreactors and thermal integration with hydrogen generation processes, Nuclear Engineering and Design, 419, 112968. DOI: 10.1016/j.nucengdes.2024.112968
+
+Kalinichenko, D., Wodrich, L., Lee, A.J.H., Kozlowski, T., Brooks, C.S., 2024. Analysis of Nuclear Microreactor Efficacy with Hydrogen Production Methods, Progress in Nuclear Energy, 168, 104994. DOI: 10.1016/j.pnucene.2023.104994
+
+Lee, A.J.H., Wodrich, L., Kalinichenko, D., Brooks, C.S., Kozlowski, T., 2024. Modeling microreactor requirements for high-performance computing, Nuclear Technology, 1-15. DOI: 10.1080/00295450.2023.2276999
+
+Ciccotosto, B., Brooks, C.S., 2023. Marangoni convection on the free surface of a liquid pool with isothermal sidewalls, Energies, 16 (19), 6824. DOI: 10.3390/en16196824
+
+Zhu, L., Ooi, Z.J., Zhang, T., Brooks, C.S., Pan, L., 2023. Identification of flow regimes in boiling flow with clustering algorithms: An interpretable machine-learning perspective, Applied Thermal Engineering, 228, 120493. DOI: 10.1016/j.applthermaleng.2023.120493
+
+McCord, M., Brooks, C.S., 2023. Experimental Comparison of the Rewet Phenomenon in Transient and Stable Film Boiling in Low Pressure and Low Flow Conditions, International Journal of Heat and Mass Transfer, 209, 124099. DOI: 10.1016/j.ijheatmasstransfer.2023.124099
+
+Wodrich, L., Lee, A.J.H., Kozlowski, T., Brooks, C.S., 2023. Modeling of an energy diverse embedded grid for microreactor integration, Nuclear Technology, 209 (6), 809-834. DOI: 10.1080/00295450.2022.2161276
+
+Bottini, J.L., Brooks, C.S., 2023. Interphase and Intergroup Mass Transfer in the Two-Group Two-Fluid Model in Flows with Phase Change, Nuclear Technology, 209, 1987-2001(invited). DOI: 10.1080/00295450.2022.2156244
+
+Zhang, T., Brooks, C.S., 2023. Stability Tests and Analysis on a Low-pressure Natural Circulation Loop with Flashing Instability, Nuclear Technology, 209(10), 1414-1441 (invited). DOI: 10.1080/00295450.2022.2151823
+
+Chen, J., Brooks, C.S., 2023. Simulation of the Axial-Flow Centrifugal Bubble Separator for Liquid-Fueled Molten Salt Reactors using Eulerian Two-Fluid Model, Nuclear Science and Engineering, 197 (5), 886-906 (invited). DOI: 10.1080/00295639.2022.2103347
+
+Chapman, A., Shigetomi, Y., Karmaker, S.C., Saha, B., Brooks, C.S., 2022. Cultural and demographic energy system awareness and preference: Implications for future energy system design in the United States, Energy Economics, 112, 106141. (invited) DOI: 10.1016/j.eneco.2022.106141
+
+Zhu, L., Bottini, J.L., Brooks, C.S., Zhang, L., 2022. Comparison of intergroup mass transfer coefficient correlations in two-group IATE for subcooled boiling flow, Frontiers in Energy Research, 10, 890795. DOI: 10.3389/fenrg.2022.890795
+
+Ooi, Z.J., Zhu, L., Bottini, J.L., Brooks, C.S., 2022. Identification of flow regimes in boiling flows in a vertical annulus channel with machine learning techniques, International Journal of Heat and Mass Transfer, 185, 122430. DOI: 10.1016/j.ijheatmasstransfer.2021.122439
+
+Zhu, L., Zhang, T., Bottini, J.L., Brooks, C.S., 2022. Two-dimensional quantitative study of boiling flow evolution in vertical inner-heated annulus channel, International Journal of Heat and Mass Transfer, Vol 183, Part B, 122190. DOI: https://doi.org/10.1016/j.ijheatmasstransfer.2021.122190
+
+Chapman, A., Shigetomi, Y., Karmaker, S.C., Saha, B.B., Huff, K.D., Brooks, C.S., Stubbins, J., 2021. The Role of Culture Toward Demographics, Energy System Preferences and Outcomes, Energy Research and Social Science, 80, 102231. DOI: https://doi.org/10.1016/j.erss.2021.102231
+
+Ooi, Z.J., Brooks, C.S., 2021. Two-group Interfacial Area Transport Equation Coupled with Void Transport Equation in Adiabatic Steam Water Flows, International Journal of Heat and Mass Transfer, 177, 121531. DOI: https://doi.org/10.1016/j.ijheatmasstransfer.2021.121531
+
+Zhang, T., Smith, E.R., Brooks, C.S., Fanning, T.H., 2021. Validation of SAS4A/SASSYS-1 for Predicting Steady-state Single-phase Natural Circulation, Nuclear Engineering and Design, 377, 111149. DOI: https://doi.org/10.1016/j.nucengdes.2021.111149
+
+Ooi, Z.J., Brooks, C.S., 2021. Beyond time-averaged measurement of bubble parameters in steam-water flows with conductivity probes, International Journal of Multiphase Flow, 138, 103594. DOI: https://doi.org/10.1016/j.ijmultiphaseflow.2021.103594
+
+Zhu, L., Ooi, Z.J., Brooks, C.S., Shan, J., 2021. Modeling sensitivity in prediction of interfacial area concentration in boiling flow, Progress in Nuclear Energy, 133, 103638. DOI: https://doi.org/10.1016/j.pnucene.2021.103638
+
+Chen, J., Brooks, C.S., 2021. Experiments and CFD Simulation of Mass Transfer and Hydrodynamics in a Cylindrical Bubble Column, Chemical Engineering Science, 234, 116435. DOI: https://doi.org/10.1016/j.ces.2020.116435
+
+Zhang, T., Brooks, C.S., 2021. Linear stability analysis of flashing instability based on the homogeneous equilibrium model, Nuclear Engineering and Design, 373, 110994. DOI: 10.1016/j.nucengdes.2020.110994
+
+Zhu, L., Ooi, Z.J., Bottini, J.L., Brooks, C.S., Shan, J., 2020. Bubble diameter distribution and intergroup mass transfer coefficient in flows with phase change, International Journal of Heat and Mass Transfer, 163, 120456. DOI: 10.1016/j.ijheatmasstransfer.2020.120456
+
+Ooi, Z.J., Zhang, T., Brooks, C.S., 2020. Experimental dataset with high-speed visualization for vertical upward steam-water flow with transition from annulus to circular channel, International Journal of Heat and Mass Transfer, 161, 120281. DOI: 10.1016/j.ijheatmasstransfer.2020.120281
+
+Miernicki, E.A, Heald, A.L., Huff, K.D., Brooks, C.S., Margenot, A.J., 2020. Nuclear waste heat use in agriculture: history and opportunities, Journal of Cleaner Production, 267, 121918. DOI: 10.1016/j.jclepro.2020.121918
+
+Bottini, J.L., Zhu, L., Ooi, Z.J., Zhang, T., Brooks, C.S., 2020. Experimental study of boiling flow in a vertical Heated Annulus with local two-phase measurements and visualization, International Journal of Heat and Mass Transfer, 155, 119712. DOI: 10.1016/j.ijheatmasstransfer.2020.119712
+
+Kumar, V., Brooks, C.S., 2020, Benchmark of interfacial area concentration approaches for the two-fluid model in gas-dispersed condensing flow, Progress in Nuclear Energy, 124, 103329. DOI: 10.1016/j.pnucene.2020.103329
+
+Borowiec, K., Kozlowski, T., Brooks, C.S., 2020. Validation and uncertainty quantification for two-phase natural circulation flows using TRACE code, Nuclear Science and Engineering, 194, 737-747. DOU:10.1080/00295639.2020.1713671
+
+Ooi, Z.J., Kumar, V., Brooks, C.S., 2020. Validation of the Interfacial Area Transport Equation Coupled with the Void Transport Equation for Prediction of Flashing Flows, Nuclear Science and Engineering, 194, 598-619. DOI: 10.1080/00295639.2020.1732123
+
+Zhang, T., Ooi, Z.J., Skrzpek, M., Brooks, C.S., 2020. A multi-dimensional dataset for two-phase instability in low pressure natural circulation based on direct transient local measurement, International Journal of Heat and Mass Transfer, 151, 119447. DOI:10.1016/j.ijheatmasstransfer.2020.119447
+
+Ooi, Z.J., Kumar, V., Brooks, C.S., 2019. Experimental database of two-phase natural circulation with local measurements, Progress in Nuclear Energy, 116, 124-136. DOI:10.1016/j.pnucene.2019.04.003
+
+Kumar, V., Ooi, Z.J., Brooks, C.S., 2019. Forced convective steam-water experimental database in a vertical annulus with local measurements, International Journal of Heat and Mass Transfer, 137, 216-228. DOI:10.1016/j.ijheatmasstransfer.2019.03.099
+
+Colgan, N., Bottini, J.L., Ooi, Z.J., Brooks, C.S., 2019. Experimental study of wall nucleation characteristics in flow boiling under subatmospheric pressures in a vertical square channel, International Journal of Heat and Mass Transfer, 134, 58-68. DOI:10.1016/j.ijheatmasstransfer.2018.12.153
+
+Ju, P., Liu, Y., Brooks, C.S., Ishii, M., 2019. Prediction of Interfacial Shear Stress of Vertical Upward Adiabatic Annular Flow in Pipes, International Journal of Heat and Mass Transfer, 133, 500-509. DOI:10.1016/j.ijheatmasstransfer.2018.12.057
+
+Colgan, N., Bottini, J.L., Martinez-Cuenca, R., Brooks, C.S., 2019. Experimental study of critical heat flux in flow boiling under subatmospheric pressure in a vertical square channel, International Journal of Heat and Mass Transfer, 130, 514-522. DOI:10.1016/j.ijheatmasstransfer.2018.10.082
+
+Bottini, J.L., Kumar, V., Hammouti, S., Ruzic, D., Brooks, C.S., 2018. Influence of wettability due to laser-texturing on critical heat flux in vertical flow boiling, International Journal of Heat and Mass Transfer, 127, 806-817. DOI:10.1016/j.ijheatmasstransfer.2018.06.113
+
+Kumar, V., Brooks, C.S., 2018. Inter-group mass transfer modeling in the two-group two-fluid model with interfacial area transport equation in condensing flow, International Journal of Heat and Mass Transfer, 119, 688-703. DOI:10.1016/j.ijheatmasstransfer.2017.11.087
+
+Ooi, Z.J., Kumar, V., Bottini, J.L., Brooks, C.S., 2018. Experimental investigation of variability in bubble departure characteristics between nucleation sites in subcooled boiling flow, International Journal of Heat and Mass Transfer, 118, 327-339. DOI:10.1016/j.ijheatmasstransfer.2017.10.116
+
+Kumar, V., Brooks, C.S., 2017. Validation and model sensitivity of the interfacial area transport equation in condensing flows, International Journal of Heat and Mass Transfer, 113, 647-661. DOI:10.1016/j.ijheatmasstransfer.2017.05.118
+
+Sharma, S.L., Hibiki, T., Ishii, M., Brooks, C.S., Schlegel, J.P., Liu, Y., Buchanan Jr., J.R., 2017. Turbulence-induced Bubble Collision Modeling and Validation in Adiabatic Two-phase Flow, Nuclear Engineering and Design, 312, 399-409. DOI:10.1016/j.nucengdes.2016.05.006
+
+Fullmer, W.D., Kumar, V., Brooks, C.S., 2016. Validation of RELAP5/MOD3.3 for Subcooled Boiling, Flashing and Condensation in a Vertical Annulus, Progress in Nuclear Energy, 93, 205-217. DOI: 10.1016/j.pnucene.2016.08.013
+
+Dandekar, A.V., Brooks, C.S., 2016. Modeling of Void Fraction Covariance in Two-phase Flows with Phase Change, International Journal of Heat and Mass Transfer, 100, 231-242. DOI:10.1016/j.ijheatmasstransfer.2016.04.066
+
+Brooks, C.S. and Hibiki, T., 2016. Modeling and validation of interfacial area transport equation in subcooled boiling flow, Journal of Nuclear Science and Technology, 53 (8), 1192-1204. DOI: 10.1080/00223131.2015.1096852
+
+Shi, S., Schlegel, J.P., Brooks, C.S., Lin, Y-C., Eoh, J., Liu, Z., Zhu, Q., Liu, Y., Hibiki, T., Ishii, M., 2015. Experimental investigation of natural circulation instability in a BWR-type small modular reactor, Progress in Nuclear Energy, 85, 96-107. DOI:10.1016/j.pnucene.2015.06.014
+
+Ju, P., Brooks, C.S., Ishii, M., Liu, Y., Hibiki, T., 2015. Film thickness of vertical upward co-current adiabatic flow in pipes, International Journal of Heat and Mass Transfer, 89, 985-995. DOI:10.1016/j.ijheatmasstransfer.2015.06.002
+
+Shi, S., Wu, Z., Liu, Z., Schlegel, J.P., Brooks, C.S., Eoh, J., Yan, Y., Liu, Y., Yang, W.S., Ishii, M., 2015. Experimental study of natural circulation instability with void reactivity feedback during startup transients for a BWR-type SMR, Progress in Nuclear Energy, 83, 73-81. DOI:10.1016/j.pnucene.2015.03.003
+
+Brooks, C.S. and Hibiki, T., 2015. Wall Nucleation Modeling in Subcooled Boiling Flow, International Journal of Heat and Mass Transfer, 86, 183-196. DOI: 10.1016/j.ijheatmasstransfer.2015.03.005
+
+Brooks, C.S., Silin, N., Hibiki, T., Ishii, M., 2015. Experimental investigation of wall nucleation characteristics in flow boiling, ASME Journal of Heat Transfer, 137 (5), 051501. DOI: 10.1115/1.4029593
+
+Martinez, R., Brooks, C.S., Julia, J.E., Hibiki, T., Ishii, M., 2015. Stochastic nature of wall nucleation and its impact on the time averaged boundary condition, ASME Journal of Heat Transfer, 137 (2), 021504. DOI:10.1115/1.4028975
+
+Brooks, C.S., Ozar, B., Hibiki, T., Ishii, M., 2014. Interfacial area transport of subcooled boiling flow in a vertical annulus, Nuclear Engineering and Design, 269, 152-163. DOI:10.1016/j.nucengdes.2013.04.041
+
+Brooks, C.S., Liu, Y., Hibiki, T., Ishii, M., 2014. Effect of void fraction covariance on relative velocity in gas-dispersed two-phase flow, Progress in Nuclear Energy, 70, 209-220. DOI:10.1016/j.pnucene.2013.10.006
+
+Ozar, B, Brooks, C.S., Hibiki, T., Ishii, M., 2013. Interfacial area transport of vertical upward steam-water two-phase flow in an annular channel at elevated pressures, International Journal of Heat and Mass Transfer, 57, 504-518. DOI:10.1016/j.ijheatmasstransfer.2012.10.059
+
+Ozar, B, Brooks, C.S., Euh, D.J, Hibiki, T., Ishii, M., 2013. Investigation of one-dimensional interfacial area transport for vertical upward air-water two-phase flow in an annular channel at elevated pressures, Nuclear Engineering and Design, 263, 362-379. DOI:10.1016/j.nucengdes.2013.05.018
+
+Brooks, C.S., Ozar, B., Hibiki, T., Ishii, M., 2012. Two-group Drift-flux Model in Boiling Flow, International Journal of Heat and Mass Transfer, 55, 6121-6129. DOI:10.1016/j.pnucene.2012.07.001
+
+Brooks, C.S., Hibiki, T., Ishii, M., 2012. Interfacial Drag Force in One-dimensional Two-fluid Model, Progress in Nuclear Energy, 61, 57-68. DOI:10.1016/j.pnucene.2012.07.001
+
+Brooks, C.S., Paranjape, S.S., Ozar, B., Hibiki, T., Ishii, M., 2012. Two-group Drift-flux Model for Closure of the Modified Two-fluid Model, International Journal of Heat and Fluid Flow, 37, 196-208. DOI:10.1016/j.ijheatfluidflow.2012.04.002
+
+
+Articles in Conference Proceedings
+Chaube, A., Novak, A., Shaver, D., Brooks, C.S., Natural Convection CFD Modeling of a Microreactor Air Jacket, American Nuclear Society Winter Meeting, Washington DC, November 13-14, 2024
+
+Chandra, N., Kalinichenko, D., Ross, M., Brooks, C.S., Bindra, H., Optimal Sizing Toolbox for Energy Generation and Storage for a Nuclear Hybrid Microgrid, American Nuclear Society Winter Meeting, Washington DC, November 13-14, 2024
+
+OBrien, K., Brooks, C.S., Gioja, L., Grunloh, T.P., Baroi, C., Novak, A.J., He, J., Integrating Direct Air Capture (DAC) with Microreactors: Pathways to Net Negative, 17th International Conference on Greenhouse Gas Control Technologies GHGT-17, October 20-24, 2024, Calgary Canada 
+Shao, H., Zhang, T., Brooks, C.S., Zhu, L., Demonstrated potential of machine learning in driving post-processing of four-sensor conductivity probes, Specialist Workshop on Advanced Instrumentation and Measurement Techniques for Nuclear Reactor Thermal Hydraulics and Severe Accidents SWINTH-2024, Dresden, Germany, June 17-20, 2024 
+
+Aziz, M.A.B., Callaway, C., Brown, N., Brooks, C.S., Integrated Energy System Model in OpenModelica for Producing Energy, Powering a Desalination Plant and for District Heating, 20th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-20), Washington D.C., United States, August 20-25, 2023
+Chen, J., Brooks, C.S., Experimental Method for Measurement of Density and Viscosity of High Temperature Heat Transfer Fluid, 20th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-20), Washington D.C., United States, August 20-25, 2023
+
+Malik, M.S., Chen, J., Di Fulvio, A., Brooks, C.S., Grunloh, T.P., “Uncoupled DEM Simulation to Investigate the Impact of Coolant flow on Pebble flow in Pebble Bed Reactor” 20th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-20), Washington D.C., United States, August 20-25, 2023
+
+Zhang, T., Hua, T., Ooi, Z.J., Zou, L., Brooks, C.S., Modeling the Prismatic HTGR Core in SAM by Representative Channels, 20th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-20), Washington D.C., United States, August 20-25, 2023
+
+Zhang, T., Brooks, C.S., Simulation of Oscillatory Flow Induced by Flashing Instability Using the ASYST System Analysis Code, 20th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-20), Washington D.C., United States, August 20-25, 2023
+
+A. Chaube, A.J. Novak, C.S. Brooks, Demonstration of Cardinal for Modelling Core-Radial Expansion in Sodium-Cooled Fast Reactor Assemblies, The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C), Ontario Canada, August 13-17, 2023 
+
+A. Chaube, A.J. Novak, D.R. Shaver, C.S. Brooks, Heat Transfer Performance Assessment of a Microreactor Air Jacket using CFD, The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C), Ontario Canada, August 13-17, 2023 
+
+Malik, M.S., Chen, J., Brooks, C.S., CFD Simulation for Evaluating Pressure Drop and Heat Transfer Correlations for Pebble Bed Reactor, Computational Fluid Dynamics for Nuclear Reactor Safety (CFD4NRS-9) OECD NEA Workshop, College Station, Texas A&M University, United States, February 20-22, 2023
+
+Novak, A.J., Chaube, A., Shaver, D.R., Brooks, C.S. Validation of NekRS-MOOSE Conjugate Heat Transfer Coupling for a 7-Pin Bare Bundle, Proceedings of ANS 2022
+
+McCord, M., Bottini, J. L., and Brooks, C. S., Experimental Comparison of Transient and Stable Film Boiling Minimum Rewet Conditions at Low Pressure and Low Flow Rate, International Topical Meeting on Advances in Thermal Hydraulics, Anaheim, CA, June 12-16, 2022
+
+Bottini, J.L., Ooi, Z.J., Brooks, C.S., Trends in vapor generation and intergroup mass transfer in the two-group two fluid model in flows with phase change, Japan-U.S. Seminar on Two-phase Flow Dynamics, Ann Arbor, MI, USA, May 8-11, 2022 (invited)
+
+Zhang, T., Brooks, C.S., Stability Tests and Analysis on a Low-pressure Natural Circulation Loop with Flashing Instability, 19th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH), Brussels, Belgium, March 6-11, 2022 (Best Paper Award)
+
+Zhu, L., Zhang, T., Ooi, Z.J., Brooks, C.S., Shan, J., Pan, L., Validation of Interfacial Mass Transfer Closures in Drift Flux Model for Condensation Flow, 19th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH), Brussels, Belgium, March 6-11, 2022
+
+Zhu, L., Ooi, Z.J., Zhang, T., Brooks, C.S., Pan, L., Flow Regime Identification for Boiling Flow and Study of Feed-in Information in Unsupervised Machine Learning, 19th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH), Brussels, Belgium, March 6-11, 2022
+
+Bottini, J. L., Brooks, C. S., Modeling Vapor Mass Generation in Vertical Boiling Flow Using the Two-Group Two-Fluid Model, 19th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH), Brussels, Belgium, March 6-11, 2022
+
+Chen, J., Brooks, C.S., Simulation and Analysis of a Prototypical Bubble Separator for Molten Salt Reactor, ANS Winter Meeting, Washington, D.C., November 31-December 3, 2021
+
+Lee, A. J. H., Wodrich, L., Brooks, C.S., Kozlowski, T., Modeling Micro-Reactor Benefits to an Existing Campus Microgrid, ANS Winter Meeting, Washington, D.C., November 31-December 3, 2021
+
+Zhu, L., Bottini, J.L., Brooks, C.S., Comparison of intergroup mass transfer coefficient correlations in two-group IATE for subcooled boiling flow, ANS Winter Meeting, Chicago, IL, November 16-19, 2020
+
+Zhang, T., Brooks, C.S., Linear Stability Analysis of Flashing Instability with Homogeneous Equilibrium Model, ANS Winter Meeting, Chicago, IL, November 16-19, 2020
+
+McCord, M.L., Bottini, J.L., Brooks, C.S., Transient measurement of film boiling during cooldown from CHF in vertical flow, ANS Winter Meeting, Chicago, IL, November 16-19, 2020
+
+Chen, J., Brooks, C.S., Simulation and analysis of a prototypical xenon removal system, ANS Winter Meeting, Chicago, IL, November 16-19, 2020
+
+Chen, J., Brooks, C.S., Experimental study of fluid motion and mass transfer in a cylindrical bubble column, International Topical Meeting on Advances in Thermal Hydraulics, Paris, France, March 31-April 3, 2020
+
+Ooi, Z.J., Brooks, C.S., Beyond time-averaged measurements using conductivity probes, International Topical Meeting on Advances in Thermal Hydraulics, Paris, France, March 31-April 3, 2020
+
+Chen, J., Brooks, C.S., Experimental study of fluid motion and mass transfer in a cylindrical bubble column, International Topical Meeting on Advances in Thermal Hydraulics, Paris, France, March 31-April 3, 2020
+
+Zhu, L., Ooi, Z.J., Kumar, V., Brooks, C.S., Current Intergroup Mass Transfer Limitations in the Multi-group Two-fluid Model, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Zhu, L., Kumar, V., Ooi, Z.J., Brooks, C.S., Current Capability of Interfacial Area Transport Equation in Subcooled Boiling, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Zhang, T., Ooi, Z.J., Brooks, C.S., Transient local thermal hydraulics data for two-phase flow instability in natural circulation, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Wang, L., Brooks, C.S., Analysis of wall nucleation modeling for flow boiling in Fluent, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Ooi, Z.J., Kumar, V., Brooks, C.S., Validation of the interfacial area transport equation coupled with the void transport equation for prediction of flashing flows, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Kumar, V., Brooks, C.S., Validation of interfacial area concentration approaches for prediction of gas-dispersed condensing flows, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Chen, J., Brooks, C.S., CFD Simulation of Xenon removal by Helium sparging in molten salt, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Borowiec, K., Kozlowski, T., Brooks, C.S., Validation and uncertainty quantification for two-phase natural circulation flows using TRACE code, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH), Portland, Oregon, USA, August 18-23, 2019
+
+Bottini, J.L., Zhu, L., Ooi, Z.J., Zhang, T., Brooks, C.S., A New Dataset with Local Measurement and Visualization of Subcooled Boiling in an Internally Heated Annulus Channel, 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon, USA, August 18-23, 2019
+
+Ooi, Z.J., Kumar, V., Brooks, C.S., Measurement of two-phase natural circulation in a vertical annulus, International Topical Meeting on Advances in Thermal Hydraulics, ANS Winter Meeting, Orlando, FL, November 11-15, 2018
+
+Kumar, V., Ooi, Z.J., Brooks, C.S., Measurement of steam-water flow in a vertical annulus, International Topical Meeting on Advances in Thermal Hydraulics, ANS Winter Meeting, Orlando, FL, November 11-15, 2018
+
+Bottini, J.L., Hammouti, S., Ruzic, D., Brooks, C.S., Boiling and Critical heat flux on surfaces of modified wettability and roughness, International Topical Meeting on Advances in Thermal Hydraulics, ANS Winter Meeting, Orlando, FL, November 11-15, 2018
+
+Bottini, J.L., Kumar, V., Hammouti, S., Ruzic, D., Brooks, C.S., Critical heat flux on laser-textured surface in flow boiling, 3rd Thermal and Fluids Engineering Conference (TFEC), Fort Lauderdale, FL, USA, March 4-7, 2018
+
+Colgan, N., Bottini, J.L., Brooks, C.S., Flow boiling at subatmospheric pressure. American Nuclear Society-Nuclear and Emerging Technologies for Space, Las Vegas, NV, February 26-March 1, 2018
+
+Borowiec, K., Wang, C., Kozlowski, T., Brooks, C.S., Uncertainty Quantification for Steady-Steady PSBT Benchmark using Surrogate Models, 2017 ANS Winter Meeting, Washington, DC, October 29-November 2, 2017
+Zou, L., Zhao, H., Zhang, H., Brooks, C.S., A Revisit to the Hicks Hyperbolic Two-pressure Two-phase Flow Model, The 17th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-17), Xi'an, China, September 3-8, 2017
+Ooi, Z.J., Kumar, V., Bottini, J., Brooks, C.S., Experimental Investigation of Variability in Bubble Departure Diameter and Bubble Departure Frequency Between Nucleation Sites, The 17th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-17), Xian, China, September 3-8, 2017
+
+Kumar, V., Brooks, C.S., Validation of the Interfacial Area Transport Equation Coupled with Mass Continuity for Prediction of Condensing Flows, The 17th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-17), Xian, China, September 3-8, 2017
+
+Bottini, J., Kumar, V., Brooks, C.S., Critical Heat Flux Experiments Under Low Flow Conditions in a Vertical Rectangular Channel, The 17th International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-17), Xian, China, September 3-8, 2017
+
+Kumar, V., Brooks, C.S., The two-group two-fluid model with interfacial area transport equation in condensing flow, 2017 Japan-U.S. seminar on Two-Phase flow Dynamics, Hokkaido, Japan, June 22-24, 2017
+
+Sharma, S.L., Brooks, C.S., Schlegel, J., Hibiki, T., Ishii, M., Buchanan, J.R., Turbulent induced bubble collision force model development and assessment for adiabatic dispersed air-water two-phase flow with two-fluid model, The 16th International Topical Meeting of Reactor Thermal Hydraulics (NURETH-16), Chicago, IL, USA, August 30-September 4, 2015
+Guojun, H., Kozlowski, T., Brooks, C.S., Uncertainty quantification of TRACE subcooled boiling model using BFBT experiments, The 16th International Topical Meeting of Reactor Thermal Hydraulics (NURETH-16), Chicago, IL, USA, August 30-September 4, 2015
+Brooks, C.S., Lietwiler, C.D., Fullmer, W.D., Assessment of RELAP5/MOD3.3 for subcooled boiling, flashing and condensation in a vertical annulus, The 16th International Topical Meeting of Reactor Thermal Hydraulics (NURETH-16), Chicago, IL, USA, August 30-September 4, 2015
+Brooks, C.S., Hibiki, T., Ishii, M., The Interfacial Area Transport Equation and Boundary Condition Sensitivity in Subcooled Boiling Flow, Japan-U.S. Seminar on Two-phase Flow Dynamics, West Lafayette, IN, May 10-15, 2015
+Shi, S., Brooks, C.S., Eoh, J., Ishii, M., Pressurized startup transient analyses for the BWR-type NMR-50, American Nuclear Society Winter Meeting, Anaheim, CA, USA, November 9-13, 2014
+Shi, S., Brooks, C.S., Lin, Y.-C., Schlegel, J.P., Hibiki, T., Ishii, M., Experimental investigation of natural circulation instability in a BWR-type small modular reactor, ASME 2014 Small Modular Reactors Symposium, Washington, DC, USA, April 15-17, 2014
+Brooks, C.S., Silin, N., Hibiki, T., Ishii, M., Experimental investigation of bubble departure diameter and bubble departure frequency in sub-cooled flow boiling in a vertical annulus, Proceedings of the ASME Summer Heat Transfer Conference, Minneapolis, MN, USA, July 14-19, 2013
+Chen, S.W., Brooks, C.S., Hibiki, T., Ishii, M., Mori, M., Macke, C., Experiment of adiabatic two-phase flow in an annulus under low-frequency vibration, Proceedings of the 20th International Conference on Nuclear Engineering, Anaheim, CA, USA, July 30-August 3, 2012
+Brooks, C.S., Ozar, B., Hibiki, T., Ishii, M., Two-group relative velocity in boiling two-phase flow, Proceedings of the 20th International Conference on Nuclear Engineering, Anaheim, CA, USA, July 30-August 3, 2012
+Brooks, C.S., Liu, Y., Hibiki, T., Ishii, M., Void fraction covariance in two-phase flows, Proceedings of the 20th International Conference on Nuclear Engineering, Anaheim, CA, USA, July 30-August 3, 2012
+Ishii, M., Brooks, C.S., Ozar, B., Hibiki, T., Interfacial area transport of subcooled boiling flow in a vertical annulus, Japan-U.S. Seminar on Two-phase Flow Dynamics, Tokyo, Japan, June 7-12, 2012
+Ozar, B., Brooks, C.S., Hibiki, T., Ishii, M. Interfacial area transport of steam-water two-phase flow in a vertical annulus at elevated pressures during sub-cooled boiling, The 14th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Toronto, Ontario, Canada, September 25-29, 2011
+Hibiki, T., Ishii, M., Liu, Y., Brooks, C.S., Overview of interfacial area transport equation development, American Nuclear Society Winter Meeting, Las Vegas, NV, USA, November 7-11, 2010
+Hibiki, T., Ishii, M., Brooks, C.S., Overview of interfacial area transport data development, American Nuclear Society Winter Meeting, Las Vegas, NV, USA, November 7-11, 2010
+
+Journal Editorships
+Editorial Board, Experimental and Computational Multiphase Flow, Springer
+
+Professional Societies
+American Society of Thermal and Fluids Engineers (ASTFE) Member
+American Nuclear Society (ANS) Member
+Atomic Energy Society of Japan (AESJ)
+American Society of Mechanical Engineers (ASME) Member
+Alpha Nu Sigma National Honor Society Member
+
+Recent Courses TaughtNPRE 247 - Modeling Nuclear Energy System
+NPRE 349 - Intro to NPRE Heat Transfer
+NPRE 449 (NPRE 448) - Nuclear Syst Engrg & Design
+NPRE 511 - Nuclear Reactor Heat Transfer
+

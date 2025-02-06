@@ -1,0 +1,100 @@
+
+
+
+Jorge  A.  Guzman 
+
+
+
+
+
+Research Assistant Professor
+
+
+(217) 300-7934
+jag@illinois.edu
+332 M Agricultural Engr Sciences Bld
+
+
+For More Information
+
+
+Education
+Ph.D. Biosystems Engineering, 
+Oklahoma State University, USA. 2010
+
+Master of Science in Hydrology and Water Resources. 
+UNESCO-IHE Institute for Water Education, The Netherlands. 2003
+Master of Science in Informatics. 
+Universidad Industrial de Santander, Colombia. 1994
+Diploma in Photogrammetry and Large scale DEMs for Civil Engineering. Instituto Geografico Agustin Codazzi, Colombia. 1991.
+B.S. Civil Engineering. 
+Universidad Industrial de Santander, Colombia. 1989
+
+Academic Positions
+Visiting Research Programmer. 
+University of Illinois, Urbana-Champaign. 2108-Present
+Postdoctoral Researcher. Center for Spatial Analysis.
+University of Oklahoma, Norman, Oklahoma. 2016-2018.
+Postdoctoral Fellow. 
+USDA-ARS Grazinglands Research Laboratory. El Reno, Oklahoma. 2011-2014
+Associate Faculty. Civil Engineering Department.
+Universidad Industrial de Santander, Bucaramanga, Colombia. 1991-2007
+
+Other Professional Employment
+Postdoctoral Researcher, Center for Spatial Analysis, University of Oklahoma, Oklahoma. 2016-2018
+Senior Engineer, Waterborne Environmental, Inc.
+Champaign, Illinois. 2014-2016
+Hydrology Research Associate, USDA-ARS, Grazinglands Research Laboratory, Oklahoma. 2011-2014
+Associate Professor, Universidad Industrial de Santander, Colombia. 1991-2007
+
+
+
+Selected Articles in Journals
+Guzman, J.A., M.L., Chu, J.L. Steiner, P.J., Starks. 2018. Assessing and quantifying changes in precipitation patterns using event-driven analysis. 2018. J. Hydrol. Regional Studies, 15: 1-15. 
+Chu, M.L., J.A. Guzman, M.B. Villamil. 2018. A Modeling Framework to Evaluate the Impacts of Future Climate on Soil Organic Carbon Dynamics. J. Environ Qual, 47(4): 596-606.
+Prada, A.F., M.L. Chu, J.A. Guzman, D.N. Moriasi. 2017. Evaluating the impacts of agricultural land management practices on water resources: a probabilistic hydrologic modeling approach. J. Environ. Management, 193: 512-523.
+Botero-Acosta, A., M.L. Chu, J.A. Guzman, P.J. Starks, D.N. Moriasi. 2017. Riparian erosion vulnerability model based on environmental features. J. Environ. Management, 203(1): 592-602
+Moriasi, D.N.,K. King, D. Bosh, D. Bjorneberg, S. Teet, J.A. Guzman, M. Williams. Framework to parameterize and validate APEX to support deployment of the nutrient tracking tool. Agricultural Water Management, 177: 146-164
+Moriasi, D.N., R.W. Zeckoski, J.G. Arnold, C.B. Baffaut, R.W. Malone, P. Daggupati, J.A. Guzman, D. Saraswat, Y. Yuan, B.W. Wilson, A. Shirmohammadi, and K.R. Douglas-Mankin. 2015. Hydrologic and water quality models: key calibration and validation topics. T. ASABE 58(6): 1609-1618
+Guzman, J.A.,  A. Shirmohammadi, A. Sadeghi, X. Wang, M.L. Chu, M.K. Jha, P. Parajuli, D. Harmel, Y. Khare, and J. Hernandez. 2015. Uncertainty considerations in calibration and validation of hydrologic and water quality models. T. ASABE 58(6): 1745-1762
+Baffaut, C.,  S.M. Dabney, M. Smolen, M.A. Youssef, J.V. Bonta, M.L. Chu, J.A. Guzman, V. Shedekar, M. K. Jha, and J.G. Arnold. 2015. Hydrologic and water quality modeling: spatial and temporal considerations. T. ASABE 58(6): 1661-1680
+Guzman, J.A., D.N. Moriasi, P.H. Gowda, J.L. Steiner, J.G. Arnold, and R. Srinivasan P.J. Starks. 2015. A model integration framework for linking SWAT and MODFLOW.  2015. J. Environ. Modeling & Software, 73: 103-116. 
+Steiner, J.L., P.J., Starks, J.D., Garbrecht, D.N., Moriasi, X., Zhang, J.M., Schneider, J.A., Guzman, and E., Osei, 2014. Long-Term Environmental Research: The Upper Washita River Experimental Watersheds, Oklahoma, USA. J Environ Qual. 43(4): 1227-1238. 
+Starks, P.J., C.A. Fiebrich, D.L. Grimsley, J.D. Garbrecht, J.L. Steiner, J.A. Guzman, and D.N. Moriasi. 2014. Upper Washita River experimental watersheds: Meteorologic and soil climate measurement networks. J. Environ. Qual. 43(4): 1239-1249. 
+Guzman, J.A., M.L. Chu, P.J. Starks, D.N. Moriasi, J.L. Steiner, C.A. Fiebrich, and A.G. McCombs. 2014. Upper Washita River experimental watersheds: Data screening procedure for data quality assurance. J. Environ. Qual. 43(4): 1250-1261. 
+Moriasi, D.N., P.J. Starks, J.A. Guzman, J.G. Garbrecht, J.L. Steiner, J.C. Stoner, P.B. Allen, and J.W. Naney. 2014. Upper Washita River Experimental Watersheds: Reservoir, groundwater, and stream flow data. J. Environ. Qual. 43(4): 1262-1272
+Starks, P.J., J.L. Steiner, D.N. Moriasi, J.A. Guzman, J.D. Garbrecht, P.B. Allen, and J.W. Naney. 2014. Upper Washita River experimental watersheds: Nutrient water quality data. J. Environ. Qual. 43(4): 1280-1297. 
+Moriasi, D.N., P.J. Starks, J.L. Steiner, J.A. Guzman, P.B. Allen, and J.W. Naney. 2014. Upper Washita River experimental watersheds: Physiography data. J. Environ. Qual. 43(4): 1298-1309.
+Cosh, M.A., P.J. Starks, J.A. Guzman, and D.N. Moriasi. 2014. Upper Washita experimental watersheds: Multiyear stability of soil water content profiles. J. Environ. Qual. 43(4): 1328-1333. 
+Moriasi, D.N., J.A. Guzman, J.L. Steiner, P.J. Starks, and J.D. Garbrecht. 2014. Seasonal sediment and nutrients transport patterns. J. Environ. Qual. 43(4): 1334-1344. 
+Chu, M.L., J.A. Guzman, R. Muñoz-Carpena, G.A. Kiker, and I. Linkov. 2014. A simplified approach for simulating changes in beach habitat due to the combined effects of long-term sea level rise, storm erosion, and nourishment. J. Environ. Modeling & Software 52: 111-120. 
+Guzman, J.A, D.N., Moriasi, M.L., Chu, P.J., Starks, J.L., Steiner, and P.H., Gowda. 2013. A tool for Mapping and Spatio-temporal Analysis of Hydrological Data. J. Environmental Modeling & Software 48: 163-170. 
+Chu, M.L., J., Knouft, A., Ghulam, J.A., Guzman, and Z., Pan. 2013. Impacts of urbanization on river flow frequency: A controlled experiment modeling-based evaluation approach. J. Hydrol. 495: 1-12. 
+Fox, G.A., M.M., Marvin, J.A., Guzman, C.K., Hoang, R.W., Malone, R.S., Kanwar, and M.J., Shipitalo. 2012. E. Coli Transport Through Surface-Connected Biopores Identified From Smoke Injection Test. T. ASABE. 55(6) 2185-2194.
+Meek, D.W., C., Hoang, R.W., Malone, R.S., Kanwar, G.A., Fox, and J.A., Guzman. 2012. Rational Polynomial Functions for Modeling E. Coli and Bromide Breakthrough. T. ASABE. 55(5): 1821-1826.
+Guzman, J.A., G.A., Fox, and C., Penn. 2012. Sorption of Escherichia coli in agricultural soils influenced by swine manure constituents.  T. ASABE 55(1): 61-71.
+Guzman, J.A., G.A., Fox. 2012. Implementing Biopore and Fecal Bacteria Fate and Transport Routines into the Root Zone Water Quality Model (RZWQM). T. ASABE 55(1): 73-84.
+Fox, G.A., E.M., Matlock, J.A., Guzman, D., Sahoo, and K.B., Stunkel. 2011. Escherichia coli Load Reduction from Runoff by Vegetative Filter Strips: A Laboratory-Scale Study. J. Environ. Qual. 40(3):980-988
+Guzman, J.A., G.A., Fox, and J., Payne. 2010. Surface runoff transport of Escherichia coli after poultry litter application on pastureland. T. ASABE 53(3): 779-786
+Guzman, J.A., G.A., Fox, R.W., Malone, and R.S., Kanwar. 2009. Escherichia coli transport from surface applied manure to subsurface drains through artificial biopores. J. Environ. Qual. 38(6):2412-2421
+Garbrecht, K., G.A., Fox, J.A. Guzman, and D., Alexander. 2009. E. coli transport through soil columns: Implications for bioretention cell removal efficiency. T. ASABE 52(2):481-486.
+
+Research Honors
+ASABE superior paper award: Implementation of Biopore and soil fecal bacteria fate and transport routines in the Root Zone Water Quality model (RZWQM) (2013)
+Second place for oral presentation at the Oklahoma State University research symposium. OSU, Research Week, Stillwater, OK, Feb 16-20, 2009 (2009)
+Graduated with honors for the final project at the Bachelor of Science in Civil Engineering
+ (1989)
+
+Public Service Honors
+Outstanding contribution in reviewing for the Journal of Environmental Modelling and Software (2015)
+Certificate of appreciation in recognition of outstanding service as a reviewer in the soil and water division for an ASABE journal. (2013)
+Named a 2009 outstanding reviewer by the Journal of Environmental Quality (2010)
+
+Other Honors
+Recipient of the COLFUTURO assistant ship program. Bogota, Colombia. (2001)
+USDA certificate of merit 2011-2012 (2012)
+
+Recent Courses TaughtABE 498 JAG - Problems in Critical Zone
+ABE 498 JG1 - Data & Uncertainty Analysis
+ABE 594 (TSM 594) - Graduate Seminar
+

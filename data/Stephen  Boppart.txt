@@ -1,0 +1,519 @@
+
+
+
+Stephen Boppart 
+
+
+
+
+
+Grainger Distinguished Chair in Engineering/Interim Director Interdisciplinary Health Sciences InstituteProfessor
+Director, Imaging at IllinoisGrainger Distinguished Chair in Engineering/Interim Director Interdisciplinary Health Sciences InstituteGrainger Distinguished Chair of Engineering
+
+
+(217) 244-7479
+boppart@illinois.edu
+4351 Beckman Institute
+
+
+For More Information
+CLIMB Center Page
+Prof. Boppart's Lab Page
+Prof. Boppart's Home Page
+
+Education
+M.D. Medicine
+Harvard Medical School
+June 2000
+Ph.D. Medical and Electrical Engineering
+Massachusetts Institute of Technology
+June 1998
+
+BiographyStephen Boppart is a Professor and Grainger Distinguished Chair in Engineering at the University of Illinois Urbana-Champaign (UIUC) with appointments in the Departments of Electrical and Computer Engineering, Bioengineering, the Carle Illinois College of Medicine, and the Beckman Institute for Advanced Science and Technology.  His Biophotonics Imaging Laboratory is focused on developing novel optical biomedical diagnostic and imaging technologies and translating these into clinical applications.  Prof. Boppart received his Ph.D. in Medical and Electrical Engineering from MIT, his M.D. from Harvard Medical School, and specialty training in Internal Medicine.  He has published over 475 invited and contributed publications, delivered over 1000 invited and contributed presentations, and has over 55 patents related to optical biomedical imaging technology.  He has mentored over 200 interdisciplinary undergraduate, graduate, and post-graduate researchers.  He was recognized by MIT Technology Review magazine as one of the Top 100 Young Innovators for his development of medical technology, and with the Paul F. Forman Engineering Excellence Award from Optica for dedication and advancement in undergraduate research education.  He received the international Hans Sigrist Prize in the field of Diagnostic Laser Medicine, the IEEE Technical Achievement Award, and the SPIE Biophotonics Technology Innovator Award.  Prof. Boppart has co-founded four start-up companies to commercialize and disseminate his optical technologies for biomedical imaging and was recently elected a member of the National Academy of Inventors.  He is also a Fellow of AAAS, IEEE, OSA, SPIE, AIMBE, BMES, and IAMBE.  He established and served as Director of Imaging at Illinois, a university-wide program to integrate imaging science, technology, and applications across multiple modalities and fields, and is currently Director of the GSK Center for Optical Molecular Imaging, supported by an academic-clinical-industry partnership with GlaxoSmithKline.  In support of a national NIH Biomedical Technology Research Resource, Prof. Boppart is directing the recently awarded NIBIB P41 Center for Label-free Imaging and Multiscale Biophotonics (CLIMB).  Prof. Boppart has been a strong advocate for the integration of engineering, technology, and medicine to advance human health and our healthcare systems.  He played an active role in the initiation, visioning, launch, and growth of the new engineering-based Carle Illinois College of Medicine at the University of Illinois Urbana-Champaign, and served as Executive Associate Dean and Chief Diversity Officer.  Currently he is serving as the Director for the university’s Interdisciplinary Health Sciences Institute, and as the Illinois Co-Chair of the Mayo Clinic & Illinois Alliance for Technology-Based Healthcare.  Through all these efforts he is recognized for developing new programs for research and education in technology-inspired health innovation.
+Academic Positions
+Director, NIH/NIBIB P41 Center for Label-free Imaging and Multiscale Biophotonics (CLIMB), September 2022 - Present
+Illinois Chair, Mayo Clinic and Illinois Alliance for Technology-based Healthcare, August 2022 - Present
+Interim Director, Interdisciplinary Health Sciences Institute (IHSI), University of Illinois at Urbana-Champaign, August 2022 - July 2024
+
+Director, GSK Center for Optical Molecular Imaging; Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, December 2015 - Present
+Full Professor (50%), Department of Electrical and Computer Engineering; Full Professor (50%), Department of Bioengineering; Clinical Professor (0%), Department of Internal Medicine; Research Professor (0%), Micro and Nanotechnology Laboratory; Research Professor (0%), Institute for Genomic Biology; Full Professor (0%), Neuroscience Program; Full Professor (0%), Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign
+
+Teaching StatementProf. Boppart's teaching activities and interests are highly interdisciplinary, following his research activities. Teaching activities cover cross-cutting areas in engineering, medicine, and biology. Courses have included ECE/BioE 414 and 415, Biomedical Instrumentation lecture and laboratory, ECE 460 Optical Imaging, ECE 380 Biomedical Imaging, and ECE 467 Biophotonics. For each of these, courses are taught relating fundamental engineering and scientific principles to real-world applications. Students participate directly with state-of-the-art information exchange by performing literature searches and preparing classroom presentations of journal articles about techniques and technologies discuss in lecture. Concepts are reinforced by use of stimulating discussions centered around clinical scenarios. For example, students in ECE 380 Biomedical Imaging are randomly given a medical beeper than when called for an "emergency", are presented with clinical medical images and scenarios that call on their ability to apply course principles to diagnose technical problems in the imaging data or systems. Students complete these courses having a broad-based knowledge of these subjects, and key tools for further in-depth investigations and advanced study.
+Research StatementMy interdisciplinary research group combines the fields of engineering, medicine, and biology to develop novel optical biomedical imaging technologies and translate these for biological discovery and clinical applications. Biophotonics, the application of light in medicine, biology, and biotechnology applications, enables us to develop innovative technologies to detect disease at early stages, when it is most amenable to treatment.
+Post-Doctoral Research OpportunitiesThe Biophotonics Imaging Laboratory at the Beckman Institute for Advanced Science and Technology on the campus of the University of Illinois at Urbana-Champaign has an immediate opening for a post-doctoral research associate in the area of nonlinear optical imaging systems for biomedical applications. Headed by Prof. Stephen Boppart, the Biophotonics Imaging Laboratory is a dynamic and productive interdisciplinary research and training environment focused on developing novel optical biomedical imaging technologies, translating them into clinical applications, and driving them toward commercialization for improving healthcare.
+Undergraduate Research OpportunitiesThere is a long history of undergraduate research opportunities in Prof. Boppart's Biophotonics Imaging Laboratory. Over the last 25 years, over 85 undergraduate students have conducted research in Prof. Boppart’s laboratory, often leading to an undergraduate thesis. Research areas cover aspects of optical imaging and physics, signal and imaging processing, image acquisition systems, biomedical optics and biophotonics, laser and optical source development, and clinical imaging applications. Undergraduate research experiences typically extend over two or more semesters, and result in the completion of an undergraduate thesis and a departmental symposium presentation. Exceptional research has been published in peer-reviewed journals and presented at national conferences.
+Research Interests
+Nonlinear Optical Microscopy
+
+Medical Device Engineering 
+
+Optical Diagnostics of Cancer
+Medical Engineering
+Image-Guided Surgery
+Optical Coherence Tomography
+Lasers in Medicine and Biology
+Optical Biomedical Imaging
+Neurophotonics
+Primary Care Imaging (ear, eye, skin, oral)
+ Imaging Biofilms and Microbiomes
+
+
+Research Areas
+Biomedical imaging
+Biomedical Imaging, Bioengineering, and Acoustics
+Biophotonics
+Biosensors and bioelectronics
+Coherent optics/imaging
+Electromagnetics and Optics
+Image-guided surgery
+Intravital microscopy
+Lasers and optical physics
+Lasers in medicine and biology
+Nano-photonics
+Nanotechnology
+Optical Coherence Tomography (OCT)
+Optical diagnostics for cancer
+Point-of-care diagnostics
+Primary care imaging
+Ultrafast laser spectroscopy
+
+
+Research Topics
+Bioelectronics and Bioinformatics
+Bioimaging at Multi-Scale
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Electronics, Plasmonics, and Photonics
+Genomics
+Healthcare and medical technologies
+Imaging science and systems
+Machine learning
+Medical imaging
+Nanomedicine and bio-nanotechnology
+Neuro-engineering
+Photonics: optical engineering and systems
+Point-of-care diagnostics
+Quantum optics, cryptography, information, and computing
+
+Chapters in Books
+Monroy GL, Ho A, Markowicz AA, Spillman DR, Jr, Govande M, Boppart SA.  Primary Care Imaging with OCT.  In Optical Coherence Tomography: Technology and Applications, 3rd Edition, Drexler W and Fujimoto JG, Eds., Springer International Publishing, Switzerland, In press, 2024.
+Yang L, Marjanovic M, Boppart SA.  Intraoperative OCT in Surgical Oncology.  In Optical Coherence Tomography: Technology and Applications, 3rd Edition, Drexler W and Fujimoto JG, Eds., Springer International Publishing, Switzerland, In press, 2024.
+Iyer RR, Adie SG, Ralston TS, Carney PS, Boppart SA.  Interferometric Synthetic Aperture Microscopy (ISAM) and Computational Adaptive Optics (CAO).  In Optical Coherence Tomography: Technology and Applications, 3rd Edition, Drexler W and Fujimoto JG, Eds., Springer International Publishing, Switzerland, In press, 2024.
+De La Cadena APG, Tehrani K, Boppart SA.  Interferometric Nonlinear Imaging with Novel Optical Sources.  In Optical Coherence Tomography: Technology and Applications, 3rd Edition, Drexler W and Fujimoto JG, Eds., Springer International Publishing, Switzerland, In press, 2024.
+Iyer RR, Sorrells JE, Monroy GL, Ho A, Shi J, Boppart SA.  Artificial Intelligence Machine Learning, Data Analysis, and Signal Postprocessing for OCT.  In Optical Coherence Tomography: Technology and Applications, 3rd Edition, Drexler W and Fujimoto JG, Eds., Springer International Publishing, Switzerland, In press, 2024.
+Burel LJ, Markowicz AA, Tan K, Monroy GL, Marjanovic M, Boppart SA, Oldenburg AL.  Contrast Agents and Novel Contrast Mechanisms.  In Optical Coherence Tomography: Technology and Applications, 3rd Edition, Drexler W and Fujimoto JG, Eds., Springer International Publishing, Switzerland, In press, 2024.
+
+Selected Articles in Journals
+Butola A, Ghosh B, Park J, Kwon M, De La Cadena A, Mukherjee SS, Bhargava R, Boppart SA, Agarwal K.  Label-free correlative morpho-chemical imaging of 3D kidney mesangial cells.  arXiv:2409.10971v1 [physics.optics] 2024.
+Iyer RR, Sorrells JE, Yang L, Renteria CA, Chaney EJ, Tehrani KF, Spillman DR Jr, Boppart SA.  Exploring the structure, metabolism, and biochemistry of the neuronal microenvironment label-free using fast simultaneous multimodal optical microscopy.  Optica, 11, 1352-1367, 2024.
+Iyer RR, Yang L, Sorrells JE, Chaney EJ, Spillman DR Jr, Boppart SA.  Dispersion mismatch correction for evident chromatic anomaly in low coherence interferometry.  AIP Photonics, 9:076114, 2024.
+Roh TT, Alex A, Chandramouleeswaran PM, Sorrells JE, Ho A, Iyer RR, Spillman DR Jr, Marjanovic M, Ekert JE, Hood SR, Sridharan B, Boppart SA.  Predicting DNA damage response in non-small cell lung cancer organoids via simultaneous label-free autofluorescence multiharmonic microscopy.  Redox Biology, 75:103280, 2024.
+Zaki FR, Monroy GL, Shi J, Sudhir K, Boppart SA.  Texture-based speciation of otitis media-related bacterial biofilms from optical coherence tomography images using supervised classification.  Journal of Biophotonics, 17:e202400075, 2024.
+Yang L, Iyer RR, Sorrells JE, Chaney EJ, Boppart SA.  Label-free multimodal polarization-sensitive optical microscope for multiparametric quantitative characterization of collagen.  Optica, 11:155-165, 2024.
+Szulczewski J, Yesilkoy F, Ulland TK, Bartels R, Millis BA, Boppart SA, Eliceiri KW.  To label or not: the need for validation in label-free imaging.  JBO Special Issue for Gabriel Popescu, 29:S22717, 2024.
+Majer J, Alex A, Shi J, Chaney EJ, Mukherjee P, Spillman DR Jr, Marjanovic M, Newman CF, Groseclose RM, Watson PD, Boppart SA, Hood SR.  Multimodal imaging of a liver-on-a-chip model using labelled and label-free optical microscopy techniques.  RSC Lab on a Chip, 24:4594-4608, 2024.
+Wang G, Iyer RR, Sorrells JE, Aksamitiene E, Chaney EJ, Renteria CA, Park J, Shi J, Sun Y, Boppart SA, Tu H.  Pixelation with concentration-encoded effective photons for molecular optical sectioning microscopy.  Laser & Photonics Reviews, 240031:1-11, 2024.
+Renteria CA, Park J, Zhang C, Sorrells JE, Iyer RR, Tehrani KF, De la Cadena A, Boppart SA.  Large field-of-view metabolic profiling of murine brain tissue using label-free multiphoton microscopy following morphine incubation.  Journal of Neuroscience Methods, 408:110171, 2024.
+Yang L, Iyer RR, Sorrells JE, Renteria CA, Boppart SA.  Temporally optimized and spectrally shaped hyperspectral coherent anti-Stokes Raman scattering microscopy.  Optics Express, 32:11474-11490, 2024.
+Sorrells JE, Yang L, Iyer RR, Chaney EJ, Renteria CA, Boppart SA.  Programmable hyperspectral coherent anti-Stokes Raman scattering microscopy.  Optics Letters, 49:2513-2516, 2024.
+Iyer RR, Sorrells JE, Tan KKD, Yang L, Wang G, Tu H, Boppart SA.  Analog multiplexing of laser clock and computational photon counting for fast fluorescence lifetime imaging microscopy.  Biomedical Optics Express, 15:20248-2062, 2024.
+Yang L, Iyer RR, Sorrells JE, Renteria CA, Boppart SA.  Temporally optimized and spectrally shaped hyperspectral coherent anti-Stokes Raman scattering microscopy.  Optics Express, 32:11474-11490, 2024.
+Zhang C, Zaki FR, Won J, Boppart SA.  A multimodal nonlinear optical microscopy study of the responses of Pseudomonas aeruginosa to blue light and antibiotic.  Journal of Biophotonics, 17:e202300384, 2024.
+Clark GG, Geisler D, Coey EJ, Pollitz LJ, Zaki FR, Huang C, Boppart SA, Nguyen TH.  Influence of phosphate on bacterial release from activated carbon point-of-use filters and on biofilm characteristics.  Science of the Total Environment, 914:169932, 2024.
+Bera K, Rojas-Gomez RA, Mukherjee P, Snyder CE, Aksamitiene E, Alex A, Spillman DR Jr, Marjanovic M, Shabana A, Johnson R, Hood SR, Boppart SA.  Probing delivery of a lipid nanoparticle encapsulated self-amplifying mRNA vaccine using coherent Raman microscopy and multiphoton imaging.  Scientific Reports, 14:4348, 2024.
+Sorrells JE, Park J, Aksamitiene E, Marjanovic M, Martin EM, Chaney EJ, Higham AM, Cradock KA, Liu ZG, Boppart SA.  Label-free nonlinear optical signatures of extracellular vesicles in liquid and tissue biopsies of human breast cancer.  Scientific Reports, 14:5528, 2024.
+Wang G, Boppart SA. Tu H.  Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging.  (Invited Cover Figure) Journal of Biomedical Optics, 29:036501, 2024.
+Das Gupta A, Park J, Sorrells JE, Kim H, Krawczynska N, Pradeep D, Wang Y, Vidana Gamage HE, Nelczyk AT, Boppart SA, Boppart MD, Nelson ER. 27-Hydroxycholesterol Enhances Secretion of Extracellular Vesicles by ROS-Induced Dysregulation of Lysosomes. Endocrinology. 2024 Sep 26;165(11):bqae127. doi: 10.1210/endocr/bqae127. PMID: 39298675; PMCID: PMC11448339.
+Iyer RR, Žurauskas M, Rao Y, Chaney EJ, Boppart SA. Bichromatic tetraphasic full-field optical coherence microscopy. J Biomed Opt. 2024 Jun;29(Suppl 2):S22704. doi: 10.1117/1.JBO.29.S2.S22704. Epub 2024 Mar 25. PMID: 38584966; PMCID: PMC10996847.
+Li L, Liao X, Fu F, Xi G, Kang D, He J, Guo W, Qiu L, Han Z, Wang X, You S, Chen J, Wang C, Boppart SA, Tu H.  Wound-like tumor periphery in human breast cancer predicts a convergent drug nonresponse.  BioRxiv.  doi: 10.1101/2021.11.02.467008; 2021.
+Zhou W, VanDuyne P, Zhang C, Riessen R, Barragan M, Rowitz BM, Teran-Garcia M, Boppart SA, Anakk S.  Bile acid excess impairs thermogenic function in brown adipose tissue.  BioRxiv.  doi: 10.1101/2020.11.24.396895; 2020.
+Li J, Wilson MN, Bower AJ, Marjanovic M, Chaney EJ, Barkalifa R, Boppart SA.  Video-rate multimodal multiphoton imaging and three-dimensional characterization of cellular dynamics in wounded skin.  (Invited Cover Figure) Journal of Innovative Optical Health Sciences, 13:2050007, 2020.
+Renteria C, Suarez J, Licudine A, Boppart SA.  Depixelation and enhancement of fiber bundle images by bundle rotation.  Applied Optics, 59:536-544, 2020.
+Boppart SA, You S, Lianhuang L, Chen J, Tu H.  Simultaneous label-free autofluorescence multiharmonic microscopy and beyond.  (Invited Cover Figure)  APL Photonics, 4:100901, 2019.
+Bower AJ, Sorrells JE, Li J, Marjanovic M, Barkalifa R, Boppart SA.  Tracking metabolic dynamics of apoptosis with high-speed two-photon fluorescence lifetime imaging microscopy.  Biomedical Optics Express, 10:6408-6421, 2019.
+You S, Sun Y, Yang L, Park J, Tu H, Marjanovic M, Sinha S, Boppart SA.  Real-time intraoperative diagnosis by deep neural network driven multiphoton virtual histology.  npj Precision Oncology, 3:33, 2019.
+Cocca CJ, Selmic LE, Samuelson J, Huang P-C, Wang J, Boppart SA.  Comparison between optical coherence tomographic and histopathologic appearances of artifacts cause by common surgical conditions and instrumentation.  Veterinary Surgery, 48:1361-1371, 2019.
+Monroy GL, Won J, Dsouza R, Pande P, Hill MC, Porter RG, Novak MA, Spillman DR, Boppart SA.  Automated classification platform for the identification of otitis media using optical coherence tomography.  npj Digital Medicine, 2:22, https://rdcu.be/btwrz, 2019.
+Graf BW, Chaney EJ, Marjanovic M, Adie SG, De Lisio M, Valero MC, Boppart MD, Boppart SA.  Long-term time-lapse multimodal intravital imaging of regeneration and bone-marrow-derived cell dynamics in skin.  Technology, 1:1-12, DOI:10.1142/S2339547813500027, 2013.
+Graf BW, Bower A, Chaney EJ, Marjanovic M, Adie SG, De Lisio M, Valero MC, Boppart MD, Boppart SA.  In vivo multimodal microscopy for detecting bone-marrow-derived cell contribution to skin regeneration.  (Featured on Cover) Journal of Biophotonics, 7:96-102, 2014.
+Ahmad A, Shemonski ND, Adie SG, Kim H, Hwu W-M, Carney PS, Boppart SA.  Real-time in vivo computed optical interferometric tomography.  Nature Photonics, 7:444-448, 2013.
+Nguyen CT, Jung W, Kim J, Chaney EJ, Novak M, Stewart CN, Boppart SA.  Non-invasive in vivo optical detection of biofilm in the human middle ear.  Proceedings of the National Academy of Sciences, USA, 109:9529-9534, 2012.
+Adie SG, Graf BW, Ahmad A, Carney PS, Boppart SA.  Computational adaptive optics for broadband optical interferometric tomography of biological tissue.  Proceedings of the National Academy of Sciences, USA, 109:7175-7180, 2012.
+Jung W, Kim J, Jeon M, Chaney EJ, Stewart CN, Boppart SA.  Handheld optical coherence tomography scanner for primary care diagnostics.  IEEE Transactions on Biomedical Engineering, Invited Cover Figure, 58:741-744, 2011.
+Chowdary PD, Benalcazar WA, Jiang Z, Chaney EJ, Marks DL, Gruebele M, Boppart SA.  Molecular histopathology by spectrally-reconstructed nonlinear interferometric vibrational imaging.  Cancer Research (Invited Cover Figure), 70:9562-9569, 2010.
+Nguyen FT, Zysk AM, Chaney EJ, Kotynek JG, Oliphant UJ, Bellafiore FJ, Rowland KM, Johnson PA, Boppart SA.  Intraoperative evaluation of breast tumor margins with optical coherence tomography.  Cancer Research (Invited Cover Figure), 69:8790-8796, 2009.
+T.S. Ralston, D.L. Marks, P.S. Carney, S.A. Boppart, "Interferometric Synthetic Aperture Microscopy," Nature Physics, 3:129-134, 2007.
+C. Xi, D. L. Marks, D. S. Parikh, L. Raskin, and S. A. Boppart, "Structural and Functional Imaging of Three-Dimensional Microfluidic Mixers Using Optical Coherence Tomography." Proceedings of the National Academy of Science, USA, 101:7516-7521, 2004.
+D. L. Marks, and S. A. Boppart, "Nonlinear Interferometric Vibrational Imaging," Physics Review Letters, 92:123905, 2004.
+Boppart SA, Luo W, Marks DL, and Singletary K, "Optical Coherence Tomography: Feasibility for Basic Research and Image-Guided Surgery of Breast Cancer," Breast Cancer Research and Treatment, vol. 84, pp. 85-97, 2004.
+Boppart SA, Bouma BE, Pitris C, Southern JF, Brezinski ME, Fujimoto JG, "In Vivo Cellular Optical Coherence Tomography Imaging," Nature Medicine, vol. 4, no. 7, pp. 861-864, 1998.
+
+Articles in Conference Proceedings
+John R, Rezaeipoor R, Adie SG, Chaney EJ, Sutton BP, Marjanovic M, Oldenburg AL, Boppart SA.  Magnetomotive optical coherence tomography for in vivo molecular imaging of mammary tumors using targeted magnetic nanoprobes.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Boppart SA, Nguyen CT, Tu H, Chaney EJ, Stewart CN.  Non-invasive assessment of biofilm growth in the middle ear using a portable low-coherence interferometry system.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Shin S, Sharma U, Tu H, Jung W, Boppart SA.  Characterization and comparison of relative intensity noise in optical sources for optimizing performance of optical coherence tomography systems.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+John R, Nguyen FT, Chaney EJ, Marjanovic M, Suslick KS, Boppart SA.  Targeted multi-functional multi-modal microspheres as optical contrast agents for cardiovascular disease and cancer.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Chowdary PD, Jiang Z, Chaney EJ, Benalcazar W, Gruebele M, Boppart SA.  Stain-free histopathology using nonlinear interferometric vibrational imaging microspectroscopy.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Tu H, Boppart SA.  Nonlinear fiber optics-enhanced Ti:sapphire source for multiphoton microscopy.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Nguyen CT, Tu H, Chaney EJ, Stewart CN, Boppart SA.  Detection algorithm for identifying biofilms in the middle ear using low coherence interferometry data.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Kim J, Lee C, Jeon M, Jung U, Jung W, Boppart SA.  Full range k-domain linearization in spectral-domain optical coherence tomography.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Kim J, Jung U, Jeon M, Oh J, Jung W, John R, Crecea V, Boppart SA.  Forward focused scanning magnetomotive optical Doppler tomography.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Jung W, Benalcazar W, Sharma U, Ahmad A, Tu H, Boppart SA.  Numerical analysis of cascaded GRIN lens-based imaging probes for endoscopic optical coherence tomography.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Ahmad A, Adie SG, Wang Y, Boppart SA.  Sonification of optical coherence tomography data and images.  SPIE Photonics West – Biomedical Optics, San Francisco, CA, January 23-28, 2010.
+Liang X, Boppart SA.  Dynamic optical coherence elastography and applications.  Asia Communications and Photonics Conference, Shanghai, China, November 2-6, 2009.  Received Best-Student Paper and Presentation Award.
+J.B. Geddes, D.L. Marks, S.A. Boppart.  Optical pulse shaping for selective excitation of coherent normal modes by stimulated Raman scattering.  SPIE Photonics West – Biomedical Optics, San Jose, CA, January 24-29, 2009.
+S.G. Adie, D.L. Marks, F.T. Nguyen, T.S. Ralston, P.S. Carney, E.J. Cheney, J.G. Kotynek, J. Brokenbrough, U.J. Oliphant, F.J. Bellafiore, K.M. Rowland, P.A. Johnson, S.A. Boppart.  Interferometric synthetic aperture microscopy with a portable intraoperative optical coherence tomography system.  SPIE Photonics West – Biomedical Optics, San Jose, CA, January 24-29, 2009.
+H. Tu, Z. Jiang, S.A. Boppart.  Chirped four-wave mixing in the largely normal dispersion regime from femtosecond pulse-pumped photonic crystal fiber.  SPIE Photonics West – LASE, San Jose, CA, January 24-29, 2009.
+W.A. Benalcazar, Z. Jiang, D.L. Marks, J.B. Geddes, S.A. Boppart.  Validation of nonlinear interferometric vibrational imaging as a molecular OCT technique by the use of Raman microscopy.  SPIE Photonics West – Biomedical Optics, San Jose, CA, January 24-29, 2009.
+A.L. Oldenburg, V. Crecea, S.A. Boppart.  Mechanical resonance detection for elastography of small biosamples using magnetomotive optical coherence tomography.  SPIE Photonics West – Biomedical Optics, San Jose, CA, January 24-29, 2009.
+S.G. Adie, F.T. Nguyen, E.J. Cheney, J.G. Kotynek, J. Brokenbrough, U.J. Oliphant, F.J. Bellafiore, K.M. Rowland, P.A. Johnson, D.L. Marks, S.A. Boppart.  Three-dimensional intraoperative optical coherence tomography of human lymph nodes.  SPIE Photonics West – Biomedical Optics, San Jose, CA, January 24-29, 2009.
+S.G. Adie, F.T. Nguyen, A.M. Zysk, E.J. Chaney, J.G. Kotynek, F.J. Bellafiore, P.A. Johnson, K.M. Rowland, S.A. Boppart, "Translational Optical Biomedical Imaging: Intra-Operative Optical Coherence Tomography for the Surgical Treatment of Breast Cancer," First International Congress on Biophotonics, Sacramento, CA,February 3-8, 2008.
+H. Tu, D.L. Marks, S.A. Boppart, "Observation of the Photoscattering Effect from Supercontinuum-Generating Ultrahigh Numerical Aperture Fibers," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+Z. Jiang, D.L. Marks, J.B. Geddes, S.A. Boppart, "Nonlinear Interferometric Vibrational Imaging of Biological Tissue," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+J.B. Geddes, D.L. Marks, Z. Jiang, S.A. Boppart, "Analysis of Pulse Shaping for Selective Excitation of Coherent Anti-Stokes Raman Scattering for Improvement of Nonlinear Interferometric Vibrational maging," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+F.T. Nguyen, A.M. Zysk, J.G. Kotynek, U.J. Oliphant, J. Brockenbrough, F.J. Bellafiore, K.M. Rowland, P.A. Johnson, E.J. Chaney, S.A. Boppart, "Real-Time Lymph Node Assessment Using Optical Coherence Tomography for the Staging of Breast Cancer," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+F.T. Nguyen, E.M. Dibbern, E.J. Chaney, A.L. Oldenburg, R. Rezaeipoor, K.S. Suslick, S.A. Boppart, "Magnetic Protein Microspheres as Dynamic Contrast Agents for Magnetomotive Optical Coherence Tomography," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+X. Liang, A.L. Oldenburg, V. Crecea, S. Palani, M. Insana, S.A. Boppart, "Modeling and Measurement of Tisue Elastic Moduli Using Optical Coherence Tomography," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+A.L. Oldenburg, M.N. Hansen, A. Wei, S.A. Boppart, "Plasmon-Resonan Gold Nanorods Provide Spectroscopic OCT Contrast in Excised Human Breast Tumors," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+A.L. Oldenburg, V. Crecea, R. Rezaeipoor, S.R. Rinne, E.J. Chaney, S.A. Boppart, "Spectral Domain Magnetomotive OCT Imaging of Magnetic Nanoparticle Biodistribution," SPIE Photonics West - BIOS, San Jose, CA, January 19-24, 2008.
+B.J. Davis, T.S. Ralston, D.L. Marks, S.A. Boppart, P.S. Carney, "Interferometric Synthetic Aperture Microscopy: Physics-Based Image Reconstruction from Optical Coherence Tomography Data," IEEE International Conference on Image Processing, San Antonio, TX, September 16-19, 2007.
+B.J. Davis, T.S. Ralston, D.L. Marks, S.A. Boppart, P.S. Carney, "Polarimetric Interferometric Synthetic Aperture Microscopy: Vectorial Computed Imaging from Optical Coherence Tomography Data," Computational Optical Sensing and Imaging, Optical Society of America, Vancouver, BC, June 18-20, 2007.
+T.S. Ralston, D.L. Marks. P.S. Carney, S.A. Boppart, Real-Time Inverse Scattering for Optical Coherence Tomography," Oral presentation and paper, SPIE (The International Society for Optical Engineering) Photonics West:  Biomedical Optics, San Jose, CA, January 20-25, 2007.
+A.M. Zysk, S.G. Adie, J.J. Armstrong, M.S. Lee, A. Paduch, F.T. Nguyen, D.D. Sampson, S.A. Boppart, "Needle-Probe System for the Measurement of Tissue Refractive Index," Oral presentation and paper, SPIE (The International Society for Optical Engineering) Photonics West:  Biomedical Optics, San Jose, CA, January 20-25, 2007.
+F.T. Nguyen, A.M. Zysk, J.G. Kotynek, F.J. Bellafiore, K.M. Rowland, P.A. Johnson, E.J. Chaney, S.A. Boppart, "Portable Real-Time OCT System for Intraoperative Imaging and Staging of Breast Cancer," Oral presentation and paper, SPIE (The International Society for Optical Engineering) Photonics West:  Biomedical Optics, San Jose, CA, January 20-25, 2007.
+D.L. Marks, T.S. Ralston, P.S. Carney, S.A. Boppart, "High-Numerical-Aperture Full-Field Optical Coherence Tomography with Space-Invariant Resolution Without Scanning the Focus," Oral presentation and paper, SPIE (The International Society for Optical Engineering) Photonics West:  Biomedical Optics, San Jose, CA, January 20-25, 2007.
+V. Crecea, A.L. Oldenburg, T.S. Ralston, S.A. Boppart, "Phase-Resolved Spectral-Domain Magnetomotive Optical Coherence Tomography," Oral presentation and paper, SPIE (The International Society for Optical Engineering) Photonics West:  Biomedical Optics, San Jose, CA, January 20-25, 2007.
+A.L. Oldenburg, M.N. Hansen, A. Wei, S.A. Boppart, "Backscattering Albedo Contrast in OCT Using Plasmon-Resonant Gold Nanorods," Oral presentation and paper, SPIE (The International Society for Optical Engineering) Photonics West:  Biomedical Optics, San Jose, CA, January 20-25, 2007.
+T. S. Ralston, D. L. Marks, P. S. Carney, S. A. Boppart, "Phase Stability Technique for Inverse Scattering in Optical Coherence Tomography," IEEE International Symposium on Biomedical Imaging, Arlington, VA, April 6-9, 2006.
+F. T. Nguyen, E. J. Chaney, W. Luo, A. M. Zysk, T. S. Ralston, D. L. Marks, A. L. Oldenburg, J. Brockenbrough, S. A. Boppart, "Three-Dimensional Visualization of Lymph Node Morphology Using OCT," Optical Society of America Topical Meeting on Biomedical Optics, Fort Lauderdale, FL, March 19-23, 2006.
+A. M. Zysk, S. A. Boppart, "Human Breast Cancer Identification by K-space Analysis of Optical Coherence Tomography Images," Optical Society of America Topical Meeting on Biomedical Optics, Fort Lauderdale, FL, March 19-23, 2006.
+D. L. Marks, T. S. Ralston, P. S. Carney, S. A. Boppart, "An Inverse Scattering Method for Catheter-Based Optical Coherence Tomography," Optical Society of America Topical Meeting on Biomedical Optics, Fort Lauderdale, FL, March 19-23, 2006.
+C. Xu, P. S. Carney, W. Tan, S. A. Boppart, "Light-Scattering Spectroscopic Optical Coherence Tomography for Differentiating Cells in 3D Cell Culture,"  The International Society for Optical Engineering Photonics West: Biomedical Optics, San Jose, CA, January 21-26, 2006.
+J. J. Pasquesi, M. D. Boppart, S. J. Kaufman, S. A. Boppart, "Detection of Ultrastructural Changes in Genetically-Altered and Exercised Skeletal Muscle Using Polarization-Sensitive Optical Coherence Tomography," The International Society for Optical Engineering Photonics West: Biomedical Optics, San Jose, CA, January 21-26, 2006.
+A. L. Oldenburg, W. Luo, S. A. Boppart, "High-Resolution In Vivo Nanoparticle Imaging Using Magnetomotive Optical Coherence Tomography," The International Society for Optical Engineering Photonics West: Biomedical Optics, San Jose, CA, January 21-26, 2006.
+T. S. Ralston, D. L. Marks, P. S. Carney, S. A. Boppart, "Demonstration of Inverse Scattering in Optical Coherence Tomography," The International Society for Optical Engineering Photonics West: Biomedical Optics, San Jose, CA, January 21-26, 2006.
+C. Vinegoni, T.S. Ralston, W. Tan, W. Luo, D. L. Marks, S. A. Boppart, "Multimodality Imaging of Structure and Function Combining Spectral-Domain Optical Coherence and Multiphoton Microscopy," The International Society for Optical Engineering Photonics West: Biomedical Optics, San Jose, CA, January 21-26, 2006.
+S. A. Boppart, W. Tan, H. J. Ko, C. Vinegoni, "Optical Coherence Tomography of Cell Dynamics in Three-Dimensional Engineered Tissues," European Conference on Biomedical Optics, Munich,Germany, June 12-16, 2005.
+J. C. Selby, S. A. Boppart, M. A. Shannon, "Cytoskeletal Networks in an Epithelial Sheet: Mechanical Characterization Using Composite Diaphragm Inflation," Proceedings of the Third Annual IEEE-EMBS Special Topic Conference on Microtechnologies in Medicine and Biology, Oahu, HI, May 12-14, 2005.
+C. Xu, D.L. Marks, M.N. Do, S.A. Boppart, "A Least-Square Fiting Algorithm for Separating Absorption and Scattering Profiles in Spectroscopic Optical Coherence Tomography," The International Society for Optical Engineering Photonics West - Biomedical Optics, San Jose, CA, January 22-27, 2005.
+W. Tan, T. A. Desai, D. A. Leckband, S. A. Boppart, "Optical Coherence Tomography of Cell Dynamics in Three-Dimensional Engineered Tissues," The International Society for Optical Engineering Photonics West: Biomedical Optics, San Jose, CA, January 22-27, 2005.
+D.L. Marks, C. Vinegoni, J.S. Bredfeldt, S.A. Boppart, "Molecularly-Sensitive Optical Ranging Using Nonlinear Interferometric Vibrational Imaging," The International Society for Optical Engineering Photonics West - Biomedical Optics, San Jose, CA, January 22-27, 2005.
+H.J. Ko, W. Tan, R. Stack, S. A. Boppart, "Optical Coherence Elastography of Developing Biological Tissues," The International Society for Optical Engineering Photonics West - Biomedical Optics, San Jose, CA, January 22-27, 2005.
+T. Ralston, F. Kamalabadi, D. L. Marks, S.A. Boppart, "Gaussian Beam Deconvolution in Optical coherence Tomography," The International Society for Optical Engineering Photonics West - Biomedical Optics, San Jose, CA, January 22-27, 2005.
+A.L. Oldenburg, D.A. Zweifel, C. Xu, A. Wei, S.A. Boppart, "Characterization of Plasmon-Resonant Gold Nanrods as Near-Infrared Optical Contrast Agents Investigated Using a Double-Integrating sphere System," The International Society for Optical Engineering Photonics West - Biomedical Optics, San Jose, CA, January 22-27, 2005.
+C. Xu, J. Ye, D.L. Marks, S.A. Boppart, "Use of Near-Infrared Fluorescent Dyes in Depth-Resolved Spectroscopic Optical Coherence Tomography," Annual International Conference of IEEE Engineering in Medicine and Biology Society, San Francisco, CA, September 1-5, 2004.
+A. M. Zysk, D. L. Marks, P. S. Carney, and S. A. Boppart , “Contrast Enhancement and Artifact Reduction for Projected Index Computed Tomography,”  IEEE International Symposium on Biomedical Imaging, Washington, DC, April 15-18, 2004.
+D. L. Marks, P. S. Carney, and S. A. Boppart, “A Method for Dynamically Suppressing Sidelobes in Optical Coherence Tomography,’ IEEE International Symposium on Biomedical Imaging, Washington, DC, April 15-18, 2004.
+S. A. Boppart, M. Lazebnik, C. Vinegoni, A. Bowonder, D. L. Marks, and R. Gillette, "Functional Optical Coherence Tomography of Neurophysiology," Optical Society of America Topical Meeting on Optical Techniques in Neuroscience, Miami, Fl, April 14-17, 2004.
+C. Vinegoni, J. S. Bredfeldt, D. L. Marks, and S. A. Boppart, “Nonlinear Optical Contrast Enhancement In Optical Coherence Tomography,” Optical Society of America Topical Meeting on Advances in Optical Imaging and Photon Migration, Miami, FL, April 14-17, 2004.
+C. Xu, and S. Boppart, “Comparative Performance Analysis of Time-Frequency Distributions for Spectroscopic Optical Coherence Tomography,” Optical Society of America Topical Meeting on Biomedical Optical Spectroscopy and Diagnostics, Miami, FL, April 14-17, 2004.
+W. Tan, L. J. Fahrner, A. Sendemir-Urkmez, R. Jamison, D. Leckband, and S. A. Boppart, “Multi-Modality Three-Dimensional Optical Imaging of Engineered Tissues,” Optical Society of America Topical Meeting on Advances in Optical Imaging and Photon Migration, Miami, FL, April 14-17, 2004.
+A. L. Oldenburg, C. Xu, J. R. Gunther, S. A. Boppart, F. J. J. Toublan, K. S. Suslick, G. R. Najarro, K. L. Watkin, and A. Wei, “In Vivo Detection of Exogenous Contrast Agents Using Optical Coherence Tomography,” Optical Society of America Topical Meeting on Advances in Optical Imaging and Photon Migration, Miami, FL, April 14-17, 2004.
+J. S. Bredfeldt, W. Luo, D. L. Marks, K. W. Singletary, C. L. Wisseman, P. A. Johnson, and S. A. Boppart, “Optical Coherence Tomography of Breast Cancer, Feasibility for Surgical Guidance,” Optical Society of America Topical Meeting on Advances in Optical Imaging and Photon Migration, Miami, FL, April 14-17, 2004.
+T. Ralston, J. Mayen,  D. L. Marks, and S. A. Boppart, “A Real-Time Multi-Dimensional OCT Acquisition and Processing System,” SPIE Biomedical Optics, San Jose, CA, January 25-29, 2004.	
+M. Lazebnik,  D. L. Marks, K. Potgieter, R. Gillette, and S. A. Boppart, "Functional Optical Coherence Tomography for Detecting Neural Activity Through Scattering Changes,”  SPIE Biomedical Optics, San Jose, CA, January 25-29, 2004.
+L. J. Fahrner, W. Tan, T. E. Eurell, and S. A. Boppart, "Integrated Optical Coherence Tomography And Multi-Photon Microscope for Investigating Three-Dimensional Engineered Tissues,” SPIE Biomedical Optics, San Jose, CA, January 25-29, 2004.
+J. S. Bredfeldt, D. L. Marks, S. Hambir, D. A. Dlott, and S. A. Boppart, “Non-Linear Interferometric Vibrational Imaging of Molecular Species,” SPIE Biomedical Optics, San Jose, CA, January 25-29, 2004.
+A. L. Oldenburg, J. Gunther, D. L. Marks, F. J. J. Toublan, K. S. Suslick, and S. A. Boppart, “Magnetic Contrast Agents for Optical Coherence Tomography,” SPIE Biomedical Optics, San Jose, CA, January 25-29, 2004.
+C. Xi, D. L. Marks, D. S. Parikh, L. Raskin, and S. A. Boppart, "Optical Imaging of Mixing in Micromixers Using Microscopy and Optical Coherence Tomography," SPIE Micromachining And Microfabrication, San Jose, CA, January 25-29, 2004.
+J. Ye, D. L. Marks, and S. A. Boppart, "Spectroscopic Optical Coherence Tomography of Infrared Dyes as Optical Contrast Agents," Conference on Lasers and Electro-Optics (CLEO), Baltimore, MD, June 1-5, 2003.
+J. S. Bredfeldt, D. L. Marks, S. Hambir, D. Dlott, and S. A. Boppart, "Nonlinear Interferometric Vibrational Imaging," Conference on Lasers and Electro-Optics (CLEO), Baltimore, MD, June 1-5, 2003.
+A. L. Oldenburg, J. R. Gunther, D. L. Marks, F. J. J. Toublan, K. S. Suslick, and S. A. Boppart, "Selective OCT Imaging of Cells Using Magnetically-Modulated Optical Contrast Agents," Conference on Lasers and Electro-Optics (CLEO), Baltimore, MD, June 1-5, 2003.
+A. L. Oldenburg, S-J. Moon, T. Kim, C. Ho, R. Timp, V. Gelfand, K. Kim, S. A. Boppart, G. Timp, "Optical Manipulation of Silicon Microparticles in Biological Environments," SPIE International Society of Optical Engineering Biomedical Optics, San Jose, CA, January 25-31, 2003.
+C. Xi, S. A. Boppart, L. Raskin, "Use of Molecular Beacons for Detection of Bacteria in Microfluidic Devices," SPIE International Society of Optical Engineering Biomedical Optics, San Jose, CA, January 25-31, 2003.
+T. M. Lee, F. J. J. Toublan, A. L. Oldenburg, S. Sitafalwalla, K. S. Suslick, S. A. Boppart, "Optical Characterization of Contrast Agents for Optical Coherence Tomography," SPIE International Society of Optical Engineering Biomedical Optics, San Jose, CA, January 25-31, 2003.
+D. L. Marks, J. Bredfeldt, S. Hambir, D. Dlott, B. Kitchell, M. Gruebele, S. A. Boppart, "Molecular Species Sensitive Optical Coherence Tomography using Coherent Anti-Stokes Raman Scattering Spectroscopy," SPIE International Society of Optical Engineering Biomedical Optics, San Jose, CA, January 25-31, 2003.
+A. M. Zysk, J. J. Reynolds, P. S. Carney, D. L. Marks, S. A. Boppart, "Distortion Corrected Images using Projection Angle Optical Coherence Tomography," SPIE International Society of Optical Engineering Biomedical Optics, San Jose, CA, January 25-31, 2003.
+J. Ye, A. W. Schaefer, D. L. Marks, J. J. Reynolds, S. A. Boppart, "Real-Time Processing of Spectroscopic Optical Coherence Tomography," IEEE International Symposium on Biomedical Imaging, Washington DC, July 7-10, 2002.
+D. L. Marks, A. L. Oldenburg, J. J. Reynolds, and S. A. Boppart, "Digital Dispersion Compensation in Optical Coherence Tomography," IEEE International Symposium on Biomedical Imaging, Washington DC, July 7-10, 2002.
+J. J. Reynolds, D. L. Marks, A. W. Schaefer, and S. A. Boppart, "High-Speed, High-Resolution Capable Optical Delay Line for Imaging Transient Biological Function with Optical Coherence Tomography," Conference on Lasers and Electro-Optics (CLEO), Long Beach, CA, May 19-24, 2002.
+S. A. Boppart, A. Zysk, A. W. Schaefer, J. J. Reynolds, D. L. Marks, M. Balberg, and L. Raskin, "Structural and Functional Imaging of Microfluidic BioMEMS using an Integrated Optical Coherence Tomography and Multi-Photon Microscope," Conference on Lasers and Electro-Optics (CLEO), Long Beach, CA, May 19-24, 2002.
+F. J. J. Toublan, J. J. Reynolds, S. H. Hartleben, S. Sitafalwalla, K. S. Suslick, and S. A. Boppart, "Magnetically-Inducible Optical Contrast Agents for Optical Coherence Tomography," Optical Society of American Biomedical Topical Meeting, Miami, FL, April 7-10, 2002.
+A. L. Oldenburg, J. C. Selby, T. E. Eurell, and S. A. Boppart, "Three-Dimensional Laser Micromachining and Imaging of Biocompatible Polymers,"  Optical Society of American Biomedical Topical Meeting, Miami, FL, April 7-10, 2002.
+X. Li, S. A. Boppart, J. Van Dam, H. Mashimo, M. Mutinga, W. Drexler, M. Klein, C. Pitris, M. L. Krinsky, M. E. Brezinski, and J. G. Fujimoto, "Imaging Barrett’s Esophagus with Optical Coherence Tomography," Oral presentation and paper, Biomedical Diagnostic, Guidance, and Surgical-Assist Systems, BiOS 2001, International Biomedical Optics Symposium, SPIE, Paper 4254-32, San Jose, CA, January 20-26, 2001.
+W. Drexler, U. Morgner, F. X. Kartner, C. Pitris, S. A. Boppart, X. Li, E. P. Ippen, J. G. Fujimoto, and M. E. Brezinski, "In Vivo Ultrahigh Resolution Optical Coherence Tomography using a Kerr-Lens Modelocked Ti:Al2O3 Laser," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CWP3, Baltimore, MD, May 24-28, 1999.
+X. Li, W. Drexler, S. A. Boppart, C. Jesser, D. L. Stamper, J. G. Fujimoto, and M. E. Brezinski. "High-Resolution Imaging of Osteroarthritic Cartilage: Implications of Width Measurements and Polarization Sensitivity," Oral presentation and paper, Coherence Domain Optical Methods in Biomedical Science and Clinical Applications, BIOS 99, International Biomedical Optics Symposium, SPIE, Paper 3598-24, San Jose, CA, January 22-29, 1999.
+S. A. Boppart, C. Pitris, R. K. Ghanta, X. Li, W. Drexler, J. G. Fujimoto, and M. E. Brezinski, "High Resolution In Vivo Intraarterial Imaging with Optical Coherence Tomography," Oral presentation and paper, Diagnostic and Therapeutic Cardiovascular Interventions, BIOS 99, International Biomedical Optics Symposium, SPIE, Paper 3590-51, San Jose, CA, January 22-29, 1999.
+W. Drexler, U. Morgner, X. Li, S. A. Boppart, C. Pitris, F. X. Kartner, S-H. Cho, E. P. Ippen, M. E. Brezinski, and J. G. Fujimoto, "Subcellular Optical Coherence Tomography with a Kerr Lens Mode-Locked Ti:Al2O3 Laser," Oral presentation and paper, Optical Tomography and Spectroscopy of Tissue III, BIOS 99, International Biomedical Optics Symposium, SPIE, Paper 3598-45, San Jose, CA, January 22-29, 1999.
+C. Pitris, A. K. Goodman, S. A. Boppart, C. Jesser, D. L. Stamper, M. E. Brezinski, and J. G. Fujimoto, "High Resolution Imaging of Neoplastic Lesions using Optical Coherence Tomography," Oral presentation and paper, Coherence Domain Optical Methods in Biomedical Sciences and Clinical Applications, BIOS 99, International Biomedical Optics Symposium, SPIE, Paper 3598-14, San Jose, CA, January 22-29, 1999.
+S. A. Boppart, C. Pitris, X. Li, W. Drexler, D. L. Stamper, M. E. Brezinski, and J. G. Fujimoto, "Endoscopic Optical Coherence Tomography Imaging for Surgical Diagnostics and Guidance," Oral presentation and paper, Biomedical Diagnostic, Guidance, and Surgical-Assist Systems, BIOS 99, International Biomedical Optics Symposium, SPIE, Paper 3595-24, San Jose, CA, January 22-29, 1999.
+C. Pitris, S. A. Boppart, J. G. Fujimoto, B. E. Bouma, and M. E. Brezinski, "Cellular and Neoplastic Tissue Imaging with Optical Coherence Tomography," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CTuL5, San Francisco, CA, May 3-8, 1998.
+S. A. Boppart, J. M. Herrmann, C. Pitris, B. E. Bouma, G. J. Tearney, M. E. Brezinski, and J. G. Fujimoto, "Interventional Optical Coherence Tomography for Surgical Guidance," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CTuL2, San Francisco, CA, May 3-8, 1998.
+J. M. Herrmann, S. A. Boppart, B. E. Bouma, G. J. Tearney, C. Pitris, M. E. Brezinski, and J. G. Fujimoto, "Real Time Imaging of Laser Interventions with Optical Coherence Tomography," Oral presentation and paper, Advances in Optical Imaging and Photon Migration, Paper TSuD2, Orlando, FL, March 8-12, 1998.
+J. M. Herrmann, C. Pitris, B. E. Bouma, S. A. Boppart, J. G. Fujimoto, and M. E. Brezinski, "Two and Three Dimensional Imaging of Normal and Osteoarthritic Cartilage Microstructure with Optical Coherence Tomography," Poster presentation and paper, Advances in Optical Imaging and Photon Migration, Paper ATuD3, Orlando, FL, March 8-12, 1998.
+C. Pitris, S. A. Boppart, B. E. Bouma, G. J. Tearney, J. G. Fujimoto, and M. E. Brezinski, "High-Resolution In Vivo Intravascular Imaging with Optical Coherence Tomography," Oral presentation and paper, Advances in Optical Imaging and Photon Migration, Paper AMB3, Orlando, FL, March 8-12, 1998.
+S. A. Boppart, B. E. Bouma, C. Pitris, J. F. Southern, M. E. Brezinski, and J. G. Fujimoto, "Optical Coherence Tomographic Imaging of In Vivo Cellular Dynamics," Oral presentation and paper, Advances in Optical Imaging and Photon Migration, Paper AMC1, Orlando, FL, March 8-12, 1998.
+B. E. Bouma, G. J. Tearney, B. Golubovic, S. A. Boppart, L. E. Nelson, D. J. Jones, C. Pitris, J. Herrmann, M. E. Brezinski, and J. G. Fujimoto, "Optical Coherence Tomographic Imaging in Biomedicine using Ultrafast Laser Sources," Oral presentation, Photonic West LASE ’98, San Jose, CA, January 29-30, 1998.
+G. J. Tearney, S. A. Boppart, B. E. Bouma, C. Pitris, M. E. Brezinski, J. F. Southern, E. A. Swanson, and J. G. Fujimoto, "High Speed Catheter/Endoscopic Optical Coherence Tomography for the Optical Biopsy of In Vivo Tissues," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CWD5, Baltimore, MD, May 18-23, 1997.
+S. A. Boppart, M. E. Brezinski, B. E. Bouma, C. Pitris, G. J. Tearney, J. F. Southern, and J. G. Fujimoto, "Microsurgical Guidance using Optical Coherence Tomography," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CWD2,  Baltimore, MD, May 18-23, 1997.
+J. A. Zuclich, H. Zwick, S. A. Boppart, J. G. Fujimoto, S. T. Schuschereba, F. E. Cheney, and B. E. Stuck, "Ophthalmoscopic and Pathologic Description of Ocular Damage Induced by Infrared Laser Radiation," Oral presentation and paper, International Laser Safety Conference, Orlando, FL, March 17-20, 1997.
+G. J. Tearney, B. E. Bouma, S. A. Boppart, M. E. Brezinski, J. F. Southern, E. A. Swanson, and J. G. Fujimoto, "Endoscopic Optical Coherence Tomography," Oral presentation and paper, Society of Photo-Optical Instrumentation Engineers (SPIE) Biomedical Optics Symposium, Paper 2979-01, San Jose, CA, February 9-12, 1997.
+C. A. Toth, D. Narayan, W. P. Roach, R. Birngruber, S. A. Boppart, M. R. Hee, C. D. DiCarlo, C. P. Cain, G. D. Noojin, and J. G. Fujimoto, "Optical Coherence Tomography of the Retinal Response to Ultrashort Laser Pulses," Oral presentation and paper, Society of Photo-Optical Instrumentation Engineers (SPIE) Biomedical Optics Symposium, Paper 2975-18, San Jose, CA, February 9-12, 1997.
+B. E. Bouma, G. J. Tearney, S. A. Boppart, B. Golubovic, I. P. Bilinsky, and J. G. Fujimoto, "Mode Locked Solid State Laser Sources for Optical Tomography," Oral presentation and paper, Coherence Domain Optical Methods in Biomedical Sciences and Clinical Applications, BIOS 97 International Biomedical Optics Symposium, SPIE, San Jose, CA, February 8-14, 1997.
+E. A. Swanson, S. R. Chinn, S. A. Boppart, B. E. Bouma, M. R. Hee, G. J. Tearney, J. G. Fujimoto, and M. E. Brezinski, "Optical Coherence Tomography: Principles, Instrumentation, and Applications," Oral presentation and paper, The Proceedings of the 21st Australian Conference on Optical Fibre Technology, Gold Coast, Queensland, Australia, December 1-4, 1996.
+J. A. Zuclich, S. T. Schuschereba, H. Zwick, S. A. Boppart, J. G. Fujimoto, F. Cheney, and B. E. Stuck, "A Comparison of Laser-Induced Retinal Damage from 'Eye-Safe' IR Wavelengths to that from Visible Wavelengths," Oral presentation and paper, Fifth International Congress on Laser Technology in Ophthalmology, Lugano, Switzerland, June 26-29, 1996.
+G. J. Tearney, S. A. Boppart, B. E. Bouma, M. E. Brezinski, B. Golubovic, J. F. Southern, E. A. Swanson, and J. G. Fujimoto, "Single-mode Fiber-Optic Catheter/Endoscope for Optical Coherence Tomography," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CMJ4, Anaheim, CA, June 2-7, 1996.
+S. A. Boppart, G. J. Tearney, B. E. Bouma, M. E. Brezinski, and J. G. Fujimoto, "Optical Coherence Tomography of Developing Embryonic Morphology," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CMJ2, Anaheim, CA, June 2-7, 1996.
+G. J. Tearney, B. E. Bouma, S. A. Boppart, B. Golubovic, E. A. Swanson, and J. G. Fujimoto, "High Speed Optical Coherence Tomography," Oral presentation and paper, Advances in Optical Imaging and Photon Migration: Optical Society of America, Paper AWA2, Orlando, FL, March 18-22, 1996.
+S. A. Boppart, G. J. Tearney, B. E. Bouma, J. G. Fujimoto, and M. E. Brezinski, "Optical Coherence Tomography of Embryonic Morphology During Cellular Differentiation," Oral presentation and paper, Advances in Optical Imaging and Photon Migration: Optical Society of America, Paper AWA4, Orlando, FL, March 18-22, 1996.
+M. E. Brezinski, G. J. Tearney, S. A. Boppart, B. E. Bouma, J. G. Fujimoto, E. A. Swanson, J. F. Southern, “High Resolution IntraArterial Imaging with Optical Coherence Tomography,” Oral presentation and paper, Advances in Optical Imaging and Photon Migration: Optical Society of America, Orlando, FL, March 18-22, 1996, Paper AMC2.
+S. A. Boppart, M. R. Hee, J. G. Fujimoto, R. Birngruber, C. A. Toth, E. A. Swanson, C. P. Cain, G. D. Noojin, C. D. DiCarlo, and W. P. Roach, "Dynamic Evolution and In Vivo Tomographic Imaging of Laser-Induced Retinal Lesions Using Optical Coherence Tomography," Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CFK4, Baltimore, MD, May 21-26, 1995.
+W. P. Roach, C. D. DiCarlo, S. A. Boppart, D. A. Gagliano, D. X. Hammer, A. B. Cox, M. A. Hanes, M. R. Hee, E. A. Swanson, B. A. Rockwell, and J. G. Fujimoto, "New Imaging Technique for In Vivo Tomographic Cataract Evaluation Using Optical Coherence Tomography," Post-Deadline Oral presentation and paper, Conference on Lasers and Electro-Optics (CLEO), Paper CPD34, Baltimore, MD, May 21-26, 1995.
+P. Kennedy, S. A. Boppart, D. X. Hammer, B. A. Rockwell, W. P. Roach, and G. D. Noojin, "First-Order Model for Computation of Laser-Induced Breakdown Thresholds in Condensed Media," Oral presentation and paper, Biomedical Optics Symposium, Paper 2391A-06, Photonics West ‘95, San Jose, CA, February 4-10, 1995.
+R. Birngruber, M. R. Hee, S. A. Boppart, J. G. Fujimoto, E. A. Swanson, C. A. Toth, C. D. DiCarlo, C. P. Cain, G. D. Noojin, and W. P. Roach, "In-Vivo Imaging of the Development of Linear and Non-Linear Retinal Laser Effects Using Optical Coherence Tomography in Correlation with Histopathological Findings," Oral presentation and paper, Biomedical Optics Symposium, Paper 2391A-03, Photonics West ‘95, San Jose, CA, February 4-10, 1995.
+C. D. DiCarlo, S. A. Boppart, M. R. Hee, J. G. Fujimoto, D. A. Gagliano, E. A. Swanson, A. B. Cox, R. Amnott, A. B. Smith, and W. P. Roach, "A New Noninvasive Imaging Technique for Cataract Evaluation in the Rhesus Monkey," Oral presentation and paper, Biomedical Optics Symposium, Paper 2395E-105, Photonics West '95, San Jose, CA, February 4-10, 1995.
+M. R. Hee, J. A. Izatt, S. A. Boppart, J. G. Fujimoto, E. A. Swanson, C. P. Lin, J. S. Schuman, C. Wong, and C. A. Puliafito, "Examination of the Retina with Optical Coherence Tomography," Oral presentation and paper, Biomedical Optics Symposium, Photonics West â€˜95, San Jose, CA, Paper 2393-34, February 4-10, 1995.
+D. X. Hammer, S. A. Boppart, R. Eiserer, B. A. Rockwell, and W. P. Roach, "Temperature Dependence of Laser-Induced Breakdown," Oral presentation and paper, Society of Photo-Optical Instrumentation Engineers (SPIE) Proceedings: Biomedical Optics, Los Angeles, CA,  Paper 2134-05, January 24, 1994.
+C. P. Cain, C. A. Toth, C. D. Stein, G. D. Noojin, D. J. Stolarski, B. A. Rockwell, S. A. Boppart, and W. P. Roach, "Femtosecond ED50 Thresholds for Biological Materials," Oral presentation and paper, Society of Photo-Optical Instrumentation Engineers (SPIE) Proceedings: Biomedical Optics, Paper 2134-03, January 24, 1994,
+S.A. Boppart, B.A. Rockwell, C.A. Toth, W.P. Roach, "Shielding Effectiveness of Femtosecond Laser-Induced Plasmas in Ultra-Pure Water," Biomedical Optics '93 - Society of Photo-Optical Instrumentation Engineers, Los Angeles, CA, January 16-22, 1993.
+C. P. Cain, W. P. Roach, B. A. Rockwell, S. A. Boppart, and J. A. Zuclich, "Laser Safety in Surgery," Oral presentation and paper, First International Workshop on Mechatronics in Medicine and Surgery, Costa del Sol, Spain, October, 1992.
+
+Pending Articles
+Yang L, Sorrells JE, Iyer RR, Boppart SA.  Polarimetric coherent anti-Stokes Raman scattering microscopy of collagen.  Submitted to Optics Letters, 2024.
+De La Cadena A, Renteria CA, Aksamitiene A, Boppart SA.  Label-free hyperspectral multiphoton microscopy.  Submitted to Optics Letters, 2024.
+De La Cadena A, Boppart SA.  Hyperspectral four-wave mixing microscopy enabled by a solid-state ytterbium laser via quasi-phase matching and supercontinuum generation.  Submitted to Optics Express, 2024.
+
+Other Publications
+Company:  LiveBx, LLC 60 Hazelwood Dr. Champaign, IL  61820 www.LiveBiopsy.com, Co-Founder and Chief Medical Officer
+
+Company: PhotoniCare, Inc. 2800 Meridian Parkway, Suite 175, Durham, NC 27713 (866) 411-3277, http://photoni.care, Co-Founder and Chief Medical Officer
+Company: Diagnostic Photonics, Inc. 200 South Wacker Drive, Chicago, IL  60606, http://www.diagnosticphotonics.com, Co-Founder and Chief Medical Officer
+
+Patents
+De La Cadena A, Boppart SA.  Label-free hyperspectral multiphoton microscopy.  Disclosed October 31, 2024.
+De La Cadena A, Boppart SA.  Laser source for vibrational and multiphoton contrasts.  Disclosed October 31, 2024.
+Boppart SA, Tu H, You S.  Clipping-assisted dual-fluorophore sensing  Patent 12,092,576, September 17, 2024.
+Boppart SA, Sorrells JE, Iyer RR, Yang L.  Systems and methods for hyperspectral microscopy.  Disclosed March 4, 2023.  Patent application No. 18/939,226, November 6, 2024.
+Boppart SA, Carney PS, Cittadine A.  Handheld optical probe in combination with a fixed-focus fairing. Patent 10,813,553, Granted October 27, 2020 .
+Boppart SA, Tu H, You S, Liu Y.  Molecular imaging biomarkers.  Patent #10,445,880, Issued October 15, 2019.
+Boppart SA, Pande P, Shelton RL.  Method and apparatus for obtaining a three-dimensional map of tympanic membrane thickness.  Patent Application 15/811,999, November 14, 2017, Patent #10,401,141, Issued September 3, 2019.
+Boppart SA, Carney PS, Shemonski ND.  Phase measurement, analysis, and correction methods for coherent imaging systems.  Patent Application Published US 2016/0367146 A1, December 22, 2016, Patent 10,524,663 issued January 7, 2020.
+Boppart SA, Shelton RL.  Quantitative pneumatic otoscopy using coherent light ranging techniques.  Patent 9,867,528, January 16, 2018.
+Boppart SA, Monroy GL, Pande P. Method and apparatus for OCT-based viscometry.  Patent 10,258,238, April 16, 2019.
+Boppart SA, Shelton RL, Shemonski ND.  Smart phone attachment for 3-D optical coherence tomographic imaging.  Patent 9,638,511, May 2, 2017.
+Tu H, Boppart SA.  Bright few-cycle visible fiber source using 1550-nm converted Cherenkov radiation with Gaussian-like spectra.  Patent 9,300,107, March 29, 2016.
+Boppart SA, Zhao Y.  Optical parametric amplification of weak signals for imaging biological tissue.  Disclosed May 25, 2012, Filed January 17, 2014, #14/157,840, US 2014/0333925 A1, Granted Patent #9,506,858, November 29, 2016.
+Boppart SA, Nguyen FT, Zysk AM.  Low-coherence interferometry and optical coherence tomography for image-guided surgical treatment of solid tumors.  Patent 8,983,580, March 17, 2015.
+Boppart SA, Jung W.  Apparatus for biomedical imaging.  Patent 8,594,757, November 26, 2013.
+Tu H, Boppart SA.  Coherent fiber continuum source from transform-limited pulse compression in all-normal dispersion fiber.  Patent 8,526,772, September 3, 2013.
+Boppart SA.  Apparatus and method for measuring a characteristic of a composition reactive to a magnetic field.  Patent 8,447,373, May 21, 2013.
+Tu H, Boppart SA.  Optical frequency up-conversion of infrared laser pulses into visible pulses by Cherenkov radiation and intermodal four-wave mixing in photonic crystal fibers.  Patent 8,305,682, November 6, 2012.
+
+Marks DL, Geddes JB, Boppart SA.  Matched pulse stimulated Raman scattering.  Patent 8,300,228, October 30, 2012. 
+
+Marks DL, Boppart SA, Zysk AM, Schlachter SC.  Group refractive index reconstruction with broadband interferometric confocal microscopy.  Patent 8,218,152, July 10, 2012.
+Boppart SA, Xi C.  Device and method for imaging the ear using optical coherence tomography.  Patent 8,115,934, February 14, 2012.
+Zysk AM, Adie SG, Leigh MS, Armstrong JJ, Sampson DD, Boppart SA.  Method and apparatus for measurement of optical properties in tissue.  U.S. Patent 7,787,129, August 31, 2010; Australian Patent 2007211061, September 18, 2013.
+Oldenburg AL, Boppart SA, Crecea V, Liang X.  Magnetomotive optical coherence tomography.  Issued July 6, 2010, Patent #7,751,057.
+Boppart SA, Xu C.  Contrast enhanced spectroscopic optical coherence tomography.  Issued May 25, 2010, Patent #7,725,169.
+Marks DL, Davis BJ, Boppart SA, Carney PS.  Partially coherent illumination for inverse scattering full-field interferometric synthetic aperture microscopy.  Issued January 5, 2010, Patent #7,643,155.
+Boppart SA, Marks DL.  Nonlinear interferometric vibrational imaging.  Issued November 24, 2009, Patent #7,623,908.
+Boppart SA, Wei A.  Multi-functional plasmon-resonant contrast agents for optical coherence tomography.  Issued October 27, 2009, Patent #7,610,074.
+Ralston TS, Marks DL, Carney PS, Boppart SA.  Interferometric synthetic aperture microscopy.  Issued October 13, 2009, Patent #7,602,501.
+K. S. Suslick, F. J. J. Toublan, S. A. Boppart, and D. L. Marks, "Surface Modified Protein Microparticles."  Issued May 15, 2007. Patent #7,217,410.
+S. A. Boppart, D. L. Marks, K. S. Suslick, and F. J. J. Toublan, "Optical Contrast Agents for Optically Modifying Incident Radiation."  Issued April 3, 2007. Patent #7,198,777.
+C. Pitris, S. A. Boppart, X. D. Li, M. E. Brezinski, E. A. Swanson, E. McNamara, and J. G. Fujimoto, "Fiber Optic Needle Probes for Optical Coherence Tomography Imaging," Issued May 13, 2003. Patent #6,564,087.
+G. J. Tearney, S. A. Boppart, B. E. Bouma, M. E. Brezinski, E. A. Swanson, and J. G. Fujimoto, "Fiber Optic Imaging Endoscope Interferometer with at Least One Faraday Rotator," Issued December 31, 2002.  Patent # 6,501,551.
+S. A. Boppart, G. J. Tearney, B. E. Bouma, M. E. Brezinski, E. A. Swanson, and J. G. Fujimoto, "Method and Apparatus for Forward-Directed Optical Scanning Instruments.  Issued November 26, 2002.  Patent #6,485,413.
+G. J. Tearney, S. A. Boppart, B. E. Bouma, M. E. Brezinski, E. A. Swanson, and J. G. Fujimoto, "Method and Apparatus for Performing Optical Measurements Using a Fiber Optic Imaging Guidewire, Catheter or Endoscope," Issued October 17, 2000.  Patent # 6,134,003.
+
+Other Scholarly Activities
+Academic Collaborators:  Chuanwu Xi, Environmental Microbiology, University of Michigan
+Academic Collaborators:  Bruce C. Wheeler, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Alexander Wei, Chemistry, Purdue University
+Academic Collaborators:  Andrew Webb, Electrical Engineering, Pennsylvania State University
+Academic Collaborators:  Kenneth Watkin, Speech and Hearing Science, UIUC
+Academic Collaborators:  Dmitry Turchinovich, Technical University of Denmark
+Academic Collaborators:  Mark Truty, Mayo Clinic – Rochester
+Academic Collaborators:  Gregory Timp, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Krishnan Tangella, Pathology, Christie Clinic
+Academic Collaborators:  Jonathan V. Sweedler, Chemistry, UIUC
+Academic Collaborators:  Kenneth Suslick, Chemistry, UIUC
+Academic Collaborators:  Doug Simpson, Statistics, UIUC
+Academic Collaborators:  Michael Strano, Chemistry, UIUC
+Academic Collaborators:  Keith Singletary, Food, Science, and Human Nutrition, UIUC
+Academic Collaborators:  Mark Shannon, Mechanical Engineering, UIUC
+Academic Collaborators:  Mahnaz Shahidi, Ophthalmology and Visual Sciences, UIC
+Academic Collaborators:  Laura Selmic, Surgical Oncology, Veterinary Medicine, Ohio State University
+Academic Collaborators:  David D. Sampson, Electrical, Electronic & Computer Engineering, Univ. of Western Australia
+Academic Collaborators:  Kendrith Rowland, Medical Oncology, Carle Foundation Hospital and Clinic
+Academic Collaborators:  Justin Rhodes, Psychology, UIUC
+Academic Collaborators:  Lutgarde Raskin, Civil and Environmental Engineering, UIUC
+Academic Collaborators:  Ryan Porter, Otolaryngology, Carle Foundation Hospital
+Academic Collaborators:  Gabriel Popescu, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Daniel Pack, Chemical and Biomolecular Engineering, UIUC
+Academic Collaborators:  William D. O'Brien, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Michael Novak, Otolaryngology, Carle Clinic Association
+Academic Collaborators:  Anita Mahadevan-Jansen, Vanderbilt University
+Academic Collaborators:  George Liu, Pathology, Carle Clinic Association
+Academic Collaborators:  Deborah Leckband, Chemical Engineering, UIUC
+Academic Collaborators:  Jan G. Kotynek, Surgical Oncology, Carle Foundation Hospital and Clinic
+Academic Collaborators:  Kevin Kim, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Joseph Kerschner, Medical College of Wisconsin
+Academic Collaborators:  Stephen J. Kaufmann, Cell and Developmental Biology, UIUC
+Academic Collaborators:  Farzad Kamalabadi, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Franz Kaertner, Electrical Engineering, Massachusetts Institute of Technology
+Academic Collaborators:  Patricia Johnson,  Oncology, Carle Foundation Hospital
+Academic Collaborators:  Steve R. Hood, GlaxoSmithKline
+Academic Collaborators:  Paul Hergenrother, Chemistry, UIUC
+Academic Collaborators:  Anna Higham, Surgical Oncology, Carle Foundation Hospital
+Academic Collaborators:  Russel Jamison, Materials Science and Engineering, UIUC
+Academic Collaborators:  Martin Gruebele, Chemistry, UIUC
+Academic Collaborators:  William T. Greenough, Psychology, UIUC
+Academic Collaborators:  Rhanor Gillette, Molecular and Integrative Physiology, UIUC
+Academic Collaborators:  Martha Gillette, Molecular and Integrative Physiology, UIUC
+Academic Collaborators:  Liang Gao, University of California – Los Angeles
+Academic Collaborators:  James Fujimoto, Electrical Engineering, Massachusetts Institute of Technology
+Academic Collaborators:  Robert Folberg, Pathology, UIC
+Academic Collaborators:  Raymond Fish, Bioengineering, UIUC
+Academic Collaborators:  Lester Fahrner, College of Medicine, UIUC
+Academic Collaborators:  Thomas Eurell, Veterinary Medicine, UIUC
+Academic Collaborators:  Minh Do, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Dana Dlott, Chemistry, UIUC
+Academic Collaborators:  Tejal Desai, Biomedical Engineering, Boston University
+Academic Collaborators:  Tapas DasGupta, Surgical Oncology, UIC
+Academic Collaborators:  James Coleman, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Kent Choquette, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Hyungsoo Choi, Mechanical Engineering, UIUC
+Academic Collaborators:  Jianjun Cheng, Materials Science and Engineering, UIUC 
+Academic Collaborators:  Sharoui Chaieb, Theoretical and Applied Mechanics, UIUC
+Academic Collaborators:  P. Scott Carney, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Colleen Bushell, National Center for Supercomputing Applications
+Academic Collaborators:  Paul Brumer, University of Toronto
+Academic Collaborators:  John Brockenbrough, Head and Neck Surgery, Carle Foundation Hospital and Clinic
+Academic Collaborators:  David Brady, Electrical Engineering, Duke University
+Academic Collaborators:  Marni Boppart, Kinesiology and Community Health, UIUC
+Academic Collaborators:  Rohit Bhargava, Bioengineering, UIUC
+Academic Collaborators:  Frank J. Bellafiore, Pathology, Carle Foundation Hospital and Clinic
+Academic Collaborators:  Andre Balla, Department of Pathology, University of Illinois at Chicago
+Academic Collaborators:  Zane Arp, GlaxoSmithKline
+Academic Collaborators:  Narendra Ahuja, Electrical and Computer Engineering, UIUC
+Academic Collaborators:  Sameul Achilefu, Department of Radiology, Washington University
+Industrial Collaborator:  NKT Photonics, Inc. Denmark. NIH Academic-Industry Partner
+Industrial Collaborator:  AdvancedMEMS, Inc. NIH Bioengineering Research Partner
+Industrial Collaborator:  Biophotonic Solutions, Inc.NIH Academic-Industry Partner
+Industrial Collaborator:  Samsung Electronics Co., Ltd. Samsung Advanced Institite of Technology (SAIT)	Connected Healthcare Group. Sponsored Research Agreement
+Industrial Collaborator:  Texas Instrument, Inc. Sponsored Research, Equipment Evaluation
+Industrial Collaborator:  Praevium Research, Inc. Optical Source Evaluation
+Industrial Collaborator:  Welch Allyn, Inc. Sponsored Research Agreement, Equipment Evaluation
+Industrial Collaborator:  SEI, Industries. Optical Source Evaluation
+Industrial Collaborator:  Distant Focus Corporation. Consultant, NIST SBIR Contract
+Industrial Collaborator: Gould Optronics, Inc. 
+
+Service on University Committees
+University of Illinois at Urbana-Champaign Cancer Center at Illinois, Internal Advisory Board, 2023 -Present
+University of Illinois at Urbana-Champaign Chancellor’s Health Innovation Implementation Committee (Chair), 2023 - Present
+University of Illinois at Urbana-Champaign Miniature Brain Machinery Program – Executive Committee, 2022 - Present
+University of Illinois at Urbana-Champaign Chancellor’s Health Innovation Visioning Committee (Chair), 2022-2023
+University of Illinois at Urbana-Champaign Carle Illinois Clinical and Translational Research Committee, 2021-2022
+University of Illinois at Urbana-Champaign Translational Capital Building Projects Committee, 2021
+University of Illinois at Urbana-Champaign Council of Associate Deans for Graduate Education (CADGE), 2019-2022
+University of Illinois at Urbana-Champaign Council for Faculty Excellence in Diversity, 2019 - Present
+University of Illinois at Urbana-Champaign University-Carle Joint Liaison Committee, 2018-2019
+University of Illinois at Urbana-Champaign Illinois Cancer Center, Program Leader, 2017 - Present
+University of Illinois at Urbana-Champaign Translational Research Facility Task Force, 2017-2018
+University of Illinois at Urbana-Champaign Health Sciences Strategy Task Force, 2017-2018
+University of Illinois at Urbana-Champaign Entrepreneurship Roundtable, 2016-2018
+University of Illinois at Urbana-Champaign Office of Corporate Relations Visioning Group, 2016-2017
+University of Illinois at Urbana-Champaign Cancer Center Steering Committee, 2015 - Present
+University of Illinois at Urbana-Champaign Organizing Committee, Frontiers in Elastography Symposium, 2014
+University of Illinois at Urbana-Champaign Graduate College Image of Research Competition Judge, 2014, 2015
+University of Illinois at Urbana-Champaign Visioning Task Force, 2013
+University of Illinois at Urbana-Champaign Interdisciplinary Health Sciences Working and Advisory Group, 2013-2017
+University of Illinois at Urbana-Champaign Search Committee - Associate Dean of Academic Affairs, 2012
+University of Illinois at Urbana-Champaign Search Committee for Head, Division of Research Safety, 2010-2011
+University of Illinois at Urbana-Champaign Multidisciplinary Innovation Summit, Steering Committee, 2010-2011
+University of Illinois at Urbana-Champaign Vision 2020: Illinois Interdisciplinary Health Sciences Committee, 2010
+University of Illinois at Urbana-Champaign Presider, Center for Nanoscale Science and Technology Workshop, 2007
+University of Illinois at Urbana-Champaign Faculty Steering Committee, Translational Research Seminar Series, 2009
+University of Illinois at Urbana-Champaign Organized Workshop on Molecular Imaging Agents, 2006
+University of Illinois at Urbana-Champaign Translational Research Steering Committee, 2006
+University of Illinois at Urbana-Champaign University Honors Commencement Gonfalon Carrier, 2006
+University of Illinois at Urbana-Champaign University Strategic Planning Committee, 2005-2006
+University of Illinois at Urbana-Champaign Neuroscience Program Admissions Committee, 2005-2006
+University of Illinois at Urbana-Champaign Senate Educational Policy Committee, 2005-2007
+University of Illinois at Urbana-Champaign Faculty Senate Representative, 2005-2007
+University of Illinois at Urbana-Champaign Fulbright Program Interviewer, 2004
+University of Illinois at Urbana-Champaign Division of Animal Resources Facility Oversight Committee, 2003-2006
+University of Illinois at Urbana-Champaign Office of Technology Management Advisory Committee, 2003-2009
+University of Illinois at Urbana-Champaign Faculty Advisor, Student Chapter, Optical Society of America, 2003-2010 
+University of Illinois at Urbana-Champaign Institutional Review Board (Human studies) Focus Group, 2003 
+University of Illinois at Urbana-Champaign Intercampus Research Initiative in Biotechnology Committee, 2002
+University of Illinois at Urbana-Champaign Teaching Evaluation and Awards Committee, 2005-2007
+
+Honors
+Fellow, International Academy of Medical and Biological Engineering, 2021
+Grainger Distinguished Chair in Engineering, 2020
+SPIE PRISM Award for Industrial Innovation in Healthcare, 2020
+Microscopy Today Innovation Award, One of ten best microscopy innovations, 2019
+Fellow, National Academy of Inventors, 2019
+SPIE Biophotonics Technology Innovator Award, 2019 
+Edmund Optics Start-Up Award to PhotoniCare, 2018
+SPIE Photonics West Start-Up Challenge, First Place to PhotoniCare, 2018
+Entrepreneurial Excellence New Venture Award, 2017 - Champaign Economic Development Corporation
+Fellow, Biomedical Engineering Society (BMES), 2017
+IEEE Engineering in Medicine and Biology Society, Technical Achievement Award, 2016
+iBIO Propel Chicago Innovation Showcase Business Plan Competition, 2015
+- Diagnostic Photonics, Inc - First Place
+- PhotoniCare, Inc. - Second Place
+Andrew T. Yang Research Award, Department of ECE, 2015
+Excellence in Research Award, Carle Foundation Hospital, 2014
+Fellow, American Institute for Medical and Biological Engineering (AIMBE), 2014
+Innovation Transfer Award, Illinois Office of Technology Management, 2014
+PhotoniCare, Inc. start-up awards: Chicago Innovation Mentors, NSF I-CORP, Research Park I-START, 2013
+Hans Sigrist Prize, International prize on selected topic of Diagnostic Laser Medicine, 2012
+Fellow, American Association for the Advancement of Science (AAAS), 2013
+Bliss Professorship of Engineering, 2011
+Fellow, IEEE – Institute for Electrical and Electronics Engineers, 2011
+Invitee, National Academies Keck Futures Initiative Conference Seeing the Future with Imaging Science, 2010
+Innovate Illinois, State-wide small business competition runner-up for start-up company, Diagnostic Photonics, Inc., 2010
+Paul F. Forman Engineering Excellence Award, Optical Society of America, 2009
+Fellow, Optical Society of America, 2009
+Fellow, SPIE - International Optical Society, 2009
+Special Recognition of Achievement Award for Promotion Dossier Campus Committee on Promotion and Tenure, 2008
+Visiting Professorship, Raine Medical Research Foundation, 2007-2008
+Engineering Council Award for Excellence in Advising, 2006 and 2007
+IEEE, Elected Senior Member, 2005
+University of Illinois Alpha Chapter Tau Beta Pi (Engineering Honor Society) Outstanding Alumni Award, 2005
+IEEE Engineering in Medicine and Biology Society Early Career Achievement Award, 2005
+UIUC College of Engineering Young Alumni Achievement Award, 2005
+Technology Review Magazine's Top 100 Young Innovator in the World, 2002
+Whitaker Foundation Fellow, 2001
+Young Faculty Award, American Association of Anatomists, 2001
+Graduated cum laude, Harvard Medical School, 2000
+New Focus, Inc. Student Travel Award, 1998
+American Association of Anatomists Travel Award, 1998
+Coherent Laser Group Conference Travel Award, 1995
+Brooks Air Force Base Outstanding Civilian of the Year Armstrong Laboratory, 1992
+Senior 100 Honorary, 1990, University of Illinois
+Graduated summa cum laude (Highest Honors), 1990, University of Illinois
+Norman R. Carson Outstanding Junior Electrical Engineer in the United States, 1989
+Eta Kappa Nu Outstanding Electrical Engineer, 1989, University of Illinois
+National Society of Professional Engineers Scholar, 1986
+
+Teaching Honors
+Engineering Council Award for Excellence in Advising, 2006
+UIUC College of Engineering Everitt Award for Teaching Excellence, 2003, 2005
+
+Research Honors
+National Science Foundation CAREER Award, 2004
+UIUC College of Engineering Xerox Faculty Award for Outstanding Research, 2002
+Resident Physician Research Award, College of Medicine, University of Illinois, Urbana, 2001
+Soma Weiss Research Award, Harvard Medical School, 1999
+Air Force Office of Scientific Research (AFOSR) Outstanding Armstrong Laboratory, 1992
+Armstrong Laboratory Director's Award for Excellence, 1991
+Air Force Scientific Advisory Board's Superior Laboratory at Brooks Air Force Base, 1991
+E.C. Jordan Award for Bioengineering Research, 1990, University of Illinois
+
+Public Service Honors
+National 4-H Alumni Award for Illinois, 2008
+Ironwood Lake Association, Board Member, 2006
+Volunteer, Children's Science Museum, Exhibit Planning, 2002
+Judge, Illinois Science Olympiad State Tournament, 2001
+Judge, Illinois Junior Academy of Sciences, Science Fair, 2001, Regional Science Fair 2003
+Usher and Volunteer, St. Matthews Catholic Church, Champaign, IL, 2000;  Nursery Supervisor, 2002
+
+Recent Courses TaughtBIOE 571 - Biological Measurement I
+

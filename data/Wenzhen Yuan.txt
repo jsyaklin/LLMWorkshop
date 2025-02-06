@@ -1,0 +1,38 @@
+
+
+
+Wenzhen Yuan 
+
+
+
+
+
+Assistant ProfessorAdjunct Assistant Professor
+
+
+
+yuanwz@illinois.edu
+3340 Siebel Center for Comp Sci
+
+
+For More Information
+RoboTouch Lab's webpage
+
+
+Education
+Ph.D., MIT, 2018
+S.M., MIT, 2014
+B.E., Tsinghua University, 2012
+
+Research Interests
+Tactile sensing, and its application in robot perception and manipulation; Soft robotics; Haptics
+
+
+Research Areas
+Artificial Intelligence
+
+
+Recent Courses TaughtCS 498 GS3 (CS 498 GSG, CS 498 GSU) - Designing Op-based Sensors
+CS 598 TH1 - Tactile Sensing and Haptics
+ECE 470 (AE 482, ME 445) - Introduction to Robotics
+

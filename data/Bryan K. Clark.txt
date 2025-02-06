@@ -1,0 +1,48 @@
+
+
+
+Bryan K Clark 
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-2423
+bkclark@illinois.edu
+2111 Engineering Sciences Building
+
+
+For More Information
+Research Website
+
+
+Research Areas
+Condensed Matter Physics
+Quantum Information Science
+
+
+Selected Articles in Journals
+Yu, Xiongjie, David Pekker, and Bryan K. Clark. "Finding Matrix Product State Representations of Highly Excited Eigenstates of Many-Body Localized Hamiltonians." Physical Review Letters 118 (2017) 017201.
+Pekker, David, and Bryan K. Clark. "Encoding the structure of many-body localization with matrix product operators." Physical Review B 95 (2017) 035116.
+Shapourian, Hassan, and Bryan K. Clark. "Variational identification of a fractional Chern insulator in an extended Bose-Hubbard model." Physical Review B 93 (2016) 035125.
+
+Sun, J. Clark, B.K., Torquato, S., Car, R. The phase diagram of high-pressure superionic ice, Nature Communications 6, (2015) 8156
+Brown, E., Clark, B.K., Dubois, J., Ceperley, D. Path Integral Monte Carlo Simulation of the Warm-Dense Homogenous Electron Gas, Physical Review Letters 110  (2013) 146405.
+Clark, B.K., Kinder, J. Neuscamann, E. Chan, G.K. , Lawler, M. Striped spin liquid crystal ground state instability of kagome antiferromagnets, Physical Review Letters 111 (2013) 187205.
+Kolodrubetz, M. H., Spencer, J. S., Clark, B. K. Foulkes, W.M.C. "The effect of quantization on the FCIQMC sign problem." Journal of Chemical Physics 138 (2013) 024110.
+Kolodrubetz, M. Clark, B. "Partial node configuration-interaction Monte Carlo as applied to the Fermi polaron" Physical Review B. 86 (2012) 075109.
+Kolodrubetz, M. Clark, B., Huse, D. "Nonequilibrium dynamic critical scaling of the quantum Ising chain." Physical Review Letters. 109, (2012) 015701.
+Kolodrubetz, M. Pekker D., Clark, B., Sengupta, K. "Non-equilibrium dynamics of Bosonic Mott insulators in an electric field." Physical Review B. 85 (2012) 100505 - Rapid Communications.
+Clark, B. K., et. al. "Computing the energy of a water molecule using MultiDeterminants: A simple, efficient algorithm." Journal of Chemical Physics 135 (2011) 244105.
+Clark, B. K., Abanin, D., Sondhi, S.L., "Nature of the spin liquid state of the Hubbard model on honeycomb lattice." Physical Review Letters 107, 087204 (2011).
+Clark, B. K., M. Casula, and D. M. Ceperley. "Hexatic and Mesoscopic phases in a 2D Quantum Coulomb System." Physical Review Letters 103 (2009) 055701.
+Clark, B. and D. M. Ceperley. "Off-Diagonal Long-Range Order in Solid 4He." Physical Review Letters 96 (2006) 105302.
+
+Recent Courses TaughtPHYS 246 - Intro to Computational Physics
+PHYS 298 OWL - Fresh/Soph Special Topics Phys
+PHYS 446 - Modern Computational Physics
+PHYS 498 CMP - Special Topics in Physics
+

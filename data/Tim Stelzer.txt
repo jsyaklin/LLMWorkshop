@@ -1,0 +1,59 @@
+
+
+
+Tim Stelzer 
+
+
+
+
+
+Professor
+
+
+(217) 265-0758
+tstelzer@illinois.edu
+307 Loomis Laboratory
+
+
+For More Information
+PER Research Group
+NatureEdCast: University of Illinois's Tim Stelzer on Learning Physics with Interactive Media
+
+Education
+Ph.D. University of Wisconsin Madison 1993
+
+BiographyProfessor Timothy Stelzer received his bachelor's degree in physics from St. John's University in 1988, and his Ph.D. in physics from the University of Wisconsin-Madison in 1993. After working as a senior research assistant in the Center for Particle Theory at Durham University (UK), he joined the Department of Physics at the University of Illinois as a postdoctoral research associate in 1995. In 1998, he was promoted to a visiting assistant research professor and to an assistant research professor in 2000.
+A high-energy particle theorist, Professor Stelzer has concentrated on standard model physics at hadron colliders. He has written extensively on top-quark physics and radiation in top events. In addition, he has developed computational methods that have dramatically reduced the difficulty of performing complex cross section calculations. He is the primary author of MadGraph®, a software program that automatically generates the Feynman diagrams and helicity amplitude code for tree-level standard model processes. Most recently, he has been working on a new program to predict how often rare new particles would be produced and also what signatures would distinguish these new particles from the large background of particles already known. He has developed a novel multi-channel approach that efficiently integrates any scattering amplitude to obtain the cross section of any desired process.
+Research StatementProfessor Stelzer is a founding member of  the Physics Education Group at Illinois, where he focuses on the  effective use of technology to improve student learning. His innovations  include
+
+Mastery Inspired Online Activities 
+Based on the principles of mastery learning, these activities provide students a structured online environment to iteratively practice, assess and improve their understanding of physics.
+     
+IOLab Wireless Lab System 
+IOLab is a low cost easy-to-use device that wirelessly transmits data from a myriad of sensors to a student’s laptop. This system allows students to obtain high precision data in and out of the laboratory.
+     
+SmartPhysics Learning System 
+SmartPhysics includes a complete set of prelectures for introductory physics designed around multimedia learning. Clinical studies have shown these prelectures to be more effective than textbooks in helping students learn introductory physics and are used by thousands of students across the US every year. Several other disciplines are using this system to deliver their own material under the flipit series.
+     
+
+i>clicker 
+    i>clicker is a wireless classroom polling system that has facilitated  student-teacher interactions for millions of students around the world.
+
+
+Research Areas
+Physics Education
+
+
+Refereed Conference Papers and Presentations
+H. Talafian and T. Stelzer "Responsiveness as Being Attentive to Teachers' Needs in a Professional Community of Practice"  American Education Research Association National Meeting Chicago IL (2023)
+
+Teaching Honors
+Rose Award for Excellence in Teaching 2015 (2015)
+APS Excellence in Education Award 2013 (2013)
+Arnold Nordsieck Award for Excellence in Teaching, Physics Department, 2011 (2011)
+University of Illinois Distinguished Teacher-Scholar, 2009 (2009)
+BP Amoco Award for Innovation in Undergraduate Education, 2005 (2005)
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 212 - University Physics: Elec & Mag
+

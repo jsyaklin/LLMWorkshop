@@ -1,0 +1,110 @@
+
+
+
+ Luis Rodriguez 
+
+
+
+
+
+Associate Professor
+
+
+(217) 333-2694
+lfr@illinois.edu
+376C Agricultural Engr Sciences Bld
+
+
+For More Information
+INFEWS-ER. (2020). INFEWS-ER --- Innovation at the Nexus of Food, Energy, and Water System---Educational Resources. http://infews-er.net/
+
+Soberg, M. (2011, August 22). U of Illinois students awarded BP grant to study biomass [Magazine]. Retrieved November 27, 2019, from Biomass Magazine website: http://www.biomassmagazine.com/articles/5734/u-of-illinois-students-awarded-bp-grant-to-study-biomass
+
+Henry, S. (2018, September 19). Urban metabolism: Collaboration uses big data to look at health of cities through food, water, and energy systems [Website]. Retrieved November 27, 2019, from College of Agricultural, Consumer and Environmental Sciences website: https://aces.illinois.edu/news/urban-metabolism-collaboration-uses-big-data-look-health-cities-through-food-water-and-energy
+ 
+Alpasan, E. (2019, October 24). Class prepares for disaster relief trip to Puerto Rico [News]. Retrieved November 27, 2019, from The Daily Illini website: https://dailyillini.com/news/2019/10/24/disaster-relief-trip-puerto-rico/
+Shike, J., & Rodriguez, L. F. (2018, Fall). Darkness: Bringing light to Puerto Rico after Hurricane Maria [Magazine]. Retrieved November 27, 2019, from ACES@Illinois website: https://issuu.com/illinois4h/docs/fall-issue_2018
+
+
+UIUC Puerto Rico Disaster Relief Program [Social Network]. (2019). Retrieved November 27, 2019, from Facebook website: https://www.facebook.com/UIUCPuertoRicoDisasterRelief/
+
+
+Education
+B.S., Bioresource Engineering, Rutgers, the State University of New Jersey, 1995
+M.S., Bioresource Engineering, Rutgers, the State University of New Jersey, 1999
+Ph.D., Industrial and Systems Engineering and Bioresource Engineering, Rutgers, the State University of New Jersey, 2002
+
+Academic Positions
+Associate Professor, 2012-present, Agricultural and Biological Engineering, University of Illinois at Urbana-Champaign
+Assistant Professor, 2005-2012, Agricultural and Biological Engineering, University of Illinois at Urbana-Champaign
+Research Scientist, 2004-2005, Universities Space Research Association NASA Johnson Space Center
+Postdoctoral Research Associate, 2003-2004, National Research Council
+Senior Principal Systems Analyst, 2000, Orbital Space Sciences Corporation NASA Ames Research Center
+
+Research Interests
+Big Data, Modeling, and Analytics
+Food, Energy, and Water Security
+Environmental Impacts of Food and Agricultural Production and Processing
+Social Constraints on Engineered Systems
+Reliability, Resiliency, and Sustainability
+Decision support
+Life support systems
+
+
+
+Selected Articles in Journals
+Lin, Tao, Xu, J., Shen, X., Jiang, H., Zhong, R., Wu, S., ... Ting, K. C. (2019). A spatiotemporal assessment of field residues of rice, maize, and wheat at provincial and county levels in China. GCB Bioenergy, accepted and in press.
+Rodriguez, L. F., Marshall, A.-M., Cotton, D., Koelsch, R., Koziel, J., Meyer, D., ... Saundry, P. D. (2019). The Development of the INFEWS-ER: A Virtual Resource Center for Transdisciplinary Graduate Student Training at the Nexus of Food, Energy, and Water. Frontiers in Environmental Science, 7. 
+Hu, H., Lin, T., Wang, S., & Rodriguez, L. F. (2017). A cyberGIS approach to uncertainty and sensitivity analysis in biomass supply chain optimization. Applied Energy, 203, 26-40.
+Hathaway, S. K., Bartolerio, N. A., Rodriguez, L. F., Kent, A. D., & Zilles, J. L. (2017). Denitrifying Bioreactors Resist Disturbance from Fluctuating Water Levels. Frontiers in Environmental Science, 5. 
+Zilles, J. L., Rodriguez, L. F., Bartolerio, N. A., & Kent, A. D. (2016). Microbial community modeling using reliability theory. The ISME Journal. 
+Lin, Tao, Rodriguez, L. F., Davis, S., Khanna, M., Shastri, Y., Grift, T., ... Ting, K. C. (2016). Biomass feedstock preprocessing and long-distance transportation logistics. GCB Bioenergy, 8(1), 160-170. 
+Lin, T., Mathanker, S. K., Rodriguez, L. F., Hansen, A. C., & Ting, K. C. (2016). Impact of Harvesting Operations on Miscanthus Provision Costs. Transactions of the ASABE, 59(5), 1031-1039. 
+Nourbakhsh, S. M., Bai, Y., Maia, G. D. N., Ouyang, Y., & Rodriguez, L. (2016). Grain supply chain network design and logistics planning for reducing post-harvest loss. Biosystems Engineering, 151(Supplement C), 105-115. 
+Jonker, J. G. G., Junginger, H. M., Verstegen, J. A., Lin, T., Rodriguez, L. F., Ting, K. C., ... van der Hilst, F. (2016). Supply chain optimization of sugarcane first generation and eucalyptus second generation ethanol production in Brazil. Applied Energy, 173, 494-510.
+Liu, T., Green, A. R., Rodriguez, L. F., Ramirez, B. C., & Shike, D. W. (2015). Effects of Number of Animals Monitored on Representations of Cattle Group Movement Characteristics and Spatial Occupancy. PLoS ONE, 10(2), 1â€“17.
+Lin, Tao, Wang, S., Rodriguez, L. F., Hu, H., & Liu, Y. (2015). CyberGIS-enabled decision support platform for biomass supply chain optimization. Environmental Modelling & Software, 70, 138-148.
+Porter, M., Andrus, J. M., Bartolerio, N., Rodriguez, L., Zhang, Y., Zilles, J., & Kent, A. (2015). Seasonal Patterns in Microbial Community Composition in Denitrifying Bioreactors Treating Subsurface Agricultural Drainage. Microbial Ecology, 70(3), 710-723. 
+Maia, G. D. N., Ramirez, B. C., Green, A. R., Sun, Y., Rodriguez, L. F., Shike, D. W., & Gates, R. S. (2015). A Novel Ruminant Emission Measurement System: Part II. Commissioning. Transactions of the ASABE, 58(6), 1801-1815. 
+Maia, G. D. N., Ramirez, B. C., Green, A. R., Rodriguez, L. F., Segers, J. R., Shike, D. W., & Gates, R. S. (2015). A Novel Ruminant Emission Measurement System: Part I. Design Evaluation and Description. Transactions of the ASABE, 58(3), 749-762.
+Hu, H., Lin, T., Liu, Y. Y., Wang, S., & RodriÂ­guez, L. F. (2015). CyberGIS-BioScope: A cyberinfrastructure-based spatial decision-making environment for biomass-to-biofuel supply chain optimization. Concurrency and Computation: Practice and Experience, 27(16), 4437-4450.
+Hathaway, S. K., Porter, M. D., Rodriguez, L. F., Kent, A. D., & Zilles, J. L. (2015). Impact of the contemporary environment on denitrifying bacterial communities. Ecological Engineering, 82, 469-473.
+
+Articles in Conference Proceedings
+Zeman, K., & Rodriguez, L. F. (2019). Quantifying Farmer Decision-Making in an Agent-Based Model. Presented at the 2019 ASABE Annual International Meeting, Paper Number 1901666. 
+Schreiber, K. L., Rodriguez, L. F., Witmer, A.-P., & Dill, B. (2019). Understanding and incorporating stakeholder perspectives in international engineering: a phrase mining analysis. Presented at the 2019 ASABE Annual International Meeting, Paper Number 1901425. 
+Koelsch, R., Rodriguez, L. F., Banner, S., Classen, J., Cotton, D., Deviney, A., ... Steward, D. (2019). Lessons Learned by INFEWS-ERÃ¢â‚¬â„¢s virtual resource center for transdisciplinary graduate student training at the nexus of food, energy, and water. Presented at the 2019 ASABE Annual International Meeting, Paper Number 1900876.
+Liu, T., Rodriguez, L. F., Lehman, B. E., Green, A. R., Villamil, M. B., & Shike, D. W. (2016). A spatially explicit, agent-based model for simulating movements of cattle grazing corn residues. Presented at the American Society of Agricultural and Biological Engineers Annual International Meeting 2016, Paper No. 162460297. 
+Liao, W.-T., Rodriguez, L. F., Marshall, A.-M., Wang, S., Gao, Y., & Lin, T. (2016). From Tweets to farm management: Mining agricultural information and discovering agricultural communities in social networks. Presented at the American Society of Agricultural and Biological Engineers Annual International Meeting 2016, Paper No. 162461370. 
+Liao, W.-T., Lin, T., Rodriguez, L. F., Wang, S., & Gao, Y. (2016). Mining agricultural information from social media. Presented at the The Third International Conference on CyberGIS and Geospatial Data Science, Paper No. 16.
+Shi, S., Liao, W.-T., Rodriguez, L. F., Lin, T., & Blaschek, H. (2015). Land identification and spatial distribution of biomass energy potential along Illinois state highways. Paper No. 152187779. Presented at the 2015 ASABE Annual International Meeting. 
+Liao, W.-T., Rodriguez, L. F., Diesner, J., & Lin, T. (2015, July 26). Improving farm management optimization: Application of text data analysis and semantic networks. Presented at the American Society of Agricultural and Biological Engineers Annual International Meeting 2015, Paper No. 152189278. 
+
+Service on University Committees
+ACES Research Policy Committee, 2016-present
+Chief Advisor, Agricultural and Biological Engineering, 2017-present
+
+Other Outside Service
+The Chicago Council on Global Affairs Global Food Security Science Working Group for 2013 Report on "Advancing Global Food Security.” The Power of Science, Trade, And Business. 2013
+Session chair for the National Academy of Engineering 2012 Japan American Frontiers of Engineering Conference session on Engineering in Agriculture: Food Security. 2012
+
+Honors
+North American College Teachers of Agriculture, North American College Teachers of Agriculture Teacher Fellow Award (2011)
+University of Illinois at Urbana-Champaign, College of Engineering, Engineering Council Outstanding Advisor (2012)
+Center for Teaching Excellence, Named to the List of Teachers Ranked as Excellent by Their Students (2012, 2014, 2015, 2016, 2017, 2018)
+J. Kent Mitchell Teaching Excellence Award (2019)
+
+Recent Courses TaughtABE 398 - Disaster Relief Res Study Tour
+ABE 452 (ABE 498 DRP) - Engrg for Disaster Resilience
+ABE 498 DRP - Dis Relief Proj - Hurric Maria
+ACES 102 - Intro Sustainable Food Systems
+ENG 177 GD1 (ENG 177 SD1) - GFX Glbl Dis Resilience Schlrs
+ENG 177 GD2 (ENG 177 SD2) - GFX Global Disaster Resilience
+ENG 177 SD1 - Disaster Res Scholars - PR
+ENG 177 SD1 - GFX Disaster Res Scholars-PR
+ENG 177 SD1 - Glbl Disaster Res-Puerto Rico
+ETMA 199 - Global Disaster Resiliency
+ETMA 499 - Comm-Based Design & Mgmt
+ETMA 594 (ABE 594) - Graduate Seminar
+TSM 311 - Humanity in the Food Web
+

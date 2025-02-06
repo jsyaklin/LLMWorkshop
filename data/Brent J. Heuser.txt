@@ -1,0 +1,124 @@
+
+
+
+Brent J Heuser 
+
+
+
+
+
+Professor Emeritus
+
+
+(217) 333-9610
+bheuser@illinois.edu
+ 
+
+
+For More Information
+H Lab
+
+Education
+The University of Michigan, Ph.D., Nuclear Engineering, 1991
+The University of Michigan, M.S., Nuclear Engineering, 1989
+The University of Michigan, B.S., Nuclear Engineering, 1983
+
+BiographyBrent Heuser is a Professor in the Nuclear, Plasma, and Radiological Engineering Department at the University of Illinois.  He has been a member of the UIUC faculty since 1994.  His research interests involve nuclear materials, hydrogen phase behavior in metals, and the application of advanced neutron scattering techniques, X-ray scattering, and microanalytical analysis techniques to materials research.  He currently has research projects related to irradiation-assisted stress corrosion cracking of LWR structural alloys, corrosion and fission gas behavior in molten salts for advanced reactor concepts, and accident tolerant LWR fuel (doped urania) and cladding (coatings on Zr-based alloys).  Experimental facilities in his laboratory include a reactive-gas magnetron sputtering facility dedicated to physical vapor deposition of metal and ceramic coatings for nuclear materials research, a recirculating loop autoclave with a 50kN load frame for LWR immersion studies, a static FLiNaK molten salt corrosion/sparging apparatus, a NETZSCH Jupiter simultaneous thermal analyzer, a Zeiss optical microscope with DIC capability, and HV two Sievert’s systems for hydrogen loading.
+Academic Positions
+9/2018-2020, Associate Head for Undergraduate Academic Programs, Department of Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana-Champaign
+ 8/2012-present, Professor, Department of Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana-Champaign
+
+Teaching StatementTeaching interests include foundational nuclear reactor/nuclear engineering concepts, basic materials science concepts, nuclear materials concepts, mechanical property measurements, radiation detection and analysis experimental concepts, particle scattering analysis of materials.
+Research StatementResearch interests include the study of LWR cladding materials, enhanced accident tolerance of LWR fuel, novel moderator materials, advanced reactor materials, hydrogen phase behavior in materials, the study of nuclear fuel matrices using advanced characterization techniques, and the growth and characterization of thin films using physical vapor deposition.
+Graduate Research OpportunitiesGraduate research opportunities in the areas of nuclear materials.
+Undergraduate Research OpportunitiesUndergraduate research opportunities in area of nuclear materials.
+Research Interests
+Molten salt property characterization for advanced nuclear reactor designs
+The application of elastic and inelastic neutron scattering techniques and synchrotron X-ray diffraction to study materials. 
+Thin-film structures; growth and characterization of metal and ceramic overlayers for various applications.
+Numerical simulation of neutron transport; spallation source moderator performance, performance of other sub-critical systems.
+Thin-film structures; growth and characterization of metal and ceramic overlayers.
+Neutron scattering techniques; application to the study of defects in solids and the behavior of hydrogen in metals; technique development.
+Hydrogen/metal systems; defect trapping interactions, perturbed phase behavior, characterization of hydride structures.
+Nuclear fuel matrices; transport phenomenon and the influence of radiation damage.
+Modifications of LWR cladding for enhanced accident tolerance.
+
+
+Research Areas
+Fuel performance modeling
+Hydrogen in metals
+Ion bombardment
+LWR fuel
+Neutron and X-ray scattering
+Nuclear Materials
+Reactor Physics
+Structural LWR components
+
+
+Selected Articles in Journals
+B.J. Heuser, Accident tolerant fuel: Ensuring safe, sustainable and reliable nuclear power plants, Innovation News Network, Issue 11, July 2022
+Li, Zhen, Xun Zhan, Waclaw Swiech, Honghui Zhou, Weicheng Zhong, Benjamin J. Sutton, Carly J. Romnes, Dhruval K. Patel, Nachiket S. Shah, and Brent J. Heuser. "An Examination of the Precipitation Behavior of Proton Irradiated Dual Phase 308L Weldment Filler Materials." Journal of Nuclear Materials (2023): 154287.
+
+Li, Zhen, Xun Zhan, Xian-Ming Bai, Shao-Chun Lee, Weicheng Zhong, Benjamin J. Sutton, and Brent J. Heuser. "Modified microstructures in proton irradiated dual phase 308L weldment filler material." Journal of Nuclear Materials: 548 (2021): 152825.
+Zhong, W., Lin, J., Chen, Y., Li, Z., An, K., Sutton, B.J., and Heuser, B.J., Microstructure, hardness, and residual stress of the dissimilar metal weldments of SA508-309L/308L-304L, Metallugical and Materials Transactions A: 52 (2021) 1927-1938.
+Feng, Lin, Sarah C. Finkeldei, Brent Heuser, Shen J. Dillon, and Andrew T. Nelson. "Grain Boundary and Lattice Fracture Toughness of UO 2 Measured Using Small-Scale Mechanics." Journal of Metals: (2020): 1-7.
+Prisk, Timothy R., Alexander I. Kolesnikov, Garrett E. Granroth, Jun-Li Lin, and Brent J. Heuser. "Vibrational modes and quantum zero-point energy of hydrogen in ZrH0. 0155 and ZrH2." Journal of Alloys and Compounds 818 (2020): 152832.
+Bernhardt, Joseph R., Xiaochun Han, and Brent J. Heuser. "Oxygen-18 Tracer Measurements of Anion Diffusion in Uranium Dioxide Thin Films." Journal of Metals:  71  (2019): 4808-4816.
+Zhong, W., Liu, X., Mouche, P.A, Lin, J.L., Park, D., Elbakhshwan, M.S., Gill, S.K., Ren, Y., Stubbins, J.F., and Heuser, B.J., "Dissolution of Intermetallic Second-Phase Particles in Zircaloy-2 in High-Temperature Steam." Metallurgical and Materials Transactions A: 50 (2019): 1-11.
+Lin, J.L., and Heuser, B.J., "Modeling hydrogen solvus in zirconium solution by the mesoscale phase-field modeling code Hyrax." Computational Materials Science, v 156, pp 224-231 (2019).
+Heuser, B.J., Prisk, T.R., Lin, J., Dax, T.J., Zhang, Y., "Direct measurement of hydrogen diffusivity and solubility limits in Zircaloy 2 (formula unit of ZrH0.0155) using incoherent quasi-elastic neutron scattering," Journal of Nuclear Materials, v 518, p177-189 (2019).
+Zhong, W., Mouche, P.A., and Heuser,  B.J., "Response of Cr and Cr-Al coatings on Zircaloy-2 to high temperature steam." Journal of Nuclear Materials, v 498, pp 137-148 (2018).
+Park, D., Mouche, P.A., Zhong, W., Mandapaka, K.K., Was, G.S., and Heuser,  B.J., "TEM/STEM study of Zircaloy-2 with protective FeAl (Cr) layers under simulated BWR environment and high-temperature steam exposure." Journal of Nuclear Materials, v 502, pp 95-105 (2018).
+Mouche, P., and B. Heuser, "Steam Oxidation of Zr-Y Alloys from 500 to 1100 C, Oxidation of Metals, (2018). 
+Heuser, B.J., Lin, J.L., Do, C., and He, L., "Small-angle  neutron scattering measurements of δ-phase deuteride (hydride)  precipitates in Zircaloy 4." Journal of Applied Crystallography, v 51, pp 768-780 (2018).
+Lin, J.L., Zhong, W., Bilheux, H.Z. and B.J. Heuser. "Azimuthally anisotropic hydride lens structures in Zircaloy 4 nuclear fuel cladding: High-resolution neutron radiography imaging and BISON finite element analysis." Journal of Nuclear Materials, v 496, pp 129-139 (2017).
+Lin, J.L, An, K., Stoica, A.D., and Heuser, B.J., "Effect of external stress on deuteride (hydride) precipitation in Zircaloy-4 using in situ neutron diffraction'" Journal of Nuclear Materials, v 487, pp 396-405 (2017).
+Elbakhshwan, M.S., and Heuser,  B.J., "Structural and compositional characterization of single crystal uranium dioxide thin films deposited on different substrates." Thin Solid Films, v 636, pp 658-663 (2017).
+Zhong, W., Mouche, P.A., Heuser, B.J., Ahmedabadi, P.M., and Was, G.S., "Performance of FeCrAl alloy surface coatings on Zircaloy 2 under high-temperature steam and normal BWR operating conditions," Journal of Nuclear Materials, v 470, pp 327-338 (2016).
+Lin, J.L., Han, X., Heuser, B.J., & Almer, J.D. "Study of the mechanical behavior of the hydride blister/rim structure in Zircaloy-4 using in-situ synchrotron X-ray diffraction," Journal of Nuclear Materials, v 471, pp 299-307 (2016).
+Elbakhshwan, M. S., Miao, Y., Stubbins, J. F., & Heuser, B. J."Mechanical properties of UO 2 thin films under heavy ion irradiation using nanoindentation and finite element modeling," Journal of Nuclear Materials, v 479, pp 548-558 (2016).
+Han, X. and Heuser, B.J., "Radiation Enhanced Diffusion of Nd in UO2," Journal of Nuclear Materials, v 466, pp 588-596 (2015).
+Heuser, B.J., Trinkle, D.R., Jalarvo, N., Serio, J., Mamontov, E., and Tyagi, M., "Direct Measurement of Hydrogen Dislocation Pipe Diffusion in Deformed Polycrystalline Pd Using Quasielastic Neutron Scattering," Physical Review Letters, v 113, pp 025504-025508 (2014).
+Heuser, B.J., Trinkle, D.R., Yang, T.-N., and He, L., "Hydrogen trapping at dislocations at room temperature in deformed Pd," Journal of Alloys and Compounds, v 577, pp 189-191 (2013)
+Strehle, M.S., Heuser, B.J., Elbakhshwan, M.S., Han, X.C., Gennardo, D.J., Pappas, H.K., and Ju, H., "Characterization of single crystal uranium-oxide thin films grown via reactive-gas magnetron sputtering on YSZ and sapphire," Thin Solid Films, v 520, pp 5616-5626 (2012).
+Trinkle, D.R., Ju, H., Heuser, B.J, Udovic, T.J., "Nanoscale hydride formation at dislocations in palladium:  Ab initio theory and inelastic neutron scattering measurements, Phys. Rev. B, v83, p174116 (7 pp) (2011).
+Ju, H., Heuser, B.J., Abernathy, D.L., and Udovic, T.J., "Comparison of FANS and ARCS incoherent inelastic neutron scattering measurements of hydrogen trapping at dislocations in deformed Pd," Nuclear Instruments and Methods in Physics Research A, v 654, pp 522-526 (2011).
+Heuser, B.J. and Hyunsu Ju, "Small-angle Neutron Scattering Measurements of Hydrogen and Deuterium Trapping at dislocations in Deformed Single-Crystalline Pd at Low Temperature, Physical Review B (Condensed Matter and Materials Physics), v 83, n 9, p 094103 (8 pp.) (2011).
+
+Pappas, H.K. Heuser, B.J., and M.M. Strehle, "Measurement of radiation-enhanced diffusion of La in single crystal thin film CeO2," J. Nuclear Materials, v405, p118 (8 pp.) (2010).
+Heuser, B.J., Udovic, T.J. and Ju, H., "Vibrational Density of States Measurement of Hydrogen Trapped at Dislocations in Deformed PdH0.0008," Physical Review B (Condensed Matter and Materials Physics), v 78, n21, p 214101 (5 pp.) (2008).
+Ju. H. and Heuser B.J., “Effect of Hydrogen on Ni/Ti Multilayer Neutron Monochromator Performance”  Applied Physics Letters v90, 9073113 (3pp) (2007).
+
+Terekhov, A.Y., Heuser, B.J, Okuniewski, M.A., Averback, R.S., Seifert, S., and Jemian, P.R., "Small-angle X-ray scattering measurements of helium-bubble formation in borosilicate glass," J. Applied Crystallography, v39, p647 (5pp) (2006).
+Lipson, A.G., Heuser, B.J., Castano, C.H., Lyakhov, B.F. and A. Yu Tsivadze, "Magnetic Characterization of a Hydrogen Phase Trapped inside Deep Dislocation Cores in a Hydrogen-Cycled PdHx (x~4.5x10^-4) Single Crystal," Journal of Experimental and Theoretical Physics, v 103, n 3, p 385-397 (2006)
+Allain, J.P., Hassanein, A., Allain, M.M.C., Heuser, B.J., Nieton, M., Chrobak, C., Rokusek, D. and B. Rice, "Xe+-irradiation Effects on Multilayer Thin-Film Optical Surfaces in EUV Lithography, Nuclear Instruments & Methods in Physics Research, Section B (Beam Interactions with Materials and Atoms), v 242, n 1-2, p 520-2 (2006)
+Lipson, A., Heuser, B.J., Castano, C.H., Miley, G., Lyakhov, B. and A. Mitin, "Transport and Magnetic Anomalies Below 70 K in a Hydrogen-Cycled Pd Foil with a Thermally Grown Oxide," Physical Review B (Condensed Matter and Materials Physics), v 72, n 21, p 212507-1-4 (2005).
+Lipson, A.G., Heuser, B.J., Castano, C.H. and A. Celik-Aktas, "Observation of a low-field diamagnetic contribution to the magnetic susceptibility of deformed single crystal PdHx(x≃4.0×10-4)" Physics Letters A, v 339, n 3-5, p 414-23 (2005).
+Allain, M.M.C. and B.J. Heuser, "Lattice Strain Measurements of Deuteride (Hydride) Formation in Epitaxial Nb: Additional Results and Further Insights into Past Measurements," Physical Review B (Condensed Matter and Materials Physics), v 72, n 5, p 54102-1-11 (2005).
+Okuniewski, M.A., Ashkenazy, Y., Heuser, B.J., and Averback, R.S., "Molecular dynamics simulations of void and helium bubble stability in amorphous silicon during heavy-ion bombardment," J. Applied Physics, v96, p4181 (8pp) (2004).
+Heuser, B.J., Allain, M.M.C., and Chen, W.C., "Small-Angle X-Ray Scattering Measurements of Hydrogen Evolution from an Epitaxial Nb Film"  Phys. Rev. B v66, p155419 (5pp) (2002).
+Chen, W.C. and Heuser, B.J., "Small-Angle Neutron Scattering Measurements of Deuteride (Hydride) Formation and Decomposition in Single-Crystal Pd"  Phys. Rev. B v65, p014102 (7pp) (2001).
+Costescu, C.I. and B.J. Heuser, "Effect of a Nitrogen-rich Surface Layer on the Sub-surface Deuterium (Hydrogen) Concentration Distribution in Ti."  Surface Science, 450 242-250 (2000).
+Chen, W.C., B.J. Heuser, and J.S. King, "SANS Investigation of Deuteride (Hydride) Precipitation and Decomposition Morphology in Single Crystal Pd."  J. Appl. Crystallogr., 33 442-446 (2000).
+Chen, W.C. and Heuser B.J., "Solubility and Kinetic Properties of Deuterium in Single Crystal Pd."  J. Alloys and Compounds, v312, p176 (5pp) (2000).
+Heuser, B.J., King, J.S., and Chen, W.C., "Small-Angle Neutron Scattering Measurements of Deuteride Formation in Single Crystal Pd."  J. Alloys and Compounds, v292, p134 (14pp) (1999).
+Heuser, B.J. and Chen, W.C.,  “Effect of Lattice Defects and Temperature Transition Rates on the Deuteride (Hydride) Particle Morphology and Phase Transformation Thermal Hysteresis in Niobium,” J. Phys.: Condens. Matter, 11, 7195 (1999).
+Munter, A.E. and B.J. Heuser, “Deuterium Phase Behavior in Thin-Film Pd.”  Phys. Rev. B, 58, 678 (1998).
+Keller, S. E., B.J. Heuser, and J.M. Carpenter, "MCNP Simulations of Neutron Moderation    in the IPNS C Moderator." Physica B, 241-243, 30 (1998).
+Heuser, B.J. and J.S. King, “Effect of Dislocation Trapping on Deuterium Diffusion in Deformed Single Crystal Pd.”  Metal. Trans. A., 29A, 1593 (1998).
+Munter, A. E., Heuser, B.J., and Ruckman, M.W., "In Situ Neutron Reflectivity Measurements of Hydrogen and Deuterium Absorption in a Pd/Nb/Pd layered film."  Phys. Rev. B, Brief Reports, 55  14035-14038 (1997).
+Heuser, B. J. and J.S. King, "SANS Measurements of Deuterium-Dislocation Trapping in Deformed Single Crystal Pd." J. Alloys Compounds 261, 225-230, (1997).
+Heuser, B. J. and J. W. Althauser, "Effect of Deformation on Low-Temperature Deuteride Formation in Single Crystal Nb." J. Phys. Condens. Matter, 9, 8945-8961 (1997).
+Munter, A. E., B. J. Heuser, and K. M. Skulina, “ Neutron Reflectivity Measurements of Ti -Be Multlayers,” Physica B, 221, 500 (1996).
+Popovici, M.,Yelon, W.B., Berliner, R., and Heuser, B.J.,  "Two-Bent-Crystal Technique in Neutron Small Angle Scattering."  J. Phys. Chem. Solids, v56, p1425 (7pp) (1995).
+Al-Nahlawi, T. A. K., and B. J. Heuser, "Estimate of Trapping of Hydrogen at Dislocations in Pd:  Suggestions for Future SANS Experiments," Scripta Metallurgica et Materialia, 32, 10, 1619-1624, (1995).
+Heuser, B. J., "SANS Study of Dislocations in Deformed Single Crystal Cu", Journal of Applied Crystallography, 27, 1020-1029, (1994).
+Heuser, B. J., S. King, G. C. Summerfield, F. Boue, and J. E. Epperson, "SANS Measurement of Deuterium Trapping at Dislocations and Grain Boundaries in Palladium," Acta Metall. Mater., 39 2815, (1991).
+Roberts, D. A., F. D. Becchetti, E. Ben-Jacob, P. Garik, J. Musser, B. Orr, G. Tarle, A. Tomasch, J. S. Holder, D. Redina, B. Heuser, and G. Wicker, "Energy and Flux Limits of Cold-Fusion Neutrons using Deuterated Liquid Scintillator," Physical Review C, 42 R1809, (1990).
+Epperson, J. E., J. M. Carpenter, P. Thiyagarajan, and B. Heuser, "Measurement of the Delayed Neutron Fraction and Correction of Small Angle Scattering Data from Pulsed Spallation Source," Nuclear Instruments and Methods in Physics Research, A289 30, (1990).
+
+Recent Courses TaughtNPRE 247 - Modeling Nuclear Energy System
+NPRE 431 (NPRE 330) - Materials in Nuclear Engrg
+NPRE 451 - NPRE Laboratory
+NPRE 531 - Nuclear Materials
+

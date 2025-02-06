@@ -1,0 +1,49 @@
+
+
+
+Hyunseok Kim 
+
+
+
+
+
+Assistant Professor
+
+
+
+hyunseok@illinois.edu
+2256 Micro & Nanotechnology Lab
+
+
+For More Information
+Hyunseok Kim Research Group
+
+Education
+Ph.D. in Electrical and Computer Engineering, University of California, Los Angeles, 2018
+B.S. in Electrical Engineering and Computer Science, Seoul National University, 2011
+
+Other Professional Employment
+Research Scientist, Massachusetts Institute of Technology, 2022-2023
+Postdoctoral Associate, Massachusetts Institute of Technology, 2019-2022
+
+Graduate Research OpportunitiesWe have multiple openings for PhD students. We welcome highly motivated students with a passion for tackling challenging questions to make a real impact in the field of semiconductor devices, materials, and integrated platforms. Interested students are encouraged to directly contact Prof. Hyunseok Kim (hyunseok@illinois.edu) with a CV. 
+Research Interests
+3D heterogeneous integration technology
+Low-dimensional materials and thin films for microelectronics and photonics
+
+
+
+Selected Articles in Journals
+Soo Ho Choi*, Yongsung Kim, Il Jeon*, and Hyunseok Kim*, “Heterogeneous Integration of Wide Bandgap Semiconductors and Two-Dimensional Materials: Processes, Applications, and Perspectives”, Advanced Materials, 2411108 (2024)
+
+Ki Seok Kim†, Junyoung Kwon†, Huije Ryu†, Changhyun Kim†, Hyunseok Kim†, Eun-Kyu Lee, Doyoon Lee, Seunghwan Seo, Ne Myo Han, Jun Min Suh, Jekyung Kim, Min-Kyu Song, Sangho Lee, Minsu Seol, and Jeehwan Kim,  “The future of two-dimensional semiconductors beyond Moore’s law”, Nature Nanotechnology, 19, 895-906 (2024)
+
+Hyunseok Kim*, Yunpeng Liu*, Kuangye Lu*, Celesta S. Chang*, Dongchul Sung, Marx Akl, Kuan Qiao, Ki Seok Kim, Bo-In Park, Menglin Zhu, Jun Min Suh, et al., “High-throughput manufacturing of epitaxial membranes from a single wafer by 2D materials-based layer transfer process” Nature Nanotechnology, 18(5), 464-470 (2023)
+
+Jiho Shin*, Hyunseok Kim*, Suresh Sundaram*, Junseok Jeong*, Bo-In Park, Celesta S. Chang, Joonghoon Choi, Taemin Kim, Mayuran Saravanapavanantham, et al., “Vertical full-colour micro-LEDs via 2D materials-based layer transfer”, Nature, 614(7946), 81-87 (2023)
+
+Hyunseok Kim*, Sangho Lee*, Jiho Shin*, Menglin Zhu, Marx Akl, Ne Myo Han, Kuangye Lu, Celesta S. Chang, Jun Min Suh, Ki Seok Kim, et al., “Graphene nanopattern as a universal epitaxy platform for single-crystal membrane production and defect reduction”, Nature Nanotechnology, 17(10), 1054-1059 (2022) 
+
+
+Recent Courses TaughtECE 444 - IC Device Theory & Fabrication
+

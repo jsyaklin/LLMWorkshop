@@ -1,0 +1,81 @@
+
+
+
+Robyn Woollands 
+
+
+
+
+
+Assistant Professor
+
+
+
+rmw@illinois.edu
+ 
+
+
+For More Information
+woollands research group
+
+
+Education
+BS Physics, University of Canterbury, New Zealand, 2006
+MS Astronomy, University of Canterbury, New Zealand, 2008
+Graduate Certificate Antarctic Studies, University of Canterbury, New Zealand, 2008
+MS Aerospace Engineering, University of Minnesota, 2010
+PhD Aerospace Engineering, Texas A&M University, 2016
+
+Academic Positions
+Postdoctoral Researcher, Department of Aerospace Engineering, Texas A&M, 2017
+Adjunct Assistant Professor, Department of Aerospace Engineering, Texas A&M University, 2017-2020
+Assistant Professor, Department of Aerospace Engineering, University of Illinois at Urbana-Champaign, 2021-present (100%)
+
+Other Professional Employment
+Junior Scientist, Department of Physics & Astronomy, Nova Neutrino Detector, University of Minnesota, 2011-2012
+Mission Design Engineer, Jet Propulsion Laboratory, California Institute of Technology, 2017-2020; JPL Affiliate (2021-present)
+
+Research Interests
+Optimization
+Astrodynamics
+Space Mission Design
+Picard-Chebyshev Methods
+High-fidelity Propagation
+Space Domain Awareness
+
+
+Research Areas
+Astrodynamics
+
+
+Selected Articles in Journals
+R.M. Woollands, A. Bani Younes, and J.L. Junkins, “New Solutions for Lambert's Problem Utilizing Regularization and Picard Iteration”, Journal of Guidance, Control and Dynamics, v38, Issue 9, pp 1548-1562, 2015.
+R.M. Woollands and J.L. Junkins, “Nonlinear Differential Equations Solvers via Adaptive Picard-Chebyshev Iteration: Applications in Astrodynamics”, Journal of Guidance, Control and Dynamics, May, 2019.
+M. Sanchez Net, E. Pellegrini, W. Parker, J. Vander Hook, R.M. Woollands, "Cycler Orbits and Solar System Pony Express", Journal of Spacecraft and Rockets, January 2022.
+R.M. Woollands, F. Rossi, T. Stegun Vaquero, M. Sanchez Net, S. Bae, V. Bickel, J. Vander Hook, "Maximizing Dust Devil Follow-up Observations on Mars using Cubesats and On-board Scheduling", Journal of Astronautical Sciences, May 2022.
+A.M. Atallah, A. Bani Younes, R.M. Woollands, J.L. Junkins, "Analytical Radial Adaptive Method for Spherical Harmonic Gravity Models", Journal of Astronautical Sciences, May 2022.
+
+A. Pascarella, R.M. Woollands, Etienne Pellegrini, Marc Sanchez Net, Hua Xie, Joshua Vander Hook, "Low-thrust trajectory optimization for the solar system pony express", Acta Astronautica, February, 2023.
+
+B. Patrick, A. Pascarella, R.M. Woollands, "Hybrid Optimization of High-fidelity Low-thrust Transfers to the Lunar Gateway", Journal of Astronautical Sciences, August, 2023.
+
+D. Stanley, R.M. Woollands, F. Rossi, A. Rahmani, C. Choi, "Enabling Space-Based Computed Cloud Tomography with a Mixed Integer Linear Programming Scheduler", Journal of Guidance Control and Dynamics, July, 2024.
+
+H.Panag, R.Woollands, "Thruster Pointing Constrained Optimal Control for Satellite Servicing using Indirect Optimization", Journal of Spacecraft and Rockets, October, 2024.
+
+B. Cline, A. Pascarella, J. Rovey, R.M. Woollands, Indirect Optimal Control Techniques for Multimode Mission Design, Acta Astronautica, October, 2024.
+A. Pascarella, R. Bommena, S. Eggl, R.M. Woollands, "Mission Design for Space Telescope Servicing at Sun-Earth L2", Acta Astronautica, November, 2024.
+
+R.Bommena, R. Woollands, "Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations", Journal of Astronautical Sciences, November, 2024.
+
+Honors
+Air Force Office of Scientific Research, Young Investigator Career Award (2024)
+Distinguished Graduate Student Doctoral Award, Texas A&M University (2017)
+John V. Breakwell Student Paper Award, AAS/AIAA Astrodynamics Specialist Conference (2015)
+Outstanding Achievement in Guidance, Navigation and Control, Student Paper Award, AAS Guidance, Navigation & Control Conference (2014)
+
+Recent Courses TaughtAE 402 - Orbital Mechanics
+AE 403 - Spacecraft Attitude Control
+AE 502 - Advanced Orbital Mechanics
+AE 508 - Optimal Space Trajectories
+

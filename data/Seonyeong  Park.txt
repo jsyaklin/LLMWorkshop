@@ -1,0 +1,81 @@
+
+
+
+Seonyeong Park 
+
+
+
+
+
+Research Assistant Professor
+
+
+
+sp33@illinois.edu
+3146H Everitt Laboratory
+
+
+Education
+Ph.D., Department of Electrical and Computer Engineering, Virginia Commonwealth University, 2017
+M.S., Department of Information and Communications Engineering, Pukyong National University, 2013
+B.S., Division of Electronics, Computer, and Telecommunication Engineering, Pukyong National University, 2011
+
+Academic Positions
+Research Assistant Professor, Department of Bioengineering, University of Illinois Urbana-Champaign, 01/2024-Present
+Research Scientist, Department of Bioengineering, University of Illinois Urbana-Champaign, 01/2023-12/2023
+Postdoctoral Research Associate, Department of Bioengineering, University of Illinois Urbana-Champaign, 03/2019-01/2023
+Postdoctoral Research Associate, Department of Biomedical Engineering, Washington University in St. Louis, 10/2017-03/2019
+
+Continuing Education
+BIOE 580: Foundations of Imaging Science
+
+Research Interests
+Learning-based image reconstruction
+Objective image quality assessment
+Computational modeling of biological tissues
+Computational imaging science
+Photoacoustic computed tomography
+
+
+Research Areas
+Biomedical imaging
+
+
+Selected Articles in Journals
+Seonyeong Park, Umberto Villa, Fu Li, Refik Mert Cam, Alexander A. Oraevsky, Mark A. Anastasio, "Stochastic three-dimensional numerical phantoms to enable computational studies in quantitative optoacoustic computed tomography of breast cancer," J. Biomed. Opt. 28(6) 066002 (20 June 2023) 
+Seonyeong Park, Frank J. Brooks, Umberto Villa, Richard Su, Mark A. Anastasio, Alexander A. Oraevsky, "Normalization of optical fluence distribution for three-dimensional functional optoacoustic tomography of the breast," J. Biomed. Opt. 27(3) 036001 (16 March 2022) 
+Fu Li, Umberto Villa, Seonyeong Park, and Mark A. Anastasio, "3-D Stochastic Numerical Breast Phantoms for Enabling Virtual Imaging Trials of Ultrasound Computed Tomography," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 69, no. 1, pp. 135-146, Jan. 2022, doi: 10.1109/TUFFC.2021.3112544.
+Yang Lou, Seonyeong Park, Fatima Anis, Richard Su, Alexander A. Oraevsky, and Mark A. Anastasio, "Analysis of the Use of Unmatched Backward Operators in Iterative Image Reconstruction With Application to Three-Dimensional Optoacoustic Tomography," in IEEE Transactions on Computational Imaging, vol. 5, no. 3, pp. 437-449, Sept. 2019, doi: 10.1109/TCI.2019.2895217.
+Seonyeong Park, H. Michael Gach, Siyong Kim, Suk Jin Lee, and Yuichi Motai, "Autoencoder-Inspired Convolutional Network-Based Super-Resolution Method in MRI," in IEEE Journal of Translational Engineering in Health and Medicine, vol. 9, pp. 1-13, 2021, Art no. 1800113, doi: 10.1109/JTEHM.2021.3076152.
+Seonyeong Park, Siyong Kim, Byongyong Yi, Geoffrey Hugo, H. Michael Gach, and Yuichi Motai, "A Novel Method of Cone Beam CT Projection Binning Based on Image Registration," in IEEE Transactions on Medical Imaging, vol. 36, no. 8, pp. 1733-1745, Aug. 2017, doi: 10.1109/TMI.2017.2690260.
+Seonyeong Park, Suk Jin Lee, Elisabeth Weiss, and Yuichi Motai, "Intra- and Inter-Fractional Variation Prediction of Lung Tumors Using Fuzzy Deep Learning," in IEEE Journal of Translational Engineering in Health and Medicine, vol. 4, pp. 1-12, 2016, Art no. 4300112, doi: 10.1109/JTEHM.2016.2516005.
+
+Articles in Conference Proceedings
+Refik Mert Cam, Seonyeong Park, Umberto Villa, Mark A. Anastasio, "Investigation of a learned image reconstruction method for three-dimensional quantitative photoacoustic tomography of the breast," Proc. SPIE 12842, Photons Plus Ultrasound: Imaging and Sensing 2024, 128420M (12 March 2024)
+Hsuan-Kai Huang, Joseph Kuo, Seonyeong Park, Umberto Villa, Lihong V. Wang, Mark A. Anastasio, "A learning-based image reconstruction method for skull-induced aberration compensation in transcranial photoacoustic computed tomography," Proc. SPIE 12842, Photons Plus Ultrasound: Imaging and Sensing 2024, 128420C (12 March 2024)
+Panpan Chen, Seonyeong Park, Refik Mert Cam, Hsuan-Kai Huang, Umberto Villa, Mark A. Anastasio, "Learning a semi-analytic reconstruction method for photoacoustic computed tomography with hemispherical measurement geometries," Proc. SPIE 12842, Photons Plus Ultrasound: Imaging and Sensing 2024, 128420U (12 March 2024)
+Seonyeong Park, Umberto Villa, Alexander Oraevsky, Mark Anastasio, "Numerical investigation of impact of skin phototype on three-dimensional optoacoustic tomography of the breast," Proc. SPIE PC12379, Photons Plus Ultrasound: Imaging and Sensing 2023, PC123790E (9 March 2023);  Best Paper Competition Finalist
+Refik Mert Cam, Chao Wang, Seonyeong Park, Weylan Thompson, Sergey A. Ermilov, Mark A. Anastasio, Umberto Villa, "Dynamic image reconstruction to monitor tumor vascular perfusion in small animals using 3D photoacoustic computed-tomography imagers with rotating gantries," Proc. SPIE 12379, Photons Plus Ultrasound: Imaging and Sensing 2023, 123790F (9 March 2023)
+Richard Su, Seonyeong Park, Umberto Villa, Mark A. Anastasio, Alexander Oraevsky, "Three-dimensional quantitative optoacoustic tomography for in vivo functional imaging of a live mouse," Proc. SPIE 11960, Photons Plus Ultrasound: Imaging and Sensing 2022, (3 March 2022); Seno
+Medical Best Paper Award
+Seonyeong Park, Umberto Villa, Frank J. Brooks, Richard Su, Alexander A. Oraevsky, Mark A. Anastasio, "Three-dimensional quantitative functional optoacoustic tomography to estimate vascular blood oxygenation of the breast," Proc. SPIE 11642, Photons Plus Ultrasound: Imaging and Sensing 2021, 116421N (6 March 2021)
+Chao Wang, Umberto Villa, Weylan Thompson, Seonyeong Park, Sergey A. Ermilov, Mark A. Anastasio, "Dynamic reconstruction of three-dimensional photoacoustic tomography from few projections," Proc. SPIE 11642, Photons Plus Ultrasound: Imaging and Sensing 2021, 116421A (6 March 2021)
+Seonyeong Park, Umberto Villa, Richard Su, Alexander Oraevsky, Frank J. Brooks, Mark A. Anastasio, "Realistic three-dimensional optoacoustic tomography imaging trials using the VICTRE breast phantom of FDA (Conference Presentation)," Proc. SPIE 11240, Photons Plus Ultrasound: Imaging and Sensing 2020, 112401H (6 March 2020)
+Fu Li, Umberto Villa, Seonyeong Park, Shenghua He, Mark A. Anastasio, "A framework for ultrasound computed tomography virtual imaging trials that employs anatomically realistic numerical breast phantoms," Proc. SPIE 11602, Medical Imaging 2021: Ultrasonic Imaging and Tomography, 116020V (15 February 2021)
+Seonyeong Park, Alexander A. Oraevsky, Richard Su, Mark A. Anastasio, "Compensation for non-uniform illumination and optical fluence attenuation in three-dimensional optoacoustic tomography of the breast," Proc. SPIE 10878, Photons Plus Ultrasound: Imaging and Sensing 2019, 108784X (8 March 2019)
+
+Conferences Organized or Chaired
+Session Chair, Machine Learning: Developments and Applications, Photons Plus Ultrasound: Imaging and Sensing 2023, SPIE Photonics West, San Francisco, CA, 2023
+Session Co-Chair, Phantoms and Standardization Activities, Photons Plus Ultrasound: Imaging and Sensing 2020, SPIE Photonics West, San Francisco, CA, 2020
+
+Other Scholarly Activities
+ASA Press Conference hosted by the American Institute of Physics, "Virtual imaging trials to investigate impact of skin color on three-dimensional optoacoustic tomography of the breast," Chicago, IL, May 9, 2023 (Press Release: EurekAlert! https://www.eurekalert.org/news-releases/988020; Medical Xpress https://medicalxpress.com/news/2023-05-racial-bias-next-gen-breast-cancer.html)
+
+Honors
+2022 Innovator Award, Association for Women in Science--Chicago area chapter (AWIS-CAC) (12/2022)
+
+Research Honors
+Seno Medical Best Paper Award, SPIE Photonics West, Photons Plus Ultrasound: Imaging and Sensing 2022 (01/2022)
+
+Recent Courses TaughtBIOE 580 - Foundations of Imaging Science
+

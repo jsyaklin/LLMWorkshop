@@ -1,0 +1,48 @@
+
+
+
+Tom Golecki 
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+tfg@illinois.edu
+ 
+
+
+Education
+Ph.D. in Civil Engineering, Structural Concentration, University of Illinois Urbana-Champaign, 2023
+
+M.S. in Civil Engineering, Structural Concentration, Drexel University, 2008
+
+B.S. in Civil Engineering, B.S. in Architectural Engineering, Drexel University, 2008
+
+
+Professional Registrations
+PE - California (2018 - Present)
+SE - Illinois (2013 - Present)
+
+
+
+
+Selected Articles in Journals
+M. Yarnold, T. Golecki, J. Weidner, Identification of Composite Action through Truck Load Testing. Frontiers in Built Environment – Bridge Engineering (2018).
+T. Golecki, M. Yarnold, J. Weidner, Pinned-end moments in simple span multi-girder bridges. Engineering Structures (2021). 
+T. Golecki, F. Gómez, J. Carrion, B.F. Spencer, Continuous Random Field Representation of Stochastic Moving Loads. Probabilistic Engineering Mechanics (2022). 
+S. Wang, C. Rodgers, T. Fillmore, B. Welsh, T. Golecki, S. A. V. Shajihan, B. Eick, B. F. Spencer, Vision-Based Model Updating and Evaluation of Miter Gates on Inland Waterways. Engineering Structures (2023). 
+T. Golecki, F. Gómez, J. Carrion, B. F. Spencer, Bridge Topology Optimization Considering Stochastic Moving Traffic. Engineering Structures (2023). 
+N. Levine, T. Golecki, F. Gómez, B. Eick, B. F. Spencer, Bayesian model updating of concrete-embedded miter gate anchorages and implications for design. Structural and Multidisciplinary Optimization  (2023).
+S. Pozo, T. Golecki, F. Gómez, J. Carrion, B.F. Spencer, Minimum-thickness method for 2.5D topology optimization applied to structural design. Engineering Structures (2023).
+T. Golecki, F. Gómez, J. Carrion, B. F. Spencer, Topology optimization of high-speed rail bridges considering passenger comfort.  Structural and Multidisciplinary Optimization  (2023). 
+S. Pozo, F. Gómez, T. Golecki, J. Carrion, B.F. Spencer, TopSTO: a 115-line code for topology optimization of structures under stationary stochastic dynamic loading.  Earthquake Engineering and Engineering Vibration (2023). 
+
+Recent Courses TaughtME 270 (TAM 270) - Design for Manufacturability
+ME 340 - Dynamics of Mechanical Systems
+TAM 212 - Introductory Dynamics
+TAM 251 - Introductory Solid Mechanics
+

@@ -1,0 +1,68 @@
+
+
+
+Martin D F Wong 
+
+
+
+
+
+Edward C. Jordan Emeritus Professor
+Executive Associate Dean, College of EngineeringEdward C. Jordan Professor of Electrical and Computer Engineering
+
+
+
+mdfwong@illinois.edu
+ 
+
+
+Education
+Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, January 1987
+
+Research Interests
+Combinatorial optimization
+Design and analysis of algorithms
+Field-programmable systems
+Design for Manufacturing
+CAD for VLSI Electronic Packaging
+Computer-aided design of VLSI
+
+
+Research Areas
+Algorithms and computational complexity
+Architecture, Compilers, and Parallel Computing
+Circuits
+Computer aided design of integrated circuits
+Logic design and VLSI
+
+
+Research Honors
+Canadian National Descartes Mathematics Competition, 1st Place (Toronto) and 4th Place (National), 1975.
+Hans Heillbronn Prize in Pure Mathematics, University of Toronto, 1978.
+Undergraduate Scholarships: i) William Hossack Memorial Scholarship, ii) Samuel Beatty Scholarship, and iii) Burton Scholarship, University of Toronto, 1977-1979.
+University Fellowship, University of Illinois at Urbana-Champaign, 1979-1980 and 1981-1982.
+Best Paper Award, 23rd ACM/IEEE Design Automation Conference (DAC), 1986.
+Best Paper Award Nomination - ACM/IEEE Design Automation Conference (DAC), 1990.
+IBM Faculty Development Award, 1989-1991.
+National Science Foundation Research Initiation Award, 1989-1992.
+ACM/IEEE Design Automation Fellowship, 1991 and 1994.
+Best Paper Award, IEEE International Conference on Computer Design 
+(ICCD), 1995.
+Best Paper Award Nomination - IEEE Transactions on Computer-Aided Design (TCAD), 1998.
+Endowed Faculty Fellow in Computer Sciences, University of Texas at Austin, 1990-1999.
+Best Paper Award Nomination - IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 1999.
+ACM Recognition of Service Award, 1999.
+Best Paper Award Nomination - IEEE Transactions on Computer-Aided Design (TCAD), 1999.
+IBM Faculty Partnership Award, 2000.
+2000 CAD Transactions Best Paper Award. (Given to the best paper chosen from all papers published in IEEE Transactions on Computer-Aided Design in 1998 and 1999.)(This has been renamed as the Donald O. Peterson Best Paper Award.), 2000.
+Best Paper Award Nomination - IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2001.
+David Bruton Centennial Professorship in Computer Sciences, University of Texas at Austin, 2001-2002.
+Best-of-20-Years ICCAD Paper. (Our ICCAD-94 paper on circuit partitioning was among one of the 42 papers, out of all ICCAD papers in 1983-2002, chosen to be included in the book, The Best of ICCAD - - 20 Years of Excellence in Computer Aided Design, published by ICCAD in its 20th anniversary in 2002.), 2002.
+Best Paper Award Nomination, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2004.
+IBM Faculty Award, 2004.
+Best Paper Award Nomination, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2005.
+Best Paper Award Nomination, IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2005.
+IEEE Distinguished Lecturer, Circuits and Systems Society, 2005-2006.
+Best Paper Award Nomination, IEEE International Symposium on Quality Electronic Design (ISQED), 2008.
+Fellow, IEEE
+

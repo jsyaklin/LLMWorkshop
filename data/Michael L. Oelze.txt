@@ -1,0 +1,109 @@
+
+
+
+Michael L Oelze 
+
+
+
+
+
+Professor
+
+
+(217) 333-9226
+oelze@illinois.edu
+4251 Beckman Institute
+
+
+For More Information
+Oelze - Ultrasound Research Laboratories
+Bioacoustics Research Laboratory Page
+
+Education
+PhD in Physics, University of Mississippi, 2000
+
+Teaching StatementProfessor Oelze is interested in teaching wave propagation, acoustics, ultrasonic imaging, electromagnetics, biomedical imaging and mentoring students in research activities.
+Research StatementProfessor Oelze has three thrusts of his research all based on ultrasound: Imaging, therapy, and devices. For imaging, Prof. Oelze is using quantitative ultrasound techniques with applications in breast cancer and identifying the response of patients to neoadjuvant chemotherapy. He is working with clinical and industry partners to develop these technologies. Prof. Oelze has developed nonlinear beam formation strategies, called null subtraction imaging (NSI), which allows the creation of B-mode images for larger pitch arrays without grating lobes. NSI also can provide super resolution imaging. Prof. Oelze has applied these super resolution imaging techniques to imaging the microvasculature with or without contrast agents. Prof. Oelze has developed beam visualization techniques to observe the therapy beam for focused ultrasound applications in real time. Prof. Oelze is working with collaborators from across campus to develop mechanophores that are activated by ultrasound and capable of producing therapeutic effects at depth. Prof. Oelze is working on small implantable devices that are powered by and controlled by ultrasound imaging. He has developed techniques that can stream high definition (4k) video through tissues.     
+Undergraduate Research OpportunitiesSeveral projects are available for undergraduate research including the use of coding schemes to enhance ultrasonic imaging capabilities, devising improved measurement and calibration techniques for ultrasonic imaging, and quantifying materials using ultrasound. Students involved in these research opportunities will learn to characterize and calibrate ultrasonic sources, process data, and develop important laboratory skills.
+Research Interests
+Acoustic Communications
+Ultrasound therapy
+Coded Excitation and Ultrasound
+Ultrasound Computed Tomography
+Bioeffects of ultrasound
+Treatment monitoring using ultrasound
+Cancer diagnosis using ultrasound
+Quantitative ultrasound imaging
+Ultrasound backscatter microscopy
+
+
+Research Areas
+Acoustics
+Biomedical imaging
+Biomedical Imaging, Bioengineering, and Acoustics
+
+
+Research Topics
+Bioimaging at Multi-Scale
+Healthcare and medical technologies
+Imaging science and systems
+Machine learning
+Medical imaging
+Point-of-care diagnostics
+Sensing systems
+
+Honors
+2024 UFFC Editorial Excellence Award
+2024 UFFC Multidisciplinary Trailblazer Award for the paper,  “Video-Capable Ultrasonic Wireless Communications Through Biological Tissues. Gizem Tabak, Sijung Yang, Rita J. Miller, Michael L. Oelze, and Andrew C. Singer  vol. 68, no. 3, pp. 664-674, Mar. 2021.
+Fellow, Acoustical Society of America, Fall 2023
+Invited participant, 2014 Japan-America Frontiers of Engineering Symposium (JAFOE), Sponsored by the NAE and Japan Science and Technology Agency, Tokyo, Japan, 2014
+Senior member, IEEE and IEEE Ultrasonics, Ferroelectronics, and Frequency Control
+Fellow, American Institute of Ultrasound in Medicine
+Fulbright Scholar, 2012-2013
+HP Travel Award, 2012-2013
+3M Nontenured faculty award, 2006, 2007 and 2008
+F32 NIH Individual Postdoctoral Fellowship, 2002-2004
+National Dean's list, 1999-2000
+Physics Graduate Student of the Year, 1998-1999
+Phi Kappa Phi, 1998
+Alpha Chi, 1993
+
+Teaching Honors
+Teacher Ranked as Excellent by Students, Fall 2021
+Teacher Ranked as Excellent by Students, Spring 2018
+Teacher Ranked as Excellent by Students, Spring 2017 (445 and 545)
+Teacher Ranked as Excellent by Students, Fall 2016
+Teacher Ranked as Excellent by Students, Spring 2016
+Teacher Ranked as Excellent by Students,  Spring 2015
+Teacher Ranked as Excellent by Students,  Fall 2014
+Teacher Ranked as Excellent by Students,  Spring 2014
+Teacher Ranked as Excellent by Students,  Fall 2013
+Teacher Ranked as Excellent by Students, Spring 2012 (for both ECE 472 and ECE 473)
+Teacher Ranked as Excellent by Students, Spring 2011 (Listed as Outstanding)
+Teacher Ranked as Excellent by Students, Spring 2010
+Teacher Ranked as Excellent by Students, Spring 2008
+Teacher Ranked as Excellent by Students,  Fall 2006
+
+Research Honors
+2nd Place Student Paper Competition, 153rd meeting of ASA (2007)
+
+Public Service Honors
+Associate Editor, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 2022 - present
+Associate Editor-in-Chief, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 2018-2021
+Member TPC, IEEE Ultrasonics, 2013-present
+Member, Biomedical Acoustics Technical Area, Acoustical Society of America
+Officer, Basic Science and Instrumentation Community of Practice, AIUM, 2013-
+Technical Program Committee, IEEE Ultrasonics Symposium, 2013-
+Associate Editor, Ultrasonic Imaging, 2013-
+Associate Editor, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 2013-2018
+Associate Editor, IEEE Transactions on Biomedical Engineering, 2012-
+Member, Advisory Editorial Board, Ultrasound in Medicine and Biology, 2008-2016
+
+Recent Courses TaughtBSE 685 - Capstone Proj. (Longitudinal)
+CLE 685 - Anesthesiology Sub-Internship
+ECE 445 - Senior Design Project Lab
+ECE 473 (TAM 413) - Fund of Engrg Acoustics
+ECE 590 BRL - Bioacoustics
+ECE 590 D - Bioaccoustics
+ECE 590 D - Biomedical Ultra Sound
+

@@ -1,0 +1,59 @@
+
+
+
+Jeffrey P Filippini he/him/his
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-4820
+jpf@illinois.edu
+405 Loomis Laboratory
+
+
+For More Information
+Filippini group web site
+
+Education
+Ph.D. Physics, University of California, Berkeley, 2008
+M.A. Physics, University of California, Berkeley, 2004
+A.B. Chemistry and Physics summa cum laude, Harvard University, 2002
+
+BiographyProfessor Filippini earned his bachelor's degree in Chemistry and Physics from Harvard in 2002 and his Ph.D. in Physics from Berkeley in 2008.  His doctoral work focused on the search for dark matter interactions in subterranean detectors.  As a postdoctoral researcher at Caltech he developed balloon-borne and terrestrial instruments to measure the polarization of the cosmic microwave background radiation.  He joined the faculty of the University of Illinois in December 2014.
+Research StatementMy research interests lie at the intersection between the universe's workings on its largest and smallest scales.  We can now recount the life story of our cosmos in remarkable detail, yet our data reveal a humbling degree of ignorance about its workings. Our universe appears to be filled with forms of matter and energy unlike anything on Earth, and many key aspects of cosmic evolution remain to be understood.  Solving these mysteries will demand new fundamental physics, and measurements at the "cosmic frontier" are poised to play a central role.
+My work to date has employed novel sub-Kelvin detector systems to address two mysteries of our cosmos: What is the nature of the dark matter that governs the dynamics of large-scale structure? What spurred the inflationary epoch that begins our narrative of cosmological history? This work bridges several sub-disciplines of physics and astrophysics, linking the grand questions of fundamental physics with the quantum phenomena that enable the most sensitive measurements. I am also broadly interested in new technologies and analysis techniques to address fundamental physics.
+Cosmic Microwave Background: Observations of the cosmic microwave background (CMB) have transformed our understanding of the universe.  The next frontier of this endeavor is the measurement of the faint polarization of this primordial radiation field.  A "B-mode" (curl) pattern in the CMB's polarization at degree angular scales is a unique prediction of inflationary models of the universe's early moments, and a possible a window onto energies far beyond those accessible at accelerators.  I collaborate on several millimeter-wave polarimeters that employ large-scale bolometer arrays to search for this signature in the millimeter-wave sky.   I lead the receiver team for SPIDER, which carried this technology on a long-duration balloon flight 36 km above the Antarctic ice in January 2015, and is currently awaiting its second science flight. The BICEP/Keck Array program  has deployed a series of ever-more-sensitive instruments to the South Pole, and currently sets world-leading constraints on B-mode polarization at degree angular scales. I am also a member of the CMB-S4 collaboration, which will deploy a world-spanning ground-based CMB program of transformative sensitivity. 
+Terahertz Spectroscopy: The far-infrared (FIR) is home to a host of atomic and molecular spectral lines that trace the composition and life cycle of stars and the interstellar medium. Our group collaborates on the Terahertz Intensity Mapper (TIM), an ambitious Antarctic balloon mission to study the history of star formation near its peak at "cosmic noon" (z=0.52-1.67) through three-dimensional mapping of the fine-structure emission line of ionized carbon. Our group is also engaged in technology development for future THz space missions, notably a novel on-chip spectrometer architecture for the Origins Space Telescope mission concept.
+The Search for Dark Matter: The discovery that the universe is not made of the same stuff that we are must rank as one of the most profound of the 20th century; understanding the nature and phenomenology of this dark universe remains a compelling challenge for the 21st. There is now a wealth of evidence that the bulk of the mass that drives cosmic structure formation is in some exotic form, not to be found in the highly successful Standard Model of particle physics. If this "dark matter" possesses some non-gravitational interaction, a particle from the Milky Way's halo may occasionally scatter from an atomic nucleus in an experimental apparatus. Such scattering events may be detectable in the laboratory with a sufficiently massive and sensitive particle detector, if the rates of cosmogenic and radiogenic background events can be kept low enough.  My Ph.D. work was carried out as part of the Cryogenic Dark Matter Search (CDMS) collaboration, and I have recently collaborated on explorations of dark matter detection prospects with superfluid helium and materials with novel electronic structures.
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+High Energy Physics (experimental)
+
+
+Selected Articles in Journals
+SPIDER Collaboration (incl. J.P. Filippini, B. Osherson, E.C. Shaw), "Analysis of Polarized Dust Emission Using Data from the First Flight of SPIDER", Astrophys. J. 978, 130 (2025); arXiv: 2407.20982
+P.A.R. Ade et al., "A Constraint on Primordial B-Modes from the First Flight of the SPIDER Balloon-Borne Telescope", Astrophys. J. 927, 174 (2022)
+R. Nie, et al. "Absorber Design and Optimization of Kinetic Inductance Detectors for the Terahertz Intensity Mapper", J. Low Temp. Phys. 209, 525–533 (2022)
+P.A.R. Ade et al., “BICEP / Keck XIII: Improved Constraints on Primordial Gravitational Waves using Planck, WMAP, and BICEP / Keck Observations through the 2018 Observing Season”, Phys. Rev. Lett. 127, 151301 (2021)
+G. Baym, D.H. Beck, J.P. Filippini, C.J. Pethick, J. Shelton, "Searching for Low Mass Dark Matter by Detecting Phonons in Superfluid Helium", Phys. Rev. D 102, 035014 (2020)
+P.A.R. Ade et al. (BICEP2, Keck Array, and Planck Collaborations), "A Joint Analysis of BICEP2/Keck Array and Planck data", Phys. Rev. Lett. 114, 101301 (2015)
+Z. Ahmed et al. (CDMS II Collaboration), "Dark Matter Search Results from the CDMS II Experiment", Science 327, p. 1619 (2010)
+
+Articles in Conference Proceedings
+E.C. Shaw et al., "Design and pre-flight performance of SPIDER 280 GHz receivers", Proc. SPIE 11453, 114532F (13 December 2020), arXiv:2012.12407
+
+Refereed Conference Papers and Presentations
+R. Nie, J. Filippini, ... V. Razavimaleki, et al., "A Vacuum Waveguide Filter Bank Spectrometer for Far-Infrared Astrophysics", J. Low Temp. Phys. 216, 408-416 (2024).
+B. Osherson et al., "Particle response to antenna-coupled TES arrays: results from SPIDER and the laboratory", 18th Intl. Workshop on Low Temperature Detectors (LTD18), Milano, Italy, July 22-26, 2019, J. Low Temp. Phys. 199, 1127-1136 (2020).
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 401 - Classical Physics Lab
+PHYS 485 - Atomic Phys & Quantum Theory
+

@@ -1,0 +1,77 @@
+
+
+
+Virginia Lorenz 
+
+
+
+
+
+Professor
+
+
+(217) 300-3306
+vlorenz@illinois.edu
+337A Loomis Laboratory
+
+
+For More Information
+Lorenz research group website
+
+BiographyProfessor Virginia (Gina) Lorenz received her B.A. in physics magna cum laude and mathematics in 2001 and completed her Ph.D. in physics in 2007 at the University of Colorado at Boulder. Her thesis work focused on measuring and modelling the transition from reversible to irreversible dephasing of electronic coherence in dense atomic vapors. From 2007-2009 she was a postdoctoral researcher in the Department of Atomic and Laser Physics at the University of Oxford, where she worked on implementations of quantum memories in atomic and solid-state systems. From 2009-2014, she was an assistant professor in the Department of Physics and Astronomy at the University of Delaware. She joined the Department of Physics at the University of Illinois at Urbana-Champaign in 2015, where her research group performs experiments in quantum optics, atomic and molecular spectroscopy, and optical magnetometry. In 2023 her research group, in collaboration with the group of Paul Kwiat and university and community partners, launched  the first publicly accessible quantum network.
+Research StatementProfessor Lorenz's research group currently focuses on a variety of areas in quantum optics: quantum networks, quantum memories, photonic quantum sources, quantum sensing. 
+
+Public Quantum Network
+
+On November 4, 2023, in collaboration with other research teams and university and community partners, we launched the first publicly accessible quantum network. There is now a permanent installation at The Urbana Free Library where the public can interact for themselves with quantum technology, to both learn the principles on which such technology is based and contribute to its formation. See the Public Quantum Network website for more information.
+
+Photonic quantum state characterization and engineering 
+
+The ability to create and control quantum states of light is important  for quantum computation and quantum communication applications. We are exploring the use of standard, commercially available  polarization-maintaining fiber (PMF) as a simple source of photon-pairs.  PMF is an efficient generator of photon pairs and its large  birefringence yields a 60 THz detuning of the photon' phase-matched  wavelengths from the pump, thus almost eliminating contamination due to  photons produced from Raman scattering, which is an issue in other types  of fiber sources. The joint spectral properties of the photon pair can  be tailored by an appropriate choice of pump bandwidth and fiber length. We develop new characterization methods as well as sources entangled in new degrees of freedom in optical fiber.
+
+Generation, storage and retrieval of THz bandwidth quantum states 
+
+An essential capability for quantum computation and quantum  communication is the synchronization of multiple sub-device elements,  which requires a so-called quantum memory to store and retrieve  information carried by photons. We are applying an off-resonance Raman  protocol in atomic barium vapor to store and retrieve THz bandwidth  quantum states. The broad bandwidth of the involved fields permits the  characterization and optimization of storage and retrieval using  spectral shaping, and enables us to study the spectral properties of  nonclassical correlations between the photons and the excitations in the  atomic ensemble. Barium has a strong transition at the fortuitous  wavelength of 1500 nm, meaning it can store telecom wavelength photons  directly.
+
+Quantum sensing of astronomical objects
+
+
+We study quantum information theory to better understand and predict the limitations of imaging techniques in a wide range of applications. We are exploring the potential for quantum advantage in the field of interferometric astronomy, including both quantum estimation theory approaches and table-top experiments.
+
+Research Areas
+Atomic, Molecular, and Optical Physics
+Condensed Matter Physics (experimental)
+Quantum Information Science
+
+
+Selected Articles in Journals
+Kai Shinbrough, Donny R. Pearson Jr., Bin Fang, Elizabeth A. Goldschmidt, and Virginia O. Lorenz, "Broadband quantum memory in atomic ensembles,"  Advances in atomic molecular and optical physics 72, 297-360 (2023).
+K. Shinbrough, B.D. Hunt, V.O. Lorenz, "Optimization of broadband Λ-type quantum memory using Gaussian pulses," Phys. Rev. A 103, 062418 (2021).
+J. Wu, M.H. Karigerasi, D.P. Shoemaker, V.O. Lorenz, and D.G. Cahill, "Temperature Dependence of the Anisotropic Magnetoresistance of the Metallic Antiferromagnet Fe2As," Phys. Rev. Appl. 15, 054038 (2021).
+
+Y. Zhang, R.A. Bravo, V.O. Lorenz, and E. Chitambar, "Channel Activation of CHSH Nonlocality," New J. Physics 22, 043003 (2020).
+K. Shinbrough, Y. Teng, B. Fang, V.O. Lorenz, and O.Cohen, "Photon-Matter Quantum Correlations in Spontaneous Raman Scattering," Phys. Rev. A 101, 013415 (2020).
+B. Fang, M. Menotti, M. Liscidini, J. E. Sipe and V. O. Lorenz, "Three-photon discrete-energy-entangled W state in optical fiber," Phys. Rev. Lett. 123, 070508 (2019).
+W. Wang, T. Wang, V. P. Amin, Y. Wang, A. Radhakrishnan, A. Davidson, S. R. Allen, T. J. Silva, H. Ohldag, D. Balzar, B. L. Zink, P. M. Haney, J. Q. Xiao, D. G. Cahill, V. O. Lorenz and X. Fan, "Anomalous spinâ€“orbit torques in magnetic single-layer films," Nat. Nanotechnol. 14, 819-821 (2019).
+Y. Zhang, R. Spiniolas, K. Shinbrough, B. Fang, O. Cohen, and V. O. Lorenz, "Dual-pump approach to photon-pair generation: demonstration of enhanced characterization and engineering capabilities," Opt. Express 27, 19050-19061 (2019).
+B. Fang, M. Liscidini, J. E. Sipe, and V. O. Lorenz, "Multidimensional characterization of an entangled photon-pair source via stimulated emission tomography," Opt. Express 24, 10013-10019 (2016).
+B. Fang, O. Cohen, M. Liscidini, J. E. Sipe, and V. O. Lorenz, "Fast and highly resolved capture of the joint spectral density of photon pairs," Optica 1, 281-4 (2014).
+X. Fan, H. Celik, J. Wu, C. Ni, K.-J. Lee, V. O. Lorenz, J. Q. Xiao, "Quantifying interface
+and bulk contributions to spin-orbit torque in magnetic bilayers," Nature Communications
+5, 3042 (2014).
+B. Fang, O. Cohen, J. B. Moreno, and V. O. Lorenz, "State engineering of photon pairs
+produced through dual-pump spontaneous four-wave mixing," Opt. Express 21, 2707-2717
+(2013).
+K. F. Reim, J. Nunn, V. O. Lorenz, B. J. Sussman, K. C. Lee, N. K. Langford, D. Jaksch
+and I. A.Walmsley, "Towards high-speed optical quantum memories," Nature Photonics 4,
+218-221 (2010).
+V. O. Lorenz, S. Mukamel, W. Zhuang and S. T. Cundiff, "Ultrafast Optical Spectroscopy
+of Spectral Fluctuations in a Dense Atomic Vapor," Phys. Rev. Lett. 100, 013603 (2008).
+V. O. Lorenz and S. T. Cundiff, "Non-Markovian Dynamics in a Dense Potassium Vapor,"
+Phys. Rev. Lett. 95, 163601 (2005).
+
+Research Honors
+Dean's Award for Excellence in Research (2020)
+
+Recent Courses TaughtPHYS 403 - Modern Experimental Physics
+

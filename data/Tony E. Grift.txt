@@ -1,0 +1,211 @@
+
+
+
+Tony E Grift 
+
+
+
+
+
+Professor
+
+
+(217) 333-2854
+grift@illinois.edu
+360 J Agricultural Engr Sciences Bld
+
+
+Education
+Ph.D., Engineering, University of Arkansas, 1998
+M.S., Systems and Control in Agricultural Engineering, Wageningen Agricultural University, The Netherlands, 1992
+B.S., Industrial Automation. Utrecht Polytechnic, The Netherlands, 1987
+
+Academic Positions
+Professor, Aug 2019, Department of Agricultural and Biological Engineering, University of Illinois Urbana-Champaign
+Associate Professor, Aug 2008 - Aug 2019, Department of Agricultural and Biological Engineering, University of Illinois Urbana-Champaign
+Assistant Professor, Aug 2002 - Aug 2008, Department of Agricultural and Biological Engineering, University of Illinois
+Assistant Professor, Aug 1998 - Aug 2002, Department of Biosystems Engineering, Auburn University
+Graduate Research Assistant, 1995-1998, Department of Biological and Agricultural Engineering, University of Arkansas
+Research Engineer, 1993-1995, Department of Agricultural Engineering & Physics, Wageningen Agricultural University, The Netherlands
+System Engineer, 1992-1993, Vertis Information Technology, Veendam, The Netherlands
+First Lieutenant Instructor, 1987-1989, Royal Netherlands Airforce
+
+Research Interests
+Advanced machinery for biosystems applications
+Agricultural Robotics
+Biosystems Automation
+Engineering Solutions for Biomass Feedstock Production
+
+
+
+Chapters in Books
+Transportation Grift, T. E., Miao, Z., Hansen, A. C. & Ting, K. C. Oct 1 2013 Engineering and Science of Biomass Feedstock Production and Provision. Springer New York, p. 141-164 24 p.
+Lignocellulosic biomass feedstock supply logistics and system integration Miao, Z., Shastri, Y., Grift, T. E. & Ting, K. C. 2013 Biomass Processing, Conversion and Biorefinery. Nova Science Publishers, Inc., p. 37-60 24 p.
+
+Selected Articles in Journals
+Pereira, G.W, D.S.M. Valente, D.M. de Queiroz, A.L. de Freitas Coelho, M. Marques Costa and T.E. Grift. 2022. Smart-Map: An Open-Source QGIS Plugin for Digital Mapping Using Machine Learning Techniques and Ordinary Kriging.
+Agronomy 2022, 12, 1350. https://doi.org/10.3390/agronomy12061350
+Williams, M.M., N.E. Hausman, D.S. Dhaliwal, T.E. Grift, M.O. Bohn. 2021. Economic optimum plant density of sweet corn does not increase root lodging incidence.
+Crop Science.
+Sarker. A., A. Deltsidis, R. Shaheb, and T.E. Grift. 2021. Effect of Aloe vera gel-glycerol edible coating on the shelf life and the kinetics of colour change of minimally processed cucumber during storage.
+International Journal of Postharvest Technology and Innovation (2021). DOI: 10.1504/IJPTI.2021.116079
+Sarker. A., Deltsidis, A., and T.E. Grift. 2021. Effect of Aloe vera gel-carboxymethyl cellulose composite coating on the degradation kinetics of cucumber.
+Journal of Biosystems Engineering.
+Sarker. A., and T.E. Grift. 2021. Bioactive properties and potential applications of Aloe vera gel edible coating on fresh and minimally processed fruits and vegetables: a review.
+Journal of Food Measurement and Characterization.
+Valente, S., M.A. Momin, T.E. Grift, and A.C. Hansen. 2019. Accuracy and precision evaluation of two low-cost RTK Global Navigation Satellite Systems.
+Computers and Electronics in Agriculture 168 (2020) 105142.
+Miao, Z., S. Bauer, A.B. Ibanez, and T.E. Grift. 2019. Measuring the influence of biomass preprocessing methods on the bioconversion efficiency of miscanthus giganteus and sugarcane bagasse.
+Bioresource Technology Reports 8 (2019) 100301.
+Shamshiri,R.R., I.A. Hameed, L. Pitonakova, C. Weltzien, S.K. Balasundram, I. J. Yule, T.E. Grift , and G. Chowdhary. Simulation software and virtual environments for acceleration of agricultural robotics: Features highlights and performance comparison. International Journal of Agricultural and Biological Engineering 11(4): 15-31.
+Gan, H., S. Mathanker, M.A. Momin, B. Kuhns, N. Stoffel, A.C. Hansen, and T.E. Grift. 2018. Effects of three cutting blade designs on energy consumption during mowing conditioning of Miscanthus Giganteus. Biomass and Bioenergy 109:166-171.
+Momin, M.A. T.E. Grift, S. Valente, and A.C. Hansen. 2018. Sugarcane yield mapping based on vehicle tracking. Precision Agriculture. In print.
+Grift, T.E., M.A. Momin, Y. Zhang, and M.O. Bohn. 2017. Semi-automated, machine vision based maize kernel counting on the ear. Biosystems Engineering 164:171-180.
+Momin, M.A., P.A. Wempe, T.E. Grift, A.C. Hansen. 2017. Effects of four base cutter blade designs on sugarcane stem cut quality Transactions of the ASABE 60(5): 1551-1560.
+Abdul, M, K. Yamamoto, M. Miyamoto, N. Kondo, T.E. Grift. 2017. Machine vision based soybean quality evaluation. Computers and Electronics in Agriculture 140:452-460.
+Momin, M.A., M. T. Rahman, M. S. Sultana, C. Igathinathane, A.T.M. Ziauddin, T.E. Grift. 2017. Geometry-based mass grading of mango fruits using image processing. Information processing in agriculture 4:150-160.
+Tan, Y., Z. Miao, M.A. Momin, T.E. Grift, K.C. Ting. 2017. Electrical capacitance as a proxy measurement of miscanthus bulk density, and the influence of moisture content and particle size. Computers and Electronics in Agriculture 134:102-108.
+Zheng, C., J. Liu, T.E. Grift M. Yin, Z. Zhang, T. Sheng, J. Zhou, Y. Ma and M. Yin. 2015. Design and analysis of a wheel-legged hybrid locomotion mechanism. Advances in Mechanical Engineering 7(11): 1-10. DOI: 10.1177/1687814015616908
+Hauck, A.L., J. Novais, T.E. Grift, and M.O. Bohn, 2015. Characterization of Maize (Zea mays L.) Root system architecture and complexity in a diverse set of ex-PVP inbreds and hybrids. SpringerPlus, 4:424, DOI: 10.1186/s40064-015-1187-0
+Mathanker, S., T.E. Grift, A.C. Hansen. 2015. Effect of blade oblique angle and cutting speed on cutting energy for energycane stems. Biosystems Engineering 133, 64-70.
+Lin, T., Rodriguez, L., Davis, S., Khanna, M., Shastri, Y., T.E. Grift, K.C. Ting, 2015. Biomass feedstock preprocessing and long-distance transportation logistics. GCB Bioenergy (2015), doi: 10.1111/gcbb.12241
+Chiu, Y.C., X.L. Chou, T.E. Grift, M.T. Chen, 2015. Automated detection of mechanically induced bruise areas in Golden Delicious apples using fluorescence imagery. Transactions of the ASABE 58, 215-225.
+Miao, Z., T.E. Grift, A.C. Hansen, and K.C. Ting. 2014. Flow performance of ground biomass in a commercial auger. Powder Technology 267, 354-361
+Y. Chiu, P. Yang, and T.E. Grift. 2014. A wireless communication system for automated greenhouse operations. Engineering in Agriculture, Environment and Food 7(2): 78-85, DOI: 10.1016/j.eaef.2014.02.003
+Miao, Z. T.E. Grift, J.W. Phillips, and S.K. Mathanker. 2014. Measurement of mechanical compressive properties and densification energy requirement of Miscanthus x Giganteus and switchgrass. Bioenergy Research. DOI: 10.1007/s12155-014-9495-8
+Maughan, J.D., S.K. Mathanker, T.E. Grift, A.C. Hansen, and K.C. Ting. 2014. Impact of blade angle on harvesting energy requirement. Transactions of the ASABE 57(4): 999-1006. DOI: 10.13031/trans.57.10373
+Miao, Z., T.E. Grift, and K.C. Ting. 2014. Size reduction and densification of lignocellulosic biomass for biopower, bioproducts and liquid biofuel production. Encyclopedia of Agricultural, Food and Biological Engineering (Second edition), DOI: 10.1081/E-EAFE2-120051298.
+Shastri , Y.N., Z. Miao, L.F. Rodriguez, T.E. Grift, A.C. Hansen, and K.C. Ting. 2014. Determining optimal size reduction and densification for biomass feedstock using the BioFeed optimization model. Biofuels, Bioproducts & Biorefining. 8:423–437. DOI: 10.1002/bbb
+
+Mathanker, S.K., J.D. Maughan, A.C. Hansen, T.E. Grift, and K.C. Ting. 2014. Sensing miscanthus swath volume for maximizing baler throughput rate. Transactions of the ASABE 57(2):355-362. DOI 10.13031/trans.57.10167
+Mathanker, S.K., A.C. Hansen, T.E. Grift, and K.C. Ting. 2014. Sensing miscanthus stem bending force for maximizing throughput rate in a disk mower-conditioner. Transactions of the ASABE 57(1):5-12. DOI 10.13031/trans.57.10121
+Grift, T.E., Z. Miao, A.C. Hansen, and K.C. Ting. Transportation of Bioenergy Feedstock. Chapter in monograph titled Engineering and science of biomass feedstock production and provision, Shastri, Y., Hansen, A., Rodriguez, L., Ting, K.C. (Eds.) Springer, 2014.
+
+Miao, Z., Y.N. Shastri, T.E. Grift, and KC Ting. 2013. Lignocellulosic biomass feedstock supply logistics and system integration. p: 37-60 (Chapter 2). In: B. Zhang, and Y. Wang (eds). Biomass Processing, Conversion and Biorefinery. NOVA Science Publishers, Hauppauge, New York, USA (ISBN: 978-1-62618-346-9).
+Miao, Z., T.E. Grift, A.C. Hansen and S.K. Mathanker. 2013. Energy requirement for lignocellulosic feedstock densifications in relation to particle physical properties pre-heating and binding agents. Energy Fuels 2013, 27, 588-595, DOI:10.1021/ef301562k
+Miao, Z., T.E. Grift, A.C. Hansen and K.C. Ting. 2013. An overview of lignocellulosic biomass feedstock harvest, processing and supply for biofuel production. Biofuels (2013) 4(1), 5-8, DOI:10.4155/BFS.12.76
+Miao, Z., J.W. Phillips, T.E. Grift, and S.K. Mathanker. 2013. Energy and pressure requirement for compression of Miscanthus giganteus to an extreme density. Biosystems Engineering 114(1): 21-25, DOI:10.1016/j.biosystemseng.2012.10.002
+Zhang, L., and T.E. Grift. 2012. A LIDAR-based crop height measurement system for Miscanthus giganteus. Computers and Electronics in Agriculture, 85: 70-76, DOI:10.1016/j.compag.2012.04.001
+Zhang, L., and T.E. Grift. 2012. A monocular vision-based diameter sensor for miscanthus giganteus. Biosystems Engineering 111: 298-304, DOI: 10.1016/j.biosystemseng.2011.12.007
+Xue, J., L. Zhang and T.E. Grift. 2012. Variable field of view-machine vision based row guidance of an agricultural robot. Computers and Electronics in Agriculture, 84: 85-91, DOI:10.1016/j.compag.2012.02.009.
+Johnson, P.C., C.L. Clementson, S.K. Mathanker, T.E. Grift and A.C. Hansen. 2012. Cutting energy characteristics of miscanthus stems with varying oblique angle and cutting speed. Biosystems Engineering 112: 42-48. DOI:10.1016/j.biosystemseng.2012.02.003
+Miao, Z., Y. Shastri, T.E. Grift, A.C. Hansen, and K.C. Ting. 2012. Lignocellulosic biomass feedstock transportation alternatives, logistics, equipment configurations and modeling. Biofuels, Bioproducts & Biorefining 6(3): 351-362, DOI: 10.1002/bbb.1322
+Cordill, C. and T.E. Grift, 2011. Design and testing of an intra-row mechanical weeding machine for corn. Biosystems Engineering 110, 247-252, DOI:10.1016/j.biosystemseng.2011.07.007
+Bac, W., T.E. Grift, and G. Menezes. 2011. Development of a tabletop guidance system for educational Robots. Applied Engineering in Agriculture. 27(5): 829-838.
+Xue, J., and T.E. Grift. 2011. Agricultural robot turning in the headland of corn fields. Applied Mechanics and Materials 63-64, 780-784.
+Grift, T.E., M., Bohn, and J. Novais. 2011. High-throughput phenotyping technology for maize roots. Biosystems Engineering 110, 40-48, DOI:10.1016/j.biosystemseng.2011.06.004.
+Miao, Z., T.E. Grift, A.C. Hansen, and K.C. Ting. 2011. Energy requirement for comminution of biomass in relation to particle physical properties. Industrial crops and products 33, 504-513, DOI:10.1016/j.indcrop.2010.12.016.
+Xue, J., T.E. Grift, and A.C. Hansen. 2011. Effect of biodiesel on engine performances and emissions. Renewable and Sustainable Energy Reviews 15, 1098-1116, DOI:10.1016/j.rser.2010.11.016.
+Grift, T.E. 2011. The First Word: The Farm of the Future. Transactions of the ASABE. 18(1):4.
+Kweon, G., T.E. Grift, D. Miclet, T. Virin, and E. Piron. 2009. Analysis and control of uniformity by the feed gate adaptation of a granular spreader. Journal of Biosystems Engineering 34(2), 95-105.
+Zhong, D., J. Novais, T.E. Grift, M. Bohn, and J. Han. 2009. Maize root complexity analysis using a support vector machine method. Computers and Electronics in Agriculture 69, 46-50. DOI:10.1016/j.compag.2009.06.013.
+Ehsani, M.R., T.E. Grift, J.M. Maja, and D. Zhong. 2009. Two fruit counting techniques for citrus mechanical harvesting machinery. Computers and Electronics in Agriculture 65, 186-191, DOI: 10.1016/j.compag.2008.09.002
+Osborne, J.A., and T.E. Grift, 2009. M-estimation of Boolean models for particle flow experiments. Journal of the Royal Statistical Society, Series C 58(2):197-210.
+Grift, T.E., N. Kondo, K.C. Ting. 2008. Review of automation and robotics for the bio-industry. Journal of Biomechatronics Engineering 1(1):37-54.
+Grift, T.E., and C. Crespi. 2008. Estimation of the flow rate of free falling granular particles using a Poisson model in time. Biosystems Engineering 101, 36-41, DOI:10.1016/j.biosystemseng.2008.06.006.
+Grift, T.E., and C. Crespi. 2008. Estimating mean particle diameter in free-fall granular particle flow using a Poisson model in space. Biosystems Engineering 101, 28-35, DOI:10.1016/j.biosystemseng.2008.06.005.
+Grift, T.E. 2007. Robotics in crop production. Encyclopedia of Agricultural, Food and Biological Engineering, DOI: 10.1081/E-EAFE-120043046.
+Kweon, G., T.E. Grift, and D. Miclet. 2007. A spinning-tube device for dynamic friction coefficient measurement of granular fertiliser particles. Biosystems Engineering 97(2):131-143, DOI:10.1016/j.biosystemseng.2007.02.013.
+Bohn M., J. Novais, R. Fonseca, R. Tuberosa, and T.E. Grift. 2006. Genetic evaluation of root complexity in maize. Acta Agronomica Hungarica 54(3).
+Grift, T.E., G. Kweon, J.W. Hofstee, E. Piron, and S. Villette. 2006. Dynamic friction coefficient measurement of granular fertiliser particles. Biosystems Engineering 95(4):507-515, DOI:10.1016/j.biosystemseng.2006.08.006.
+Kweon, G., and T.E. Grift. 2006. Feed gate adaptation of a spinner spreader for uniformity control. Biosystems Engineering 95(1):19-34, DOI:10.1016/j.biosystemseng.2006.05.003.
+Grift, T.E. and R. Oberti. 2006. Development of low-cost root collar diameter measurement devices for pine seedlings. Computers and Electronics in Agriculture (52):60-70, DOI:10.1016/j.compag.2006.01.005.
+Grift, T.E., M.Z. Tekeste, and R.L. Raper. 2005. Acoustic compaction layer detection. Transactions of the ASAE 48(5):1-8.
+Raper, R.L., T.E. Grift and M.Z. Tekeste. 2004. A Portable tillage profiler for measuring subsoiling disruption. Transactions of the ASAE 47(1): 23-27.
+Grift, T.E. 2003. Fundamental mass flow measurement of solid particles. Particulate Science and Technology 21(2):177-193.
+Grift, T.E., and J.W. Hofstee. 2002. Testing an online spread pattern determination sensor on a broadcast fertilizer spreader. Transactions of the ASAE 45(3):561-567.
+Grift, T.E. 2001. Mass flow measurement of granular materials in aerial application, part 1: Simulation and modeling. Transactions of the ASAE 44(1):19-26.
+Grift, T.E., J.T. Walker, and J.W. Hofstee. 2001. Mass flow measurement of granular materials in aerial application, Part 2: Experimental model validation. Transactions of the ASAE 44(1):27-34.
+Hill, D.T., S.E. Taylor, and T.E. Grift. 2001. Simulation of low temperature anaerobic digestion of dairy and swine manure. Bioresource Technology 78(2) 127-131.
+Grift, T.E., J.T. Walker, and D.R. Gardisser. 2000. Spread Pattern Analysis Tool (SPAT), Part 2. Examples of aircraft pattern analysis. Transactions of the ASAE 43(6):1351-1363.
+Grift, T.E. 2000. Spread Pattern Analysis Tool (SPAT), Part 1. Development and theoretical examples. Transactions of the ASAE 43(6):1341-1350.
+Bansal, R.K., J.T. Walker, D.R. Gardisser, and T.E. Grift. 1998. Validating FLUENT for the flow of granular materials in aerial spreaders. Transactions of the ASAE 41(1):29-35.
+Grift, T.E., J.T. Walker, and J.W. Hofstee. 1997. Aerodynamic properties of individual fertilizer particles. Transactions of the ASAE 40(1):13-20.
+Grift, T.E., and J.W. Hofstee. 1997. Measurement of velocity and diameter of individual fertilizer particles by an optical method. Journal of Agricultural Engineering Research 66(3):235-238.
+Grift, T.E., and J.W. Hofstee. 1997. Development of a fertilizer particle accelerator. Journal of Agricultural Engineering Research 66(3):229-233.
+Walker, J.T., T.E. Grift, and J.W. Hofstee. 1997. Determining effects of fertilizer particle shape on aerodynamic properties. Transactions of the ASAE 40(1):21-27.
+
+Articles in Conference Proceedings
+Mathanker, S. K., A. C. Hansen, T. E. Grift, and K. C. Ting. 2012. Sensing miscanthus stem bending force and swathed biomass volume to predict yield. In Proc. Science for Biomass Feedstock Production and Utilization, Knoxville, TN: Sun Grant Initiative.
+Mathanker, S. K., J. D. Maughan, A. C. Hansen, and T. E. Grift. 2012. LIDAR based biomass yield estimation. ASABE Meeting Paper No. 121338186. St. Joseph, Mich.: ASABE.
+Mathanker, S. K., J. D. Maughan, A. C. Hansen, and T. E. Grift. 2012. Development of on-vehicle sensing and mapping system for bioenergy crop harvesting. ASABE Meeting Paper No.121338179. St. Joseph, Mich.: ASABE.
+Mathanker, S. K., J. D. Maughan, A. C. Hansen, T. E. Grift, and K. C. Ting. 2012. Biomass yield estimation using LIDAR and load cells. 2nd Annual Society of Postdoctoral Scholars Symposium, Urbana, IL: University of Illinois at Urbana-Champaign.
+Maughan, J. D., S. K. Mathanker, B. M. Fehrenbacher, T. E. Grift, and A. C. Hansen. 2012. Impact of cutting speed, blade type, and blade angle on miscanthus harvesting power requirement. ASABE Meeting Paper No. 121338182. St. Joseph, Mich.: ASABE.
+Maughan, J. D., S. K. Mathanker, T. E. Grift, and A. C. Hansen. 2012. Yield monitor and mapping systems for hay and forage harvesting: A review. ASABE Meeting Paper No. 121338184. St. Joseph, Mich.: ASABE.
+Johnson, P. C., C. L. Clementson, S. K. Mathanker, A. C. Hansen, and T. E. Grift. 2011. Cutting energy for selected bioenergy plant stalks. ASABE Meeting Paper No. 1110800. St. Joseph, Mich.: ASABE.
+Johnson, P., Clementson, C.L., A.C. Hansen, and T.E. Grift, 2011. Harvesting biomass feedstock as a source for energy. ASABE Meeting Paper No. 1110800. St. Joseph, Mich.: ASABE.
+Zhang, L., T.E. Grift. 2010. A New Approach to Crop-Row Detection in Corn. ASABE Paper No. 1009237. St. Joseph, Mich.: ASABE.
+Miao, Z., T.E. Grift, Hansen, A.C., Ting, K.C. 2010. Specific energy consumption of biomass particle production and particle physical property. ASABE Paper No. 1008497. St. Joseph, Mich.: ASABE.
+H. Jeon, L. Tian, T.E. Grift, L. Bode, A. Hager. 2009. Plant Specific Direct Chemical Application Field Robot. ASAE Paper No. 095697. St. Joseph, Mich.: ASAE.
+H. Jeon, L. Tian, T.E. Grift, L. Bode, A. Hager. 2009. Stereovision System and Image Processing Algorithms for Plant Specific Application. ASAE Paper No. 090047. St. Joseph, Mich.: ASAE.
+Bac, C.W., T.E. Grift,, K. Bhalerao, G. Menezes. 2009. A Laser Based Tabletop Localization System For Educational Robots. ASAE Paper No. 090050. St. Joseph, Mich.: ASAE.
+Piron, E., D. Miclet, T.E. Grift, and G. Kweon. 2006. 3D velocity measurement of fertiliser with an optical sensor; practical issues. In: Second International Symposium on Centrifugal Fertiliser Spreading Cemagref, Montoldre, France, October 24-25, 2006.
+Grift, T.E. and G. Kweon. 2006. Uniformity Control of a Granular Fertiliser Spreader using Feed Gate Adaptation. In: Second International Symposium on Centrifugal Fertiliser Spreading Cemagref, Montoldre, France, October 24-25, 2006.
+Grift, T.E. and G. Kweon. 2006. Development of a Uniformity Controlled Granular Fertilizer Spreader. ASAE Paper No. 061069. St. Joseph, Mich.: ASAE.
+Nishiwaki, K., N. Kondo, M. Kise, Q. Zhang, T.E. Grift, L. Tian, and K.C. Ting. 2006. Feasibility of using Polarizing Filters to reduce Halation Effects during Image Acquisition in the Field. ASAE Paper No. 063009. St. Joseph, Mich.: ASAE.
+Grift, T.E., R. Ehsani, N. Nishiwaki, C. Crespi and M. Min. 2006. Development of a Yield Monitor for Citrus Fruits. ASAE Paper No. 061192. St. Joseph, Mich.: ASAE.
+Jeon, H.Y., L.F. Tian and T.E. Grift. 2005. Development of an individual weed treatment system using a robotic arm. ASAE Paper No. 051004. St. Joseph, Mich.: ASAE.
+Grift, T.E., M. Kasten and Y. Nagasaka. 2005. Robotics in Agriculture: Asimov meets Corn. In: Proceedings 2005 Illinois Crop Protection Technology Conference. Jan 5-6 2005. Urbana, IL.
+Hofstee, J.W., T.E. Grift and L. Tian. 2004. Implementation of ECTS in agricultural engineering in The Netherlands In: Proceedings 3rd workshop. - Dijon : 2004 - p. 93 - 97.
+Hofstee, J.W., T.E. Grift and L. Tian. 2004. Development of a Tracking and Guidance System for a Field Robot. AgEng conference paper. Sept. 13-15, 2004, Leuven Belgium.
+McDonald, T.P.; Rummer, R.B.; Grift, T.E. 2003. Diameter sensors for tree-length harvesting systems. In: M. I. Wide and B. Baryd, Proceedings of the 2nd Forest Engineering Conference; Vaxjo, Sweden. Skogforsk, Uppsala, Sweden. 45-54.
+Grift, T.E. and A.C. Hansen. 2003. LEGO Mindstorms Robots as a Teaching Tool in Agricultural Education. ASAE Paper No. 033134. St. Joseph, Mich.: ASAE.
+Grift, T.E. 2003. A Low-cost Root Collar Diameter Measurement System for Pine Seedlings. ASAE Paper No. 035003. St. Joseph, Mich.: ASAE.
+Osborne, J.A. and T.E. Grift. 2002. A Simple Linear Boolean Model for Mass Flow. Joint Statistical Meetings of the American Statistical Association, Physical Sciences and Engineering Section.
+Tekeste, M.Z., T.E. Grift and R.L. Raper. 2002. Acoustic Compaction Layer Detection. ASAE Paper No. 021089. St. Joseph, Mich.: ASAE.
+Raper, R.L., T.E. Grift and M.Z. Tekeste. 2002. A Portable Tillage Profiler for Measuring Subsoiling Effectiveness. ASAE Paper No. 021138. St. Joseph, Mich.: ASAE.
+Taylor, S.E., T.P. McDonald, M.W. Veal, and T.E. Grift. 2001. Using GPS to Evaluate Productivity and Performance of Forest Machine Systems. In Proceedings of the First International Symposium on Precision Forestry. University of Washington, Seattle, WA.
+Hall, H. E., R. L. Raper, T.E. Grift and D. W. Reeves. 2000. Development of an on-the-fly mechanical impedance sensor and evaluation in a coastal plains soil.
+Grift, T. E., J. T. Walker and D. R. Gardisser. 1997. Spread pattern analysis of ram air fertilizer spreaders. ASAE Paper AA97-003. NAAA/ASAE Joint Technical Session, December 6, 1997. Las Vegas, NV.
+Hofstee, J.W., T.E. Grift, and L. Speelman. 1994. Development of a New Method for Spread Pattern Determination, Proceedings Congress on Agricultural Engineering, Milan, 1994.
+Grift, T.E. and J. Bontsema. 1991. Application of Fast Fourier Transformation in Plant Detection. Proceedings Symposium SOR '91, Heijen, The Netherlands, 27-28 Nov. 1991.
+Bontsema, J., T.E. Grift, and K. Pleijsier. 1991. Mechanical Weed Control in Sugar Beet Growing: Detection of a Plant in a Row. In: Hashimoto, Y., Day, W. (Eds.), Mathematical and Control Applications in Agriculture and Horticulture. Matsuyama, Japan, pp. 207–212.
+
+Magazine Articles
+Grift, T.E. 2023. How Well Do You Know Others? "The Last Word", March/April issue of Resource Magazine, ASABE.
+Grift, T.E. 2021. What's talent got to do with it? "The Last Word", November/December issue of Resource Magazine, ASABE.
+Grift, T.E., N. Engeseth, Guest Editors. 2019. Nourish the Planet. Special Issue November/December 2019 issue of Resource Magazine, ASABE.
+Grift, T.E. 2018. Thinking outside the furrows: Startups are changing the world.", November/December issue of Resource Magazine.
+Grift, T.E. 2018. Climate Change: Is it real?"The Last Word", July/August issue of Resource Magazine.
+Grift, T.E. 2015. Student Robotic Competition Thriving. Nov/Dec issue of Resource Magazine, ASABE.
+Grift, T.E. 2015. Pay Me, Pal! "The Last Word", Nov/Dec issue of Resource Magazine, ASABE.
+Grift, T.E. Guest Editor. 2015 Feed the World in 2050. Special Issue Part 2: March/April 2015 issue of Resource Magazine, ASABE.
+Grift, T.E. , M.O. Bohn, Guest Editors. 2014 Feed the World in 2050. Special Issue Part 1: November/December 2014 issue of Resource Magazine, ASABE.
+Grift, T.E. and M.O. Bohn, 2013. Maize Root Matters. July/August issue of Resource Magazine.
+Grift, T.E. 2012. Embracing Variability: How To Hug A Cactus. "The Last Word", July/August issue of Resource Magazine.
+Grift, T.E. 2011. Picking the Low Fruit. "The Last Word", July/August issue of Resource Magazine.
+Grift, T.E. Guest Editor. 2011 Farm of the Future. Jan/Feb 2011 issue of Resource Magazine, ASABE.
+K.C. Ting and T.E. Grift. 2005. Automation for Bioprocessing and Bioproduction. "The Last Word", October issue of Resource Magazine, ASAE.
+Grift, T.E. 2005. Robot Synergy: A Marriage of Engineering and Biology. September issue of Resource Magazine, ASAE.
+Grift, T.E. 2004. Metric Eye for the AgE guy (and gal). "The Last Word", February issue of Resource Magazine, ASABE.
+
+Teaching Honors
+List of teachers ranked as excellent by their students (Spring, 2018)
+North American Colleges and Teachers of Agriculture (NACTA) Educator Award.
+ (2017)
+Ben & Georgeann Jones Excellence in Teaching Award. (2017)
+List of teachers ranked as excellent by their students (Fall, 2016)
+Ben & Georgeann Jones Excellence in Teaching Award.
+ (2015)
+List of teachers ranked as excellent by their students (Fall, 2014)
+IET Meeting Paper Award, American Society of Agricultural Engineers, (T.E. Grift, A.C. Hansen). (2003)
+
+Research Honors
+EurAgEng Outstanding Paper Award (T.E. Grift, C. Crespi). (2010)
+ASABE Superior Paper Award, (T.E. Grift, J.W. Hofstee). (2003)
+ASABE Superior Paper Award, (T.E. Grift, J.T. Walker, J.W. Hofstee). (2002)
+
+Public Service Honors
+ASABE Fellow. (2019)
+ASABE Presidential Citation, (T.E. Grift). (2015)
+ASABE Presidential Citation, (T.E. Grift). (2011)
+
+Other Honors
+Japanese Society for the Promotion of Sciences (JSPS) Fellowship (2005)
+
+Recent Courses TaughtABE 223 - ABE Principles: Machine Syst
+ABE 227 - Comp Aid Problem-Solving ABE I
+ABE 425 - Engrg Measurement Systems
+ETMA 363 (TSM 363) - Fluid Power Systems
+ETMA 435 (TSM 435) - Elec Computer Ctrl Sys
+

@@ -1,0 +1,66 @@
+
+
+
+Qiong Wang 
+
+
+
+
+
+Associate Professor
+
+
+(217) 300-7082
+qwang04@illinois.edu
+201B Transportation Building
+
+
+For More Information
+personal website
+
+Education
+Bachelor of Science in Applied Mathematics, Tsinghua University, 1988
+Bachelor of Engineering in Management Information Systems, Tsinghua University, 1988
+Master of Engineering in Management Information Systems, Tsinghua University, 1991
+Master of Science in Electrical and Computer Engineering and Engineering and Public Policy, Carnegie-Mellon University, 1995
+PhD in Engineering and Public Policy, Carnegie-Mellon University, 1998
+
+Academic Positions
+Associate Professor, University of Illinois, Department of Industrial and Enterprise Systems Engineering, 10/2012-present.
+
+
+Research Areas
+Financial Engineering
+Operations Research
+
+
+Chapters in Books
+Qiong Wang, Jon M. Peha, and Marvin Sirbu (1997), “Optimal Pricing for Integrated-Services Networks,” Internet Economics, Joseph Bailey and Lee McKnight editors, MIT Press, Cambridge, MA, pp. 353-376. 
+Qiong Wang (2006), “Pricing and Equilibrium in Communication Networks,” Handbook of Optimization in Telecommunications, Mauricio.G. C. Resende and Panos M. Pardalos editors, Springer, pp. 545-569. 
+
+Articles in Conference Proceedings
+Ao Hong, Debasis Mitra, and Qiong Wang (2017). "Emerging Internet Content and Service Providers' Relationships: Models and Analyses of Engineering, Business and Policy Impact." Proceedings of IEEE INFOCOM'17, Atlanta, GA.
+Robert Hampshire, William A. Massey, Debasis Mitra, and Qiong Wang (2002), Provisioning of Bandwidth Sharing and Exchange, Telecommunications Network Design and Economics and Management: Selected Proceedings of the 6th INFORMS Telecommunications Conferences, Kluwer Academic Publishers.
+Anwar Elwalid, Debasis Mitra, and Qiong Wang (2006), “Cooperate Data-Optical Inter-Networking: Distributed Multi-Layer Optimization,” Proceedings of IEEE INFOCOM’06, Barcelona, Spain.
+Debasis Mitra and Qiong Wang (2002), Generalized Network Engineering: Optical Pricing and Routing for Multi-Service Networks, Proceedings of SPIE: Scalable Service Provisioning and Traffic Control in IP Networks, Vol. #4868, Boston, MA. 
+Debasis Mitra and Qiong Wang (2003), “Risk-Aware Network Profit Management in a Two-Tier Market,” Proceedings of 18th International Teletraffic Congress - ITC18, Berlin.
+Debasis Mitra and Qiong Wang (2003), “Stochastic Traffic Engineering, with Applications to Network Revenue Management,” Proceedings of IEEE INFOCOM’03, San Francisco, CA.
+Debasis Mitra and Qiong Wang (2012), “A Model-based Study of the Impact of Managed Services and the Spawning of Applications in Broadband Networks,” Workshop on Telecom Economics, Engineering and Policy, 24th  International Teletraffic Congress (ITC 2012), Krakaw, Poland. 
+Debasis Mitra and Qiong Wang (2014). "The Stability of Best Effort and Managed Services in the Internet, and the Role of Application Creation." The 3rd IEEE INFOCOM Workshop on Smart Data Pricing (SDP2014), Toronto, Canada.
+Debasis Mitra and Qiong Wang (2015). "Modeling and Optimizing Intellectual Asset Production in Industrial Laboratories." IIE Annual Conference and Expo, Nashville, TN
+Debasis Mitra, K. G. Ramakrishnan, and Qiong Wang (2001), “Combined Economic Modeling and Traffic Engineering: Joint Optimization of Pricing and Routing in Multi-Service Networks,” Proceedings of 17th International Teletraffic Congress, Salvador, Brazil.
+Krishnan Kumaran, Steve G. Lanning, K. R. Ramakrishnan, Aravind Srinivasan, and Qiong Wang (2001), “Efficient Algorithms for Location and Sizing Problems in Network Design,” Proceedings of IEEE-GLOBECOM’01, San Antonio, TX, pp. 2586-2590.
+Matthew Andrews, Ulas Ozen, Martin I. Reiman, and Qiong Wang (2013). "Economic Models of Sponsored Content in Wireless Networks with Uncertain Demand." The 2nd IEEE INFOCOM Workshop on Smart Data Pricing (SDP2013), Turin, Italy.
+Qiong Wang, Marvin A. Sirbu, and Jon M. Peha (1996), "Pricing of ATM Networks," The Internet and Telecommunications Policy: Selected Papers from the 1995 Telecommunications Policy Research Conferences, Gerald W. Brock and Gregory L. Rosston editors, Mahwah, NJ: Lawrance Erlbaum Associates Inc., pp. 65-78
+Qiong Wang, Marvin Sirbu, Jon M. Peha (1995), "Dynamic Pricing for Integrated Services Networks," Proceedings of 23rd Telecommunications Policy Research Conference (TPRC), Solomons, Maryland, October 1995.
+Steve G. Lanning, William A. Massey, and Qiong Wang (2002), “Threshold Pricing for Selling Network Capacities through Forward Contract,” Selected Proceedings of the IMA Workshop - Mathematics of the Internet: E-Auction and Markets, Brenda Dietrich and Rakesh V. Vohra, Editors, Springers, New York City, NY, pp. 145-158.
+Steve G. Lanning, William A. Massey, Brian Rider, and Qiong Wang (1999), “Optimal Pricing in Queuing Systems with Quality of Service Constraints,” Proceedings of the 16th International Teletraffic Congress, Edinburgh, UK, pp. 747-756. 
+
+Patents
+US Patent 7466916 (March 2009): Hybrid Optical and Data Networks, Co-Inventor: A. Elwalid and D. Mitra.
+US Patent 7123588 (October, 2006) Decision Support Mechanisms for Bandwidth Commerce in Communication Networks, Co-Inventor: D. Mitra and K. G. Ramakrishnan.
+
+
+Recent Courses TaughtIE 361 - Production Planning & Control
+IE 524 A (IE 524 B, IE 524 OB, IE 524 OF) - Optimization in Finance
+

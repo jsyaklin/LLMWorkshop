@@ -1,0 +1,49 @@
+
+
+
+ Matthew Caesar he/him/his
+
+
+
+
+
+Professor
+
+
+(847) 323-2968
+caesar@illinois.edu
+3118 Siebel Center for Comp Sci
+
+
+For More Information
+Matthew Caesar's home page
+
+Education
+Ph.D., Computer Science, University of California, Berkeley, 2007
+
+Research Interests
+Simplifying management and improving reliability of distributed systems and networks through principles of self-organization and self-diagnosis, with an emphasis on wide-area networks and networked systems.
+My research focuses on the design, analysis, and implementation of distributed systems and networks on the extremely large scale, with an emphasis on network operations, measurement, and availability. I am particularly interested in improving availability and performance of the Internet infrastructure, including routing, DNS, and data centers.
+
+
+Research Areas
+Communication networks
+Computer architecture
+Computer security, privacy, and information trust
+Operating systems
+Parallel processing
+Security and Privacy
+Systems and Networking
+
+
+Research Topics
+Distributed computing and storage systems
+Network science and engineering
+
+Recent Courses TaughtCS 437 CHI (CS 437 CSP, CS 437 DSO, CS 437 IOT, CS 437 IT3, CS 437 IT4, CS 437 ITG, CS 437 ITU, CS 437 MC3, CS 437 MC4, CS 437 MCS) - Topics in Internet of Things
+CS 437 CSP (CS 437 DSO, CS 437 ITG, CS 437 ITU, CS 437 MCS) - Networked IoT Systems
+CS 497 - CS Team Project
+CS 498 ISE - IOT for Software Engineering
+CS 498 ISE - IOT Software Engineering
+CS 498 IT3 (CS 498 IT4, CS 498 ITC, CS 498 ITF, CS 498 ITO) - Internet of Things
+

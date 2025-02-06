@@ -1,0 +1,260 @@
+
+
+
+ Rafael O. Tinoco 
+
+
+
+
+
+Associate Professor
+
+
+(217) 265-6931
+tinoco@illinois.edu
+3028 Civil Eng Hydrosystems Lab
+
+
+For More Information
+Research website
+Faculty profile
+
+Education
+Ph.D. Civil and Environmental Engineering, Cornell University, 2011
+M.S. Civil and Environmental Engineering, Cornell University, 2008
+B.S. Civil Engineering, Universidad Nacional Autonoma de Mexico, 2005
+
+BiographyBiographical sketch.Rafael O. Tinoco holds a Civil Engineering degree from the Universidad Nacional Autónoma de México (2005). He conducted his graduate studies at the Department of Civil and Environmental Engineering at Cornell University, where he earned his M.S. (2008) and Ph.D. (2011) in Environmental Fluid Mechanics and Hydrology.After graduation, Dr. Tinoco worked as a lecturer and postdoctoral associate at Cornell University, before taking a postdoctoral researcher position at the Environmental Hydraulics Institute of Cantabria. He later returned to Cornell University as a visiting instructor, teaching undergraduate and graduate level courses on fluid mechanics and transport and mixing processes, before joining the Faculty at the Department of Civil and Environmental Engineering at the University of Illinois during Fall 2015.
+Academic Positions
+Associate Professor, University of Illinois, Department of Civil and Environmental Engineering, August 2023- Present
+Assistant Professor, University of Illinois, Department of Civil and Environmental Engineering, August 2015 - August 2023
+Instructor, Cornell University, Department of Civil and Environmental Engineering, May 2015 - July 2015
+Visiting Instructor, Cornell University, Department of Civil and Environmental Engineering, May 2014 - December 2014
+Postdoctoral Research Associate, Environmental Hydraulics Institute of Cantabria, July 2012 - May 2014
+Postdoctoral Research Associate, Cornell University, Department of Civil and Environmental Engineering, January 2012 - July 2012 
+Instructor, Cornell University, Department of Civil and Environmental Engineering, August 2011 - December 2011
+
+Professional Registrations
+International Association for Hydro-Environment Engineering and Research, IAHR, 2009-Present
+International Association of Hydrological Sciences, IAHS, 2008 - Present
+American Geophysical Union, AGU, 2007 - Present
+
+
+Research Areas
+Water Resources Engineering and Science
+
+
+Books Edited or Co-Edited (Original Editions)
+Tinoco, R.O., Prasad, V., You, H., Luo, Y., Salas, C. & Shukla, T. 13th Symposium on River, Coastal, and Estuarine Morphodynamics (RCEM2023), Book of Abstracts, Urbana, IL, USA, 2023.
+Coco, G., Blanco, B., Olabarrieta, M., and Tinoco, R.O., 8th Symposium on River, Coastal, and Estuarine Morphodynamics (RCEM2013), Book of Abstracts, Santander, Spain, 2013.
+
+Selected Articles in Journals
+Vona, I., Tseng, C.Y., Tinoco, R.O. and Nardin, W., 2024. �Hydrodynamics of artificial and oyster-populated breakwaters: A laboratory study with scaled-down oyster castles under unidirectional flow�. Journal of Environmental Management, 365, p.121574. https://doi.org/10.1016/j.jenvman.2024.121574
+Prasad, V., Suski, C.D., Jackson, P.R., George, A.,  Chapman, D., Fischer, J.R. and Tinoco, R.O. 2024. "Limiting downstream dispersal of invasive carp egg surrogates using a laboratory-scale oblique bubble screen". Journal of Ecohydraulics, TJOE (2332994).  https://doi.org/10.1080/24705357.2024.2332994
+Tseng, C.Y. and Tinoco, R.O., 2024. "Canopy randomness, scale, and stem size effects on the interfacial transfer process in vegetated flows". Water Resources Research, 60(3), p.e2023WR035220.  https://doi.org/10.1029/2023WR035220
+ Ranjan, P., & Tinoco, R. O. 2023. "On the effects of turbulence modulation driven by suspended sediment stratification in emergent rigid canopies". Journal of Geophysical Research: Earth Surface, 129, e2023JF007197. https://doi.org/10.1029/2023JF007197 
+Pasternack, G.B., Tonina, D., Casas-Mulet, R., Adeva-Bustos, A., Vanzo, D., John, A. and Tinoco R.O., 2023. "Climate Change Prediction and Adaptation in Ecohydraulics", Hydrolink, 2023(1).
+ You, H., & Tinoco, R. O. 2023. Turbulent coherent flow structures to predict the behavior of particles with low to intermediate Stokes number between submerged obstacles in streams. Water Resources Research, 59(2), e2022WR032439. https://doi.org/10.1029/2022WR032439 
+Jin, C., Gong, Z., Shi, L., Zhao, K., Tinoco, R.O., San Juan, J.E., Geng, L. and Coco, G., 2022. “Medium-term observations of salt marsh morphodynamics”. Frontiers in Marine Science, p.1778. https://doi.org/10.3389/fmars.2022.988240
+Maza, M., Temmerman, S., van Wesenbeeck, B.K., Ghisalberti, M, Tinoco, R.O. and Hu, Z. 2022. "Editorial: Coastal protection provided by ecosystems: Observations and modeling across scales". Front. Mar. Sci. 9:998923. doi: 10.3389/fmars.2022.998923
+Yadav, V., Sherly, M.A., Ranjan, P., Prasad, V., Tinoco, R.O., & Laurent, A. 2022. "Risk of plastics losses to the environment from Indian landfills". Resources, Conservation & Recycling, 187, p.106610. https://doi.org/10.1016/j.resconrec.2022.106610
+Ranjan, P., Mittal, K., Chamorro, L.P. & Tinoco, R.O. 2022. "Impact of gaps on the flow statistics in an emergent rigid canopy", Physics of Fluids 34, 066601. https://doi.org/10.1063/5.0088527.
+Jin, C., Coco, G., Tinoco, R.O., Ranjan, P., Gong, Z., Dutta, S., San Juan, J., & Friedrich, H. 2022, “High-resolution Large Eddy Simulations of Vortex Dynamics Over Ripple Defects under Oscillatory Flow, Journal of Geophysical Research: Earth Surface,  https://doi.org/10.1029/2021JF006328
+Tseng, C-Y. & Tinoco, R. O., 2021. “From Substrate to Surface: A Turbulence-based Model for Gas Transfer across Sediment-water-air Interfaces in Vegetated Stream”. Water Resources Research, 57, e2021WR030776. https://doi.org/10.1029/2021WR030776
+Jin, C., Coco, G., Tinoco, R.O., Ranjan, P., San Juan, J., Dutta, S., Friedrich, H. & Gong, Z. 2021. "Large-Eddy Simulation of Three-Dimensional Flow Structures Over Wave-generated Ripples",  Earth Surface Processes and Landforms. Accepted March 22, 2021. https://doi.org/10.1002/esp.5120
+You, H. & Tinoco, R.O., 2021, "Analyzing the response of grass carp larvae to acoustic stimuli using particle tracking velocimetry".  Water, 13(5), 603; https://doi.org/10.3390/w13050603 
+Tseng, C.Y. and Tinoco, R.O., 2021. "A Two‐Layer Turbulence‐based Model to Predict Suspended Sediment Concentration in Flows with Aquatic Vegetation. Geophysical Research Letters", 48, p.e2020GL091255. https://doi.org/10.1029/2020GL091255
+Prada, A.F., George, A.E., Stahlschmidt, B.H., Jackson, P.R., Chapman, D.C. and Tinoco, R.O., 2021. "Using turbulence to identify preferential areas for grass carp (Ctenopharyngodon idella) larvae in streams: a laboratory study". Water Resources Research, 57, p.2020WR028102. https://doi.org/10.1029/2020WR028102 
+Tinoco, R.O., Prada, A.F., George, A.E., Stahlschmidt, B.H., Jackson, P.R., Chapman, D.C., 2020. “Identifying turbulence features hindering swimming capabilities of grass carp larvae (Ctenopharyngodon idella) through submerged vegetation”. Journal of Ecohydraulics. https://doi.org/10.1080/24705357.2020.1835566
+Strailey, K.K., Osborn R. T., Tinoco, R.O., Cienciala, P., Rhoads, B.L., & Suski, C.D., 2020, “Simulated instream restoration structures offer swimming and energetic advantages at high flow velocities”, Canadian Journal of Fisheries and Aquatic Science.  78(1): 40-56. https://doi.org/10.1139/cjfas-2020-0032
+Tseng, C.Y. and Tinoco, R.O., 2020. "A model to predict surface gas transfer rate in streams based on turbulence production by aquatic vegetation". Advances in Water Resources, 143, p.103666. https://doi.org/10.1016/j.advwatres.2020.103666 
+Jin, C., Coco, G., Tinoco, R.O., Perron, J.T., Myrow, P.M., Huppert, K.L., Friedrich, H., Goldstein, E.B. and Gong, Z., 2020. "Investigating the response of wave-generated ripples to changes in wave forcing". Geomorphology, 363, p.107229, https://doi.org/10.1016/j.geomorph.2020.107229.
+Yadav, V., Sherly, M.A., Ranjan, P., Tinoco, R.O., Boldrin, A., Damgaard, A., & Laurent, A., 2020, “Framework for quantifying environmental losses of plastics from landfills”, Resources, Conservation & Recycling. 161, p.104914. https://doi.org/10.1016/j.resconrec.2020.104914
+Prada, A.F., George, A.E., Stahlschmidt, B.H., Jackson, P.R., Chapman, D.C. and Tinoco, R.O., 2020. "Influence of turbulence and in-stream structures on the transport and survival of grass carp eggs and larvae at various developmental stages". Aquatic Sciences, 82(1), p.16. https://doi.org/10.1007/s00027-019-0689-1
+Tinoco, R.O., San Juan, J., & Mullarney, J., 2020, “Simplification Bias: Lessons from Laboratory and Field Data on Vegetation-Flow-Sediment Interactions”, Earth Surf. Proces. Landforms, 45, 121-143, https://doi.org/10.1002/esp.4743.
+Jin, C., Goldstein E., Zheng, G., Tinoco, R.O., & Coco, G., 2019. "Laboratory experiments on the role of hysteresis, defect dynamics and initial perturbation on wave-generated ripple development", Estuarine, Coastal and Shelf Science. 224, 142-153, https://doi.org/10.1016/j.ecss.2019.05.003     
+San Juan, J., Veliz-Carrillo, G., & Tinoco, R.O., 2019, "Experimental observations of 3D flow alterations by vegetation under oscillatory flows", Env. Fluid Mech. 19:1497-1525 https://doi.org/10.1007/s10652-019-09672-2
+
+Prada, A.F., George, A.E., Stahlschmidt, B.H., Chapman, D.C. and Tinoco, R.O., 2018. "Survival and drifting patterns of grass carp eggs and larvae in response to interactions with flow and sediment in a laboratory flume". PloS one, 13(12), p.e0208326. https://doi.org/10.1371/journal.pone.0208326
+
+Leman A., Holland, M., Tinoco, R.O., 2018, "Identifying the dominant physical processes for mixing in full-scale raceway tanks” Renewable Energy, 129(A), 616-628. https://doi.org/10.1016/j.renene.2018.05.087
+Salim, S., Pattiaratchi, C., Tinoco, R. O., & Jayaratne, R., 2018, "Sediment resuspension due to near‐bed turbulent effects: A deep sea case study on the Northwest Continental Slope of Western Australia". J. Geophys. Res: Oceans, 123. 7102-7119. https://doi.org/10.1029/2018JC013819
+
+Tinoco R.O., & Coco, G. 2018, "Turbulence as the main driver of resuspension on oscillatory flows through vegetation", J Geophys Res: Earth Surface. 123(5), pp.891-904. https://doi.org/10.1002/2017JF004504
+Salim, S., Pattiaratchi, C., Tinoco, R., Coco, G., Hetzel, Y., Wijeratne, S. and Jayaratne, R., 2017. "The influence of turbulent bursting on sediment resuspension under unidirectional currents". Earth Surface Dynamics, 5(3), p.399. https://doi.org/10.5194/esurf-5-399-2017
+Tinoco, R.O., & Coco, G., 2016. “A laboratory study on sediment resuspension within arrays of rigid cylinders”, Advances in Water Resources, 92, 1-9, DOI: 10.1016/j.advwatres.2016.04.003.
+Muriel, D.F., Tinoco, R.O., Filardo, B.P., & Cowen, E.A., 2016. "Development of a novel, robust, sustainable and low cost self-powered water pump for use in free-flowing liquid streams", Renewable Energy,91, 466-476. DOI: 10.1016/j.renene.2016.01.089
+
+
+Tinoco, R.O., Goldstein, E. & Coco, G., 2015. “A data-driven approach as a tool to find physically sound predictors: Application to depth-averaged velocities on flows through submerged arrays of rigid cylinders”, Water Resources Research, 51(2), 1247-1263.  https://doi.org/10.1002/2014WR016380
+Garcia, J., Gomez, A.G., Tinoco, R.O., Samano, M.L., Garcia, A. & Juanes, J., 2014. “A 3D model to analyze environmental effects of dredging operations. Application to the Port of Marin, Spain”, Advances in Geosciences. 39, 95-99. DOI: 10.5194/adgeo-39-95-2014
+Tinoco, R.O., & Coco, G., 2014. “Observations on the effect of emergent vegetation on sediment resuspension under unidirectional currents and waves.”, Earth Surface Dynamics, 2(1), 83-96. https://doi.org/10.5194/esurf-2-83-2014
+Coco, G., Zhou, Z., van Maanen, B., Olabarrieta, M., Tinoco, R.O., & Townend, I., 2013. “Morphodynamics of tidal networks: Advances and challenges”. Marine Geology, 346, 1-16. DOI: 10.1016/j.margeo.2013.08.005
+Tinoco, R.O. & Cowen, E.A., 2013. “The direct and indirect measurement of boundary stress and drag on individual and complex arrays of elements”. Experiments in Fluids, 54(4), 1-16. DOI: 10.1007/s00348-013-1509-3
+King, A.T., Tinoco, R.O., & Cowen, E.A., 2012. “A k-\epsilon turbulence model based on the scales of vertical shear and stem wakes valid for emergent and submerged vegetated flows”. Journal of Fluid Mechanics, 701: 1-39. DOI: 10.1017/jfm.2012.113
+Jaime, A. & Tinoco, R.O., 2006. “Metodos de valuacion de externalidades ambientales provocadas por obras de ingenieria (Valuation of environmental externalities in engineering projects), Ingenieria, Investigacion y Tecnologia, Vol. VII.2, 2006, 105-119, ISSN 1405-7743, in Spanish
+
+Articles in Conference Proceedings
+Tinoco, R.O., Diaz-Gonzalez, D., Blahnik, L., Freitag, B. & Carlstrom, S., “Thermal Mixing at Vegetated Stream Confluences”, 38th IAHR World Congress, September 1-6, 2019, Panama City, Panama.
+King, A.T., Rueda-Valdivia, F.J., Tinoco, R.O., & Cowen, E.A., "Modeling flow and transport through aquatic vegetation in natural water bodies", In Water Engineering for a Sustainable Environment, Proceedings of the 33rd IAHR Congress, Vancouver BC, Canada, August 13, 2009.
+Tinoco, R.O. & Cowen, E.A., “Experimental study of flow through macrophyte canopies”, In Water Engineering for a Sustainable Environment, Proceedings of the 33rd IAHR Congress, Vancouver BC, Canada, pp. 6160-6166. 2009
+Tinoco, R.O. & Cowen, E.A., “Effects of aquatic vegetation density on low speed flows”, Proceedings of the 7th International Symposium on Ecohydraulics, Concepción, Chile, January 13, 2009. p. 510-515
+
+Magazine Articles
+Tinoco, R.O., & Jaime, A., 2005. La carrera de Ingeniería Civil: una prospectiva (Expectations of the programs of Civil Engineering). Civil Engineering Journal from the CICM, 425(52), September 2004, in Spanish.
+
+Reports
+Petri, Aaron C., Michael P. Duczynski, Dex R. Culbertson, Saif A. Malik, Nathan G. Peterson, Juan A. Ramos, Jack Drimer, et al. 2024. Laboratory Assessment of Hydrokinetic Turbines. Champaign, IL: U.S. Army Engineer Research and Development Center, Construction Engineering Research Laboratory.
+Rutherford, C., Pinter, N., Gamez, J., Harder, L., Lobbestael, A., Musgrove, M., Tinoco, R.O., Bernhardt, M., Mofarraj, B., Uong, M.D., & Heddlesten, A. Preliminary Observations of Levee Performance and Damage following the 2015-16 Midwest Floods in Missouri and Illinois, USA. GEER Report.
+
+Tinoco, R.O., & Jaime, A., 2005. Evolución de las carreras de Ingeniería Civil (Evolution of the Civil Engineering programs), FICA Book series, 2005, in Spanish.
+
+Presentations
+Tseng, C-Y. & Tinoco, R.O., "From Substrate to Surface: A Laboratory Study on the Interfacial Gas Transfer in Vegetated Flows Based on a Turbulence Perspective", 10th International Symposium on Environmental Hydraulics, June 25-27, 2024, Aberdeen, Scotland.
+Doyle, H., Prasad, V.,  Suski, C.D., Jackson, P.R., George, A., Stahlschmidt, B.H., Chapman, D., Fischer, J.R., & Tinoco, R.O. "Assessment of bubble screens as a dispersal barrier to control the movement of drifting invasive grass carp (Ctenopharyngodon idella) eggs", 23rd International Conference on Aquatic Invasive Species,  May 12â€“16, 2024, Halifax, Nova Scotia, Canada. 
+Prasad, V., Doyle, H., Suski, C.D., Jackson, P.R., George, A., Stahlschmidt, B.H., Chapman, D., Fischer, J.R., & Tinoco, R.O., "Assessment of bubble screens as a dispersal barrier to control the movement of drifting invasive grass carp (Ctenopharyngodon idella) eggs", 15th International Symposium on Ecohydraulics and Fish Passage, May 5-9 2024, Quebec City, Canada. 
+You, H. & Tinoco, R.O. �Transport and capture of particulate matter in streams with porous obstructions.�. AGU Fall Meeting, San Francisco, December 11-15, 2023
+Ranjan, P. & Tinoco,. R.O., �A two-layer eddy viscosity model to predict the near-bed hydrodynamic in vegetated flows�, 76th Annual Meeting of the Division of Fluid Dynamics APS-DFD, November 19-21, 2023, Washington DC
+You, H., & Tinoco, R.O., �Transport and capture of particulate matter driven by coherent flow structures from in-stream obstructions�, 76th Annual Meeting of the Division of Fluid Dynamics APS-DFD, November 19-21, 2023, Washington DC
+Drimer, J., Andrade-Ramos, J.M., Petri, A.C., Duczynski, M.P., & Tinoco. R.O.Effects of upstream structures on power output and wake evolution of hydrokinetic turbine”, 76th Annual Meeting of the Division of Fluid Dynamics APS-DFD, November 19-21, 2023, Washington DC
+Andrade-Ramos, J.M., Drimer, J., Duczynski, M.P., Petri, A.C., & Tinoco. R.O. “Developing a site-specific, hydrodynamic-based selection of hydrokinetic microturbines for field deployment”, 76th Annual Meeting of the Division of Fluid Dynamics APS-DFD, November 19-21, 2023, Washington DC
+Doyle, H., Prasad, V., Suski, C.D., Jackson, P.R., George, A., Stahlschimdt, B.H., Chapman, D., Fischer, J.R., & Tinoco, R.O., �Developing an oblique bubble screen to redirect drifting eggs in streams: addressing challenges of using live eggs in laboratory tests�, 13th Symposium on River, Coastal and Estuarine Morphodynamics - RCEM2023, Urbana IL, September 25-28, 2023
+Prasad, V., & Tinoco, R.O., �Investigating the mixing layer created by root canopies of floating vegetations�, 13th Symposium on River, Coastal and Estuarine Morphodynamics - RCEM2023, Urbana IL, September 25-28, 2023
+Alkhidhr, S., Nardin, W., & Tinoco, R.O., “Hydrodynamic and Sediment Transport Characteristics of Oyster Castles for Coastal Protection: Insights from Laboratory Experiments”, 13th Symposium on River, Coastal and Estuarine Morphodynamics - RCEM2023, Urbana IL, September 25-28, 2023
+You, H. & Tinoco, R.O., �Effects of submerged obstacles on the transport of particles in streams�, 13th Symposium on River, Coastal and Estuarine Morphodynamics - RCEM2023, Urbana IL, September 25-28, 2023
+Andrade-Ramos, J.M., & Tinoco, R.O., “Effect of Plastics on Sediment Mobility in Rivers and Coastal Areas”, 13th Symposium on River, Coastal and Estuarine Morphodynamics - RCEM2023, Urbana IL, September 25-28, 2023
+Ranjan, P. & Tinoco, R.O. , “Effects of turbulence modulation by suspended sediment stratification in vegetated channel flows”, 13th Symposium on River, Coastal and Estuarine Morphodynamics - RCEM2023, Urbana IL, September 25-28, 2023
+Ranjan, P. & Tinoco, R.O. , “Near-Bed Hydrodynamics in Vegetated Channel Flows”, 13th Symposium on River, Coastal and Estuarine Morphodynamics - RCEM2023, Urbana IL, September 25-28, 2023
+Alkhidhr, S., Nardin, W., & Tinoco, R.O., "Laboratory assessment of Oyster Castles as nature-based solutions in coastal areas", Hydraulic Measurements & Experimental Methods - HMEM 2023, Fort Collins Colorado, June 23-25, 2023.
+Tseng, C-Y. & Tinoco, R.O. "Canopy Randomness and Stem Size Effects on the Sediment-Water-Air Interfacial Transfer in Vegetated Flows". AGU Fall Meeting, December 2022, Chicago IL.
+Vona, I., Tseng, C-Y., Tinoco, R.O. & Nardin, W. "Hydrodynamic flume experiments about the coupling of oysters and breakwaters as a nature-based solution for coastal protection". AGU Fall Meeting, December 2022, Chicago IL.
+Andrade, J.M., Agrawal, P., Drimer, J., Duczynski, M.P., Petri, A.C. & Tinoco, R.O. "Development of a Framework for Laboratory Testing of Hydrokinetic Microturbines to Optimize Deployment in the Field.". AGU Fall Meeting, December 2022, Chicago IL.
+Andrade, J.M. & Tinoco, R.O. "Effect of Plastics on Sediment Mobility in Rivers and Coastal Areas". AGU Fall Meeting, December 2022, Chicago IL.
+Mahon, R.C., Cisneros, J., Johnson, B., Tinoco, R.O. & Yager, E. "Community experimentation - building an open, accessible future in hydraulics, geomorphology, ecohydraulics, and sedimentology". AGU Fall Meeting, December 2022, Chicago IL.
+Ranjan, P., Molloy, M., Thompson, C., Chen, W., Tseng, C-Y. & Tinoco, R.O. "Interfacial gas exchange in vegetated channels under free surface waves", APS-DFD, November 20-22 2022. IN.
+Tinoco, R.O. & Tseng, C-Y. “Characterizing Surface gas transfer driven by turbulence from submerged vegetation-wave interactions”. International Symposium on Ecohydraulics, October 10-14, 2022, Nanjing, China.
+Suski, C., Prasad, V., Jackson, P.R., George, A., Chapman, D., Fischer, J. & Tinoco, R. �Assessing the Efficacy of Oblique Bubble Screens as Egg/Larval Dispersal Barriers�, 152nd Annual Meeting of the American Fisheries Society, August 21-25 2022, Spokane
+Strailey, K., Tinoco, R.O., & Suski, C. “Assessing the Impact of Turbulent Flow on Fish Swimming Performance”, 152nd Annual Meeting of the American Fisheries Society, August 21-25 2022, Spokane
+Strailey, K., Tinoco, R.O., Cienciala, P. & Suski, C. “Incorporating physiology into design of instream restoration structures: the influence of altered flows and turbulence on fish energetics and positional choice”, 14th International Congress on the Biology of Fish, June 28-July 1, 2022. Montpellier, France.
+You, H. & Tinoco, R.O., �Transport and Capture of Neutrally Buoyant Particles in Streams: Investigating the Effect of Obstacle Configuration�. 39th IAHR World Congress June 19-24 2022, Granada, Spain.
+San Juan, J., & Tinoco, R.O. "Incorporating turbulence metrics in the assessment of sediment dynamics on vegetated coasts.". 39th IAHR World Congress June 19-24 2022, Granada, Spain.
+Prasad, V., Suski, C., Jackson, R., George, A., Chapman, D., Fischer, J. & Tinoco, R.O. "Assessing the efficacy of Oblique Bubble Screens for control of Aquatic Invasive Species". 39th IAHR World Congress, June 19-24, 2022 Granada, Spain.
+Tinoco, R.O., Tseng, C-Y., San Juan, J., Prada, A., Ranjan, P., You, H., Prasad, V. & Strailey, K., “Turbulence: The cause of and a possible solution to open questions about biophysical interactions in rivers”, AGU Fall Meeting, New Orleans, December 13-17, 2021
+Tseng, C-Y. & Tinoco, R.O., “From Substrate to Surface: A Turbulence-based Model to Predict Interfacial Gas Transfer across Sediment-water-air Interfaces in Vegetation Streams with Sediments”, AGU Fall Meeting, New Orleans, December 13-17, 2021
+Strailey, K., Tinoco, R.O., Rhoads, B.L., Cienciala, P. & Suski, C., “These Turbulent Times: Interactions Between Fish and Turbulence-Generating Simulated Instream Restoration Structures and Their Influence on Fish Energy Use”, AGU Fall Meeting, New Orleans, December 13-17, 2021
+San Juan, J. & Tinoco, R.O., “On the Mechanisms and a Predictor for Suspended Sediment Under Waves Through Submerged Aquatic Vegetation”, AGU Fall Meeting, New Orleans, December 13-17, 2021
+Strailey, K.K, Tinoco, R.O., Cienciala, P. Rhoads, B.L., and C.D. Suski. “These turbulent times: interactions between fish and turbulence-generating simulated instream restoration structures and their implications for stream restoration”. American Fisheries Society Annual Meeting, Baltimore, MD. November 2021.
+Prasad, V. & Tinoco, R.O. ,�Hydrodynamics in open channel flow with floating vegetation: a comparison of simplified geometry and complex root canopies�, 5th International Symposium on Shallow Flows, Nanjing, China, October 23-25
+You, H. & Tinoco, R.O., �Transport of neutrally buoyant particles at uni-directional flow with submerged obstacles�, 5th International Symposium on Shallow Flows, Nanjing, China, October 23-25
+Ranjan, P. & Tinoco, R.O., “Measurement bias within aquatic vegetation canopy: Effect of gap length”, 5th International Symposium on Shallow Flows, Nanjing, China, October 23-25
+Tseng, C-Y. & Tinoco, R.O., “Turbulence effects by the aquatic vegetation on interfacial transfer process with sediment”, 5th International Symposium on Shallow Flows, Nanjing, China, October 23-25
+Tinoco, R.O., & San Juan, J. �Turbulence-based models to assess sediment transport on vegetated coasts�, International Symposium on Coastal Resources and Environment CORE 2021, Nanjing, China, October 12-16, 2021.
+You, H. & Tinoco, R.O. �The effect of obstacle configuration on the transport of neutrally buoyant particles�, International Symposium on Environmental Hydraulics, Seoul, Korea July 18-22, 2021.
+Tseng, C.Y. & Tinoco, R.O., “Laboratory investigation of suspended sediment concentration in flows with aquatic vegetation”, International Symposium on Environmental Hydraulics, Seoul, Korea July 18-22, 2021.
+Tinoco, R.O., Hebert, L.C., Dace, T., & Cockrell, S. “IMAGINE :Identifying Misconceptions of Access of Underrepresented Groups in Engineering”, AGU Fall Meeting 2020. December 2020.
+Tseng, C.Y. & Tinoco, R.O., “Effects of Aquatic Vegetation on Gas Exchange Process Across Air-Water and Sediment-Water Interface”, AGU Fall Meeting 2020. December 2020.
+Prasad, V. & Tinoco, R.O., �From Surface to Substrate: Impact of Floating Vegetation Root-Canopies on Turbulence and Hydrodynamics in Streams�, AGU Fall Meeting 2020. December 2020.
+Ranjan, P. & Tinoco, R.O., “Assessment of Experimental Bias on Laboratory Studies of Vegetated Flows”, AGU Fall Meeting 2020. December 2020.
+San Juan, J. & Tinoco, R.O., “A New Predictor of Turbulence Metrics for Wave-Dominated Flows through Submerged Aquatic Vegetation”, AGU Fall Meeting 2020. December 2020.
+Strailey, K., Tinoco, R.O., Cienciala, P., Thoads, B.L. & Suski, C. “Incorporating Fish Physiology in Stream Restoration: The Influences of Turbulence on Fish Energetics and Positional Choice”, AGU Fall Meeting 2020. December 2020.
+Ranjan, P. & Tinoco, R.O., “Initiation of Motion and Form Drag of Plastic Waste in Landfills”, AGU Fall Meeting 2020. December 2020.
+You, H. & Tinoco, R.O., “Analyzing the response of grass carp larvae to acoustic stimuli using particle tracking velocimetry.”, AGU Fall Meeting 2020. December 2020.
+Yadav, V., Sherly, M.A., Ranjan, P., Prasad, V., Tinoco & Laurent, A., “Clustering cities based on the categorized risks of plastics losses to the environment from landfills”, International Conference on Resource Sustainability 2020, Dublin, Ireland June 30-July 2nd 2020 (postponed to July 2021)
+Tinoco, R.O. & Prada, A.F., A laboratory study on preferential paths of fish eggs and larvae  through submerged vegetation, International Symposium of Ecohydraulics, Lyon, France, November , 2020.
+Tinoco, R.O., & Tseng, C-Y. “From substrate to surface: the effect of vegetation-generated turbulence on surficial gas transfer.”, River Flow 2020, Delft, Netherlands, July 7-10 2020.
+Ranjan, P., San Juan, J., Fischer, P. & Tinoco R.O., “Investigation of Hydrodynamics and Sediment Transport within Emergent Vegetation Canopy”, River Flow 2020, Delft, Netherlands, July 7-10 2020.
+Strailey, K., Tinoco, R.O., Cienciala, P. Rhoads, B.L., and C.D. Suski. ”Simulated instream restoration structures offer smallmouth bass (Micropterus dolomieu) swimming and energetic advantages at high flow velocities” 2020 Upper Midwest Stream Restoration Symposium, Stillwater, MN. February 2020.
+Strailey, K., Tinoco, R.O., Cienciala, P. Rhoads, B.L., and C.D. Suski. “Simulated instream restoration structures offer swimming and energetic advantages at high flow velocities”. 80th Midwest Fish and Wildlife Conference, Springfield, IL. January 2020.
+Prada, A.F., George, A.E., Stahlschmidt, B.H., Jackson, P.R., Chapman D.C., & Tinoco, R.O., "Using turbulence as a mechanism to control the spread of Grass carp in streams at early life-stages.", Midwest Fish and Wildlife Conference 2020
+Springfield IL, January 26-29, 2020.
+Prada, A.F., George, A.E., Stahlschmidt, B.H., Jackson, P.R., Chapman D.C., & Tinoco, R.O., “Invasive carp and their relation with turbulence: How flow turbulence can influence the mortality of grass carp eggs and the swimming behavior of larvae”, AGU Fall Meeting, December 2019.
+Tinoco, R.O., Ranjan, P., & Prada, A.F. “Particle Capture by Aquatic Vegetation Patches: Application to Eggs and Larvae Traveling in Streams”, AGU Fall Meeting, December 2019.
+Tseng, C.Y., & Tinoco, R.O., “Quantifying the Effect of Aquatic Vegetation on Interfacial Gas Transfer in Streams”, AGU Fall Meeting, December 2019. 
+Tseng, C.Y., Duemler, K.H., & Tinoco, R.O, “Laboratory Study of Gravity Currents over Submerged Vegetation Canopies”, AGU Fall Meeting, December 2019. 
+Tinoco, R.O., Qin, J., Oeij, J., Cienciala, P., Suski, C., Rhoads, B.L., “Fish Response to Coherent Flow Structures: A 3D Characterization of Turbulent Features Affecting Swimming Capabilities of Fish”, AGU Fall Meeting, December 2019.
+San Juan, J.E., Tinoco, R.O., "Three-dimensional distribution of vegetation-induced turbulence and its effect on suspended sediment concentration profiles in oscillatory flows", RCEM 2019, November 2019, Auckland NZ.
+Tinoco,R.O. "Wave-dominated or current-dominated? A study on turbulence-driven sediment resuspension on combined flows through aquatic vegetation", RCEM 2019, Auckland NZ, November 2019.
+Dutta, S., Ranjan, P., Fisher, P. & Tinoco, R.O., “Turbulent Oscillatory Flow Through Random Array of Emergent Vegetation”, RCEM, Auckland NZ, November 2019
+Tinoco, R.O., "Beyond scales: Bridging the gap between Ecomorphodynamic processes in the laboratory and in the field ", 1st International Coastal Resilience Symposium, Merida, Mexico.
+Tinoco, R.O., Blahnik, L., Diaz, D., Freitag, B., Carlstrom, S., "Thermal mixing at vegetated stream confluences", 38th IAHR World Congress, Panama City, Panama, September 2019.
+Ranjan, P., Dutta, S., Fischer, P., Tinoco, R.O., Stratification effects in a sediment-laden vegetated open channel flow, FEF2019, Chicago, March 31-April 4, 2019.
+
+Strailey, K., Tinoco, R.O., Cienciala, P., Rhoads, B., Suski, C. "Energetics and swim behavior of fish swimming in turbulent flows". FEF2019, Chicago, March 31-April 4, 2019
+
+George, A.E., Stahlschmidt, B.H., Carlson, C.L., Tinoco, R.O.,   Prada, A.F., & Chapman D.C , Sensory development and navigation in larval grass carp, Midwest Fish and Wildlife Conference 2019, Cleveland OH, January 27-30 2019.
+
+Prada, A.F., Tinoco, R.O., George, A.E.,. Stahlschmidt, B.H. & Chapman D.C, "Location, location, location: Identifying preferential drifting and swimming paths for grass carp eggs and larvae under different flow conditions.", Midwest Fish and Wildlife Conference 2019, Cleveland OH, January 27-30 2019.
+Tinoco, R.O., Prada, A., George, A., Stahlschmidt, B., & Chapman, D., Grass carp response to flow turbulence: egg mortality and larvae response to altered flows, AGU Fall Meeting 2018.
+
+San Juan, J. & Tinoco, R.O., Experimental study of the temporal and spatial distribution of turbulence within vegetation under oscillatory flows, AGU Fall Meeting 2018
+
+Ranjan, P., Dutta, S., Fischer, P. & Tinoco, R.O., High-resolution numerical investigation of hydrodynamics and sediment transport within emergent vegetation, AGU Fall Meeting 2018
+
+Jin, C., Coco, G., San Juan, J., Tinoco, R.O., & Goldstein, E. Laboratory Experiments on Flow Structure over Transient Ripples Geometry, AGU Fall Meeting 2018.
+
+Tinoco, R.O., San Juan, J. "Experimental study of flow-vegetation-sediment interactions: submerged vegetation under oscillatory flow", YCSEC-A 2019, November 9-11, Merida, Mexico.
+
+Tinoco, R.O., Mullarney, J., San Juan, J, "Simplification Bias: Lessons From Laboratory and Field Data on 
+Vegetation-Flow-Sediment Interactions", CORE2018, Nanjing, China, October 19-21, 2018.
+
+Prada, A., Tinoco, R.O., George, A., Stahlschmidt, B., & Chapman, D., "Drifting and swimming response of Asian carp eggs and larvae to different flow conditions in a laboratory flume experiment", 42nd Annual Larval Fish Conference, Victoria, BC, Canada, June 24-28.
+
+George, A.E., Prada, A.F., Tinoco, R.O., Stahlschmidt, B.H. & Chapman D.C. " Hydrodynamic transport of Asian carp eggs and larvae in a flume: implications for sampling", 42nd Annual Larval Fish Conference, Victoria, BC, Canada, June 24-28.
+
+Tinoco, R.O., Prada, A., George, A., Stahlschmidt, B., & Chapman, D., "Drifting and swimming patterns of Asian carp larvae in altered flows: a laboratory study". ISEH, Indiana, June 4-7, 2018.
+Prada, A., Tinoco, R.O., George, A., Stahlschmidt, B., & Chapman, D., "Drifting patterns of Asian carp eggs from spawning to hatching: a laboratory study". ISEH, Indiana, June 4-7, 2018.
+
+Leman, A. & Tinoco, R.O., "Hydrodynamic Characterization of an Open Racetrack Flume for Algae Cultivation", ISEH, Indiana, June 4-7, 2018.
+
+Ranjan, P., Dutta, S., Mittal K., Fischer, P. & Tinoco, R.O. "Investigation of oscillatory flow through emergent aquatic-vegetation patches using high-resolution numerical simulations", ISEH, Indiana, June 4-7, 2018.
+
+Tinoco, R.O., San Juan, J. & Prada, A., "The Effect of Stem- and Canopy-Scale Turbulence on Sediment Dynamics within Submerged Vegetation", AGU Fall Meeting, New Orleans, December 2017.
+
+Tinoco, R.O., and Coco, G. "Vegetation impact on bed morphology: Laboratory studies on arrays of rigid cylinders on a sandy bed under combined flows", RCEM2017, Padova, Italy, September 2017.
+
+J. San Juan and Tinoco, R.O. "Vegetation generated turbulence and 3D coherent structures on oscillatory flows through aquatic vegetation", RCEM2017, Padova, Italy, September 2017.
+
+Tinoco, R.O., Goldstein, E.B., & Coco, G. "A Data-Driven Approach to Develop Physically Sound Predictors: Application to Depth-Averaged Velocities and Drag Coefficients on Vegetated Flows", AGU Fall Meeting, San Francisco, CA, December 2016
+San Juan Blanco, J.E., Veliz, G. & Tinoco, R.O., "Effects of Vegetation Morphology on Mean Velocity and Turbulence Intensity under Oscillatory Flows and Their Implications for Sediment Transport in Benthic Zone", AGU Fall Meeting, San Francisco, CA, December 2016.
+Harder, L.F., Rutherford, C.J., Bernhardt, M.L., Gamez, J., Lobbestael, A., Mofarraj, B., Musgrove, M., Pinter, N., Rosenblad, B., Tinoco, R.O., & Uong, M.D. "Preliminary observations of levee performance and damage following the 2015-16 midwest floods in Missouri and Illinois", Annual Conference of the Association of State Dam Safety Officials, Philadelphia, PA, September 2016.
+Tinoco, R.O., "Vegetation as erosion control on coastal areas: experimental studies", Latin American Hydraulics Congress, Lima, Peru, September 26-30, 2016. 
+Cowen, E.A., Schweitzer, S.A., Citerone, V.R., King, A.T., Johnson, E.D., & Tinoco, R.O. "Exploiting Surface Turbulence Metrics and Secondary Flows in Straight River Reaches and Open Channels", 8th International Conference on Fluvial Hydraulics-River Flow 2016, St Louis, MO, July 2016.
+Tinoco, R.O., & Coco, G. “A laboratory study on sediment resuspension within arrays of rigid cylinders”, AGU Fall Meeting, San Francisco, CA, December 18 2015.
+Tinoco, R.O., & Coco, G. “On the effect of spectral width on the onset of bedforms under combined flows”. Accepted abstract for the 9th Symposium on River, Coastal and Estuarine Morphodynamics, RCEM 2015, Iquitos, Peru, September 2015.
+Muriel, D., Tinoco, R.O., & E.A. Cowen. “The Filardo Pump: a self-powered water pump and its applications for renewable energy”, Congreso Latinoamericano de Hidráulica, Santiago, Chile, August 2014.
+Tinoco, R.O. & Coco, G. “On the onset of sediment motion and resuspension in the presence of submerged cylinders”. Ocean Sciences Meeting, Honolulu, Hawaii, February 2014.
+Tinoco, R.O., Cowen, E.A. & Coco, G. “Flow and drag on submerged obstructions: from flow through aquatic vegetation to sediment transport in communities of benthic organisms”. 8th Symposium on River, Coastal and Estuarine Morphodynamics, RCEM 2013, Santander, Spain, June 2013.
+Coco, G., Olabarrieta, M. van Maanen, B., Zhou, Z., Tinoco, R.O. “Morphodynamics of tidal networks: advances and challenges”, Invited talk, AGU Fall Meeting, San Francisco, CA, December 7, 2012.
+Cowen, E.A., Tinoco, R.O., Muriel, D., Holst-Warhaft, G., Steenhuis, T.S., Filardo, B.P. & Shan, B. “Development of a low-cost, robust, sustainable water-powered pump”. Atkinson Center for a Sustainable Future Sustainability Panel, Cornell University, Ithaca, NY, October 26, 2012. 
+Tinoco, R.O. & Cowen, E.A., “Experimental study of vegetated flow: Three-dimensional flow structures and direct measurement of drag in aquatic canopies”, Coherent Flow Structures in Geophysical Flows at Earth's Surface, Burnaby, BC, Canada, August 4, 2011.
+Tinoco, R.O. & Cowen, E.A., “Experimental study of flow through macrophyte canopies”, 33rd IAHR Congress, Vancouver, BC, Canada, August 13, 2009.
+Tinoco, R.O. & Cowen, E.A., “Effects of aquatic vegetation density on low speed flows”, 7th International Symposium on Ecohydraulics, Concepción, Chile, January 13, 2009.
+Tinoco, R.O. & Cowen, E.A., “Mass and momentum transport in low speed flow through flexible aquatic vegetation”, 2008 Ocean Sciences Meeting, American Society of Limnology and Oceanography, Orlando, Florida, March 2008
+Tinoco, R.O. & Cowen, E.A., “Low speed flows through flexible aquatic vegetation”, 2007 Hydraulic Measurements and Experimental Methods Conference, Environmental and Water Resources Institute of the American Society of Civil Engineers, Lake Placid, NY, September 2007.
+Jaime. A., & Tinoco, R.O., “La carrera de Ingenieria Civil en México (The Civil Engineering programs in Mexico)”, 32nd National Engineering Conference, ANFEI, Toluca, Mexico, June 2005.
+Jaime. A., & Tinoco, R.O., “Enfoque educativo de la investigación en Ingeniería Civil (An educational approach to research in Civil Engineering)”, First Congress on Research in Colleges and Schools, Ciudad Universitaria, UNAM, Mexico City, Mexico, March 2005.
+Jaime. A., & Tinoco, R.O., “Evolución de la carrera de Ingeniería Civil en México (Evolution of the programs of Civil Engineering in Mexico)”, 31st National Engineering Conference, ANFEI, Tijuana, Mexico, June 2004.
+
+Teaching Honors
+List of Teachers ranked as Excellent by their Students, Spring 2023 (CEE459) (Spring 2023)
+List of Teachers ranked as Excellent by their Students, Fall 2022 (CEE451) (Fall 2022)
+List of Teachers ranked as Excellent by their Students, Fall 2020 (CEE555) (Fall 2020)
+List of Teachers ranked as Excellent by their Students, Fall 2018 (CEE555) (Fall 2018)
+List of Teachers ranked as Excellent by their Students, Spring 2017 (CEE498eh) (Spring 2017)
+
+Research Honors
+2023 Campus Distinguished Promotion Award (2023)
+NSF CAREER Award (2018)
+
+Other Honors
+Student award: Chien-Yung Tseng – awarded Best Young Professional Award at the IAHR 9th International Symposium on Environmental Hydraulics. Seoul, Korea (July 2021)
+Augusto Gonzalez Linares Fellowship to attract international talent in strategic areas, University of Cantabria, Spain (2012 - 2014)
+
+Recent Courses TaughtCEE 331 - Fluid Dynamics in the Environm
+CEE 350 - Water Resources Engineering
+CEE 432 (IB 450) - Stream Ecology
+CEE 451 - Environmental Fluid Mechanics
+CEE 459 (GGIS 459, GEOG 459, CEE 498 EH, CEE 498 EHO) - Ecohydraulics
+CEE 555 - Mixing in Environmental Flows
+CEE 595 W - Hydro Seminar
+

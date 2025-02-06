@@ -1,0 +1,51 @@
+
+
+
+Yia-Chung Chang 
+
+
+
+
+
+Professor Emeritus
+
+
+
+ychang15@illinois.edu
+ 
+
+
+Education
+Ph.D., Physics, California Inst. of Tech., 1980
+
+BiographyProfessor Chang received his bachelor's degree in physics from National Cheng-Kung University in Taiwan in 1974 and his Ph.D. in physics from the California Institute of Technology in 1980. He joined the faculty of the Department of Physics at Illinois that year as a visiting assistant professor and has steadily advanced through the professorial ranks. He became a full professor in 1991.
+Professor Chang has made seminal contributions to theoretical explanations of and predictions for phenomena related to electronic materials important to industry. An important early contribution was his development of a new theoretical technique to calculate the optical signal of complicated lineshapes of discrete excitonic states coupled with continuua from other subband-to-subband transitions. He has elucidated the electronic and acoustic properties of artificially structured materials and the behavior of optical phonons in superlattices.
+Research StatementTheoretical Studies of Self-assembled Quantum Dots 
+We calculate the electronic and optical properties of quantum dots grown on semiconductor substrates, including the effects of strain distribution. The stress-strain field in these heterostructures will be determined by a continuum elastic theory combined with molecular dynamic studies. Properties of interest include photoluminescence, absorption, dark current, photoconductive gain, impurity levels, charging effects, and exciton states. 
+
+Optical Properties of Semiconductor Quantum Wires grown by the SILO Process
+Band structures and optical matrix elements of strained multiple quantum wires (QWRs) are investigated theoretically via the effective bond-orbital model, which takes into account the effects of valence-band anisotropy and band mixing. The Ga1-xInxAs QWRs grown by strain-induced lateral ordering (SILO) are considered. Long wavelength Ga1-xInxAs QWR lasers have been fabricated via a single-step MBE technique which uses the SILO process. Low threshold current and high optical anisotropy have been achieved. Multiaxial strains for the QWR (combinations of biaxial strains in the [001] and [011] planes) are considered. Our calculated anisotropy in optical matrix elements is in good agreement with the experimental results. 
+
+Exchange Coupling in Magnetic Multilayers
+We performed theoretical studies of the interlayer exchange coupling (IEC) in magnetic multilayer (Co/Cu and Fe/Cr) systems, taking into account the realistic band structures. We also investigated the magnetic layer thickness dependence of IEC in magnetic multilayers in which the extremal points of the Fermi surfaces for the spacer and magnetic material do not coincide. We showed that the oscillation period is determined by a stationary condition that depends on the mixed geometry of Fermi surfaces for both materials. The giant magnet resistance (GMR) effect will be investigated next. 
+
+Electronic and Optical Properties of Surfaces and Heterostructures
+This project concentrates on theoretical studies of electronic and optical properties of semiconductor surfaces and heterostructures by using a newly developed first-principle pseudopotential method in planar-orbital basis (products of two-dimensional plane waves and one-dimensional Gaussian functions). The method is efficient and accurate and well suited for treating layered systems. In particular, we are investigating the work functions, hydrogen passivation, and optical responses of various semiconductor surfaces. Planar Wannier functions can be constructed directly from Bloch states expressed in terms of planar orbitals and they can be used for modeling of realistic heterostructure devices.
+
+Research Areas
+Condensed Matter Physics
+
+
+Selected Articles in Journals
+Y.-C. Chang, R. B. James, and J. Davenport. Symmetrized-basis LASTO calculations of defects in CdTe and ZnTe. Phys. Rev. B 73, 035211-1-11 (2006).
+X. Cartoixa and Y.-C. Chang. Fermi-level oscillation in n-type δ-doped Si: a self-consistent tight-binding approach. Phys. Rev. B 72, 125330-1-6 (2005).
+D. M. T. Kuo and Y.-C. Chang. Tunnelling current and emission spectrum of single electron transistor under optical pumping. Phys. Rev. B 72, 085334-1-12 (2005).
+A. Fang, Y.-C. Chang, and J. R. Tucker. Simulation of Si:P spin-based quantum computer architecture. Phys. Rev. B 72, 075355-1-17 (2005).
+X. Cartoixà, D. Z. Y. Ting, and Y.-C. Chang. Suppression of the D'yakonov-Perel' spin-relaxation mechanism for all spin components in [111] zincblende quantum wells. Phys. Rev. B 71, 045313-1-5 (2005).
+G. Qian, Y.-C. Chang, and J. R. Tucker . Theoretical studies of phosphorous δ-doped silicon for quantum computing. Phys. Rev. B 71, 045309-1-9 (2005).
+D. M. T. Kuo and Y.-C. Chang. Electrically driven spontaneous emission spectrum of a single quantum dot. J. Phys. Soc. of Japan 74, 690-699 (2005).
+
+Research Honors
+Distinguished Visiting Scientist, NASA Jet Propulsion Lab, 2004-2006
+Fellow, American Physical Society, 2001
+

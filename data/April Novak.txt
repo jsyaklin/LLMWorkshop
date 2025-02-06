@@ -1,0 +1,137 @@
+
+
+
+April Novak she/her/hers
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-5822
+ajnovak2@illinois.edu
+117 Talbot Laboratory
+
+
+For More Information
+Google Scholar
+
+Research Gate profile
+
+Education
+University of California, Berkeley, PhD in Nuclear Engineering, 2020
+University of Illinois, Urbana-Champaign, BS in Nuclear, Plasma, and Radiological Engineering, 2015
+
+Academic Positions
+2023-present, Assistant Professor, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering
+2023-present, Assistant Professor, University of Illinois at Urbana-Champaign, National Center for Supercomputing Applications (0%)
+
+
+Other Professional Employment
+Maria Goeppert-Mayer Fellow, Argonne National Laboratory, 2020-2023
+
+
+Research Interests
+Multiphysics methods and applications
+Multiscale thermal-hydraulics
+Monte Carlo transport methods
+Reactor design and analysis
+High performance computing
+
+
+Research Areas
+Multi-Physics Modeling and Simulation
+Reactor Physics
+
+
+Selected Articles in Journals
+A.J. Novak, J.W. Peterson, L. Zou, D. Andrs, R.N. Slaybaugh, and R.C. Martineau. "Validation of Pronghorn Friction-Dominated Porous Media Thermal-Hydraulics Model with the SANA Experiments." Nuclear Engineering and Design 350:182-194 (2019)
+R.C. Martineau, D. Andra, R. Carlsen, D. Gaston, J. Hansel, F. Kong, A. Lindsay, C. Permann, A. Slaughter, E. Merzari, R. Hu, A. Novak, and R. Slaybaugh. "Multiphysics for Nuclear Energy Applications Using a Cohesive Computational Framework." Nuclear Engineering and Design 367:110751 (2020)
+
+P. Romano, S.P. Hamilton, R.O. Rahaman, A. Novak, E. Merzari, S.M. Harper, P.C. Shriwise, and T.M. Evans. "A Code-Agnostic Driver Application for Coupled Neutronics and Thermal-Hydraulic Simulations." Nuclear Science and Engineering 195:391-411(2020)
+A.J. Novak, S. Schunert, R.W. Carlsen, P. Balestra, R.N. Slaybaugh, and R.C. Martineau. "Multiscale Thermal-Hydraulic Modeling of the Pebble Bed Fluoride-Salt-Cooled High-Temperature Reactor." Annals of Nuclear Energy 154:107968 (2021)
+A.J. Novak, R.W. Carlsen, S. Schunert, P. Balestra, D. Reger, R.N. Slaybaugh, and R.C. Martineau. "Pronghorn: A Multidimensional Coarse Mesh Application for Advanced Reactor Thermal-Hydraulics." Nuclear Technology 207:1015-1046 (2021)
+A.J. Novak, D. Andrs, P. Shriwise, J. Fang, H. Yuan, D. Shaver, E. Merzari, P.K. Romano, and R.C. Martineau. "Coupled Monte Carlo and Thermal-Fluid Modeling of High Temperature Gas Reactors Using Cardinal." Annals of Nuclear Energy 177:109310 (2022)
+A.D. Lindsay, D.R. Gaston, C.J. Permann, J.M. Miller, D. Andrs, A.E. Slaughter, F. Kong, J. Hansel, R.W. Carlsen, C. Icenhour, L. Harbour, G.L. Giudicelli, R.H. Stogner, P. German, J. Badger, S. Biswas, L. Chapuis, J. Hales, W. Jiang, Z.M. Prince, S. Schunert, D. Schwen, B.W. Spencer, A. Recuero, D. Yushu, Y. Wang, C. Wong, T. Hu, A. Novak, Y.S. Jung, Y. Miao, C. Mathews, A. Rovinelli, J.W. Peterson, C. Green, A. Wilkins, S. Veeraraghavan, "2.0 - MOOSE: Enabling Massively Parallel Multiphysics Simulation." SoftwareX 20:101202 (2022)
+G.L. Giudicelli, A. Abou-Jaoude, A.J. Novak, A. Abdelhameed, P. Balestra, L. Charlot, J. Fang, B. Feng, T. Folk, R. Freile, T. Freyman, D. Gaston, L. Harbour, S. Harper, T. Hua, W. Jiang, N. Martin, Y. Miao, J. Miller, D. O'Grady, D. Reger, E. Shemon, N. Stauff, M. Tano, S. Walker, and C. Permann, "The Virtual Test Bed (VTB) Repository: A Library of Multiphysics Reference Reactor Models Using NEAMS Tools." Nuclear Science and Engineering 197 (2023)
+A.J. Novak, P. Shriwise, P.K. Romano, R. Rahaman, E. Merzari, and D. Gaston, "Coupled Monte Carlo and Conjugate Heat Transfer for Wire-Wrapped Bundles Within the MOOSE Framework." Nuclear Science and Engineering (2023)
+
+Articles in Conference Proceedings
+A. Hegazy, A.J. Novak, and R. Uddin, "Multiphysics Simulation of TRISO Fuel Compacts and the Effects of Homogenization," Proceedings of Physor (2024)
+
+M. Eltawila, A. Novak, and Y. Miao, "Coupled Multiphysics Modeling of Heat Pipe Microreactors using Cardinal, BISON, and Sockeye." Proceedings of Physor (2024)
+
+A. Abou-Jaoude, E. Shemon, G. Giudicelli, S. Walker, L. Charlot, M. Tano, J. Fang, A. Novak, Z. Ooi, H. Park, N. Wozniak, Y. Miao, A. Abdelhameed, N. Stauff, and L. Zou, "Status of New Models Hosted on the Virtual Test Bed (VTB) in 2023," Proceedings of ANS (2023)
+
+A.J. Novak, P. Shriwise, P. Romano, D. Shaver, J. Fang, H. Yuan, D. Gaston, E. Merzari, H. Brooks, and A. Huxford, "High-Fidelity Multiphysics for Fission: Challenges, Accomplishments, and Future Directions," Proceedings of Nureth (2023)
+
+A.J. Novak, C. Bourdot Dutra, D. Shaver, and E. Merzari, "NekRS CFD Simulations of Interassembly Flow in Sodium Fast Reactors," Proceedings of Nureth (2023)
+
+V.C. Leite, E. Merzari, A. Novak, R. Ponciroli, and L. Ibarra, "Application of a Physically Informed Convolutional Neural Network for Monitoring the Temperature Field in Advanced Reactors," Proceedings of Nureth (2023)
+
+A.J. Novak, H. Brooks, P. Shriwise, A. Hegazy, and A. Davis, "Multiphysics Coupling of OpenMC CAD-Based Transport to MOOSE using Cardinal and Aurora," Proceedings of M&C (2023)
+
+L. Gross, A.J. Novak, P. Shriwise, and P.P.H. Wilson, "Verification of the Cardinal Multiphysics Solver for 1-D Coupled Heat Transfer and Neutron Transport," Proceedings of M&C (2023)
+
+H. Park, Y. Yu, E. Shemon, and A. Novak, "Development of Coupled Code System with Griffin, MOOSE and NekRS for Hot Channel Factor Evaluation in Fast Reactor," Proceedings of M&C (2023)
+
+ A. Hegazy and A.J. Novak, "Verification of the Cardinal Multiphysics Solver with the Doppler Slab Benchmark," Proceedings of M&C (2023)
+
+A. Chaube, A. Novak, H. Yuan, E. Merzari, D.R. Shaver, P.F. Fischer, and C. Brooks, "A Preliminary Fluid-Structure Coupling of NekRS and MOOSE via Cardinal," Proceedings of M&C (2023)
+
+A.J. Novak, A. Chaube, D. Shaver, and C. Brooks, "Validation of NekRS-MOOSE Conjugate Heat Transfer Coupling for a 7-Pin Bare Bundle,"  Proceedings of ANS (2022)
+
+A. Abou-Jaoude, E. Shemon, G. Giudicelli, S. Walker, T. Folk, M. Tano, J. Fang, and A. Novak, "Status of New Models Hosted on the Virtual Test Bed (VTB) in 2022." Proceedings of ANS (2022)
+
+M. Min, Y. Lan, P. Fischer, E. Merzari, S. Kerkemeier, M. Phillips, T. Rathnayake, A. Novak, D. Gaston, N. Chalmers, and T. Warburton, "Optimization of Full-Core Reactor Simulations on Summit." Proceedings of Supercomputing (2022)
+
+P.C. Shriwise, A. Davis, A.J. Novak, H.M. Brooks, and P.K. Romano, "Unstructured Mesh Capabilities and Multiphysics Simulation with OpenMC." Proceedings of TOFE (2022)
+
+Y. Yu, A. Novak, D. Shaver, and E. Merzari, "Coupled Simulation of Reactor Pressure Vessel (RPV) Subjected to Pressurized Thermal Shock (PTS) Using Cardinal." Proceedings of ATH (2022)
+
+A.J. Novak, D. Andrs, P. Shriwise, D. Shaver, P.K. Romano, E. Merzari, and P. Keutelian, "Coupled Monte Carlo and Thermal-Hydraulics Modeling of a Prismatic Gas Reactor Fuel Assembly Using Cardinal." Proceedings of PHYSOR (2022)
+
+A.J. Novak, P. Shriwise, R. Rahaman, P.K. Romano, E. Merzari, and D. Gaston, "Coupled Monte Carlo Transport and Conjugate Heat Transfer for Wire-Wrapped Bundles Within the MOOSE Framework." Proceedings of NURETH (2022)
+
+A.J. Novak, D. Shaver, and B. Feng, "Conjugate Heat Transfer Coupling of NekRS and MOOSE for Bypass Flow Modeling." Proceedings of ANS (2021)
+
+G. Giudicelli, A. Abou-Jaoude, and A.J. Novak, "Coupled Multiphysics Simulations of the Mk1-FHR in the Virtual Test Bed." Proceedings of ANS (2021)
+
+B. Feng, J. Fang, T. Hua, N. Stauff, A. Novak, L. Zou, R. Hu, P. Balestra, D. Reger, N. Martin, G. Giudicelli, and A. Abou-Jaoude, "Single- and Multi-Physics Models of Advanced Reactors in the Virtual Test Bed." Proceedings of ANS (2021)
+
+G. Giudicelli, D.R. Gaston, P. Balestra, A.J. Novak, M.D. DeHart, A. Abou-Jaoude, J. Ortensi, A. Lindsay, and R.W. Carlsen, "Coupled Multi-Physics Transient Simulations of the Mk1-FHR Reactor Using the MOOSE Framework." Proceedings of M&C (2021)
+
+J. Lee, P. Balestra, S. Schunert, A. Novak, Y. Hassan, M. DeHart, and R.C. Martineau, "Pronghorn Fully Compressible Equation Set Validation Against SANA Open Plenum Experiments." Proceedings of HTR (2020)
+
+P. Balestra, S. Schunert, R.W. Carlsen, A.J. Novak, M.D. DeHart, R.C. Martineau, "PBMR-400 Benchmark Solution of Exercise 1 and 2 Using the MOOSE Based Applications: MAMMOTH, Pronghorn." Proceedings of PHYSOR (2020)
+
+P. Romano, S. Hamilton, R. Rahaman, A. Novak, E. Merzari, S. Harper, and P. Shriwise. "Design of a code-agnostic driver application for high-fidelity neutronic and thermal-hydraulic simulations." Proceedings of PHYSOR (2020)
+
+A.J. Novak, R.N. Slaybaugh, and R.C. Martineau. "Multiscale Core Thermal-Hydraulics Analysis of the Pebble Bed Fluoride-Salt-Cooled High-Temperature Reactor." Proceedings of M&C (2019)
+
+A.J. Novak, L. Zou, J.W. Peterson, R.C. Martineau, and R.N. Slaybaugh. "Pronghorn: Porous Media Thermal-Hydraulics for Reactor Applications" Proceedings of ANS (2018)
+
+A.J. Novak, L. Zou, J.W. Peterson, R.C. Martineau, and R.N. Slaybaugh. "Pronghorn: A Porous Media Thermal-Hydraulics Core Simulator and its Validation with the SANA Experiments." Proceedings of ICAPP (2018)
+
+L. Zou, J.W. Peterson, A.J. Novak, R.C. Martineau, and H.D. Gougar. "Stabilized Finite Element Formulation for Thermally-Driven Porous Media Flows in Pronghorn." Proceedings of ANS (2018)
+
+A.J. Novak, P. Romano, B. Wendt, R. Rahaman, E. Merzari, L. Kerby, C. Permann, R. Martineau, and R.N. Slaybaugh. "Preliminary Coupling of OpenMC and Nek5000 Within the MOOSE Framework." Proceedings of PHYSOR (2018)
+
+B. Wendt, A.J. Novak, P. Romano, and L. Kerby. "Integration of Functional Expansion Methodologies as a MOOSE Module." Proceedings of PHYSOR (2018)
+
+J.C. Kendrick, A.J. Novak, C.M. Poresky, N. Zweibaum, P.F. Peterson. "Observations of Flow Instability in a Heated Narrow Vertical Slot in the UCB CIET Facility." Proceedings of ICAPP (2016)
+
+
+Teaching Honors
+Outstanding Graduate Student Instructor Award (2020)
+
+Research Honors
+R&D 100 Award, "Cardinal: Accelerating Discovery in Fusion and Fission Energy" (2023)
+Innovations in Nuclear Technology R&D Award, 1st Place in Advanced Reactor Systems (2018)
+
+Recent Courses TaughtNPRE 100 - Orientation to NPRE
+NPRE 455 - Neutron Diffusion & Transport
+NPRE 501 - Fundamentals of Nuclear Engrg
+

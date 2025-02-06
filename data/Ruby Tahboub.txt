@@ -1,0 +1,58 @@
+
+
+
+Ruby Tahboub 
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+rubyt@illinois.edu
+2334 Siebel Center for Comp Sci
+
+
+For More Information
+Ruby's Website
+
+
+Education
+Purdue University, West Lafayette, M.S in Computer Science -2016
+Purdue University, West Lafayette, Ph.D. in Computer Science - 2019
+
+Academic Positions
+Teaching Assistant Professor,  University of Illinois Urbana-Champaign, Siebel School of Computing and Data Science, 2022-Present.
+Visiting Assistant Professor, Purdue University, West Lafayette, Computer Science, 2019-2022
+
+Resident Instruction
+CS 591 TA Teaching Assistant Training
+
+CS 412 Introduction to Data Mining
+
+CS 101 Introduction to Programming for Engineers and Scientists
+
+
+
+
+Articles in Conference Proceedings
+Ruby Y. Tahboub, Tiark Rompf. Architecting a Query Compiler for Spatial Workloads. International Conference on Management of Data (SIGMOD)  2020.
+
+Grégory M. Essertel, Ruby Y. Tahboub, James Decker, Kevin Brown, Kunle Olukotun, Tiark Rompf. Flare: Whole Query Compilation for Apache Spark. USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2018.
+
+Ruby Y. Tahboub, Grégory M. Essertel, Tiark Rompf. How to Architect a Query Compiler, Revisited. International Conference on Management of Data (SIGMOD) 2018.
+
+
+Teaching Honors
+Raymond Boyce Graduate Teacher Award, Purdue University (2016)
+
+Research Honors
+Best Demo Award, LIMO: Learning Programming using Interactive Map Activities. ACM SIGSPATIAL
+ (2015
+)
+
+Recent Courses TaughtCS 101 - Intro Computing: Engrg & Sci
+CS 412 CSP (CS 412 DSO, CS 412 MC3, CS 412 MC4, CS 412 P3, CS 412 P4, CS 412 PG, CS 412 PU) - Introduction to Data Mining
+

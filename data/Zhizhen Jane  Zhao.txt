@@ -1,0 +1,51 @@
+
+
+
+Zhizhen Jane Zhao 
+
+
+
+
+
+Associate Professor
+William L. Everitt Faculty Fellow
+
+
+(217) 300-4748
+zhizhenz@illinois.edu
+109 Coordinated Science Lab
+
+
+For More Information
+Prof Zhao's Homepage
+
+Research Interests
+Machine learning and data science
+Imaging sciences and inverse problems
+Signal processing
+
+
+Research Areas
+Biomedical imaging
+Biomedical Imaging, Bioengineering, and Acoustics
+Machine learning and pattern recognition
+Signal Processing
+
+
+Research Topics
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Imaging science and systems
+Machine learning
+Medical imaging
+
+Recent Courses TaughtCS 446 (ECE 449) - Machine Learning
+ECE 310 - Digital Signal Processing
+ECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 365 - Data Science and Engineering
+ECE 513 - Vector Space Signal Processing
+ECE 544 NA - Pattern Recognition
+ECE 598 ZZ - High Dim Geom Data Analysis
+ECE 598 ZZ - High Dimensional Geometric Dat
+

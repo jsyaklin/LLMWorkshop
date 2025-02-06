@@ -1,0 +1,208 @@
+
+
+
+Daniel A Tortorelli 
+
+
+
+
+
+George B. Grim Professor Emeritus
+
+
+(217) 333-5991
+dtortore@illinois.edu
+3051 Sidney Lu Mech Engr Bldg
+
+
+For More Information
+Analytical and Computational Mechanics Lab
+Research Website
+
+Education
+Ph.D.	ME	University of Illinois at Urbana-Champaign	1988
+M.S.	ME	University of Illinois at Urbana-Champaign	1985
+B.S.	ME	University of Notre Dame	1984
+
+Academic Positions
+George B. Grim Emeritus Professor of Mechanical Sciences and Engineering, Department of Mechanical Science and Engineering, UIUC, 2017-date
+Visiting Melchor Chair Professor, Department of Aerospace and Mechanical Engineering, University of Notre Dame, Fall 2013
+
+George B. Grim Professor of Mechanical Sciences and Engineering, Department of Mechanical Science and Engineering, UIUC, 2013-2016
+
+Schaller Faculty Scholar, Department of Mechanical Science and Engineering, UIUC, 2003-2006
+Professor, Department of Mechanical Science and Engineering (100%), UIUC, Aug. 21, 2001-2016
+Department Affiliate, Department of Aerospace Engineering (0%), August 16, 2005-date
+Faculty Fellow, Department of Theoretical and Applied Mechanics (0%), UIUC, Jan. 21, 1999-2006
+Associate Professor, Department of Theoretical and Applied Mechanics (0%), UIUC, Aug. 21, 1997-Jan. 20, 1999
+Associate Professor, Department of Mechanical and Industrial Engineering (100%), UIUC, Aug. 21, 1997-August 20, 2001
+Guest Professor, Department of Solid Mechanics, Technical University of Denmark, Lyngby, Denmark, July 1997-Dec. 1997
+Assistant Professor, Department of Theoretical and Applied Mechanics (0)%), UIUC, Oct. 21, 1992-Aug. 20, 1997
+Assistant Professor, Department of Mechanical and Industrial Engineering (100%), UIUC, Sept. 1991-Aug. 20, 1997
+Visiting Assistant Professor, Department of Mechanical and Industrial Engineering, UIUC, Sept. 1990-Aug. 20, 1991
+Guest Professor, Department of Solid Mechanics, Technical University of Denmark, Lyngby, Denmark, May 1994-July 1994
+Adjunct Faculty Member, Department of Mechanical Engineering, Oakland University, Rochester, MI, Sept. 1989-Sept. 1990
+
+Research StatementProfessor Tortorelli conducts research leading to the theoretical development, computer implementation, and application of design and analysis methodologies in solid mechanics, structures, heat transfer and fluid mechanics. He investigates design sensitivity analyses and their applications in optimization, and uses the sensitivities to solve inverse heat conduction problems, both transient and steady-state, linear and nonlinear.He developed a systematic methodology for evaluating sensitivity expressions for numerical analysis. The methodology has been implanted in finite element programs to optimize a variety of engineering systems and manufacturing processes, including crystal growth, casting, welding, polymer extrusion and polymer injection molding. It has also been used to solve inverse and identification problems. He is exploring various applications in structural optimization. He has applied these methods to design a photonic crystal waveguide termination and more effective controllers.Professor Tortorelli is the technical co-director of the Midwest Structural Sciences Center, a partnership among the University of Illinois at Urbana-Champaign, the Air Force Institute of Technology and the Air Vehicles Directorate of the Air Force Research Laboratory. The center is focused on simulating, modeling, testing and assessing airframe structures and materials critical to the future of the nation's aerospace program. Research on aerothermostructures centers on four key areas: coupled thermo-mechanical-acoustic analysis and simulation, identification and definition of structural limit states, risk-quantified structural assessment, and experimental capabilities for validation of structural models. Professor Tortorelli's research specifically addresses imperfection and defect tolerance of aircraft shells and structures.
+
+Research Areas
+Computation and Applied Math
+Manufacturing
+Security and Defense
+Solid Mechanics and Materials
+Transportation
+
+
+Selected Articles in Journals
+Kang, Z., Tortorelli, D.A., James, K.A., "Parallel projection—An improved return mapping algorithm for finite element modeling of shape memory alloys," Computer Methods in Applied Mechanics and Engineering, 389, art. no. 114364,  2022. 
+
+Beck, V.A., Wong, J.J., Jekel, C.F., Tortorelli, D.A., Baker, S.E., Duoss, E.B., Worsley, M.A., "Computational design of microarchitected porous electrodes for redox flow batteries," Journal of Power Sources, 512, art. no. 230453,  2021. 
+
+Dalklint, A., Wallin, M., Tortorelli, D.A., "Structural stability and artificial buckling modes in topology optimization," Structural and Multidisciplinary Optimization, 64 (4), pp. 1751-1763, 2021. 
+
+Wallin, M., Dalklint, A., Tortorelli, D., "Topology optimization of bistable elastic structures — An application to logic gates," Computer Methods in Applied Mechanics and Engineering, 383, art. no. 113912,  2021. 
+
+Ivarsson, N., Wallin, M., Amir, O., Tortorelli, D.A., "Plastic work constrained elastoplastic topology optimization," International Journal for Numerical Methods in Engineering, 122 (16), pp. 4354-4377,  2021.
+
+Swartz, K.E., White, D.A., Tortorelli, D.A., James, K.A., "Topology optimization of 3D photonic crystals with complete bandgaps," Optics Express, 29 (14), pp. 22170-22191, 2021. 
+
+Najafi, A.R., Safdari, M., Tortorelli, D.A., Geubelle, P.H., "Multiscale design of nonlinear materials using a Eulerian shape optimization scheme,"  International Journal for Numerical Methods in Engineering, 122 (12), pp. 2981-3014, 2021.
+Fernandez, F., Lewicki, J.P., Tortorelli, D.A., "Optimal toolpath design of additive manufactured composite cylindrical structures,"  Computer Methods in Applied Mechanics and Engineering, 376, art. no. 113673, 2021
+Fernandez, F., Puso, M.A., Solberg, J., Tortorelli, D.A., "Topology optimization of multiple deformable bodies in contact with large deformations," Computer Methods in Applied Mechanics and Engineering, 371, art. no. 113288, 2020.
+
+Fernandez, F., Barker, A.T., Kudo, J., Lewicki, J.P., Swartz, K., Tortorelli, D.A., Watts, S., White, D.A., Wong, J., "Simultaneous material, shape and topology optimization,"  Computer Methods in Applied Mechanics and Engineering, 371, art. no. 113321, 2020
+
+Wallin, M., Ivarsson, N., Amir, O., Tortorelli, D., "Consistent boundary conditions for PDE filter regularization in topology optimization," Structural and Multidisciplinary Optimization, 62 (3), pp. 1299-1311, 2020.
+
+Wallin, M., Tortorelli, D.A., "Nonlinear homogenization for topology optimization,"  Mechanics of Materials, 145, art. no. 103324, 2020.
+
+Dalklint, A., Wallin, M., Tortorelli, D.A., "Eigenfrequency constrained topology optimization of finite strain hyperelastic structures," Structural and Multidisciplinary Optimization, 61 (6), pp. 2577-2594., 2020.
+
+Ivarsson, N., Wallin, M., Tortorelli, D.A., "Topology optimization for designing periodic microstructures based on finite strain viscoplasticity," Structural and Multidisciplinary Optimization, 61 (6), pp. 2501-2521., 2020.
+
+Alidoost, K., Feng, M., Geubelle, P.H., Tortorelli, D.A., "Energy release rate approximation for small surface cracks in three-dimensional domains using the topological derivative," Journal of Applied Mechanics, Transactions ASME, 87 (4), art. no. 041004, 2020
+
+Salazar de Troya M.A., Tortorelli D.A., "Three-dimensional adaptive mesh refinement in stress-constrained topology optimization,"  Structural and Multidisciplinary Optimization, 62 (5), pp. 2467 - 2479, (2020).
+
+Saito, Y., Fernandez, F., Tortorelli, D.A., (...), Lewicki, J.P., Lambros, J., "Experimental Validation of an Additively Manufactured Stiffness-Optimized Short-Fiber Reinforced Composite Clevis Joint,"  Experimental Mechanics, 59(6), pp. 859-869, 2019.
+
+Fernandez, F., Compel, W.S., Lewicki, J.P., Tortorelli, D.A., "Optimal design of fiber reinforced composite structures and their direct ink write fabrication,"  Computer Methods in Applied Mechanics and Engineering, 353, pp. 277-307, 2019.
+Keshavarzzadeh, V., Ghanem, R.G., Tortorelli, D.A., "Shape optimization under uncertainty for rotor blades of horizontal axis wind turbines," Computer Methods in Applied Mechanics and Engineering, 354, pp. 271-306, 2019.
+Chen, W., Watts, S., Jackson, J.A., (...), Tortorelli, D.A., Spadaccini, C.M., "Stiff isotropic lattices beyond the Maxwell criterion," Science Advances, 5(9), eaaw1937, 2019.
+Watts, S., Arrighi, W., Kudo, J., Tortorelli, D.A., White, D.A., "Simple, accurate surrogate models of the elastic response of three-dimensional open truss micro-architectures with applications to multiscale topology design," Structural and Multidisciplinary Optimization, 60(5), pp. 1887-1920, 2019.
+Fernandez, F., Tortorelli, D.A., "Semi-analytical sensitivity analysis for nonlinear transient problems," Structural and Multidisciplinary Optimization
+58(6), pp. 2387-2410, 2018.
+Salazar de Troya, M.A., Tortorelli, D.A., "Adaptive mesh refinement in stress-constrained topology optimization,"  Structural and Multidisciplinary Optimization, 58(6), pp. 2369-2386, 2018.
+Niklas Ivarsson,  Mathias Wallin, Daniel Tortorelli, "Dynamic topology optimization based on finite strain visco-plasticity," International Journal for Numerical Methods in Engineering, 114(13), pp. 1351-1367, 2018.
+Daniel White, Mark Stowell, Daniel Tortorelli, "Topology Optimization in Fourier Space", Structural and Multidisciplinary Optimization, 58(3), pp. 1205-1220, 2018.
+Mathias Wallin, Niklas Ivarsson,  Daniel Tortorelli, "Stiffness optimization of non-linear elastic structures," Computer Methods in Applied Mechanics and Engineering, 330, pp. 292-307, 2018.
+Alidoost, K., P. Geubelle, D.A. Tortorelli, "Energy release rate approximation for edge cracks using higher-order topological derivatives," International Journal of Fracture, 210(1-2), pp. 187-205, 2018
+Watts, S. and D.A. Tortorelli, "A geometric projection method for designing three-dimensional open lattices with inverse homogenization," International Journal for Numerical Methods in Engineering, 112(11), pp. 1564-1588, 2017
+Najafi, A., M. Safdari, D.A. Tortorelli, and P. Geubelle, "Shape optimization using a NURBS-based interface-enriched generalized FEM," International Journal for Numerical Methods in Engineering, 111(10), pp.  927-954, 2017
+Barbarosie, C., D.A. Tortorelli, and S. Watts, "On domain symmetry and its use in homogenization," Computer Methods in Applied Mechanics and Engineering, 320, pp. 1-45, 2017.
+Keshavarzzadeh, V., F. Fernandez, and D.A. Tortorelli, "Topology optimization under uncertainty via non-intrusive polynomial chaos expansion," Computer Methods in Applied Mechanics and Engineering, 318, pp. 120-147, 2017.
+Lian, H., A. N. Christiansen, D.A. Tortorelli, N. Aage, and O. Sigmund, "Combined Shape and Topology Optimization for Minimization of Maximal von Mises Stress," Structural and Multidisciplinary Optimization, 55(5), pp. 1541-1557, 2017.
+Watts, S. and D.A. Tortorelli,  "Optimality of thermal expansion bounds in three dimensions," Extreme Mechanics Letters, 12, pp. 97-100, 2017.
+Watts, S. and D.A. Tortorelli, "An n-material thresholding method for improving integerness of solutions in topology optimization," International Journal for Numerical Methods in Engineering, 108(12), 1498-1524, 2016.
+Keshavarzzadeh, V. and D.A. Tortorelli, "Gradient Based Design Optimization under Uncertainty via Stochastic Expansion Methods,"  Computer Methods in Applied Mechanics and Engineering, 306   Pages: 47-76, 2016.
+Nakshatrala, P. and D.A. Tortorelli, "Nonlinear structural design using multiscale topology optimization. Part II: Transient formulation," Computer Methods in Applied Mechanics and Engineering, 304, 605-618, 2016.
+Najafia, A.R., M. Safdaric, D.A.Tortorelli, and P.H. Geubelle, "A gradient-based shape optimization scheme using an interface-enriched generalized FEM," Computer Methods in Applied Mechanics and Engineering, 296, 1-17, 2015.
+Tromme, E., D.A. Tortorelli, O. Bruls, and P. Duysinx, "Structural Optimization of multibody system components described using level set techniques,"  Structural and Multidisciplinary Optimization,  52, 959-971, 2015.
+Nakshatrala, P. and D.A. Tortorelli, "Topology optimization for effective energy propagation in rate-independent elastoplastic material systems," Computer Methods in Applied Mechanics and Engineering, 295, 305-326, 2015.   
+Shin, M., Norato, J., and D.A. Tortorelli, "Optimal shape design of axisymmetric structures subject to asymmetric loading," Computer Methods in Applied Mechanics and Engineering, 293, 283-305, 2015.
+Norato, J.A., B. Bell, and D.A. Tortorelli, "A geometry projection method for continuum-based
+topology optimization with discrete elements," Computer Methods in Applied Mechanics and Engineering, 293, 306-327, 2015.
+Jensen, J.S., P.B. Nakshatrala, and D.A. Tortorelli, "On the consistency of adjoint sensitivity analysis for structural optimization of linear dynamic problems," Structural and Multidisciplinary Optimization, 49(5), 831-837, 2014.
+Nakshatrala, P. B., D. A. Tortorelli, and Nakshatrala, K. B., "Nonlinear structural design using multiscale topology optimization. Part I: Static formulation," Computer Methods in Applied Mechanics and Engineering, 261-262, pp. 167-176, 2013.
+Chen, Y.-C., E. Fried, and D.A. Tortorelli, "Stability of a Thin Elastic Film Close to a Rigid Plate," Journal of the Mechanics and Physics of Solids, 60 (5), pp. 904-920, 2012.
+Brittain, K., M. Silva, and D. A. Tortorelli, "Minmax Topology Optimization," Structural and Multidisciplinary Optimization, 45(2), pp.657-668, 2012.
+Le, C., T. E. Bruns, and D. A. Tortorelli, "Material Microstructure Optimization for Energy Wave Management," Journal of Mechanics and Physics of Solids,  60 (2), pp. 351-378, 2012.
+          
+
+Fosdick, R.,  E. Fried, and D. A. Tortorelli, "Special Issue: Papers Dedicated to the Memory of Donald E. Carlson - Volume I Foreword, "Journal of Elasticity, 105:1-2, 1-2, 2011.
+Tortorelli, D.A., "A Generalized Formulation of Elastodynamics: Small on Rigid," Journal of Elasticity, 105:1-2, 349-363, 2011.
+Silva, M., P. H. Geubelle, and D. A. Tortorelli, “Energy Release Rate for Crack Nucleation using the Topological Derivative,” Journal of the Mechanics and Physics of Solids, 59:5, 925-939, 2011.
+Le C., T.E. Bruns, and D.A. Tortorelli, "A Gradient-based, Parameter-free Approach to Shape Optimization," Computer Methods in Applied Mechanics and Engineering, 200:9-12, 985-996, 2011.
+
+Silva, M., M. Matalon, and D. A. Tortorelli, “Higher Order Topological Derivatives in Elasticity,” International Journal of Solids and Structures, 47:22-23, 3053-3066, 2010.
+Le, C., J. Norato, T. E. Bruns, C. Ha, and D. A. Tortorelli, "Stress-based Topology Optimization for Continua," Structural and Multidisciplinary Optimization, 41:4, 605-620, 2010.
+Silva, M., D. A. Tortorelli, J. Norato, C. Ha, and H.-R. Bae, “Component and System Reliability-Based Topology Optimization using a Single-Loop Method,” Structural and Multidisciplinary Optimization, 41:1, 87-106, 2010.
+Tonks, M. R., J. F. Bingert, C. A. Bronkhorst, E. N. Harstad, and D. A. Tortorelli, “Two Stochastic Mean-Field Polycrystal Plasticity Methods,”  Journal of Mechanics and Physics of Solids, 57:8, 1230-1253, 2009.
+Nakshatrala, P. B., K. B. Nakshatrala, and D. A. Tortorelli, “A Time-Staggered Partitioned Coupling Algorithm for Transient Heat Conduction,” International Journal for Numerical Methods in Engineering, 78, 1387-1406, 2009.
+Shim, H., V. T. T. Ho, S. Y. Wang, and D. A. Tortorelli, “Level Set-based Topology Optimization for Electromagnetic Systems,” IEEE Transactions on Magnets, 45:3, 1582-1585, 2009.
+Shim, H., V. T. T. Ho, S. Wang, and D. A. Tortorelli, “Topological Shape Optimization of Electromagnetic Problems using Level Set Method and Radial Basis Function,” CMES-Computer Modeling in Engineering & Sciences, 37:2, 175-202, November 2008.
+Frei, W. R., D. A. Tortorelli, and H. T. Johnson, “Optimization of Photonic Nanostructures,” Computer Methods in Applied Mechanics and Engineering, 197:41-42, 3410-3416, 2008.
+Nakshatrala, K. B., K. D. Hjelmstad, and D. A. Tortorelli, “A FETI-based Domain Decomposition Technique for Time Dependent First Order Systems Based on a DAE Approach,” International Journal for Numerical Methods in Engineering, 75:12, 1385-1415, 2008.
+Tonks, M. R., A. J. Beudoin, F. Schilder, and D. A. Tortorelli, “Investigation of Preferred Orientations in Planar Polycrystals,” Journal of Applied Mechanics, 75:5, 051001-1-051001-10, 2008.
+Tortorelli, D. A., “A Special Issue to Honor Pauli Pedersen,” Structural and Multidisciplinary Optimization, 44:4-5, 275-283, 2007.
+Norato, J. A., M. P. Bendose, R. B. Haber, and D. A. Tortorelli, “A Topological Derivative Method for Topology Optimization,” Structural and Multidisciplinary Optimization, 44:4-5, 375-386, 2007.
+Kulkarmi, D. V., D. Rovas, and D. A. Tortorelli, “Discontinuous Galerkin Framework for Adaptive Solution of Parabolic Problems,” International Journal of Numerical Methods in Engineering, 70:1, 1-24, 2007.
+Frei, W. R., D. A. Tortorelli, and H. T. Johnson, ”Geometry Projection Method for Optimizing Photonic Nanostructures,” Optics Letters, 32:1, 77-79, 2007.
+Kulkarni, D. V., D. A. Tortorelli, and M. Wallin, ”A Newton-Schur Alternative to the Consistent Tangent Approach in Computational Plasticity,” Computer Methods in Applied Mechanics and Engineering,196:7, 1169-1177, 2007.
+Pirie, C. L., S. Okubo, G. E. Dullerud, and D. A. Tortorelli, “Robust Linear Time-varying Control for Trajectory Tracking: Computation and an Experimental Application,” International Journal of Control, 79:4, 349-361, 2006.
+Frei, W. R., D. A. Tortorelli, and H. T. Johnson, “Topology Optimization of a Photonic Crystal Waveguide Termination to Maximize Directional Emission,” Applied Physics Letters, 62:2, 186-204, 2005.
+Bellur-Ramiswamy, R. S., R. B. Haber, N. A. Sobh, and D. A. Tortorelli, “Modeling and Process Optimization for Functionally Graded Materials,” International Journal for Numerical Methods in Engineering, 62, 186-204, 2005.
+Pattillo, P. D. II and D. A. Tortorelli, “A Contact Algorithm for the Signorini Problem Using Space-Time Finite Elements,” International Journal for Numerical Methods in Engineering, 60, 1197-1213, 2004.
+Okubo, S. and D. A. Tortorelli, “Control of Nonlinear, Continuous, Dynamic Systems via Finite Elements, Sensitivity Analysis, and Optimization,” Structural Optimization, 26:3-4, 183-199, 2004.
+Norato, J., R. Haber, D. Tortorelli, and M. P. Bendsoe, “A Geometry Projection Method for Shape Optimization,” International Journal for Numerical Methods in Engineering, 60:14, 2289-2312, 2004.
+Kok, S., A. J. Beaudoin, D. A. Tortorelli, M. Lebyodkin, L. Kubin, and C. Fressengeas, “Simulation of the Portevin – Le Chatelier Effect Using Polycrystal Plasticity,” Journal de Physique IV, 105, 191-197, March 2003.
+Carlson, D. E., E. Fried, and D. A. Tortorelli, “Geometrically-based Consequences of Internal Constraints” Journal of Elasticity, 70, 101-109, 2003.
+Chen, S. S and D. A. Tortorelli, “An Energy-conserving and Filtering Method for Stiff Nonlinear Multibody Dynamics,” Multibody System Dynamics, 10:4, 341-362, 2003.
+Tortorelli, D. A. and P. Michelaris, “Nonlinear Programming on Process Modeling and Design,” Journal of Metals, 55:3, 46-54, March 2003.
+Kim, J. Y., N. R. Aluru, and D. A. Tortorelli, “Improved Multilevel Newton Solvers for Fully-coupled Multi-physics Problems,” International Journal for Numerical Methods in Engineering, 58:3, 463-480, 2003.
+Bruns, T. E. and D. A. Tortorelli, “An Element Removal and Reintroduction Strategy for the Topology Optimization of Structures and Compliant Mechanisms,” International Journal for Numerical Methods in Engineering, 57, 1413-1430, 2003.
+Kok, S., A. J. Beaudoin, D. A. Tortorelli, and M. Lebyodkin, “A Finite Element Model for Portevin-Le Chatelier Effect Based on Polycrystal Plasticity,” Modeling Simulation Materials Science Engineering, 10, 745-763, 2002.
+Bruns, T. E., O. Sigmund, and D. A. Tortorelli, “Numerical Methods for the Topology Optimization of Nonlinear Elastic Structures that Exhibit Snap-Through,” International Journal for Numerical Methods in Engineering, 55:10, 1215-1237, 2002.
+Kok, S., A. J. Beaudoin, and D. A. Tortorelli, “On the Development of Stage IV Hardening Using a Model Based on the Mechanical Threshold,” Acta Materialia, 50, 1653-1667, 2002.
+Kok, S., A. J. Beaudoin, and D. A. Tortorelli, “A Polycrystal Plasticity Model Based on the Mechanical Threshold,” International Journal of Plasticity, 18:5-6, 715-741, 2002.
+Kok, S., A. J. Beaudoin, and D. A. Tortorelli, “Numerical Integration of Lattice Rotation in Polycrystal Plasticity,” International Journal for Numerical Methods in Engineering, 52:12, 1487-1500, 2001.
+Minnaar, R. J., D. A. Tortorelli, and J. A. Snyman, “On Nonassembly in the Optimal Dimensional Synthesis of Planar Mechanisms,” Journal of Structural and Multidisciplinary Optimization, 21:5, 345-354, 2001.
+Bruns, T. E. and D. A. Tortorelli, “Topology Optimization of Non-Linear Elastic Structures and Compliant Mechanisms,” Computer Methods in Applied Mechanics and Engineering, 190:26-27, 3443-3459, 2001.
+Balagangadhar, D. and D. A. Tortorelli, “Design of Large-Deformation Steady Elastoplastic Manufacturing Processes.  Part II: Sensitivity Analysis and Optimization,” International Journal for Numerical Methods in Engineering, 49:7, 933-950, 2000.
+Balagangadhar, D. and D. A. Tortorelli, “Design of Large-Deformation Steady Elastoplastic Manufacturing Processes.  Part I: A Displacement-Based Reference Frame Formulation,” International Journal for Numerical Methods in Engineering, 49:7, 899-932, 2000.
+Chen, S., J. M. Hansen, and D. A. Tortorelli, “Unconditionally Energy Stable Implicit Time Integration: Application to Multibody System Analysis and Design,” International Journal for Numerical Methods in Engineering, 48:6, 791-822, 2000.
+Sobh, N., J. Huang, L. Yin, R. B. Haber, D. A. Tortorelli, and R. W. Hyland, Jr., “A Discontinuous Galerkin Model for Precipitate Nucleation and Growth in Aluminum Alloy Quench Processes,” International Journal for Numerical Methods in Engineering, 47:1-3, 749-767, 2000.
+Michaleris, P., J. Dantzig, and D. Tortorelli, “Minimization of Welding Residual Stress and Distortion in Large Structures,” Welding Journal, 78:11, 361s-366s, 1999.
+Balagangadhar, D., G. A. Dorai, and D. A. Tortorelli, "A Displacement-Based Reference Frame Formulation for Steady-State Thermo-Elasto-Plastic Material Processes," International Journal of Solids and Structures, 36:16, 2397-2416, 1999.
+Smith, D. E., D. A. Tortorelli, and C. L. Tucker III, "Analysis and Sensitivity Analysis for Polymer Injection and Compression Molding," Computer Methods in Applied Mechanics and Engineering, 167:3-4, 325-344, 1998.
+Smith, D. E., D. A. Tortorelli, and C. L. Tucker III, "Optimal Design for Polymer Extrusion. Part II: Sensitivity Analysis for Weakly-Coupled Nonlinear Steady-State Systems," Computer Methods in Applied Mechanics and Engineering, 167:3-4, 303-323, 1998.
+Smith, D. E., D. A. Tortorelli, and C. L. Tucker III, "Optimal Design for Polymer Extrusion. Part I: Sensitivity Analysis for Nonlinear Steady-State Systems," Computer Methods in Applied Mechanics and Engineering, 167:3-4, 283-302, 1998.
+Pedersen, P. and D. A. Tortorelli, “Constitutive Parameters and Their Evolution,” Journal of Control and Cybrogenics, 27:2, 295-310, 1998.
+Ebrahimi, S. A., D. A. Tortorelli, and J. A. Dantzig, "Sensitivity Analysis and Nonlinear Programming Applied to Investment Casting Design,” Applied Mathematical Modeling, 21:2, 113-123, 1997.
+Chen, S. and D. A. Tortorelli, "Three-Dimensional Shape Optimization with Variational Geometry," Structural Optimization, 13:2/3, 81-94, 1997.
+Dorai, G. A. and D. A. Tortorelli, "Transient Inverse Heat Conduction Problem Solutions via Newton's Method," International Journal of Heat and Mass Transfer, 40:17, 4115-4127, 1997.
+Wang, Z.-X., D. A. Tortorelli, and J. A. Dantzig, "Sensitivity Analysis and Optimization of Coupled Thermal and Flow Problems with Applications to Contraction Design," International Journal for Numerical Methods in Fluids, 23, 991-1020, 1996.
+Carlson, D. E. and D. A. Tortorelli, "On Hyperelasticity with Internal Constraints," Journal of Elasticity, 42:1, 91-98, 1996.
+Scheuing, J. E. and D. A. Tortorelli, "Inverse Heat Conduction Problem Solutions via Second-Order Design Sensitivities and Newton’s Method," Inverse Problems in Engineering, 2:3, 227-262, 1996.
+Byrne, P. E., D. A. Tortorelli, and J. A. Dantzig, "Solidification Control by Numerical Optimization," Visualization of Engineering Research, 1:1, 1995.
+Morthland, T. E., P. E. Byrne, D. A. Tortorelli, and J. A. Dantzig, "Optimal Riser Design for Metal Castings," Metallurgical and Materials Transaction B, 26B:4, 871-885, 1995.
+Michaleris, P., D. A. Tortorelli, and C. A. Vidal, "Analysis and Optimization of Weakly Coupled Thermoelastoplastic Systems with Applications to Weldment Design," International Journal for Numerical Methods in Engineering, 38:8, 1259-1285, 1995.
+Spivey, C. O. and D. A. Tortorelli, "Tangent Operators, Sensitivity Expressions, and Optimal Design of Non-linear Elastic in Contact with Applications to Beams," International Journal for Numerical Methods in Engineering, 73:1, 49-73, 1994.
+Tortorelli, D. A. and P. Michaleris, "Design Sensitivity Analysis:  Overview and Review," Inverse Problems in Engineering, 1:1, 71-105, 1994.
+Michalaris, P., D. A. Tortorelli, and C. A. Vidal, "Tangent Operators and Design Sensitivity Formulations for Transient Non-linear Coupled Problems with Applications to Elastoplasticity," International Journal for Numerical Methods in Engineering, 37:14, 2471-2499, 1994.
+Tortorelli, D. A, "Sensitivity Analysis for the Steady-State Response of Damped Linear Elastodynamic Systems Subject to Periodic Loads," ASME Journal of Mechanical Design, 115:4, 822-828, 1993.
+Tortorelli, D. A., J. A. Tomasko, T. E. Morthland, and J. A. Dantzig, "Optimal Design of Nonlinear Parabolic Systems -- Part II: Variable Spatial Domain with Applications to Casting Optimization," Computer Methods in Applied Mechanics and Engineering, 113:1-2, 157-172, 1994.
+Tortorelli, D. A., M. M. Tiller, and J. A. Dantzig, "Optimal Design of Nonlinear Parabolic Systems -- Part I: Fixed Spatial Domain with Applications to Process Optimization," Computer Methods in Applied Mechanics and Engineering, 113:1-2, 141-155, 1994.
+Spivey, C. O. and D. A. Tortorelli, "Tangent Operators, Sensitivity Expressions, and Optimal Design of Non-linear Elastica in Contact with Applications to Beams," International Journal for Numerical Methods in Engineering, 73:1, 49-73, 1994.
+Tortorelli, D. A., "Sensitivity Analysis for the Steady-State Response of Damped Linear Elastodynamic Systems Subject to Periodic Loads," ASME Journal of Mechanical Design, 115:4, 822-828, 1993.
+Tortorelli, D. A., "A Geometric Representation Scheme Suitable for Shape Optimization," Mechanics of Structures and Machines, 21:1, 95-121, 1993.
+Tortorelli, D. A. and Z. Wang, "A Systematic Approach to Shape Sensitivity Analysis," International Journal of Solids and Structures, 30:9, 1181-1212, 1993.
+Tortorelli, D. A., "Sensitivity Analysis for Non-linear Constrained Elastostatic Systems," International Journal for Numerical Methods in Engineering, 33:8, 1643-1660, 1992.
+Tortorelli, D. A., R. B. Haber, and S. C-Y. Lu, "Adjoint Sensitivity Analysis for Nonlinear Dynamic Thermoelastic Systems," American Institute of Aeronautics and Astronautics Journal, 29:2, 253-263, 1991.
+Tortorelli, D. A., G. Subramani, S. C-Y. Lu, and R. B. Haber, "Sensitivity Analysis for Coupled Thermoelastic Systems," International Journal of Solids and Structures, 27:12, 1477-1497, 1991.
+Tortorelli, D. A., S. C-Y. Lu, and R. B. Haber, "Design Sensitivity Analysis for Elastodynamic Systems," Mechanics of Structures and Machines, 18:1, 77-106, 1990.
+Tortorelli, D. A., R. B. Haber, and S. C-Y. Lu, "Design Sensitivity Analysis for Nonlinear Thermal Systems," Computer Methods in Applied Mechanics and Engineering, 77:1/2, 61-77, 1989.
+Tortorelli, D. A. and R. B. Haber, "First Order Design Sensitivities for Transient Conduction Problems by an Adjoint Method," International Journal for Numerical Methods in Engineering, 28:4, 733-752, 1989.
+Lee, K. and D. A. Tortorelli, "Computer-Aided Design of Robotic Manipulators," Computer Aided Design, 18:3, 139-146, 1986.
+
+Professional Societies
+Executive Committee Member, Treasurer, International Society for Structural and Multidisciplinary Optimization, 1999-2003
+International Society for Structural and Multidisciplinary Optimization, 1994-date;
+Member, United States Association for Computational Mechanics, 1992-date
+Member, American Academy of Mechanics, 1990-date
+Fellow, American Society of Mechanical Engineers, 2009-date
+Member, American Society of Mechanical Engineers, 1990-date
+
+Teaching Honors
+COE Collins Award for Innovative Teaching 2010
+

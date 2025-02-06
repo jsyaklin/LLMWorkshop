@@ -1,0 +1,55 @@
+
+
+
+Sangjin Kim 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-9833
+sangjin@illinois.edu
+159 Loomis Laboratory
+
+
+For More Information
+Group website
+
+
+BiographyProfessor Kim studied chemistry as an undergraduate student in Seoul National University in South Korea and received her Ph.D. from Harvard University in 2010 under the supervision of X. Sunney Xie. Her thesis research on single molecule biophysics uncovered "DNA allostery," by which DNA-bound proteins can affect each other's DNA binding properties at a distance  (Science, 2013).   To study how single molecules function inside cells, Professor Kim switched her research area to microbiology and conducted her postdoctoral research in Christine Jacobs-Wagner's lab at Yale University. She studied spatio-temporal regulation of transcription, translation, and mRNA degradation in bacterial cells using both experimental and computational approaches. She joined the Department of Physics at Illinois in January, 2019 and is excited to combine her expertise in single molecule biophysics, microbiology and computational modeling to study the complexity of living cells at the single-molecule and single-cell levels.
+
+Research Areas
+Biological Physics
+
+
+Selected Articles in Journals
+Troyer, L., Wang, Y.-H., Shobhna, Kim, S., Woo, J., Tajkhorshid, E., Kim, S. (2025) "Single-molecule imaging reveals the role of membrane-binding motif and C-terminal domain of RNase E in its localization and diffusion in Escherichia coli" eLife 14:RP105062
+
+Kim, S., Wang, Y.-H., Hassan, A., Kim, S. (2024) "Re-defining how mRNA degradation is coordinated with transcription and translation in bacteria" bioRxiv
+
+Chatterjee, P., Goldenfeld, N., Kim, S. (2021) "DNA Supercoiling Drives a Transition between Collective Modes of Gene Synthesis" Phys. Rev. Lett. 127:218101.
+Kim, S., Vaidya, K. (2020) "Probing mRNA kinetics in space and time in Escherichia coli using two-color single-molecule fluorescence in situ hybridization." J. Vis. Exp. 161:e61520.
+
+Kim, S., Beltran, B., Irnov, I., Jacobs-Wagner, C. (2019) "Long-distance cooperative and antagonistic RNA polymerase dynamics via DNA supercoiling." Cell, 179:106-119.e16.
+Gray, W.T., Govers, S.K., Xiang, Y., Parry, B.R., Campos, M., Kim, S., Jacobs-Wagner, C. (2019) "Nucleoid size scaling and intracellular organization of translation across bacteria." Cell, 177:1632-1648.e20.
+
+Kim, S., Jacobs-Wagner, C. (2018) "Effects of mRNA degradation and site-specific transcriptional pausing on protein expression noise." Biophys. J. 114: 1718-1729.
+Kim, S., Brostromer, E., Xing, D., Jin, J., Chong, S., Ge, H., Wang, S., Gu, C., Yang, L., Gao, Y., Su, X., Sun, Y., Xie, X.S. (2013) "Probing allostery through DNA."  Science 339: 816-819.
+
+Research Honors
+University of Illinois Center for Advanced Study (CAS) Fellow
+ (2022-2023
+)
+Kavli Fellow, National Academy of Sciences (2022)
+NIH Maximizing Investigators' Research Award (2021)
+Searle Scholar, Kinship Foundation of Chicago (2020)
+
+Recent Courses TaughtPHYS 101 - College Physics: Mech & Heat
+PHYS 211 - University Physics: Mechanics
+PHYS 212 - University Physics: Elec & Mag
+PHYS 407 - Exp Bio Physics
+PHYS 498 EBP - Special Topics in Physics
+

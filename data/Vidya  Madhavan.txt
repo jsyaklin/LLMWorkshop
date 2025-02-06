@@ -1,0 +1,76 @@
+
+
+
+Vidya Madhavan 
+
+
+
+
+
+ProfessorDonald Biggar Willett Professor in Engineering
+
+
+(217) 300-1476
+vm1@illinois.edu
+1018 Superconductivity Center
+
+
+For More Information
+Madhavan Research Group Web Site
+
+BiographyProfessor Madhavan received her bachelor's degree in metallurgical engineering in 1991 from the Indian Institute of Technology, Chennai, and a master of technology degree in solid state materials in 1993 from the Indian Institute of Technology, New Delhi. She obtained her phD from Boston University in 2000. She held a postdoctoral appointment at the University of California, Berkeley from 1999 to 2002, before joining the physics faculty at Boston College in 2002. She joined the faculty at Illinois in 2014 as a full professor.
+Research StatementProfessor Madhavan investigates fundamental problems in quantum materials where interactions between the spin, charge, and structural degrees of freedom lead to emergent phenomena. She uses the tools of scanning tunneling microscopy (STM), scanning tunneling spectroscopy (STS), spin-polarized STM (SP-STM) and molecular beam epitaxy (MBE) to unravel the mysteries of complex systems at the atomic scale. Her group carries out challenging, high-risk experiments, wherein the possibility of discovering new phenomena is high. Her team's recent work has focused on STM studies of complex oxides and monolayer films of topological materials and transition metal dichalcogenides. 
+Graduate Research OpportunitiesWe currently have openings in our group for motivated students. Please send me email if you are interested in learning more about our projects.
+Research Interests
+Unconventional superconductors, topological superconductors, correlated oxides, topological crystalline insulators, transition metal dichalcogenides
+Scanning tunneling microscopy and spectroscopy (STM), Molecular Beam Epitaxy (MBE)
+MBE growth of WTe2, Bi2Se3, SnTe, NbSe2, TiSe2, VSe2, BiSb,  etc
+
+
+
+Research Areas
+Condensed Matter Physics (experimental)
+Quantum Information Science
+
+
+Selected Articles in Journals
+I. Zeljkovic, Y. Okada, M. Serbyn, R. Sankar, D. Walkup, W. Zhou, J. Liu, G.Chang, Y.J. Wang, M. Zahid  Hasan, F. Chou, H. Lin, A. Bansil, L. Fu and V. Madhavan. Dirac mass generation from crystal symmetry breaking on the surfaces of topological crystalline insulators, Nat. Mater. 14, 318-324 (2015).
+I. Zeljkovic, K.L. Scipioni, D. Walkup, Y. Okada, W. Zhou, R. Sankar, G. Chang, Y.J. Wang, H. Lin, A. Bansil,  F. Chou, Z. Wang, and V. Madhavan. Nanoscale Determination of the Mass Enhancement Factor in the Lightly-Doped Bulk Insulator Lead Selenide, Nat. Commun. 6, 6559 (2015).
+I. Zeljkovic, D. Walkup, B. Assaf, K.L. Scipioni, R. Sankar, F. Chou. Vidya Madhavan. Strain engineering Dirac surface states in heteroepitaxial topological crystalline insulator thin films. Nat. Nanotech. 10, 849–853 (2015).
+Z. Wang, D. Walkup, P. Derry, T. Scaffidi, M. Rak, S. Vig, A. Kogar, I. Zeljkovic, A. Husain, L.H. Santos, Y. Wang, A. Damascelli, Y. Maeno, P. Abbamonte, E. Fradkin, V. Madhavan. Quasiparticle Interference and Strong Electron-Mode Coupling in the Quasi-One-Dimensional Bands of. Sr2RuO4, Nat. Phys. 13, 799-805 (2017).
+
+S. Yan, D. Iaia, E. Morosan, E. Fradkin, P. Abbamonte, V. Madhavan, Influence of domain walls in the incommensurate charge density wave state of Cu intercalated 1T-TiSe2. Phys. Rev. Lett. 118, 106405 (2017).
+
+Z. Wang,  Y. Okada, J. O Neal, W. Zhou,  D. Walkup, C. Dhital, T. Hogan, P. Clancy, Y.-J. Kim, Y. F. Hu, L. Santos, S.D. Wilson, N. Trivedi, and V. Madhavan. Disorder induced power-law gaps in an Insulator-metal Mott transition. PNAS 115:44, 11198-11202 (2018).
+D. Iaia, G. Chang, T. R. Chang, J. Hu, Z. Mao, H. Lin, S. Yan and V. Madhavan, Searching for topological Fermi arcs via quasiparticle interference on a type-II Weyl semimetal MoTe2, npj Quantum Materials 3, 38 (2018)
+
+D. Walkup, B. Assaf, K.L. Scipioni, R. Sankar, F. Chou, G. Chang, H. Lin, I. Zeljkovic, V. Madhavan. Interplay of orbital effects and nanoscale strain in topological crystalline insulators.  Nat. Commun. 1550 (2018).
+I. Zeljkovic, Y. Okada, C.-Y. Huang, R. Sankar, D. Walkup, W. Zhou, M. Serbyn, F. Chou, W.-F. Tsai, H. Lin, A. Bansil, L. Fu, M. Zahid Hasan, V. Madhavan. Mapping the unconventional orbital texture in topological crystalline insulators. Nat. Phys.10, 572–577 (2014).
+C. Dhital, T. Hogan, W. Zhou, Xiang Chen, Zhensong Ren, Mani Pokharel, Yoshinori Okada,M. Heine, Wei Tian, Z. Yamani, C. Opeil, J.S. Helton, J.W. Lynn, Z. Wang, V. Madhavan, S.D. Wilson. Carrier localization and electronic phase separation in doped spin-orbit-driven Mott phase in Sr3(Ir1-xRux)2O7, Nature Communications 3377 (2014).
+
+Yoshinori Okada, Maksym Serbyn, H. Lin, Daniel Walkup, W. Zhou, C. Dhital, Madhab Neupane, Suyang Xu, Yung Jui Wang, R. Sankar, F. Chou, Arun Bansil, M. Zahid Hasan, Stephen D. Wilson, Liang Fu and V. Madhavan, Observation of Dirac node formation and mass acquisition in a topological crystalline insulator, Science 341, 1496-1499 (2013)
+Yoshinori Okada, Daniel Walkup, Hsin Lin, Chetan Dhital, Tay-Rong Chang,  Sovit Khadka, Wenwen Zhou, Horng-Tay Jeng, Arun Bansil, Ziqiang Wang,  Stephen Wilson, V. Madhavan, Imaging the evolution of metallic states in a spin-orbit interaction driven correlated iridate, Nature Materials12, 707-713 (2013)
+Zhenyu Wang, Daniel Walkup, Yulia Maximenko, Wenwen Zhou, Tom Hogan, Ziqiang Wang, Stephen D. Wilson and Vidya Madhavan , Doping induced Mott collapse and the density wave instability 
+in (Sr1-xLax)3Ir2O7 , npj quantum materials 4, 1-7 (2019)  
+R. Sharma, S.D. Edkins, Z. Wang, A. Kostin, C. Sow, Y. Maeno, A.P. Mackenzie, J.C. Seamus Davis, and V. Madhavan, Momentum-resolved superconducting energy gaps of Sr2RuO4 from quasiparticle interference imaging, PNAS 117:10, 5222-5227 (2020).
+
+1.	Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, V. Madhavan, Signature of Dispersing 1D Majorana Channels in an Iron-based Superconductor, Science 367, 104-108 (2020) 
+
+Honors
+NSF CAREER Award (2007)
+
+Research Honors
+Canadian Institute For Advanced Research (CIFAR) Fellow (2021)
+Member-at-large, American Physical Society (APS), Division of Condensed Matter Physics (DCMP) (2020-2023)
+Gordon and Betty Moore Foundation Experimental Investigator (2020)
+Fellow of the American Physical Society (elected) (2015)
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 212 - University Physics: Elec & Mag
+PHYS 485 - Atomic Phys & Quantum Theory
+PHYS 486 - Quantum Physics I
+PHYS 487 - Quantum Physics II
+PHYS 496 - Intro to Physics Research
+PHYS 560 - Condensed Matter Physics I
+PHYS 598 CMX - Special Topics in Physics
+

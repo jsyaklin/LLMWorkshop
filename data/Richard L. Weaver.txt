@@ -1,0 +1,66 @@
+
+
+
+Richard L Weaver 
+
+
+
+
+
+Professor Emeritus
+
+
+(217) 333-3656
+r-weaver@illinois.edu
+4115 Engineering Sciences Building
+
+
+Education
+Ph.D.	Astrophysics	Cornell University	1977
+
+BiographyProfessor Richard Weaver received an A.B. degree in physics from Washington  University in St Louis in 1971 and a Ph.D in astrophysics from Cornell  University in 1977.  He came to Illinois in 1981 after a research associateship  in theoretical elastic wave propagation and ultrasonics at Cornell.   He was  elected a fellow of the Acoustical Society of America in 1996 and received the  Hetenyi Award from the Society for Experimental Mechanics in 2004.  
+He is  associate editor of the Journal of the Acoustical Society of America.  Formerly  a professor in the Department of Theoretical and Applied Mechanics at Illinois,  he joined the Department of Physics in 2006.
+Research StatementTheory, experiments, and numerical simulations of stochastic wave  propagation, with a view towards applications in material science,  quantum chaos, and seismology.   
+Experiments in Slow Dynamic Nonlinear Elasticity.  -- with J Y Yoritomo, J Popovics and K Dahmen (UIUC). We use reverberant ultrasound to probe a universal but perplexingly peculiar non-equilibrium phenomenon originating at the internal surfaces of heterogeneous solids and manifesting in large scale behavior. These structures will exhibit an apparent loss of stiffness after even modest applied strains, as if the strain did damage. Yet the stiffness is seen to then recover, like log(t), quickly at first and then steadily slower, on times from msec to years. The phenomenon is observed widely, from natural rocks to cements to cracked glass, and from the laboratory scale to the seismic. Neither the loss of stiffness nor the universal recovery is understood. In a search for the microphysical basis, we employ MHz reverberant ultrasound to monitor the changing stiffness while controlling external parameters.
+ Mechanical Analog for a Random Laser with J P Coleman (UIUC) Numerical simulations of phase transitions among nonlinear auto-oscillators coupled through a wave bearing substrate show most of the features of optical lasing, including spectral purity and greatly enhanced luminescence.
+Statistical Elastodynamics of Large Structures and Quantum Chaos Numerical simulations, analytic theory and laboratory measurements are used to study the statistics of linear waves in complex systems. Particular attention is paid to wave energy density (or probability for quantum waves), and its mean flow and fluctuations. We seek methods to predict mean flow and fluctuations over long times.
+Seismic Noise Correlations (with M Campillo, University Grenoble-Alpes, and X Song UIUC Geology) Recent attention to diffuse fields in seismology, inspired by (scaled by a factor of 10^-6) laboratory experiments done here is leading to new methods for probing the interior of the earth in which the seismic Green function is retrieved from noise. We observe and exploit mesoscopic residual correlations in nominally incoherent multiply scattered elastic wave fields, on the moon, in the seismic coda after earthquakes, in local geophone noise, and in long period world-wide background seismicity.
+Graduate Research Opportunities
+
+We have an opening for a student in an experimental/theoretical PhD research project funded by the DOE. The new student would build on previous work in the group using novel methods with reverberant ultrasound to probe a universal but perplexingly peculiar phenomenon originating at the internal surfaces of heterogeneous solids. The project is mostly experimental, but includes theory for the modeling of the multiply scattered ultrasound, and theory for the phenomenon itself. Laboratory techniques include design of the experiments and digital RF signal processing.
+Students with interest in complex classical waves and/or nonlinear material properties, are encouraged to contact Prof. Weaver for more information.
+
+Research Areas
+Condensed Matter Physics (experimental)
+
+
+Selected Articles in Journals
+John Y. Yoritomo and Richard L. Weaver (2020) Slow dynamic nonlinearity in unconsolidated metal structures arXiv:1912.04227 Phys. Rev. E 102, 012901
+
+Han Hank Xia, Xiaodong Song, Richard Weaver, Jiangtao Li Amplitude and decay of long-period coda of great earthquakes, Physics of the Earth and Planetary Interiors Volume 306, September 2020, 106538
+
+John Y. Yoritomo and Richard L. Weaver (2020) Slow dynamic nonlinearity in unconsolidated glass bead packs, Phys Rev E 101 012901 arXiv:1908.08935
+John Y. Yoritomo and Richard L. Weaver (2020) Slow dynamics in a single glass bead, Phys Rev E 101 012902    arXiv:1909.07799
+R L Weaver and J Y Yoritomo   "Temporally weighting a time varying noise field to improve Green Function Retrieval"  The Journal of the Acoustical Society of America. 143, 3706-19 (2018); https://doi.org/10.1121/1.5043406
+J P Coleman, K Dahmen and R L Weaver, "Avalanches and scaling collapse in the large-N Kuramoto model" DOI 10.1103/PhysRevE.97.042219    Physical Review E 97 042219 (2018)
+Richard Weaver, John Y. Yoritomo and J Patrick Coleman  "Diffuse elastic waves in a nearly axisymmetric body: distribution, transport and dynamical localization,"  Eur. Phys. J. Spec. Top. 226: 1371-1408 (2017)
+Mohammed Azeem Sheikh, Richard Weaver, and Karin Dahmen "Avalanches in KIC 8462852" PRL  117: 261101 (2016)
+R. Weaver. Retrieval of Green's function in the radiative transfer regime. J. Acoust. Soc. Am.  133:2, 792-798 (2013).
+
+S. Scharfenberg,  N. Mansukhani, C. Chialvo, R. Weaver, N. Mason.  Observation of a Snap-Through Instability in Graphene. Appl. Phys. Lett. 100, 021910 (2012).
+Mertens, David; Weaver, Richard.  Individual and Collective Behavior of Vibrating Motors Interacting Through a Resonant Plate. Complexity 16 (5): 45-53 MAY-JUN 2011
+R.Weaver.  Equipartition and Retrieval of the Green's function.  J. Acoust. Soc. Am.  128, 2300 (2010).
+Gorin, T., Seligman, T. H. and Weaver, Richard L. Scattering fidelity in elastodynamics.  Phys Rev E 73 015202 (2006)
+U. Kuhl, H. Stockmann, R. Weaver.  Classical wave experiments on chaotic scattering.  J. Phys. A: Math. Gen. 38, 10433-10463 (2005).
+R. Weaver.  Information from Seismic Noise. Science. 11:307, 5715 (2005).
+Lobkis, Oleg I., Rozhkov, Igor and Weaver, Richard L.  Non-exponential dissipation in a lossy elastodynamic billiard, comparison with Porter-Thomas and Random Matrix Predictions.  Phys. Rev. Lett. 91 art no 194101 (2003).
+			Lobkis, Oleg I. and Weaver, Richard L.  Ultrasonics without a source, Thermal fluctuation correlations at MHz frequencies, Phys Rev Lett. 87, art. no. 134301 (2001).
+			 Weaver, Richard L. and Lobkis, Oleg I.   On the emergence of the Greens function in the correlations of a diffuse field.  J Acoust. Soc Am. 110, 3011-3017 (2001).
+
+Research Honors
+Eotvos Award of the European Association of Geoscientists and Engineers (2009)
+Society of Experimental Mechanics, Hetenyi Award (2004)
+Fellow, Acoustical Society of America (1996)
+
+Recent Courses TaughtPHYS 325 - Classical Mechanics I
+

@@ -1,0 +1,124 @@
+
+
+
+Lucas K. Wagner 
+
+
+
+
+
+Associate Professor
+
+
+
+lkwagner@illinois.edu
+2131 Engineering Sciences Building
+
+
+For More Information
+Research website
+
+Education
+PhD. in physics, NCSU 2006
+B.S. in physics and applied mathematics, NCSU 2002
+
+BiographyProf. Wagner received his bachelor's degree from North Carolina State University in 2002 and his PhD from the same institution in 2006.  He then worked as a postdoc at Berkeley for two years, followed by a second postdoc at MIT in 2009.  In 2011, he joined the physics department at Illinois.He has pioneered the use of many-body electronic methods, in particular quantum Monte Carlo methods, to treat interacting systems of electrons in materials. His group has used these techniques to clarify the physics of strongly correlated systems such as the high temperature superconducting cuprates and vanadium dioxide. His group has developed new techniques to derive the collective physics of interacting quantum particles from these detailed calculations using data-based techniques. Prof. Wagner is also active in software development, to enhance the availability of quantum many-body methods. He developed the QWalk package for quantum Monte Carlo, which scales these calculations to more than 1 million threads. Recently, he has been developing the pyscf/pyqmc ecosystem for many-body quantum projects. 
+Academic Positions
+Postdoctoral researcher, MIT 2009-2011
+Postdoctoral researcher, UC Berkeley 2007-2009
+
+Research StatementI use high performance computation to simulate complex systems, and draw physical insights from those simulations.  One primary thread of this is using quantum Monte Carlo calculations to accurately describe the wave functions of realistic models of electrons and nuclei, including the correlations that electrons have with one another.  I am particularly interested in drawing conceptual information about how the electrons behave in a correlated way. This research area can connect directly to experiments, since the calculations are realistic, and also connect to more coarse-grained theory, by solving for the effective physics of electronic systems.
+Undergraduate Research OpportunitiesInterested undergraduates should contact me to discuss projects. Experience with quantum mechanics at the 400 level and coding experience is required.
+
+Research Areas
+Atomic, Molecular, and Optical Physics
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+Revisiting the dark matter interpretation of excess rates in semiconductors. P. Abbamonte, D. Baxter, Y. Kahn, G. Krnjaic, N. Kurinsky, B. Mandava, L.K. Wagner. Phys. Rev. D 105, 123002 (2022).
+Accurate tight-binding model for twisted bilayer graphene describes topological flat bands without geometric relaxation. S. Pathak, T. Rakib, R. Hou, A. Nevidomskyy, E. Ertekin, H.T. Johnson, L.K. Wagner. Phys. Rev. B 105, 115141 (2022).
+Frontiers of stochastic electronic structure calculations. M.A. Morales-Silva, K.D. Jordan, L. Shulenburger, L.K. Wagner. .J. Chem. Phys. 154, 170401 (2021).
+
+
+Nanoscale studies of electric field effects on monolayer 1T′-WTe2. Y. Maximenko, Y. Chang, G. Chen, M.R. Hirsbrunner, W. Swiech, T.L. Hughes, L.K. Wagner, V. Madhavan. NPJ Quantum Mater. 7, 29 (2022).
+Excited states in variational Monte Carlo using a penalty method. S. Pathak, B. Busemeyer, J.N.B. Rodrigues, L.K. Wagner. J. Chem. Phys. 154, 034101 (2021).
+Recent developments in the PySCF program package . Q. Sun, et al. J. Chem. Phys. 153, 024109 (2020).
+Identifying materials with charge-spin physics using charge-spin susceptibility computed from first principles. J.N.B. Rodrigues, L.K. Wagner. J. Chem. Phys. 153, 074105 (2020).
+Direct comparison of many-body methods for realistic electronic Hamiltonians. K.T. Williams, L. Chen, L.K. Wagner, et al. Phys. Rev. X 10, 011041 (2020).
+Effective spin-orbit models using correlated first-principles wave functions. Y. Chang and L.K. Wagner. Phys. Rev. Res. 2, 013195 (2020).
+Many-Body Electric Multipole Operators in Extended Systems. W.A. Wheeler, L.K. Wagner, T.L. Hughes. Phys. Rev. B 100, 245135 (2019).
+Prediction for the singlet-triplet excitation energy for the spinel MgTi2O4 using first-principles diffusion Monte Carlo. B. Busemeyer, G.J. MacDougall, L.K. Wagner Phys. Rev. B 99, 081118 (2019).
+
+High Hole Mobility and Nonsaturating Giant Magnetoresistance in the New 2D Metal NaCu4Se4 Synthesized by a Unique Pathway. H. Chen, J. Rodrigues, A. Rettie, T.-B. Song, D. Chica, X. Su, J.-K. Bao, D.Y. Chung, W.-K. Kwok, L. Wagner, M. Kanatzidis. J. Amer. Chem. Soc. 141, 635 (2018).
+
+Non-orthogonal determinants in multi-Slater-Jastrow trial wave functions for fixed-node diffusion Monte Carlo. S. Pathak and L.K. Wagner  J. Chem. Phys. 149, 234104 (2018).
+Uncovering anisotropic magnetic phases via fast dimensionality analysis. M.H. Karigerasi, L.K. Wagner, and D.P. Shoemaker. Phys. Rev. Mater. 2, 094403 (2018).
+From real materials to model Hamiltonians with density matrix downfolding. H. Zheng, H.J. Changlani, K.T. Williams, B. Busemeyer, L.K. Wagner. Front. Phys. (2018).
+Quantum Monte Carlo study of the metal to insulator transition on a honeycomb lattice with 1/r interactions. L. Chen, L.K. Wagner. Phys. Rev. B 97, 045101 (2018).
+Semiconducting Ba3Sn3Sb4 and Metallic Ba7-xSn11Sb15-y (x=0.4,y=0.6) Zintl Phases. H. Chen, A. Narayan, C. Stoumpos, J. Zhao, F. Han, D.Y. Chung, L.K. Wagner, W.-K. Kwo, and M.G. Kanatzidis. Inorg. Chem. 56, 14251 (2017).
+
+The importance of sigma bonding electrons for the accurate description of electron correlation in graphene. H. Zheng, Y. Gan, P. Abbamonte, L.K. Wagner. Phys. Rev. Lett. 119, 166402 (2017).
+Charge Density Wave and Narrow Energy Gap at Room Temperature in Pb3-xSb1+xS4Te2-δ with Square Te Sheets. H. Chen, C.D. Malliakas, A. Narayan, L. Fang, D. Y. Chung, L.K. Wagner, W.-K. Kwok, M.G. Kanatzidis. J. Am. Chem. Soc. 139, 11271 (2017).
+
+Investigation of a Quantum Monte Carlo Protocol To Achieve High Accuracy and High-Throughput Materials Formation Energies. K. Saritas, T. Mueller, L. Wagner, J.C. Grossman. J. Chem. Theory Comput. 13, 1943 (2017).
+Accurate barrier heights using diffusion Monte Carlo. K. Krongchon, B. Busemeyer, L.K. Wagner. J. Chem. Phys. 146, 124129 (2017). 
+Fixed node diffusion Monte Carlo description of nitrogen defects in zinc oxide. J. Yu, L.K. Wagner, and E. Ertekin. Phys. Rev. B 95, 075209 (2017).
+Spin-state energetics of [Fe(NCH)6]2+: a Diffusion Monte Carlo perspective on the spin-crossover transition. M. Fumanal, L.K. Wagner, S. Sanvito, and A. Droghetti. J. Chem. Theory Comput. 12, 4233 (2016).
+Competing collinear magnetic structures in superconducting FeSe by first principles quantum Monte Carlo calculations. B. Busemeyer, M. Dagrada, S. Sorella, M. Casula, L.K. Wagner.  Phys. Rev B  94, 035108 (2016).
+Discovering correlated fermions using quantum Monte Carlo. L.K. Wagner, D.M. Ceperley. Rep. Prog. Phys. 79, 094501 (2016).
+Diffusion Monte Carlo for accurate dissociation energies of 3d transition metal containing molecules. K. Doblhoff-Dier, J. Meyer, P.E. Hoggan, G-J Kroes, L.K. Wagner.  J. Chem. Theory Comput. 12, 2583 (2016).
+Hexagonal boron nitride and water interaction parameters. Y. Wu, L.K. Wagner, N.R. Aluru. J. Chem. Phys. 144 164118 (2016)
+Using Fluctuations of the Local Energy to Improve Many-Body Wave Functions. K.T. Williams, L.K. Wagner. Phys. Rev. E 94, 013303 (2016).
+Phase Stability and Properties of Manganese Oxide Polymorphs: Assessment and Insights from Diffusion Monte Carlo. J. A. Schiller, L. K. Wagner, E. Ertekin. Phys. Rev. B 92, 235209 (2015).
+Computational and experimental investigation of unreported transition metal selenides and sulphides. A. Narayan, A. Bhutani, S. Rubeck, J.N. Eckstein, D.P. Shoemaker, L.K. Wagner. Phys. Rev. B 94, 045105 (2016).
+Towards a systematic assessment of errors in diffusion Monte Carlo calculations of semiconductors: Case study of zinc selenide and zinc oxide. J. Yu, L.K. Wagner,  E. Ertekin, J. Chem. Phys. 143, 224707 (2015).
+ Ground state of doped cuprates from first-principles quantum Monte Carlo calculations. L.K. Wagner. Phys. Rev. B 92, 161116 (2015).
+
+Density-matrix based determination of low-energy model Hamiltonians from ab initio wavefunctions. Hitesh J. Changlani, H. Zheng, and L.K. Wagner. J. Chem. Phys. 143, 102814 (2015).
+The interaction between hexagonal boron nitride and water from first principles. Y Wu, L.K. Wagner, N.R. Aluru. J Chem. Phys. 142, 234702 (2015).
+
+Computation of the Correlated Metal-Insulator Transition in Vanadium Dioxide from First Principles. H. Zheng and L.K. Wagner. Phys. Rev. Lett. 114, 176401(2015).
+Effect of electron correlation on the electronic structure and spin-lattice coupling of high-Tc cuprates: Quantum Monte Carlo calculations. L.K. Wagner and P. Abbamonte. Phys. Rev. B 90, 125129 (2014).
+Quantum Monte Carlo for Ab Initio Calculations of Energy-Relevant Materials. L.K. Wagner. Intl. J. Quantum Chem. 114, 94 (2014).
+
+Point-Defect Optical Transitions and Thermal Ionization Energies from Quantum Monte Carlo Methods: Application to F-center Defect in MgO. E. Ertekin, L.K. Wagner, J.C. Grossman. Phys. Rev. B 87, 155210 (2013).
+Origins of structural hole traps in hydrogenated amorphous silicon. E. Johlin, L.K. Wagner, T. Buonassisi, J.C. Grossman. Phys. Rev. Lett. 110, 146805 (2013) .
+Types of single particle symmetry breaking in transition metal oxides due to electron correlation.  L.K. Wagner. J. Chem. Phys. 138, 094106 (2013).
+Tuning metal hydride thermodynamics via size and composition: Li-H, Mg-H, Al-H, and Mg-Al-H nanoclusters for hydrogen storage. L. K. Wagner,  E.H. Majzoub ,  M.D. Allendorf, and J.C. Grossman.  Phys. Chem. Chem. Phys .14, 6611-6616 (2012).
+Quantum Monte Carlo for minimum energy structures. L.K. Wagner and J.C. Grossman. Phys. Rev. Lett. 104, 210201 (2010).
+Theoretical Study of Electronic and Atomic Structures of (MnO)(n).  H. Kino, L.K. Wagner, and L. Mitas. J. Comp. & Theor. Nanosci.  6:12 SI, 2583-2588 (2009).
+QWalk: A quantum Monte Carlo program. L.K. Wagner, M. Bajdich, and L. Mitas.  J. Comp. Phys. 228, 3390-3404 (2009).
+A microscopic description of light induced defects in amorphous silicon solar cells. L.K. Wagner and J.C. Grossman.  Phys. Rev. Lett. 101, 265501 (2008).
+Pfaffian pairing and backflow wavefunctions for electronic structure quantum Monte Carlo. M. Bajdich, L. Mitas, L.K. Wagner, K.E. Schmidt. Phys. Rev. B 77, 115112 (2008).
+Transition Metal oxides using quantum Monte Carlo. L.K. Wagner.  J. Phys.: Condens. Matter 19, 343201 (2007).
+Energetics and Dipole Moment of Transition Metal Monoxides by Quantum Monte Carlo. L.K. Wagner and L. Mitas. J. Chem. Phys. 126, 034105 (2007).
+Hartree-Fock versus quantum Monte Carlo study of persistent current in a one-dimensional ring with single scatterer. P. Vagner, M. Mosko, R. Nemeth, L. Wagner, and L. Mitas. Physica E 32, 350-353 (2006).
+Pfaffian Pairing Wave Functions in Electronic-Structure Quantum Monte Carlo Simulations. M. Bajdich, L. Mitas, G. Drobny, L. K. Wagner, and K. E. Schmidt. Phys. Rev. Lett. 96, 130201 (2006) 
+Approximate and exact nodes of fermionic wavefunctions: Coordinate transformations and topologies. M. Bajdich, L. Mitas, G. Drobny, and L. K. Wagner. Phys. Rev. B 72, 075131 (2005).
+A quantum Monte Carlo study of electron correlation in transition metal oxygen molecules. L. Wagner, L. Mitas. Chem. Phys. Lett. 370, 412-417 (2003).
+Observation of a Magic Discret Family of Ultrabright Si Nanoparticles. J. Belomoin, A. Therrien, S. Smith, R. Rao, S. Twesten, M. Chaieb, M. Nayfeh, L. Wagner, and L. Mitas. Appl. Phys. Lett. 80, 841-843 (2002).
+Effects of Surface Termination on the Band Gap of Ultrabright Si29 Nanoparticles: Experiments and Computational Models. G. Belomoin, E. Rogozhina, J. Therrien, P. Braun, L. Abuhassan, M. Nayfeh, L. Wagner, and L. Mitas. Phys. Rev. B 65, 193406 (2002).
+
+
+Articles in Conference Proceedings
+Investigation of nodes of fermionic wave functions. L. Mitas, G. Drobny, M.Bajdich, and L.K. Wagner. (Washington Univ, St Louis, MO,  Sep 27-Oct 2, 2004) Proc. of the 28th Intl. Workshop on Condensed Matter Theories,  Cond. Matt. Theories 20, 423 (2006).
+
+Magazine Articles
+Researchers use Mira to peer inside high-temperature superconductors
+
+Other Scholarly Activities
+Maintainer for pyQMC python quantum Monte Carlo package (http://github.com/WagnerGroup/pyqmc)
+
+Teaching Honors
+Nordsieck award for teaching excellence in physics (Spring 2020)
+
+Recent Courses TaughtCSE 498 DM (MSE 598 DM, ME 598 DM) - Intro to Digital Materials
+MSE 485 (CSE 485, PHYS 466) - Atomic Scale Simulations
+PHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 246 - Intro to Computational Physics
+PHYS 446 - Modern Computational Physics
+PHYS 460 - Condensed Matter Physics
+

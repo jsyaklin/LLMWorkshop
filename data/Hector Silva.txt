@@ -1,0 +1,46 @@
+
+
+
+Hector Silva he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+hosilva@illinois.edu
+237B Loomis Laboratory
+
+
+For More Information
+Personal website
+
+Education
+Ph.D. in Physics, University of Mississippi, USA, 2017
+M.Sc. in Physics, Federal University of Para, Brazil, 2011
+B.Sc. in Physics, Federal University of Para, Brazil, 2009
+
+BiographyI received my B.Sc. (2009) and M.Sc. (2011) degrees in physics from the Universidade Federal do Pará, in Belém, Brazil. After moving to the USA, I received my Ph.D. in physics in 2017 from the University of Mississippi. Between 2017 and 2020, I did postdoctoral work first at Montana State University, and then at the University of Illinois Urbana-Champaign. Since 2020, I have held a postdoctoral position at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany. Starting Fall 2024, I will return to Urbana-Champaign as an Assistant Professor.
+Academic Positions
+2020 - 2024: Postdoctoral researcher, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Germany
+2019 - 2020: Postdoctoral researcher, University of Illinois Urbana-Champaign, USA
+2017 - 2019: Postdoctoral researcher, Montana State University, USA
+
+Research StatementMy research focuses on relativistic theories of gravity (general relativity and extensions thereof) and the physics of compact objects (neutron stars and black holes). In particular, my research is driven by the questions: (1) Is general relativity sufficient to describe all observable gravitational phenomena in the Universe? (2) How can compact objects help with our understanding of the strong-field regime of gravity? My work combines analytical and numerical methods to predict what should be seen through astronomical observations. I then let data tell me if these predictions conform to observations using statistical tools. I am also interested in theoretical problems at the interface between gravity and high-energy physics.
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+
+
+Selected Articles in Journals
+H. O. Silva, G. Tambalo, K. Glampedakis, K. Yagi, and J. Steinhoff, "Quasinormal modes and their excitation beyond general relativity", Phys. Rev. D 110, 024042 (2024)
+D. D. Doneva, F. M. Ramazanoğlu, H. O. Silva, T. P. Sotiriou, and S. S. Yazadjiev, "Spontaneous scalarization", Rev. Mod. Phys. 96, 015004 (2024)
+H. O. Silva, A. Miguel Holgado, A. Cárdenas-Avendaño, and N. Yunes, "Astrophysical and theoretical physics implications from multimessenger neutron star observations”, Phys. Rev. Lett. 126, 181101 (2021)
+H. O. Silva, J. Sakstein, L. Gualtieri, T. P. Sotiriou, and E. Berti, "Spontaneous scalarization of black holes and compact stars from a Gauss-Bonnet coupling”, Phys. Rev. Lett. 120, 131104 (2018)
+J. Alsing, H. O. Silva, and E. Berti, "Evidence for a maximum mass cut-off in the neutron star mass distribution and constraints on the equation of state”, MNRAS 478 1377 (2018)
+
+Recent Courses TaughtPHYS 516 - General Relativity II
+

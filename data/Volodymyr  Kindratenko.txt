@@ -1,0 +1,183 @@
+
+
+
+Volodymyr Kindratenko he/him/his
+
+
+
+
+
+Adjunct Associate ProfessorResearch Associate Professor, National Center for Supercomputing Applications
+
+
+(217) 265-0209
+kindrtnk@illinois.edu
+3044 Electrical & Computer Eng Bldg
+
+
+For More Information
+Home page
+
+Education
+D.Sc., analytical chemistry, University of Antwerp, Antwerp, Belgium, 1997
+
+M.Sc., mathematics and informatics, Vynnychenko State Pedagogical University, Kirovograd, Ukraine, 1993
+
+
+BiographyVolodymyr Kindratenko is an Assistant Director at the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign where he serves as the Director for the Center for Artificial Intelligence Innovation (CAII).  He holds an Adjunct Associate Professor appointment in the Departments of Electrical and Computer Engineering (ECE) and a Research Associate Professor appointment in the Department of Computer Science (CS). Prior to becoming the Director of CAII, he was leading NCSA's Innovative Systems Laboratory—a center-wide research effort to investigate and evaluate emerging compute technologies for high-performance computing applications. Dr. Kindratenko received D.Sc. degree from the University of Antwerp, Belgium, in 1997. His research interests include high-performance computing, special-purpose computing architectures, cloud computing, and machine learning systems and applications. He serves as a department editor of IEEE Computing in Science and Engineering magazine and an associate editor of the International Journal of Reconfigurable Computing. Dr. Kindratenko’s work has been funded by NSF, NASA, ONR, DOE, and industry. He has published over 70 papers in refereed scientific journals and conference proceedings and holds five US patents. He is a Senior Member of IEEE and ACM. 
+Academic Positions
+Visiting Lecturer, ECE, UIUC, 2009-2013
+Research Associate Professor, CS,  UIUC, 2018-present
+Adjunct Associate Professor, ECE, UIUC, 2013-present
+Senior Research Scientist, NCSA, UIUC, 2004-2021
+
+
+Teaching StatementI teach computer engineering undergraduate courses in digital logic, computing systems design and programming.
+Design Teams
+SC Student Cluster Competition, team mentor, 2016-2021
+
+
+Research StatementMy research interests include high-performance computing, special-purpose computing architectures, AI and machine learning systems and applications. I work on the development and deployment of next-generation HPC systems based on computational accelerators and on the design and implementation of scientific applications for such systems.
+Undergraduate Research OpportunitiesStudents with strong programming skills interested in exploring special-purpose and accelerator-based architectures an machine learning, deep learning, AI. 
+Research Interests
+cloud computing
+parallel computing
+special-purpose computing architectures
+High-performance computing
+Large Language Model (LLM) applications, model serving 
+AI systems and applications
+
+
+
+Research Areas
+Artificial Intelligence
+Cloud computing
+Computer architecture
+Computer Architecture
+Computer System Architecture
+Computer vision and pattern recognition
+Logic design and VLSI
+Machine learning
+Machine learning and pattern recognition
+Natural language processing
+Parallel / High-Performance Computing
+Parallel processing
+Parallel Systems
+Robotics, vision, and artificial intelligence
+Scientific Computing
+System modeling and measurement
+
+
+Research Topics
+Cognitive computing
+Computational science and engineering
+Distributed computing and storage systems
+Machine learning
+Machine vision
+
+Books Edited or Co-Edited (Original Editions)
+Numerical Computations with GPUs, Kindratenko, Volodymyr (Ed.), Springer, ISBN 978-3-319-06547-2, 2014.
+Modern Accelerator Technologies for Geographic Information Science, Shi, Xuan; Kindratenko, Volodymyr; Yang, Chaowei (Eds.), Springer, ISBN 978-1-4614-8744-9, 2013.
+Proceedings of the 2012 International Workshop on Modern Accelerator Technologies for GIScience (MAT4GIScience 2012).
+Proceedings of the 2011 Symposium on Application Accelerators in High-Performance Computing (SAAHPC), IEEE Publishing, ISBN 978-0-7695-4448-9, 2011.
+Proceedings of the 4th international workshop on High-performance reconfigurable computing technology and applications (held in conjunction with SC10), IEEE Publishing, ISBN 978-1-4244-9517-7, 2010.
+Proceedings of the 3rd international workshop on High-performance reconfigurable computing technology and applications (held in conjunction with SC09), ACM Press, ISBN 978-1-60558-721-9, 2009.
+Proceedings of the 2st international workshop on High-performance reconfigurable computing technology and applications (held in conjunction with SC08), IEEE Publishing, ISBN 978-1-4244-2826-7, 2008.
+Proceedings of the 1st international workshop on High-performance reconfigurable computing technology and applications (held in conjunction with SC07), ACM Press, ISBN 978-1-59593-894-7, 2007.
+
+Selected Articles in Journals
+E. Park, V. Kindratenko, Y. Hashash, Shared Memory Parallelization of Large-Scale 3D Polyhedral Particle Simulation, submitted to Computers and Geotechnics, 2020.
+Eliu Huerta, Asad Khan, Edward Davis, Colleen Bushell, William Gropp, Daniel Katz, Volodymyr Kindratenko, Seid Koric, William Kramer, Brendan McGinty, Kenton McHenry, Aaron Saxton, Convergence of Artificial Intelligence and High-Performance Computing on NSF-supported Cyberinfrastructure, Journal of Big Data, 2020, 7:88.
+E. Huerta, G. Allen, I. Andreoni, J. Antelis, E. Bachelet, B. Berriman, F. Bianco, R. Biswas, M. Carrasco, K. Chard, M. Cho, P. Cowperthwaite, Z. Etienne, M. Fishbach, F. Forster, D. George, T. Gibbs, M. Graham, W. Gropp, R. Gruendl, A. Gupta, R. Haas, S. Habib, E. Jennings, M. Margaret, E. Katsavounidis, D. Katz, A. Khan, V. Kindratenko, W. Kramer, X. Liu, A. Mahabal, Z. Marka, K. McHenry, J. Miller, C. Moreno, M. Neubauer, S. Oberlin, A. Olivas, D. Petravick, A. Rebei, S. Rosofsky, M. Ruiz, A. Saxton, B. Schutz, A. Schwing, E. Seidel, S. Shapiro, H. Shen, L. Singer, B. Sipocz, L. Sun, J. Towns, A. Tsokaros, W. Wei, J. Wells, T. Williams, J. Xiong, Z. Zhao, and Y. Shen, Enabling real-time multi-messenger astrophysics discoveries with deep learning, Nature Reviews Physics, vol. 1, pp. 600–608, 2019. 
+F. Pratas, P. Trancoso, L. Sousa, A. Stamatakis, G. Shi, V. Kindratenko, Fine-grain Parallelism using Multi-core, Cell/BE, and GPU Systems, Parallel Computing, vol. 38, no. 8, pp. 365-390, 2012.
+G. Shi, V. Kindratenko, I. Ufimtsev, T. Martinez, J. Phillips, S. Gottlieb, Implementation of scientific computing applications on the Cell Broadband Engine, Scientific Programming, vol. 17, no. 1-2, pp. 135-152, 2009.
+G. Shi, V. Kindratenko, S. Gottlieb, The bottom-up implementation of one MILC lattice QCD application on the Cell blade, International Journal of Parallel Programming, vol. 37, no. 5, pp. 488-507, 2009.
+V. Kindratenko, A. Myers, R. Brunner, Implementation of the two-point angular correlation function on a high-performance reconfigurable computer, Scientific Programming, 2009.
+T. El-Ghazawi, E. El-Araby, M. Huang, K. Gaj, V. Kindratenko, D. Buell, The Promise of High-Performance Reconfigurable Computing, IEEE Computer, vol. 41, no. 2, pp. 78-85, 2008.
+
+Articles in Conference Proceedings
+S. Luo, M. Vellakal, S. Koric, V. Kindratenko, J. Cu, Parameter Identification of RANS Turbulence Model using Physics-Embedded Neural Network, In Proc. First International Workshop on the Application of Machine Learning Techniques to Computational Fluid Dynamics Simulations and Analysis (CFDML’20), ISC High Performance, 2020.
+V. Kindratenko, D. Mu, Y. Zhan, J. Maloney, S. Hashemi, B. Rabe, K. Xu, R. Campbell, J. Peng, W. Gropp, HAL: Computer System for Scalable Deep Learning, In Proc. PEARC’20: Practice and Experience in Advanced Research Computing Proceedings, 2020.
+D. Lapine, V. Kindratenko, L. Rosu, NCSA Internship Program for Cyberinfrastructure Professionals, In Proc. PEARC’20: Practice and Experience in Advanced Research Computing Proceedings, 2020.
+A. Misra, V. Kindratenko, HLS-based Acceleration Framework for Deep Convolutional Neural Networks, In Proc. 16th International Symposium on Applied Reconfigurable Computing (ARC2020), 2020.
+S. Hashemi, P. Rausch, B. Rabe, K. Chou, S. Liu, V. Kindratenko, R. Campbell, tensorflow-tracing: A Performance Tuning Framework for Production, In Proc. 2019 USENIX Conference on Operational Machine Learning (OpML'19), 2019.
+G. Shi, R. Babich, M. Clark, B. Joo, S. Gottlieb, V. Kindratenko, The Fat-Link Computation On Large GPU Clusters for Lattice QCD, In Proc. Symposium on Application Accelerators in High-Performance Computing (SAAHPC), 2012.
+G. Shi, V. Kindratenko, R. Kooper, P. Bajcsy, GPU Acceleration of an Image Characterization Algorithm for Document Similarity Analysis, In Proc. 9th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA), 2011, pp. 209-216.
+D. Ye, A. Titov, V. Kindratenko, I. Ufimtsev, T. Martinez, Porting Optimized GPU Kernels to a Multi-core CPU: Computational Quantum Chemistry Application Example, In Proc. Symposium on Application Accelerators in High-Performance Computing (SAAHPC), 2011, pp. 73-75.
+G. Shi, S. Gottlieb, A. Torok, V. Kindratenko, Design of MILC lattice QCD application for GPU clusters, in Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2011.
+S. Gottlieb, G. Shi, A. Torok, V. Kindratenko, QUDA programming for staggered quarks, In Proc. The XXVIII International Symposium on Lattice Field Theory (Lattice), 2010.
+A. Torok, S. Basak, A. Bazavov, C. Bernard, C. DeTar, E. Freeland , W. Freeman, S. Gottlieb, U. Heller, J.E. Hetrick, V. Kindratenko, J. Laiho, L. Levkova, M. Oktay, J. Osborn, G. Shi, R. Sugar , D. Toussaint, R.S. Van de Water, Electromagnetic splitting of charged and neutral mesons, In Proc. The XXVIII International Symposium on Lattice Field Theory (Lattice), 2010.
+J. Enos, C. Steffen, J. Fullop, M. Showerman, G. Shi, K. Esler, V. Kindratenko, J. Stone, J. Phillips, Quantifying the Impact of GPUs on Performance and Energy Efficiency in HPC Clusters, In Proc. Work in Progress in Green Computing, 2010.
+G. Shi, S. Gottlieb, A. Totok, V. Kindratenko, Accelerating Quantum Chromodynamics Calculations with GPUs, In Proc. Symposium on Application Accelerators in High-Performance Computing (SAAHPC), 2010.
+A. Titov, V. Kindratenko, I. Ufimtsev, T. Martinez, Generation of Kernels to Calculate Electron Repulsion Integrals of High Angular Momentum Functions on GPUs – Preliminary Results, In Proc. Symposium on Application Accelerators in High-Performance Computing (SAAHPC), 2010.
+A. Pant, H. Jafri, V. Kindratenko, Phoenix: A Runtime Environment for High Performance Computing on Chip Multiprocessors, In Proc. 17th Euromicro International Conference on Parallel, Distributed and Network-Based Processing – PDP'09, 2009, pp. 119-126
+M. Showerman, J. Enos, A. Pant, V. Kindratenko, C. Steffen, R. Pennington, W. Hwu, QP: A Heterogeneous Multi-Accelerator Cluster, In Proc. 10th LCI International Conference on High-Performance Clustered Computing – LCI'09, 2009.
+D. Roeh, V. Kindratenko, R. Brunner, Accelerating Cosmological Data Analysis with Graphics Processors, In Proc. 2nd Workshop on General-Purpose Computation on Graphics Processing Units – GPGPU-2, 2009.
+V. Kindratenko, R. Brunner, Accelerating Cosmological Data Analysis with FPGAs, In Proc. IEEE Symposium on Field-Programmable Custom Computing Machines - FCCM'09, 2009.
+G. Shi, J. Enos, M. Showerman, V. Kindratenko, On testing GPU memory for hard and soft errors, in Proc. Symposium on Application Accelerators in High-Performance Computing – SAAHPC'09, 2009.
+V. Kindratenko, J. Enos, G. Shi, M. Showerman, G. Arnold, J. Stone, J. Phillips, W. Hwu, GPU Clusters for High-Performance Computing, in Proc. Workshop on Parallel Programming on Accelerator Clusters, IEEE International Conference on Cluster Computing, 2009.
+
+Other Publications
+D. Buell, T. El-Ghazawi, K. Gaj, V. Kindratenko, High-Performance Reconfigurable Computing, Guest Editors’ Introduction, IEEE Computer, vol. 40, no. 3, pp. 27-31, 2007.
+V. Kindratenko, D. Buell, Reconfigurable Systems Summer Institute 2007, Guest Editorial, Parallel Computing, vol. 34, no. 4-5, pp. 199-200, 2008.
+V. Kindratenko, G. Thiruvathukal, S. Gottlieb, High-Performance Computing Applications on Novel Architectures, Guest Editors’ Introduction, IEEE/AIF Computing in Science and Engineering, vol. 10, no. 6, pp. 13-15, 2008.
+V. Kindratenko, R. Wilhelmson, R. Brunner, T. Martinez, W. Hwu, High-Performance Computing with Accelerators, Guest Editors’ Introduction, IEEE/AIF Computing in Science and Engineering, vol. 12, no. 4, pp. 12-16, 2010.
+D. Bader, D. Kaeli, V. Kindratenko, Special Issue on High-Performance Computing with Accelerators, Guest Editor’s Introduction, IEEE Transactions on Parallel and Distributed Systems, vol. 22, no. 1, pp. 3-6, 2011.
+V. Kindratenko, Scientific Computing with GPUs, Guest Editors’ Introduction, IEEE/AIF Computing in Science and Engineering, vol. 14, no. 3, 2012.
+V. Kindratenko, G. Peterson, Application accelerators in HPC, Editorial introduction, Parallel Computing, vol. 38, no. 8, p. 343, 2012.
+
+Patents
+V. Kindratenko and R. Fenwick, Cuts removal system for triangulated CAD models, US Patent 6,744,434, June 1, 2004.
+V. Kindratenko and R. Fenwick, System and method for hidden object removal, US Patent 6,897,863, May 24, 2005.
+R. Hornbaker, V. Kindratenko, and D. Pointer, Method for tracking grain, US Patent 7,047,103, May 16, 2006.
+R. Hornbaker, V. Kindratenko, and D. Pointer, Tracking device for grain, US Patent 7,162,328, January 9, 2007.
+R. Hornbaker, V. Kindratenko, and D. Pointer, System for tracking grain, US Patent 7,511,618 B2, March 31, 2009.
+
+Magazine Articles
+S. Luo and V. Kindratenko, Hands-on with IBM Visual Insights, Computing in Science & Engineering, vol. 22, no. 5, pp. 108-112, Sept.-Oct. 2020.
+R. Venkatakrishnan, A. Misra and V. Kindratenko, High-Level Synthesis-Based Approach for Accelerating Scientific Codes on FPGAs, Computing in Science & Engineering, vol. 22, no. 4, pp. 104-109, 1 July-Aug. 2020.
+V. Kindratenko, C. Steffen, R. Brunner, Accelerating scientific applications with reconfigurable computing, Scientific Programming department, IEEE/AIF Computing in Science and Engineering, vol. 9, no. 5, pp. 70-77, 2007.
+V. Kindratenko, Novel Computing Architectures, inaugural Novel Architectures department article, IEEE/AIF Computing in Science and Engineering, 2009.
+G. Shi, V. Kindratenko, F. Pratas, P. Trancoso, M. Gshwind, Application Acceleration with the Cell Broadband Engine, Novel Architectures department article, IEEE/AIF Computing in Science and Engineering, vol. 12, No. 1, pp. 76-81, 2010.
+V. Kindratenko, P. Trancoso, Trends in High-Performance Computing, Novel Architectures department article, IEEE/AIF Computing in Science and Engineering, vol. 13, No. 3, pp. 92-95, 2011.
+
+Journal Editorships
+Associate Editor, International Journal of Reconfigurable Computing (IJRC), 2007-present
+Department Editor, IEEE/AIF Computing in Science and Engineering, Novel Architectures department, 2009-present
+
+Conferences Organized or Chaired
+International Workshop on the Application of Machine Learning Techniques to Computational Fluid Dynamics and Solid Mechanics Simulations and Analysis (CFDML)
+Symposium on Application Accelerators in High Performance Computing (SAAHPC)
+International Workshop on High-Performance Reconfigurable Computing Technology and Applications (HPRCTA)
+
+Professional Societies
+Senior Member, The Association for Computing (ACM)
+Senior Member, The Institute of Electrical and Electronics Engineers (IEEE)
+
+Service on Department Committees
+Curriculum committee, ECE Department
+
+Service on College Committees
+IT Governance Education Working Group, College of Engineering 
+
+Service to Federal and State Government
+DOE Proposal Review panel
+NSF Proposal Review panel
+
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students, Summer 2015, Fall 2015, Sprint 2016, Summer 2017, Fall 2018, Fall 2019, Fall 2021
+
+
+Research Honors
+SRC Award for Excellence in Reconfigurable Computing (2007)
+
+Other Honors
+ 
+Outstanding Service Award, 9th ACS/IEEE International Conference on Computer Systems and Applications, 2011
+
+Recent Courses TaughtCS 225 - Data Structures
+ECE 120 - Introduction to Computing
+ECE 220 - Computer Systems & Programming
+ECE 408 (CS 483, CSE 408) - Applied Parallel Programming
+ECE 479 (ECE 498 ZJU) - IoT and Cognitive Computing
+

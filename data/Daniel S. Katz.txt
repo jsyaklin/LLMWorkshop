@@ -1,0 +1,495 @@
+
+
+
+Daniel S. Katz he/him/his
+
+
+
+
+
+Research Associate Professor, National Center for Supercomputing Applications
+
+
+(217) 244-8000
+dskatz@illinois.edu
+4102A Nat Center for Suprcomp Appl
+
+
+For More Information
+Home page for Daniel S. Katz
+
+Education
+BS, Electrical Engineering, Northwestern University, 1988
+MS, Electrical Engineering, Northwestern University, 1990
+PhD, Electrical Engineering, Northwestern University, 1994
+
+Academic Positions
+Chief Scientist, NCSA (100%, 2020 - Present)
+Research Associate Professor, School of Information Sciences (0%, 2016 - Present)
+Research Associate Professor, Computer Science (0%, 2016 - Present)
+Research Associate Professor, Electrical and Computer Engineering (0%, 2016 - 2024)
+Assistant Director for Scientific Software & Applications, NCSA (100%, 2016 - 2024)
+Guest Faculty, Data Science and Learning Division, Argonne National Laboratory (0%, 2016 - 2021)
+
+Senior Fellow, Computation Institute, Argonne National Laboratory (2009 - 2016)
+Senior Fellow, Computation Institute, University of Chicago (2009 - 2016)
+Affiliate Faculty, Center for Computation & Technology (CCT), LSU (2009 - 2020)
+Adjunct Associate Professor, Electrical and Computer Engineering, LSU (2006 - 2013)
+Director for Cyberinfrastructure Development, Center for Computation & Technology (CCT), LSU (2006 - 2009)
+
+Other Professional Employment
+Computational Scientist, Cray Research, Inc. (1993 - 1996)
+Senior Member of the Information Systems and Computer Science Staff, JPL (1996 - 1998)    
+Project Element Manager, Remote Exploration and Experimentation Project, JPL (1998 - 2001)	          
+Technical Group Supervisor, Parallel Applications Technologies Group, JPL (2002 - 2005)	          
+Area Program Manager, Dependable Computing, High-End Computing, JPL (2003 - 2005)	          
+Principal Member, Information Systems and Computer Science Staff, Jet Propulsion Laboratory (JPL) (2003 - 2006)	          
+Program Director, CISE/ACI, National Science Foundation (2012 - 2016)	          
+
+Research Interests
+Resilience and fault-tolerance
+Parallel and distributed computing
+Many task computing
+Sustainable and open science, focusing on software, including software citation and software publication
+
+
+Research Areas
+Cloud computing
+Data and Information Systems
+Distributed algorithms
+Distributed and peer-to-peer systems
+Fault tolerance and reliability
+Networking and distributed computing
+Parallel processing
+Reliable and secure systems
+Scientific Computing
+Software systems
+System modeling and measurement
+Systems and Networking
+
+
+Research Topics
+Computational science and engineering
+Data/Information Science and Systems
+Distributed computing and storage systems
+Network science and engineering
+Socio-technical systems and networking
+
+Selected Articles in Journals
+E. Nyenah, P. DÃ¶ll, D. S. Katz, and R. Reinecke, "Software sustainability of global impact models," Geoscientific Model Development, v.17(23), pp. 8593â€“8611, 2024. 
+R. Sonabend, H. Gruson, L. Wolansky, A. Kiragga, D. S. Katz, "FAIR-USE4OS: Guidelines for creating impactful open-source software," PLOS Computational Biology, v.20(5), e1012045, 2024.
+M. Hosseini, A. O. Holcombe, M. Kovacs, H. Zwart, D. S. Katz, K. Holmes, "Group authorship, an excellent opportunity laced with ethical, legal and technical challenges," Accountability in Research: Ethics, Integrity and Policy, 2024.
+J. Duarte, H. Li, A. Roy, R. Zhu, E. A. Huerta, D. Diaz, P. Harris, R. Kansal, D. S. Katz, I. H. Kavoori, V. V. Kindratenko, F. Mokhtar, M. S. Neubauer, S. E. Park, M. Quinnan, R. Rusack, and Z. Zhao, "FAIR AI Models in High Energy Physics," Machine Learning: Science and Technology, v.4(4), 045062, 2023
+S. Stall, G. Bilder, M. Cannon, N. Chue Hong, S. Edmunds, C. C. Erdmann, M. Evans, R. Farmer, P. Feeney, M. Friedman, M. Giampoala, R. B. Hanson, M. Harrison, D. Karaiskos, D. S. Katz, V. Letizia, V. Lizzi, C. MacCallum, A. Muench, K. Perry, H. Ratner, U. Schindler, B. Sedora, M. Stockhause, R. Townsend, J. Yeston, T. Clark, "Journal Production Guidance for Software and Data Citations," Scientific Data v.10, 656, 2023.
+E. A. Huerta, B. Blaiszik, L. C. Brinson, K. E. Bouchard, D. Diaz, C. Doglioni, J. M. Duarte, M. Emani, I. Foster, G. Fox, P. Harris, L. Heinrich, S. Jha, D. S. Katz, V. Kindratenko, C. R. Kirkpatrick, K. Lassila-Perini, R. K. Madduri, M. S. Neubauer, F. E. Psomopoulos, A. Roy, O. RÃ¼bel, Z. Zhao, R. Zhu, "FAIR for AI: An interdisciplinary and international community building perspective," Scientific Data v.10, 487, 2023.
+E. C. McKiernan, L. Barba, P. E. Bourne, C. Carter, Z. Chandler, S. Choudhury, S. Jacobs, D. S. Katz, S. Lieggi, B. Plale, G. Tananbaum, "Policy recommendations to ensure that research software is openly accessible and reusable," PLoS Biology, 2023.
+I. A. Cosden, K. McHenry, D. S. Katz, "Research Software Engineers: Career Entry Points and Training Gaps," Computing in Science & Engineering, 2023.
+W. F. Godoy, R. Arora, K. Beattie, D. E. Bernholdt, S. E. Bratt, D. S. Katz, I. Laguna, A. K. Maji, A. Malviya Thakur, R. M. Mudafort, N. Sukhija, D. Rouson, Cindy Rubio-GonzÃ¡lez, Karan Vahi, "Giving RSEs a Larger Stage through the Better Scientific Software Fellowship," Computing in Science & Engineering, 2023.
+A.-L. Lamprecht, C. Martinez-Ortiz, M. Barker, S. L. Bartholomew, J. Barton, N. Chue Hong, J. Cohen, S. Druskat, J. Forest, J.-N. Grad, D. S. Katz, R. Richardson, R. Rosca D. Schulte, A. Struck, M. Weinzierl, "What Do We (Not) Know About Research Software Engineering?," Journal of Open Research Software, v.10(1): p. 11, 2022.
+M. Barker, N. Chue Hong, D. S. Katz, A.-L. Lamprecht, C. Martinez-Ortiz, F. Psomopoulos, J. Harrow, L. J. Castro, M. Gruenpeter, P. A. Martinez, and T. Honeyman, "Introducing the FAIR Principles for research software," Scientific Data, 9, 622, 2022.
+Z. Li, R. Chard, Y. Babuji, B. Galewsky, T. Skluzacek, K. Nagaitsev, A. Woodard, B. Blaiszik, J. Bryan, D. S. Katz, I. Foster, K. Chard, "funcX: Distributed and High Performance Function as a Service for Science," IEEE Transactions on Parallel and Distributed Systems, 2022.
+J. C. Carver, N. Weber, K. Ram, S. Gesing, D. S. Katz, "A survey of the state of the practice for research software in the United States," PeerJ Computer Science, v.8, p. e963, 2022.
+Y. Chen, E. A. Huerta, J. Duarte, P. Harris, D. S. Katz, M. S. Neubauer, D. Diaz, F. Mokhtar, R. Kansal, S. E. Park, V. V. Kindratenko, Z. Zhao, R. Rusack, "A FAIR and AI-ready Higgs Boson Decay Dataset," Scientific Data, v.9(31), 2022.
+D. S. Katz, S. Stall, "Software citation," Information Services & Use, v.41(1-2), pp. 39-42, 2021.
+C. Jay, R. Haines, D. S. Katz, "Software must be recognised as an important output of scholarly research," International Journal of Digital Curation, v16(1), 2021.
+S. Malik, S. Meehan, K. Lieret, M. O. Evans, M. H. Villanueva, D. S. Katz, G. A. Stewart, P. Elmer, S. Aziz, M. Bellis, R. M. Bianchi, G. Bianco, J. S. Bonilla, A. Burger, J. Burzynski, D. Chamont, M. Feickert, P. Gadow, B. M. Gruber, D. Guest, S. Hageboeck, L. Heinrich, M. M. Horzela, M. Huwiler, C. Lange, K. Lehmann, K. Li, D. Majumder, J. MamuÅ¾iÄ‡, K. Nelson, R. Newhouse, E. Nibigira, S. Norberg, A. S. Pineda, M. Proffitt, B. Regnery, A. Roepe, S. Roiser, H. Schreiner, O. Shadura, G. Stark, S. N. Swatman, S. Thais, A. Valassi, S. Wunsch, D. Yakobovitch, S. Yuan, "Software Training in HEP," Computing and Software for Big Science, v.5:22, 2021.
+E. A. Huerta, A. Khan, X. Huang, M. Tian, M. Levental, R. Chard, W. Wei, M. Heflin, D. S. Katz, V. Kindratenko, D. Mu, B. Blaiszik, I. Foster, "Accelerated, scalable and reproducible AI-driven gravitational wave detection," Nature Astronomy, v.5, pp. 1062â€“1068, 2021.
+D. S. Katz, N. P. Chue Hong, T. Clark, A. Muench, S. Stall, D. Bouquin, M. Cannon, S. Edmunds, T. Faez, P. Feeney, M. Fenner, M. Friedman, G. Grenier, M. Harrison, J. Heber, A. Leary, C. MacCallum, H. Murray, E. Pastrana, K. Perry, D. Schuster, M. Stockhause, J. Yeston, "Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]," F1000Research 9:1257, 2021.
+R. C. Vandewalle, W. C. Barley, A. Padmanabhan, D. S. Katz, and S. Wang, "Understanding the multifaceted geospatial software ecosystem: a survey approach," International Journal of Geographical Information Science, v.35(11), pp. 2168â€“2186, 2021.
+E. A. Huerta, A. Khan, E. Davis, C. Bushell, W. D. Gropp, D. S. Katz, V. Kindratenko, S. Koric, W. T. C. Kramer, B. McGinty, K. McHenry, and A. Saxton, "Convergence of artificial intelligence and high performance computing on NSF-supported cyberinfrastructure," Journal of Big Data, 7:88, 2020. 
+J. A. Schiller, R. Toro Santamaria, A. Shah, M. Surana, K. Zhang, M. Robertson, K. Miller, K. Cruse, K. Liu, B. Seong, C. Seol, I. Foster, B. Blaiszik, B. Galewsky, D. K. Adams, D. S. Katz, P. M. Ferreira, E. Ertekin, and S. Tawfick, "Crowd-Sourced Data and Analysis Tools for Advancing the Chemical Vapor Deposition of Graphene: Implications for Manufacturing", ACS Applied Nano Materials, 2020. 
+C. Jay, R. Haines, D. S. Katz, J. C. Carver, S. Gesing, S. R. Brandt, J. Howison, A. Dubey, J. C. Phillips, H. Wan, M. J. Turk, "The challenges of theory-software translation [version 1; peer review: 2 approved, 1 approved with reservations]", F1000Research, 9:1192, 2020.
+J. Cohen, D. S. Katz, M. Barker, N. Chue Hong, R. Haines, C. Jay, "The Four Pillars of Research Software Engineering," IEEE Software, v.38(1), pp. 97-105, 2020
+
+E. A. Huerta, G. Allen, I. Andreoni, J. M. Antelis, E. Bachelet, G. B. Berriman, F. B. Bianco, R. Biswas, M. Carrasco Kind, K. Chard, M. Cho, P. S. Cowperthwaite, Z. B. Etienne, M. Fishbach, F. Forster, D. George, T. Gibbs, M. Graham, W. Gropp, R. Gruendl, A. Gupta, R. Haas, S. Habib, E. Jennings, M. W. G. Johnson, E. Katsavounidis, D. S. Katz, A. Khan, V. Kindratenko, W. T. C. Kramer, X. Liu, A. Mahabal, Z. Marka, K. McHenry, J. M. Miller, C. Moreno, M. S. Neubauer, S. Oberlin, A. R. Olivas Jr, D. Petravick, A. Rebei, S. Rosofsky, M. Ruiz, A. Saxton, B. F. Schutz, A. Schwing, E. Seidel, S. L. Shapiro, H. Shen, Y. Shen, L. P. Singer, B. M. Sipocz, L. Sun, J. Towns, A. Tsokaros, W. Wei, J. Wells, T. J. Williams, J. Xiong, Z. Zhao, "Enabling real-time multi-messenger astrophysics discoveries with deep learning," Nature Reviews Physics, v.1, pp. 600â€“608, 2019. doi: 10.1038/s42254-019-0097-4
+A. E. Ahmed, J. Heldenbrand, Y. Asmann, F. M. Fadlelmola, D. S. Katz, K. Kendig, M. C. Kendzior, T. Li, Y. Ren, E. Rodriguez, M. R. Weber, J. M. Wozniak, J. Zermeno, L. S. Mainzer, "Managing genomic variant calling workflows with Swift/T," PLOS ONE v.14(7), pp. e0211608, 2019. doi: 10.1371/journal.pone.0211608 (Preprint doi: 10.1101/524645)
+D. S. Katz, S. Druskat, R. Haines, C. Jay, A. Struck, "The State of Sustainable Research Software: Learning from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)," Journal of Open Research Software, v.7(1), p. 11, 2019. doi: 10.5334/jors.242
+HEP Software Foundation: A. A. Alves Jr, G. Amadio, N. Anh-Ky, L. Aphecetche, J. Apostolakis, M. Asai, L. Atzori, M. Babik, G. Bagliesi, M. Bandieramonte, M. Barisits, L. A. T. Bauerdick, S. Belforte, D. Benjamin, C. Bernius, W. Bhimji, R. M. Bianchi, I. Bird, C. Biscarat, J. Blomer, K. Bloom, T. Boccali, B. Bockelman, T. Bold, D. Bonacorsi, A. Boveia, C. Bozzi, M. Bracko, D. Britton, A. Buckley, P. Buncic, P. Calafiura, S. Campana, P. Canal, L. Canali, G. Carlino, N. F. Castro, M. Cattaneo, G. Cerminara, P. Chang, J. Chapman, G. Chen, T. Childers, P. Clarke, M. Clemencic, E. Cogneras, I. Collier, G. Corti, G. Cosmo, D. Costanzo, B. Couturier, K. Cranmer, J. Cranshaw, L. Cristella, D. Crooks, S. CrÃ©pÃ©-Renaudin, S. Dallmeier-Tiessen, K. De, M. De Cian, A. Di Girolamo, G. Dimitrov, C. Doglioni, A. Dotti, D. Duellmann, L. Duflot, D. Dykstra, K. Dziedziniewicz-Wojcik, A. Dziurda, U. Egede, P. Elmer, J. Elmsheuser, V. D. Elvira, G. Eulisse, T. Ferber, A. Filipcic, I. Fisk, C. Fitzpatrick, J. Flix, A. Formica, A. Forti, F. Gaede, G. Ganis, R. Gardner, V. Garonne, A. Gellrich, K. Genser, S. George, F. Geurts, A. Gheata, M. Gheata, F. Giacomini, S. Giagu, M. Giffels, D. Gingrich, M. Girone, V. V. Gligorov, I. Glushkov, W. Gohn, J. B. Gonzalez Lopez, I. GonzÃ¡lez Caballero, J. R. GonzÃ¡lez FernÃ¡ndez, G. Govi, C. Grandi, H. Grasland, H. Gray, L. Grillo, W. Guan, O. Gutsche, V. Gyurjyan, A. Hanushevsky, F. Hariri, T. Hartmann, J. Harvey, T. Hauth, B. Hegner, B. Heinemann, L. Heinrich, J. M. HernÃ¡ndez, M. Hildreth, S. HÃ¶che, M. Hodgkinson, P. Hristov, X. Huang, V. N. Ivanchenko, T. Ivanov, B. Jashal, B. Jayatilaka, R. Jones, M. Jouvin, S. Y. Jun, M. Kagan, C. W. Kalderon, E. Karavakis, D. S. Katz, D. Kcira, B. P. Kersevan, M. Kirby, A. Klimentov, M. Klute, I. Komarov, P. Koppenburg, J. Kowalkowski, L. Kreczko, T. Kuhr, R. Kutschke, V. Kuznetsov, W. Lampl, E. Lancon, D. Lange, M. Lassnig, P. Laycock, C. Leggett, J. Letts, B. Lewendel, T. Li, G. Lima, J. Linacre, T. Linden, G. Lo Presti, S. Lopienski, P. Love, Z. L. Marshall, E. Martelli, S. Martin-Haugh, P. Mato, K. Mazumdar, T. McCauley, J. McFayden, S. McKee, A. McNab, H. Meinhard, D. Menasce, P. Mendez Lorenzo, A. Serhan Mete, M. Michelotto, J. Mitrevski, L. Moneta, B. Morgan, R. Mount, E. Moyse, S. Murray, M. S. Neubauer, S. Novaes, M. Novak, A. Oyanguren, N. Ozturk, A. Pacheco Pages, M. Paganini, J. Pansanel, V. R. Pascuzzi, A. Pearce, B. Pearson, K. Pedro, G. Perdue, A. Perez-Calero Yzquierdo, L. Perrozzi, T. Petersen, M. Petric, J. Piedra, L. Piilonen, D. Piparo, W. Pokorski, F. Polci, K. Potamianos, F. Psihas, G. Raven, J. Reuter, A. Ribon, M. Ritter, J. Robinson, E. Rodrigues, S. Roiser, D. Rousseau, G. Roy, A. Sailer, T. Sakuma, R. Santana, A. Sartirana, H. Schellman, J. SchovancovÃ¡, S. Schramm, M. Schulz, A. SciabÃ , S. Seidel, S. Sekmen, C. Serfon, H. Severini, E. Sexton-Kennedy, M. Seymour, I. Shapoval, J. Shiers, J.-G. Shiu, H. Short, G. P. Siroli, S. Skipsey, T. Smith, S. Snyder, M. D. Sokoloff, H. Stadie, G. Stark, G. Stewart, A. SÃ¡nchez-HernÃ¡ndez, J. Templon, G. Tenaglia, V. Tsulaia, C. Tunnell, E. Vaandering, A. Valassi, S. Vallecorsa, L. Valsan, P. Van Gemmeren, R. Vernet, B. Viren, J.-R. Vlimant, C. Voss, C. Vuosalo, C. VÃ¡zquez Sierra, R. Wartel, T. Wenaus, S. Wenzel, F. Winklmeier, C. Wissing, F. Wuerthwein, B. Wynne, Z. Xiaomei, W. Yang and E. Yazgan, "A Roadmap for HEP Software and Computing R&D for the 2020s," Computing and Software for Big Science, v.3(7), December 2019. doi: 10.1007/s41781-018-0018-8
+D. Sholler, K. Ram, C. Boettiger, D. S. Katz, "Enforcing public data archiving policies in academic publishing: A study of ecology journals," Big Data & Society, March 25, 2019. doi: 10.1177/2053951719836258
+E. A. Huerta, R. Haas, S. Jha, M. Neubauer, D. S. Katz, "Supporting High‐Performance and High‐Throughput Computing for Experimental Science," Computing and Software for Big Science, v.3(5), 2019. doi: 10.1007/s41781-019-0022-7
+S. Olabarriaga, B. Corrie, A. Costa, S. Henwood, N. Chue Hong, M. Barker, A. Treloar, D. S. Katz, S. Gesing, S. Shahand, L. Wyborn, T. Glatard, H. Glaves, K. Jeffery, N. Wilkins-Diehr, "The Global Impact of Science Gateways, Virtual Research Environments and Virtual Laboratories," Future Generation Computing Systems (FGCS), 2019. doi: 10.1016/j.future.2018.12.026
+D. S. Katz, G. Allen, L. A. Barba, D. R. Berg, H. Bik, C. Boettiger, C. L. Borgman, C. T. Brown, S. Buck, R. Burd, A. de Waard, M. P. Eve, B. E. Granger, J. Greenberg, A. Howe, B. Howe, M. Khanna, T. L. Killeen, M. Mayernik, E. McKiernan, C. Mentzel, N. Merchant, K. E. Niemeyer, L. Noren, S. M. Nusser, D. A. Reed, E. Seidel, M. Smith, J. Spies, M. Turk, J. D. Van Horn, and J. Walsh, "The Principles of Tomorrow's University [version 1; referees: 2 approved]," v.7.1926, F1000Research, 2018. doi: 10.12688/f1000research.17425.1
+D. S. Katz, L. C. McInnes, D. E. Bernholdt, A. C. Mayes, N. P. Chue Hong, J. Duckles, S. Gesing, M. A. Heroux, S. Hettrick, R. C. Jimenez, M. Pierce, B. Weaver, N. Wilkins-Diehr, "Community Organizations: Changing the Culture in Which Research Software Is Developed and Sustained," Computing in Science and Engineering (CiSE), 2018. doi: 10.1109/MCSE.2018.2883051 (preprint: arXiv: 1811.08473)
+A. M. Smith, K. E. Niemeyer, D. S. Katz, L. A. Barba, G. Githinji, M. Gymrek, K. D. Huff, C. R. Madan, A. Cabunoc Mayes, K. M. Moerman, P. Prins, K. Ram, A. Rokem, T. K. Teal, R. Valls Guimera, J. T. Vanderplas, "Journal of Open Source Software (JOSS): design and first-year review," PeerJ Computer Science, v.4, pp. e147, 2018. doi: 10.7717/peerj-cs.147
+J. P. Tennant, J. M. Dugan, D. Graziotin, D. C. Jacques, F. Waldner, D. Mietchen, Y. Elkhatib, L. B. Collister, C. K. Pikas, T. Crick, P. Masuzzo, A. Caravaggi, D. R. Berg, K. E. Niemeyer, T. Ross-Hellauer, S. Mannheimer, L. Rigling, D. S. Katz, B. Greshake, J. Pacheco-Mendoza, N. Fatima, M. Poblet, M. Isaakidis, D. E. Irawan, S. Renaut, C. R. Madan, L. Matthias, J. N. KjÃ¦r, D. P. O'Donnell, C. Neylon, S. Kearns, M. Selvaraju, and J. Colomb, "A multi-disciplinary perspective on emergent and future innovations in peer review" [version 3; referees: 2 approved], F1000Research, v.6:1151, 2017. doi: 10.12688/f1000research.12037.3
+R. C. JimÃ©nez, M. Kuzak, Mo. Alhamdoosh, M. Barker, B. Batut, M. Borg, S. Capella-Gutierrez, N. Chue Hong, M. Cook, M. Corpas, M. Flannery, L. Garcia, J. L. GelpÃ­, S. Gladman, C. Goble, M. GonzÃ¡lez Ferreiro, A. Gonzalez-Beltran, P. C. Griffin, B. GrÃ¼ning, J. Hagberg, P. Holub, R. Hooft, J. Ison, D. S. Katz, B. LeskoÅ¡ek, F. LÃ³pez GÃ³mez, L. J. Oliveira, D. Mellor, R. Mosbergen, N. Mulder, Y. Perez-Riverol, R. Pergl, H. Pichler, B. Pope, F. Sanz, M. V. Schneider, V. Stodden, R. Suchecki, R. SvobodovÃ¡ VaÅ™ekovÃ¡, H.-A. Talvik, I. Todorov, A. Treloar, S. Tyagi, M. van Gompel, D. Vaughan, A. Via, X. Wang, N. S. Watson-Haigh, S. Crouch, "Four simple recommendations to encourage best practices in research software" [version 1; referees: 3 approved], F1000Research v.6:876, 2017. doi: 10.12688/f1000research.11407.1
+A. Allen, C. Aragon, C. Becker, J. Carver, A. ChiÅŸ, B. Combemale, M. Croucher, K. Crowston, D. Garijo, A. Gehani, C. Goble, R. Haines, R. Hirschfeld, J. Howison, K. Huff, C. Jay, D. S. Katz, C. Kirchner, K. Kuksenok, R. LÃ¤mmel, O. Nierstrasz, M. Turk, R. van Nieuwpoort, M. Vaughn, J. J. Vinju, "Engineering Academic Software (Dagstuhl Perspectives Workshop 16252)," Dagstuhl Manifestos, v.6(1), 2017. doi: 10.4230/DagMan.6.1.1
+A. Marshall-Colon, S. P. Long, D. K. Allen, G. Allen, D. A. Beard, B. Benes, S. von Caemmerer, A. J. Christensen, D. J. Cox, J. C. Hart, P. M. Hirst, K. Kannan, D. S. Katz, J. P. Lynch, A. J. Millar, B. Panneerselvam, N. D. Price, P. Prusinkiewicz, D. Raila, R. G. Shekar, S. Shrivastava, D. Shukla, V. Srinivasan, M. Stitt, M. J. Turk, E. O. Voit, Y. Wang, X. Yin, X.-G. Zhu, "Crops In Silico: Generating Virtual Crops Using an Integrative and Multi-scale Modeling Platform," Frontiers in Plant Science, v.8, page 786, 2017. doi: 10.3389/fpls.2017.00786
+S. Jha, D. S. Katz, A. Luckow, N. Chue Hong, O. Rana, Y. Simmhan, "Introducing Distributed Dynamic Data-intensive (D3) Science: Understanding Applications and Infrastructure," Journal of Concurrency and Computation: Practice and Experience (CCPE), page e4032, 2017. doi: 10.1002/cpe.4032
+A. M. Smith, D. S. Katz, K. E. Niemeyer, FORCE11 Software Citation Working Group, "Software Citation Principles," PeerJ Computer Science, v.2, page e86, 2016. doi: 10.7717/peerj-cs.86
+K. E. Niemeyer, A. M. Smith, D. S. Katz, "The Challenge and Promise of Software Citation for Credit, Identification, Discovery, and Reuse," ACM Journal of Data and Information Quality (JDIQ), v.4(7):16, 2016. doi: 10.1145/2968452
+Z. Zhang, D. S. Katz, A. Merzky, M. Turilli, S. Jha, Y. Nand, "Application Skeleton: Generating Synthetic Applications for Infrastructure Research," Journal of Open Source Software, doi: 10.21105/joss.00017, 2016.
+Y. Perez-Riverol, L. Gatto, R. Wang, T. Sachsenberg, J. Uszkoreit, F. da Veiga Leprevost, C. Fufezan, T. Ternent, S. J. Eglen, D. S. Katz, T. J. Pollard, A. Konovalov, R. M. Flight, K. Blin, and J. A. Vizcaino, "Ten Simple Rules for Taking Advantage of git and GitHub," PLoS Computational Biology, v.12(7): e1004947, 2016.
+K. Chard, S. Caton, K. Kugler, O. Rana, and D. S. Katz, "A Social Content Delivery Network for e-Science," Concurrency and Communication: Practice and Experience, in press, 2016.
+D. S. Katz and A. M. Smith, "Transitive Credit and JSON-LD," Journal of Open Research Software, v.3: e7, 2015.
+L. B. Costa, H. Yang, E. Vairavanathan, A. Barros, K. Maheshwari, G. Fedak, D. S. Katz, M. Wilde, M. Ripeanu, S. Al-Kiswany, "The Case for Workflow-Aware Storage: An Opportunity Study," Journal of Grid Computing, v.13(1), pp. 95-113, 2015.
+D. S. Katz, S.-C. T. Choi, H. Lapp, K. Maheshwari, F. LÃ¶ffler, M. Turk, M. Hanwell, N. Wilkins-Diehr, J. Hetherington, J. Howison, S. Swenson, G. D. Allen, A. C. Elster, B. Berriman, C. Venters, "Summary of the First Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE1)," Journal of Open Research Software, v.2(1): e6, pp. 1-21, 2014.
+D. S. Katz, "Transitive Credit as a Means to Address Social and Technological Concerns Stemming from Citation and Attribution of Digital Products," Journal of Open Research Software, v.2(1): e20, pp. 1-4, 2014.
+J. M. Wozniak, T. G. Armstrong, K. Maheshwari, E. L. Lusk, D. S. Katz, M. Wilde and I. T. Foster, "Turbine: A Distributed-Memory Dataflow Engine for High Performance Many-task Applications," Fundamenta Informaticae, v.128(3), pp. 337-366, 2013.
+J. M. Wozniak, M. Wilde, D. S. Katz, "JETS: Language and System Support for Many-Parallel-Task Workflows," Journal of Grid Computing (Special Issue on Scientific Workflows), v. 11(3), pp. 341-360, 2013.
+S. Jha, M. Cole, D. S. Katz, M. Parashar, O. Rana, J. Weissman, "Distributed computing practice for large-scale science and engineering applications," Journal of Concurrency and Computation: Practice and Experience (CCPE), v.25(11), pp. 1159-1585, 2013.
+M. Wilde, N. Hategan, J. M. Wozniak, B. Clifford, D. S. Katz, I. Foster, "Swift: A language for distributed parallel scripting," Parallel Computing, v.37(9), pp. 633-652, 2011.
+D. S. Katz, S. Callaghan, R. Harkness, S. Jha, K. Kurowski, S. Manos, S. Pamidighantam, M. Pierce, B. Plale, C. Song, J. Towns, "Science on the TeraGrid," Computational Methods in Science and Technology (CMST), v.Special Issue 2010, pp. 81-97, 2010.
+J. C. Jacob, D. S. Katz, G. B. Berriman, J. Good, A. C. Laity, E. Deelman, C. Kesselman, G. Singh, M.-H. Su, T. A. Prince, and R. Williams, "Montage: A Grid Portal and Software Toolkit for Science-Grade Astronomical Image Mosaicking," International Journal of Computational Science and Engineering, v. 4(2), pp. 73-87, 2009.
+D. S. Katz, G. Allen, R. Cortez, C. Cruz-Neira, R. Gottumukkala, Z. D. Greenwood, L. Guice, S. Jha, R. Kolluru, T. Kosar, L. Leger, H. Liu, C. McMahon, J. Nabrzyski, B. Rodriguez-Milla, E. Seidel, G. Speyrer, M. Stubblefield, B. Voss, and S. Whittenburg, "Louisiana: A Model for Advancing Regional e-Research through Cyberinfrastructure," Philosophical Transactions of the Royal Society A, v. 367, pp. 2459-2469, 2009.
+P. Chakraborty, S. Jha, and D. S. Katz, "Novel Submission Modes for Tightly-Coupled Jobs Across Distributed Resources for Reduced Time-to-Solution," Philosophical Transactions of the Royal Society A, v. 367, pp. 2545-2556, 2009.
+G. Singh, K. Vahi, A. Ramakrishnan, G. Mehta, E. Deelman, H. Zhao, R. Sakellariou, K. Blackburn, D. Brown, S. Fairhurst, D. Meyers, B. Berriman, J. Good, and D. S. Katz, "Optimizing Workflow Data Footprint," Scientific Programming, v. 15(4), pp. 249-268, 2007.
+D. E. Bernholdt, B. A. Allan, R. Armstrong, F. Bertrand, K. Chiu, T. L. Dahlgren, K. Damevski, W. R. Elwasif, T. G. W. Epperly, M. Govindaraju, D. S. Katz, J. A. Kohl, M. Krishnan, G. Kumfert, J. W. Larson, S. Lefantzi, M. J. Lewis, A. D. Malony, L. C. McInnes, J. Nieplocha, B. Norris, S. G. Parker, J. Ray, S. Shende, T. L. Windus, and S. Zhou, "A Component Architecture for High-Performance Scientific Computing," International Journal of High Performance Computing Applications, v. 20(2), pp. 163-202, Summer 2006.
+E. Deelman, G. Singh, M.-H. Su, J. Blythe, Y. Gil, C. Kesselman, G. Mehta, K. Vahi, G. B. Berriman, J. Good, A. Laity, J. C. Jacob, and D. S. Katz, "Pegasus: a Framework for Mapping Complex Scientific Workflows onto Distributed Systems," Scientific Programming, v.13(3), pp. 219-237, November 2005.
+M. Turmon, R. Granat, D. S. Katz, and J. Z. Lou, "Tests and Tolerances for High-Performance Software-Implemented Fault Detection," IEEE Transactions on Computers, v.52(5), pp. 579-591, May 2003.
+D. S. Katz and R. R. Some, "NASA Advances Robotic Space Exploration," IEEE Computer, v. 36(1), pp. 52-61, January 2003.
+T. Sterling, D. S. Katz, and L. Bergman, "High-Performance Computing Systems for Autonomous Spaceborne Missions," International Journal of High Performance Computing Applications, v. 15(3), pp. 282-296, Fall 2001.
+D. S. Katz, and J. Kepner, "Embedded/Real-Time Systems," International Journal of High Performance Computing Applications (special issue: Cluster Computing White Paper), v. 15(2), pp. 186-190, Summer 2001.
+D. S. Katz, T. Cwik, B. H. Kwan, J. Z. Lou, P. L. Springer, T. L. Sterling, and P. Wang, "An Assessment of a Beowulf System for a Wide Class of Analysis and Design Software," Advances in Engineering Software, v. 26(3-6), pp. 451-461, July 1998.
+T. Cwik, J. Z. Lou, and D. S. Katz, "Scalable, Finite Element Analysis of Electromagnetic Scattering and Radiation," Advances in Engineering Software, v. 26(3-6), pp. 289-296, July 1998.
+T. Cwik, D. S. Katz, C. Zuffada, and V. Jamnejad, "The Application of Scalable Distributed Memory Computers to the Finite Element Modeling of Electromagnetic Scattering and Radiation," International Journal of Numerical Methods in Engineering, v. 41(4), pp. 759-776, February 28, 1998.
+T. Cwik, D. S. Katz, and J. Patterson, "Scalable Solutions to Integral-Equation and Finite-Element Simulations," (invited paper for special issue on Advanced Numerical Techniques in Electromagnetics), IEEE Trans. Antennas Propagat., v. 45(3), pp. 544-555, March 1997.
+C. E. Reuter, R. M. Joseph, E. T. Thiele, D. S. Katz, and A. Taflove, "Ultrawideband Absorbing Boundary Conditions for Termination of Waveguiding Structures in FD-TD Simulations," IEEE Microwave and Guided Wave Letters, v. 4(10), pp. 344-346, October 1994.
+D. S. Katz, E. T. Thiele, and A. Taflove, "Validation and Extension to Three Dimensions of the Berenger PML Absorbing Boundary Condition for FD-TD Meshes," IEEE Microwave and Guided Wave Letters, v. 4(8), pp. 268-270, August 1994.
+M. J. Piket-May, A. Taflove, W. C. Lin, D. S. Katz, V. Sathiaseelan, and B. B. Mittal, "Initial Results for Automated Computational Modeling of Patient-Specific Electromagnetic Hyperthermia," IEEE Trans. Biomedical Engineering, v. 39(3), pp. 226-237, March 1992.
+D. S. Katz, M. J. Piket-May, A. Taflove, and K. R. Umashankar, "FD-TD Analysis of Electromagnetic Wave Radiation from Systems Containing Horn Antennas," IEEE Trans. Antennas Propagat., v. 39(8), pp. 1203-1212, August 1991.
+
+Articles in Conference Proceedings
+N. Karle, B. Clifford, Y. Babuji, R. Chard, D. S. Katz, K. Chard, "Parsl+CWL: Experiences Combining the Python and CWL Ecosystems," 19th Workshop on Workflows in Support of Large-Scale Science (WORKS 2024), in conjunction with International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24), 2024. 
+R. Ananthakrishnan, Y. Babuji, J. Bryan, K. Chard, R. Chard, I. Foster, K. Hunter Kesling, C. Janidlo, D. S. Katz, R. Mello, G. Pauloski, L. Wang, "Establishing a High-Performance and Productive Ecosystem for Distributed Execution of Python Functions Using Globus Compute," HUST-24: 11th International Workshop on HPC User Support Tools, in conjunction with International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24), 2024. 
+R. Ananthakrishnan, Y. Babuji, M. Baughman, J. Bryan, K. Chard, R. Chard, B. Clifford, I. Foster, D. S. Katz, K. Hunter Kesling, C. Janidlo, R. Mello, and L. Wang, "Enabling Remote Management of FaaS Endpoints with Globus Compute Multi-User Endpoints," PEARC '24: Practice and Experience in Advanced Research Computing, 2024. 
+S. Grayson, F. Aguilar, R. Milewicz, D. S. Katz, D. Marinov, "A benchmark suite and performance analysis of user-space provenance collectors," 2024 ACM Conference on Reproducibility and Replicability (ACM REP '24), 2024. 
+E. Karrels, L. Huang, Y. Kan, I. Arora, Y. Wang, D. S. Katz, W. Gropp, Z. Zhang, "Fine-grained Policy-driven I/O Sharing for Burst Buffers," International Conference for High Performance Computing, Networking, Storage, and Analysis (SC23), 2023.
+A. Duque, A. Syed, K. Day, M. Berry, D. S. Katz, V. Kindratenko, "Leveraging Large Language Models to Build and Execute Computational Workflows," 18th Workshop on Workflows in Support of Large-Scale Science (WORKS 2023), in conjunction with International Conference for High Performance Computing, Networking, Storage, and Analysis (SC23), 2023.
+D. S. Katz, "Experiences in how RSE community identity leads to improved research software practices," 1st Annual Conference of the US Research Software Engineer Association (US-RS'23), 2023.
+D. S. Katz, B. Clifford, Y. Babuji, K. Hunter Kesling, A. Woodard, K. Chard, "The Changing Role of RSEs over the Lifetime of Parsl," Software Engineering for Research Software (SE4RS'23), in conjunction with PEARC23, 2023
+S. Grayson, R. Milewicz, J. Teves, D. S. Katz, D. Marinov, "Wanted: standards for automatic reproducibility of computational experiments," Software Engineering for Research Software (SE4RS'23), in conjunction with PEARC23, 2023.
+S. Grayson, D. Marinov, D. S. Katz, R. Milewicz, "Automatic Reproduction of Workflows in the Snakemake Workflow Catalog and nf-core Registries," 2023 ACM Conference on Reproducibility and Replicability (ACM REP '23), pp. 74-84, 2023.
+R. Ferreira da Silva, H. Casanova, K. Chard, I. Altintas, R. M. Badia, B. Balis, T. Coleman, F. Coppens, F. Di Natale, T. Fahringer, R. Filgueira, G. Fursin, D. Garijo, C. Goble, D. Howell, S. Jha, D. S. Katz, D. Laney, U. Leser, M. Malawski, K. Mehta, L. Pottier, J. Ozik, J. L. Peterson, L. Ramakrishnan, S. Soiland-Reyes, D. Thain, M. Wolf, "A Community Roadmap for Scientific Workflows Research and Development," 16th Workshop on Workflows in Support of Large-Scale Science (WORKS21), in conjuction with the International Conference for High Performance Computing, Networking, Storage and Analysis (SC21), 2021.
+D. S. Katz, F. E. Psomopoulos, L. J. Castro, "Working Towards Understanding the Role of FAIR for Machine Learning," DaMaLOS 2021 (2nd Workshop on Data and research objects Management for Linked Open Science), 2021
+A. Villarreal, Y. Babuji, T. Uram, D. S. Katz, K. Chard, K. Heitmann, "Extreme Scale Survey Simulation with Python Workflows," 17th IEEE International Conference on eScience (eScience2021), 2021.
+D. S. Katz, J. Carver, N. Chue Hong, S. Gesing, S. Hettrick, T. Honeyman, K. Ram, N. Weber, "Addressing Research Software Sustainability via Institutes," 1st International Workshop on the Body of Knowledge for Software Sustainability (BoKSS'21), in conjunction with 43rd International Conference on Software Engineering (ICSE 2021), 2021.
+S. Druskat, D. S. Katz, I. T. Todorov, "Research Software Sustainability and Citation," 1st International Workshop on the Body of Knowledge for Software Sustainability (BoKSS'21), in conjunction with 43rd International Conference on Software Engineering (ICSE 2021), 2021.
+J. C. Carver, I. A. Cosden, C. Hill, S. Gesing, D. S. Katz, "Sustaining Research Software via Research Software Engineers and Professional Associations," 1st International Workshop on the Body of Knowledge for Software Sustainability (BoKSS'21), in conjunction with 43rd International Conference on Software Engineering (ICSE 2021), 2021. 
+D. S. Katz, K. McHenry, J. S. Lee, "Research Software Sustainability: Lessons Learned at NCSA," 54th Hawaii International Conference on System Sciences, pp. 7249-7256, 2021. 
+L. J. Garcia Castro, M. Barker, N. Chue Hong, F. Psomopoulos, J. Harrow, D. S. Katz, M. Kuzak, P. A. Martinez, A. Via, "Software as a first-class citizen in research," First virtual workshop on Research data* management for Linked Open Science (DaMaLOS 2020), 2020. 
+J. Stubbs, S. Marru, D. Mejia, D. S. Katz, K. Chard, M. Dahan, M. Pierce, M. Zentner, "Toward Interoperable Cyberinfrastructure: Common Descriptions for Computational Resources and Applications," Practice and Experience in Advanced Research Computing (PEARC '20), pp. 522-525, 2020. 
+K. Chard, Y. Babuji, A. Woodard, B. Clifford, Z. Li, R. Kumar, M. Wilde, D. S. Katz, J. Wozniak, I. Foster, "Scalable Parallel Programming in Python with Parsl," Practice and Experience in Advanced Research Computing (PEARC'19), 2019. doi: 10.1145/3332186.3332231
+Y. Babuji, A. Woodard, B. Clifford, Z. Li, D. S. Katz, R. Chard, R. Kumar, L. Lacinski, J. Wozniak, I. Foster, M. Wilde, K. Chard, "Parsl: Pervasive Parallel Programming in Python," 28th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2019), 2019. doi: 10.1145/3307681.3325400 (preprint: arXiv 1905.02158)
+D. S. Katz, K. McHenry, C. Reinking, R. Haines, "Research Software Development & Management in Universities: Case Studies from Manchester's RSDS Group, Illinois' NCSA, and Notre Dame's CRC," Intl. Work. on Soft. Eng. for Science (SE4Science), 2019. doi: 10.1109/SE4Science.2019.00009 (preprint: arXiv 1903.00732)
+S. Druskat, D. S. Katz, "Mapping the research software sustainability space," International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 6.1), 2018.
+J. Cohen, D. S. Katz, M. Barker, R. Haines, N. Chue Hong, "Building a Sustainable Structure for Research Software Engineering Activities," International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 6.1), 2018.
+E. A. Huerta, R. Haas, E. Fajardo, D. S. Katz, S. Anderson, P. Couvares, J. Willis, T. Bouvet, J. Enos, W. T. C. Kramer, H. W. Leong, D. Wheeler, "BOSS-LDG: A Novel Computational Framework that Brings Together Blue Waters, Open Science Grid, Shifter and the LIGO Data Grid to Accelerate Gravitational Wave Discovery," Proceedings of the 13th IEEE International Conference on eScience (eScience 2017), 2017.
+M. Turilli, Y. N. Babuji, A. Merzky, M. T. Ha, M. Wilde, D. S. Katz, S. Jha, "Evaluating Distributed Execution of Workloads," Proceedings of the 13th IEEE International Conference on eScience (eScience 2017), 2017.
+U. Nangia and D. S. Katz, "Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration", Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.2), 2017.
+U. Nangia and D. S. Katz, "Track 1 Paper: Surveying the U.S. National Postdoctoral Association Regarding Software Use and Training in Research," Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1), 2017.
+M. Turilli, F. Liu, Z. Zhang, A. Merzky, M. Wilde, J. Weissman, D. S. Katz, S. Jha, "Integrating Abstractions to Enhance the Execution of Distributed Applications," Proceedings of the 30th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2016.
+S. J. Krieder, J. M. Wozniak, T. Armstrong, M. Wilde, D. S. Katz, B. Grimmer, I. T. Foster, I. Raicu, "Design and Evaluation of the GeMTC Framework for GPU-enabled Many-Task Computing," Proceedings of 23rd ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC'14), pp. 153-164, 2014.
+Z. Zhang, D. S. Katz, T. G. Armstrong, J. M. Wozniak, I. Foster, "Parallelizing the Execution of Sequential Scripts," Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC13), 2013.
+Z. Zhang, D. S. Katz, M. Wilde, J. Wozniak, I Foster, "MTC Envelope: Defining the Capability of Large Scale Computers in the Context of Parallel Scripting Applications," Proceedings of 22nd International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'13), 2013.
+J. Wozniak, T. Armstrong, M. Wilde, D. S. Katz, E. Lusk and I. Foster, "Swift/T: Scalable Data Flow Programming for Distributed-memory Task-parallel Applications," Proceedings of the 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2013.
+Z. Zhang, D. S. Katz, M. Ripeanu, M. Wilde, I. Foster, "AME: An Anyscale Many-Task Computing Engine," Proceedings of the 6th Workshop on Workflows in Support of Large-Scale Science, 2011.
+D. S. Katz, D. Hart, C. Jordan, A. Majumdar, J.P. Navarro, W. Smith, J. Towns, V. Welch, N. Wilkins-Diehr, "Cyberinfrastructure Usage Modalities on the TeraGrid," 2011 High-Performance Grid and Cloud Computing Workshop, Proceedings of 2011 IPDPS Workshops, pp. 927-934, 2011.
+T. G. Armstrong, Z. Zhang, D. S. Katz, M. Wilde, I. T. Foster, "Scheduling Many-Task Workloads on Supercomputers: Dealing with Trailing Tasks," Proceedings of 3rd IEEE Workshop on Many-Task Computing on Grids and Supercomputers (MTAGS10), (Best Paper,) 2010.
+S. Jha, D. S. Katz, M. Parashar, O. Rana, and J. Weissman, "Critical Perspectives on Large-Scale Distributed Applications and Production Grids," (Best Paper Award Winner), Proceedings of the 10th IEEE/ACM International Conference on Grid Computing (Grid 2009), 2009.
+D. S. Katz, G. B. Berriman, E. Deelman, J. Good, J. C. Jacob, C. Kesselman, A. C. Laity, T. A. Prince, G. Singh, and M.-H. Su, "A Comparison of Two Methods for Building Astronomical Image Mosaics on a Grid," Proceedings of the 7th Workshop on High Performance Scientific and Engineering Computing (HPSEC-05), 2005.
+J. W. Larson, B. Norris, E. T. Ong, D. E. Bernholdt, J. B. Drake, W. R. El Wasif, M. W. Ham, C. E. Rasmussen, G. Kumfert, D. S. Katz, S. Zhou, C. DeLuca, and N. S. Collins, "Components, The Common Component Architecture, and the Climate/Ocean/Weather Community," Proceedings of the 20th International Conference on Interactive Information and Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 84th American Meteorological Society Annual Meeting, 2004.
+J. A. Gunnels, D. S. Katz, E. S. Quintana-OrtÃ­, and R. A. van de Geijn, "Fault-Tolerant High-Performance Matrix Multiplication: Theory and Practice," Proceedings of the 2001 International Conference on Dependable Systems and Networks, pp. 47-56, IEEE Press, 2001.
+D. S. Katz and P. L. Springer, "Development of a Spaceborne Embedded Cluster," Proceedings of the IEEE International Conference on Cluster Computing (CLUSTER2000), pp. 119-123, IEEE Press, 2000.
+F. Chen, L. Craymer, J. Deifik, A. J. Fogel, D. S. Katz, A. G. Silliman, Jr, R. R. Some, S. A. Upchurch, and K. Whisnant, "Demonstration of the Remote Exploration and Experimentation (REE) Fault-Tolerant Parallel-Processing Supercomputer for Spacecraft Onboard Scientific Data Processing," Proceedings of the 2000 International Conference on Dependable Systems and Networks, pp. 367-372, IEEE Press, 2000.
+M. Turmon, R. Granat, and D. S. Katz, "Software-Implemented Fault Detection for High-Performance Space Applications," Proceedings of the 2000 International Conference on Dependable Systems and Networks, pp. 107-116, IEEE Press, 2000.
+P. Wang, D. S. Katz, and Y. Chao, "Optimization of a Parallel Ocean General Circulation Model," (Best Paper Award Winner), SC97, 1997.
+
+Refereed Conference Papers and Presentations
+D. S. Katz, C. Kirkpatrick, Y. Rao, "FARR: The FAIR in ML, AI Readiness, and Reproducibility Research Coordination Network," AGU Fall Meeting, 2024.
+D. S. Katz, C. Kirkpatrick, K. Coakley, " The Role of HPC Centers in AI-Ready Data," Birds of a Feather, International Conference on High Performance Computing, Networking, Storage, and Analysis (SC24), 2024.
+D. S. Katz, Jeffrey C. Carver, Ian Cosden, "US-RSE: Today's successes and tomorrow's challenges," deRSE24 - Conference for Research Software Engineering in Germany, 2024.
+D. S. Katz, G. Allen, N. P. Chue Hong, A. Kennedy, F. Kon, M. Mundt, "RSEs in HPC Centers: Funding, Coordinating, Doing," panel, International Conference on High Performance Computing, Networking, Storage, and Analysis (SC23), 2023.
+M. Feickert, D. S. Katz, M. Neubauer, E. Sexton, G. Stewart, "Software Citation in HEP: Current State and Recommendations for the Future" 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023), 2023.
+D. Diaz, J. Duarte, E. Huerta, D. S. Katz, V. Kindratenko, M. Neubauer, A. Roy, R. Zhu, H. Li, F. Mokhtar, R. Kansal, "FAIR AI Models in High Energy Physics" 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023), 2023.
+C. Martinez-Ortiz, C. Goble, D. S. Katz, T. Honeyman, P. A. Martinez, M. Barker, L. J. Castro, N. P. Chue Hong, M. Gruenpeter, J. Harrow, A.-L. Lamprecht, F. Psomopoulos, "How does software fit into the FDO landscape?," First International Conference on FAIR Digital Objects, 2022.
+D. Friedel, K. Guan, Q. Zhou, C. Zhang, S. Wang, D. S. Katz, "Advancing Airborne Hyperspectral Data Processing for Sustainable Agriculture Using Parsl," 18th IEEE International Conference on eScience (eScience2022), 2022.
+D. S. Katz, M. Barker, N. P. Chue Hong, L. J. Garcia-Castro, M. Gruenpeter, J. Harrow, C. Martinez, P. A. Martinez, F. Psomopoulos, "The Overlap Between FAIR for Research Software and Open Science," Open Science Conference 2022.
+Y. Babuji, J. Bryan, R. Chard, K. Chard, I. Foster, B. Galewsky, D. S. Katz, Z. Li, "Federated Function as a Service for eScience," 17th IEEE International Conference on eScience (eScience2021), 2021.
+D. S. Katz, "Senior level RSE career paths (with an s)", SeptembRSE, 2021.
+J. Carver, I. Cosden, J. Damerow, C. Ferenbaugh, S. Gesing, C. Hill, D. S. Katz, C. Maimone, L. Parsons, "The US-RSE Association: Bringing Together Research Software Engineers," the Association for Computers and the Humanities (ACH 2021), 2021.
+N. P. Chue Hong, J. Cope, P. Herterich, D. S. Katz, S. Worthington, "Recognising the value of software: how libraries can help the adoption of software citation," (Innovation Award,) LIBER Annual Conference, 2021.
+D. S. Katz, M. Barker, L. J. Castro, N. P. Chue Hong, M. Gruenpeter, J. Harrow, C. Martinez, P. A. Martinez, F. Psomopoulos, "Abstract: FAIR Research Software and Science Gateways," 13th International Workshop on Science Gateways (IWSG2021), 2021.
+R. Chard, Y. Babuji, Z. Li, Y. Rao, J. Bryan, T. Skluzacek, B. Galewsky, D. S. Katz, I. Foster, K. Chard, "Fire-and-forget distributed function execution with funcX," Scientific Computing with Python (SciPy), 2021.
+K. McHenry, D. Fulker, D. Katz, M. Daniels, C. L Kirkpatrick, "From Papers to Notebooks: Submission, Review, Presentation & Publication of Notebooks at EarthCube'20," CarpentryCon, 2020.
+D. S. Katz, M. Barker, N. Chue Hong, L. J. Garcia Castro, M. Gruenpeter, J. Harrow, M. Kuzak, P. Martinez Villegas, F. E. Psomopoulos, "Toward defining and implementing FAIR for research software," Research Software Engineers Community Workshop, PEARC20, 2020.
+G. Alessio Robles, T. Allard, L. A. Barba, K. Barnhart, J. Bazán, S. Benthall, E. Bentivegna, M. Bobra, F. Boehm, J. Brown, K. Chatsiou, J. Clark, P. de Buyl, P. Diehl, D. Foreman-Mackey, G. Githinji, J. Gostick, R. Gowers, O. Guest, R. V. Guimera, M. Gymrek, D. Hagan, A. Hanna, A. Harpole, L. Heagy, K. Huff, M. A. Jensen, D. S. Katz, A. Keshavan, V. Knight, H. Ledoux, T. J. Leeper, C. R. Madan, A. C. Mayes, B. McFee, M. W. Mendonça, L. Mesa, M. Meyer Andersen, K. M. Moerman, K. E. Niemeyer, L. Pantano, S. Pfenninger, V. Pons, J. Poulson, P. Prins, K. Ram, K. Riemer, A. Roberts, M. E. Rognes, A. Rokem, W. Rowe, D. P. Sanders, A. M. Smith, C. Soneson, M. Sottile, B. Stabler, Y. Tang, T. Teal, G. K. Thiruvathukal, K. Thyng, L. Uieda, J. Vanderplas, M. Vital, B. E. Wilson, Y. Yehudi, "Four years of JOSS: the Journal of Open Source Software," SciPy 2020.
+D. S. Katz, K. Chard, R. M. Badia, J. Ejarque, "A common workflow registry of compute endpoints and applications," 2020 Collegeville Workshop on Scientific Software: Developer Productivity, 2020.
+D. S. Katz, T. Clark, "Comparing and analyzing the implementation of data citation and software citation," FORCE2019, 2019.
+N. Chue Hong, M. Fenner, D. S. Katz, "Checklists for Software Citation: what you need to know," FORCE2019, 2019.
+D. S. Katz, "Citation and Research Objects: Toward Active Research Objects," Workshop on Research Objects 2019, with 2019 International Conference on eScience, 2019.
+D. S. Katz, R. Haines, C. Haupt, C. Jones, K. McHenry, C. Reinking, "Developing and Managing Research Software in Universities and National Labs," panel, International Conference on High Performance Computing, Networking, Storage and Analysis (SC19), 2019.
+S. Gesing, M. Brazil, D. Brunson, I. Cosden, T. D. Crawford, R. Ferreira da Silva, D. S. Katz, H. Neeman, "Sustainability of HPC Research Computing: The importance of collaborations for fostering career paths for facilitators, research software engineers, and gateway creators," panel, International Conference on High Performance Computing, Networking, Storage and Analysis (SC19), 2019.
+D. S. Katz, Y. Babuji, A. Woodard, Z. Li, B. Clifford, R. Kumar, L. Lacinski, R. Chard, J. M. Wozniak, I. Foster, M. Wilde, K. Chard, "Parsl: Pervasive Parallel Programing in Python," Jupyter Community Workshop for Scientific User Facilities and High-Performance Computing, 2019.
+K. Chard, Y. Babuji, B. Clifford, I. Foster, D. S. Katz, L. Lacinski, Z. Li, C. Pigg, M. Wilde, A. Woodard, J. M. Wozniak, "Parsl: A Python-based Parallel Scripting Library," Enabling Multi-messenger Astrophysics in the Big Data Era, 2019.
+D. S. Katz, P. Aerts, N. P. Chue Hong, A. Dubey, S. Gesing, H. J. Neeman, D. E. Pearah, "Sustaining Research Software," panel, International Conference on High Performance Computing, Networking, Storage and Analysis (SC18), 2018.
+D. E. Bernholdt, J. Carver, W. Gropp, C. Haupt, M. Heroux, D. S. Katz, S. Lathrop, M. Wen, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, International Conference for High Performance Computing, Networking, Storage and Analysis (SC18), 2018.
+Y. Babuji, K. Chard, B. Clifford, I. Foster, D. S. Katz, L. Lacinski, Z. Li, C. Pigg, M. Wilde, A. Woodard, J. M. Wozniak, "Parsl: A Python-based Parallel Scripting Library," Third Conference of Research Software Engineers (RSE 2018), 2018.
+K. Chard, Y. Babuji, I. Foster, D. S. Katz, M. Wilde, A. E. Woodard, and J. M. Wozniak, "Parsl: Enabling Scalable Interactive Computing in Python," 17th Annual Scientific Computing with Python Conference (SciPy 2018), 2018.
+Y. Babuji, K. Chard, I. Foster, D. S. Katz, M. Wilde, A. E. Woodard, J. M. Wozniak, "Interactive, scalable, reproducible data analysis with containers, Jupyter, and Parsl," 23rd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018), 2018.
+L. J. Hwang, D. S. Katz, L. H. Kellogg, K. E. Niemeyer, FORCE11 Software Citation Working Group, "Software vs. Data: The FORCE11 Citation Principles," Seismological Society of America Annual Meeting, 2017.
+D. E. Bernholdt, M. Belkin, A. Brett, J. Carver, N. Chue Hong, M. Folk, G. Gorman, W. Gropp, M. Heroux, D. S. Katz, D. Keyes, S. Lathrop, R. LeVeque, J. Lin, L. Curfman McInnes, K. Nakajima, A. Terrell, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, International Conference for High Performance Computing, Networking, Storage and Analysis (SC17), 2017.
+D. E. Bernholdt, J. Carver, N. Chue Hong, M. Heroux, D. S. Katz, J. Lin, and K. Nakajima, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, International Conference for High Performance Computing, Networking, Storage and Analysis (SC16), 2016.
+D. S. Katz, A. M. Smith, K. E. Niemeyer, "Software Citation: Principles, Implementation, and Impact," 3:AM Altmetrics Conference, 2016.
+D. E. Bernholdt, N. Chue Hong, K. Nakajima, D. S. Katz, M. Heroux, and F. Schuermann, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, International Conference for High Performance Computing, Networking, Storage and Analysis (SC15), 2015.
+D. S. Katz, A. Brand, M. Haendel, H. J. Falk-Krzesinski, "Panel: Our Scholarly Recognition System Doesn’t Still Work," Science of Team Science (SciTS) Conference, 2015.
+J. M. Wozniak, T. G. Armstrong, D S. Katz, M. Wilde, and I. T. Foster, "Case Studies in Dataflow Composition of Scalable High Performance Applications," 3rd Workshop on Extreme-Scale Programming Tools (ESPT-SC14), in conjunction with SC14, 2014.
+D. S. Katz, G. Allen, N. Chue Hong, M. Parashar, D. Proctor, "Working Towards Sustainable Software for Science: Practice and Experiences (WSSSPE)," International Symposium on Grids and Clouds (ISGC), 2014.
+M. Santcroos, S. D. Olabarriaga, S. Jha, and D. S. Katz, "Pilot Abstractions for Compute, Data, and Network," Collaborative Research using eScience Infrastructure and High Speed Networks Workshop, in conjunction with 8th IEEE International Conference on eScience, 2012.
+D. S. Katz, "Grid Computing: The Next Decade," Workshop On Science Applications And Infrastructure In Clouds And Grids, 2012.
+A. Espinosa, D. S. Katz, M. Wilde, K. Maheshwari, I. Foster, S. Callaghan, and P. Maechling, "Data-intensive CyberShake Computations on an Opportunistic Cyberinfrastructure," TeraGrid 2011, 2011.
+K. Maheshwari, J. M. Wozniak, M. Hategan, A. Espinosa, D. Katz, and M. Wilde, "Flexible Cloud Computing through Swift Coasters," Cloud Computing and Its Applications (CCA11), 2011.
+D. S. Katz, D. Hart, C. Jordan, A. Majumdar, J.P. Navarro, W. Smith, J. Towns, V. Welch, N. Wilkins-Diehr, "TeraGrid Usage Modalities," International Symposium on Grids and Clouds (ISGC), 2011.
+Z. Yun, Z. Lei, D. S. Katz, J. Ramanujam, G. Allen, T. Kosar, S. Jha, "Integrating Multiclusters for Efficient Application Execution," SC09, 2009.
+D. S. Katz, "Introduction to the TeraGrid," UK eScience All Hands Meeting, 2008.
+D. S. Katz, G. Allen, R. Cortez, C. Cruz-Neira, R. Gottumukkala, Z. D. Greenwood, L. Guice, S. Jha, R. Kolluru, T. Kosar, L. Leger, C. McMahon, J. Nabrzyski, B. Rodriguez-Milla, E. Seidel, G. Speyrer, M. Stubblefield, B. Voss, S. Whittenburg, "Louisiana: A Model for Advancing Regional e-Science through Cyberinfrastructure," UK eScience All Hands Meeting, 2008.
+P. Chakraborty, S. Jha, D. S. Katz, "Exploring Submission of Tightly-coupled Jobs Across Distributed Resources for Performance Enhancement," UK eScience All Hands Meeting, 2008.
+K. Stamou, P. Akunuri, G. Allen, A. Kulshrestha, and D. S. Katz, "Feature Rich, Enhanced Grid Portal for LONI," 15th Mardi Gras Conference, 2008.
+P. Akunuri and D. S. Katz, "A Grid Portal for Multiple Virtual Organizations with a User-Centric View," 8th IEEE International Conference on Grid Computing (Grid 2007), 2007.
+G. Singh, M.-H. Su, K. Vahi, E. Deelman, B. Berriman, J. Good, D. S. Katz, G. Mehta, "Workflow Task Clustering for Best Effort Systems with Pegasus," TeraGrid 2007 Conference, 2007.
+G. B. Berriman, J. C. Good, A. C. Laity, J. C. Jacob, D. S. Katz, E. Deelman, G. Singh, M.-H. Su, and T. Prince, "The Design and Applications of Montage: An Astronomical Image Mosaic Engine," Proceedings of the 2006 Earth Science Technology Conference (ESTC-06), 2006.
+D. S. Katz, G. B. Berriman, E. Deelman, J. Good, J. C. Jacob, C. Kesselman, A. C. Laity, T. A. Prince, G. Singh, and M.-H. Su, "Astronomical Image Mosaicking - An Application that allows Comparison of Cluster and Grid Technologies for Performance and Utility," On the Use of Commodity Clusters for Large-Scale Scientific Applications 2005 Symposium, 2005.
+J. C. Jacob, R. Williams, J. Babu, S. G. Djorgovski, M. J. Graham, D. S. Katz, A. Mahabal, C. D. Miller, R. Nichol, D. E. Vanden Berk, and H. Walia, "Grist: Grid Data Mining for Astronomy," Astronomical Data Analysis Software & Systems (ADASS) XIV, 2004.
+A. C. Laity, N. Anagnostou, B. Berriman, J. Good, J. C. Jacob, and D. S. Katz, "Montage: An Astronomical Image Mosaic Service for the NVO", Astronomical Data Analysis Software & Systems (ADASS) XIV, 2004.
+D. S. Katz, G. B. Block, J. B. Brockman, D. Callahan, P. L. Springer, and T. Sterling, "Initial Kernel Timing Using a Simple PIM Performance Model," Seventh Annual Workshop on High-Performance Embedded Computing, 2004.
+J. C. Jacob, D. S. Katz, T. Prince, G. B. Berriman, J. C. Good, A. C. Laity, E. Deelman, G. Singh, and M.-H. Su, "The Montage Architecture for Grid-Enabled Science Processing of Large, Distributed Datasets," Proceedings of the 2004 Earth Science Technology Conference (ESTC-04), 2004.
+D. S. Katz, G. Block, J. Collier, D. Curkendall, L. Husman, J. Jacob, P. P. Li, C. Miller, L. Plesea, and H. Siegel, "Making Sense of Terrain Data through Access and Visualization," ASPRS/MAPPS 2003 Conference on Terrain Data: Applications and Visualization - Making the Connection, 2003.
+B. Berriman, A. Bergou, E. Deelman, J. Good, J. Jacob, D. Katz, C. Kesselman, A. Laity, G. Singh, M.-H. Su, and R. Williams, "Montage: A Grid-Enabled Image Mosaic Service for the NVO," Astronomical Data Analysis Software & Systems (ADASS) XIII, 2003.
+G. B. Berriman, D. Curkendall, J. Good, J. Jacob, D.S. Katz, M. Kong, T. Prince, and R. Williams, "Montage: An On-Demand Image Mosaic Service for the NVO," Astronomical Data Analysis Software & Systems (ADASS) XII, 2002.
+D. S. Katz, E. R. Tisdale, and C. D. Norton, "A Study of the Common Component Architecture (CCA) Forum Software," Fifth Annual Workshop on High-Performance Embedded Computing (HPEC), 2002.
+D. S. Katz, "Fault-Tolerance for Matrix and Signal Processing Applications," Fifth Annual Workshop on High-Performance Embedded Computing, 2001.
+D. S. Katz, "Fault-Tolerant Libraries for Data Processing Applications," SC2001, 2001.
+R. Sengupta, J. D. Offenberg, D. J. Fixsen, D. S. Katz, P. L. Springer, H. S. Stockman, M. A. Nieto-Santisteban, R. J. Hanish, J. C. Mather, "Software Fault Tolerance for Low- to-Moderate Radiation Environments," Astronomical Data Analysis Software & Systems (ADASS) X, 2000.
+S. A. Curtis, M. Rilee, M. Bhat, and D. Katz, "Small Satellite Constellation Autonomy via on-board Supercomputers and Artificial Intelligence," International Astronautical Federation, 51st Congress, 2000.
+D. S. Katz, P. L. Springer, R. Granat, and M. Turmon, "Applications Development for a Parallel COTS Spaceborne Computer," Third Annual Workshop on High-Performance Embedded Computing, 1999.
+T. Clune, D. S. Katz, and G. A. Glatzmaier, "Advances in Modeling the Generation of the Geomagnetic Field by the Use of Massively Parallel Computers and Profound Optimization," Ninth SIAM Conference on Parallel Processing for Scientific Computing, 1999.
+D. S. Katz and T. Cwik, "Large-Scale, Low-Cost Parallel Computers Applied to Reflector Antenna Analysis," IEEE AP-S Symposium/URSI Radio Science Meeting, 1998.
+D. S. Katz and T. Cwik, "Cost-Effective Parallel Computational Electromagnetic Modeling," 8th Biennial IEEE Conference on Electromagnetic Field Computation, 1998.
+D. S. Katz, "High-Performance Computational Electromagnetic Modeling Using Low-Cost Parallel Computers," IEEE AP-S Symposium/URSI Radio Science Meeting, 1997.
+D. S. Katz and T. Cwik, "The Parallel Solution of Matrix Equations Resulting from Unstructured Finite-Element Problems," IEEE AP-S Symposium/URSI Radio Science Meeting, 1996.
+C. Zuffada, T. Cwik, D. S. Katz, and V. Jamnejad, "Large Scale Parallel Computation of Radiation from Complex Arrays," IEEE AP-S Symposium/URSI Radio Science Meeting, 1996.
+T. Cwik and D. S. Katz, "Matrix Equation Decomposition and Parallel Solution of Systems Resulting from Unstructured Finite Element Problems in Electromagnetics," Copper Mountain Conference on Iterative Methods, 1996.
+T. Cwik, C. Zuffada, V. Jamnejad, and D. S. Katz, "Finite Element Modeling on Scaleable Parallel Computers," Progress in Electromagnetic Research Symposium (PIERS), 1995.
+D. S. Katz, C. E. Reuter, E. T. Thiele, R. M. Joseph and A. Taflove, "Extension of FD-TD Simulation Capabilities using the Berenger PML ABC," IEEE AP-S Symposium/URSI Radio Science Meeting, 1995.
+T. Cwik, D. S. Katz, C. Zuffada, and V. Jamnejad, "Large Scale Finite Element Modeling Using Scaleable Parallel Processing," IEEE AP-S Symposium/URSI Radio Science Meeting, 1995.
+T. Cwik, D. S. Katz, J. Patterson, "Large Scale Integral Equation Modeling Using Scaleable Parallel Processing," IEEE AP-S Symposium/URSI Radio Science Meeting, 1995.
+C. E. Reuter, R. M. Joseph, D. S. Katz, E. T. Thiele, and A. Taflove, "Optimization of the Berenger PML for FD-TD Simulations," IEEE AP-S Symposium/URSI Radio Science Meeting, 1995.
+D. S. Katz, E. T. Thiele, and A. Taflove, "Validation and Extension to Three Dimensions of the Berenger PML Absorbing Boundary Condition for FD-TD Meshes," IEEE AP-S Symposium/URSI Radio Science Meeting, 1994.
+D. S. Katz and A. Taflove, "EMDS Analysis of Dielectric Layers and Coatings," IEEE AP-S Symposium/URSI Radio Science Meeting, 1993.
+D. S. Katz, M. J. Piket-May, and A. Taflove, "FD-TD Modeling of Electrically Large 3-D Structures With the Cray EMDS Software Package," Progress in Electromagnetic Research Symposium (PIERS), 1993.
+M. J. Piket-May, D. S. Katz, and A. Taflove, "Video for FD-TD modeling of digital pulse propagation through a complex stack of circuit boards and connectors," American Institute of Aeronautics and Astronautics (AIAA) Meeting, 1992.
+D. S. Katz, A. Taflove, and K. R. Umashankar, "FD-TD Analysis of Aperture Antennas: Open-Ended Waveguides, Horns, and Parabolic Reflectors," IEEE AP-S Symposium/URSI Radio Science Meeting, 1990.
+M. J. Piket-May, A. Taflove, W. C. Lin, D. S. Katz, V. Sathiaseelan, and B. B. Mittal, "Computational Modeling of Electromagnetic Hyperthermia: Three-Dimensional and Patient-Specific," IEEE AP-S Symposium/URSI Radio Science Meeting, 1990.
+M. J. Piket-May, A. Taflove, W. C. Lin, D. S. Katz, V. Sathiaseelan, and B. B. Mittal, "Computational Modeling of Electromagnetic Hyperthermia: Three-Dimensional and Patient-Specific," Radiation Research Society/North America Hyperthermia Group Meeting, 1990.
+D. S. Katz and A. Taflove, "FD-TD Analysis of Electromagnetic Wave Radiation Involving Horn Antennas," IEEE AP-S Symposium/URSI Radio Science Meeting, 1989.
+
+Other Publications
+D. S. Katz, "The history of US-RSE," RSE-CH meetup co-located with PASC24, 2024. 
+D. S. Katz, "Introduction to the Research Software Ecosystem," Global Research Council side event on Research Software - Challenges and Funding, 2024.
+D. S. Katz, "How RSE Community Identity Leads to Improved Research Software Practices," SIAM CSE23, 2023.
+R. Gupta, S. Hettrick, D. S. Katz, R. Speck, "On the Path Towards Better Sustainability and Productivity for Research Software," SIAM CSE23, 2023.
+Y. Babuj, J. Bryan, K. Chard, R. Chard, B. Clifford, I. Foster, B. Galewsky, K. Hunter Kesling, D. S. Katz, Z. Li, K. Nagairtsev, S. Rosen, T. Skluzacek, "PuncX: Portable serverless computing to enable scalable data science," ADSA Spring Meeting, 2022
+D. S. Katz, M. Barker, L. J. Castro, N. P. Chue Hong, M. Gruenpeter, J. Harrow, C. MartÃ­nez, P. A. Martinez, F. Psomopoulos, "FAIR Research Software as a Step Towards Better Research," SIAM PP22, 2022
+D. S. Katz, Y. Babuj, J. Bryan, K. Chard, R. Chard, B. Clifford, I. Foster, B. Galewsky, Z. Li, K. Nagairtsev, S. Rosen, M. Wilde, "Parsl & funcX: Build and test challenges," SIAM PP22, 2022
+D. S. Katz, "Software Citation Implementation Progress," Software Citation Deep Dive, FORCE2021, 2021
+D. S. Katz, M. Barker, "Software sustainability is people, at least for now" DOE/ASCR Workshop on the Science of Scientific-Software Development and Use, 2021.
+C. Jay, R. Haines, D. S. Katz, J. C. Carver, "Software-Theory Translation Challenges" DOE/ASCR Workshop on the Science of Scientific-Software Development and Use, 2021.
+S. Gesing, J. Carver, I. Cosden, J. Damerow, C. Ferenbaugh, C. Hill, D. S. Katz, C. Maimone, L. Parsons, "The US-RSE Association: Accelerating Changes in the Scientific-Computing Community to Improve Practices for Software Development and Use" DOE/ASCR Workshop on the Science of Scientific-Software Development and Use, 2021.
+D. S. Katz, F. E. Psomopoulos, "FAIR for Machine Learning Models," FAIR Festival, 2021.
+D. S. Katz, R. Ramnath, "Principles of Research Software Sustainability," SIAM CSE21, 2021.
+R. Ramnath, D. S. Katz, "Case Studies in Research Software Sustainability," SIAM CSE21, 2021
+I. Cosden, J. C. Carver, C. R. Ferenbaugh, S. Gesing, C. Hill, D. S. Katz, C. Maimone, L. Parsons, J. Perr-Sauer, "The US-RSE Association: A Community-Driven National Organization of Research Software Engineers," SIAM CSE21, 2021.
+D. S. Katz, M. Gruenpeter, "PIDs for software - shedding some light on a dark puzzle," PIDapalooza, 2021.
+K. Liljedahl, K. McHenry, M. B. Jones, J. M. Cervenec, C. Witharana, A. E. Budden, M. Brook, M. Brubaker, G. Grosse, B. M. Jones, C. S. Jones, D. S. Katz, R. Kooper, L. Marini, J. Moss, I. Nitze, A. Soliman, M. Gavina, L. Walker, G. Wind, B. Yadav and R. Udawalpola, "The Permafrost Discovery Gateway: A web platform to enable knowledge-generation from big geospatial data," AGU Fall Meeting, 2020.
+R. Kooper, K. McHenry, D. S. Katz, C. Kirkpatrick, D. W. Fulker, "Jupyter Notebooks as a tool to increase Visibility of EarthCube Products," AGU Fall Meeting, 2020.
+D. S. Katz, "Forming and Supporting RSE Groups and Communities," What do we (not) know about RSEs, SORSE, 2020. 
+D. S. Katz, N. P. Chue Hong, T. Clark, A. Muench, S. Stall, D. Bouquin, M. Cannon, S. Edmunds, T. Faez, P. Feeney, M. Fenner, M. Friedman, G. Grenier, M. Harrison, J. Heber, A. Leary, C. MacCallum, H. Murray, E. Pastrana, K. Perry, D. Schuster, M. Stockhause, J. Yeston, "A Software Citation Primer," poster, RDA Virtual Plenary 16, 2020. 
+D. S. Katz, T. Pollard, F. Psomopoulos, E. Huerta, C. Erdmann, B. Blaiszik, "FAIR principles for Machine Learning models," poster, RDA Virtual Plenary 16, 2020. 
+S. Gesing, D. S. Katz, L. Parsons, C. Ferenbaugh, I. Cosden, "The Continual Road to an Inclusive Definition and Use of Terms for the US Research Software Engineer Community," SORSE, 2020.
+D. S. Katz, M. Barker, N. P. Chue Hong, L. J. Garcia-Castro, M. Gruenpeter, J. Harrow, M. Kuzak, P. A. Martinez, F. E. Psomopoulos, "Toward defining and implementing FAIR for research software," ADSA Leadership Summit, 2020.
+D. S. Katz, J. C. Carver, S. Gesing, K. Ram, N. Weber, Nicholas, "Conceptualizing a US Research Software Sustainability Institute (URSSI)," ESIP Winter Meeting, 2020. 
+D. S. Katz, N. Chue Hong, M. Fenner, Martin, "Recent Software Citation Work," ESIP Winter Meeting, 2020. 
+D. S. Katz, L. Wyborn, M. Daniels, "Software Sustainability, Discovery, and Accreditation," ESIP Winter Meeting, 2020.
+D. S. Katz, "Software Sustainability and Software Citation," 17th Annual Workshop on Charm++ and Its Applications, 2019.
+D. S. Katz, "Fundamentals of Software Sustainability, " csv,conf,v4, 2019.
+D. S. Katz, "Conceptualizing a US Research Software Sustainability Institute (URSSI)," SIAM CSE19, 2019.
+K. Niemeyer, A. Smith, L. Barba, G. Githinji, M. Gymrek, K. Huff, D. Katz, C. Madan, A. Cabunoc Mayes, K. Moerman, P. Prins, K. Ram, A. Rokem, T. Teal, J. Vanderplas, "Introducing JOSS: The Journal of Open Source Software," SciPy, 2017.
+
+Bulletins
+D. S. Katz, J. C. Carver, I. Cosden, C. Ferenbaugh, C. Maimone, S. Gesing, C. Hill, J. Damerow, L. Parsons, "US-RSE: Supporting the Research Software Engineer," IEEE Computer Society Tech News, 15 December 2021.
+I. A. Cosden, J. C. Carver, J. Damerow, C. Ferenbaugh, S. Gesing, C. Hill, D. S. Katz, C. Maimone, and L. Parsons, "US-RSE: Supporting the Research Software Engineer," SIAM News, 1 October 2021.
+L. C. McInnes, D. S. Katz, S. Lathrop, "Computational Research Software: Challenges and Community Organizations Working for Culture Change", SIAM News, 2 December 2019.
+
+Magazine Articles
+D. S. Katz, V. Kindratenko, O. Kindratenko, P. Mazumdar, "Training Next Generation AI Users and Developers at NCSA," Computing in Science & Engineering, v.25(6), pp. 28-32, Nov.-Dec. 2023.
+D. S. Katz, J. Carver, "Thoughts on Learning Human and Programming Languages," Computing in Science & Engineering, v.26(1), pp. 77-80, Jan.-Mar. 2024. 
+
+E. A. Jensen, D. S. Katz, "From Code to Tenure: Valuing Research Software in Academia," in Series 3.2: Tenure, Promotion, and Recognition: Reimagining How We Measure Success (editors: A. K. Elder, J. P. Alperin), Commonplace, December 2023.
+T. Gamblin, D. S. Katz, "Overcoming Challenges to Continuous Integration in HPC," Computing in Science & Engineering (Software Engineering Department), v.24(6), pp. 54-59, Nov.-Dec. 2022.
+M. A. Parsons, D. S. Katz, M. Langseth, H. Ramapriyan, S. Ramdeen, "Credit Where Credit Is Due," Eos, v.103, 13 May 2022.
+
+D. S. Katz, "Sustainable Software Needs a Change in the Culture of Science," Scientific Computing World, 2016.
+D. S. Katz and G. Allen, "Experiences and Lessons from the Center for Computation & Technology," Research Trends, (30), pp. 13-17, September 2012.
+B. Berriman, J. Good, J. C. Jacob, D. S. Katz, A. Laity, and T. A. Prince, "Montage Version 3.0," NASA Tech Briefs, NPO-41962, 2006.
+D. S. Katz, "Programs for Testing Processor-in-Memory Computing Systems," NASA Tech Briefs, NPO-41206, 2006.
+A. J. Bergou, B. Berriman, J. Good, J. C. Jacob, D. S. Katz, A. Laity, T. A. Prince, and R. Williams, "Software for Generating Mosaics of Astronomical Images," NASA Tech Briefs, NPO-40297, 2005.
+D. S. Katz, E. R. Tisdale, and C. D. Norton, "Evaluating Performance of Components," NASA Tech Briefs, NPO-30693, 2004.
+D. S. Katz, "PVM Wrapper," NASA Tech Briefs, NPO-40232, 2004.
+J. A. Gunnels, D. S. Katz, E. S. Quintana-OrtÃ­, R. A. van de Geijn, and E. R. Tisdale, "Software for Fault-Tolerant Matrix Multiplication," NASA Tech Briefs, NPO-30395, 2004.
+D. S. Katz, A. Borgioli, T. A. Cwik, C. Fu, W. A. Imbriale, V. Jamnejad, and P. L. Springer "Program for Designing Multiple-Reflector Antenna Systems," NASA Tech Briefs, NPO-20628, 1999.
+T. A. Cwik, D. S. Katz, C. Zuffada, V. Jamnejad, "Improved Parallel Computation of Electromagnetic Scattering," NASA Tech Briefs, NPO-20171, 1998.
+D. S. Katz, A. Taflove, J. P. Brooks, and E. Harrigan, "Large-Scale Methods in Computational Electromagnetics," Cray Channels, v. 13(1), pp. 16-19, Spring 1991.
+
+Reports
+G. R. Watson, A. Malviya Thakur, D. S. Katz, E. M. Raybourn, B. Hoffman, D. Robinson, J. Kellerman, C. Roundy, "An Open Community-Driven Model For Sustainable Research Software: Sustainable Research Software Institute," arXiv, 2023. 
+G. R. Watson, A. Malviya Thakur, D. S. Katz, E. M. Raybourn, B. Hoffman, D. Robinson, J. Kellerman, C. Roundy, "Transitioning ECP Software Technology into a Foundation for Sustainable Research Software," arXiv, 2023. 
+R. Ferreira da Silva, R. M. Badia, V. Bala, Debbie Bard, P.-T. Bremer, I. Buckley, S. Caino-Lores, K. Chard, C. Goble, S. Jha, D. S. Katz, D. Laney, M. Parashar, F. Suter, N. Tyler, T. Uram, I. Altintas, S. Andersson, W. Arndt, J. Aznar, J. Bader, B. Balis, C. Blanton, K. R. Braghetto, A. Brodutch, P. Brunk, H. Casanova, A. Cervera Lierta, J. Chigu, T. Coleman, N. Collier, I. Colonnelli, F. Coppens, M. Crusoe, W. Cunningham, B. de Paula Kinoshita, P. Di Tommaso, C. Doutriaux, M. Downton, W. Elwasif, B. Enders, C. Erdmann, T. Fahringer, L. Figueiredo, R. Filgueira, M. Foltin, A. Fouilloux, L. Gadelha, A. Gallo, A. Garcia Saez, D. Garijo, R. Gerlach, R. Grant, S. Grayson, P. Grubel, J. Gustafsson, V. Hayot-Sasson, O. Hernandez, M. Hilbrich, A. Justine, I. Laflotte, F. Lehmann, A. Luckow, J. Luettgau, K, Maheshwari, M. Matsuda, D. Medic, P. Mendygral, M. Michalewicz, J. Nonaka, M. Pawlik, L. Pottier, L. Pouchard, M. Putz, S. K. Radha, L. Ramakrishnan, S. Ristov, P. Romano, D. Rosendo, M. Ruefenacht, K. Rycerz, N. Saurabh, V. Savchenko, M. Schulz, C. Simpson, R. Sirvent, T. Skluzacek, S. Soiland-Reyes, R. Souza, S. R. Sukumar, Z. Sun, A. Sussman, D. Thain, M. Titov, B. Tovar, A. Tripathy, M. Turilli, B. Tuznik, H. van Dam, A. Vivas, L. Ward, P. Widener, S. Wilkinson, J. Zawalska, M. Zulfiqar, "Workflows Community Summit 2022: A Roadmap Revolution", Zenodo, March 2023. 
+S. Stall, G. Bilder, M. Cannon, N. Chue Hong, S. Edmunds, C. C. Erdmann, M. Evans, R. Farmer, P. Feeney, M. Friedman, M. Giampoala, R. B. Hanson, M. Harrison, D. Karaiskos, D. S. Katz, V. Letizia, V. Lizzi, C. MacCallum, A. Muench, K. Perry, H. Ratner, U. Schindler, B. Sedora, M. Stockhause, R. Townsend, J. Yeston, T. Clark, "Journal Production Guidance for Software and Data Citations," ESS Open Archive, December 31, 2022.
+E. A. Huerta, B. Blaiszik, L. C. Brinson, K. E. Bouchard, D. Diaz, C. Doglioni, J. M. Duarte, M. Emani, I. Foster, G. Fox, P. Harris, L. Heinrich, S. Jha, D. S. Katz, V. Kindratenko, C. R. Kirkpatrick, K. Lassila-Perini, R. K. Madduri, M. S. Neubauer, F. E. Psomopoulos, A. Roy, O. RÃ¼bel, Z. Zhao, R. Zhu, "FAIR for AI: An interdisciplinary, international, inclusive, and diverse community building perspective," arXiv:2210.08973 [cs.CY], 2022.
+N. P. Chue Hong, D. S. Katz, M. Barker, A.-L. Lamprecht, C. Martinez, F. Psomopoulos, J. Harrow, L. J. Castro, M. Gruenpeter, P. A. Martinez, T. Honeyman, A. Struck, A. Lee, A. Loewe, B. van Werkhoven, C. Jones, D. Garijo, E. Plomp, F. Genova, H. Shanahan, J. Leng, M. HellstrÃ¶m, M. SandstrÃ¶m, M. Sinha, M. Kuzak, P. Herterich, Q. Zhang, S. Islam, S.-A. Sansone, T. Pollard, U. D. Atmojo, A. Williams, A. Czerniak, A. Niehues, A. C. Fouilloux, B. Desinghu, C. Goble, C. Richard, C. Gray, C. Erdmann, D. NÃ¼st, D. Tartarini, E. Ranguelova, H. Anzt, I. Todorov, J. McNally, J. Moldon, J. Burnett, J. Garrido-SÃ¡nchez, K. Belhajjame, L. Sesink, L. Hwang, M. R. Tovani-Palone, M. D. Wilkinson, M. Servillat, M. Liffers, M. Fox, N. MiljkoviÄ‡, N. Lynch, P. Martinez Lavanchy, S. Gesing, S. Stevens, S. Martinez Cuesta, S. Peroni, S. Soiland-Reyes, T. Bakker, T. Rabemanantsoa, V. Sochat, Y. Yehudi, RDA FAIR4RS WG, "FAIR Principles for Research Software (FAIR4RS Principles)," Research Data Alliance, May 2022.
+R. Ferreira da Silva, H. Casanova, K. Chard, T. Coleman, D. Laney, D. Ahn, S. Jha, D. Howell, S. Soiland-Reys, I. Altintas, D. Thain, R. Filgueira, Y. Babuji, R. M. Badia, B. Balis, S. Caino-Lores, S. Callaghan, F. Coppens, M. R. Crusoe, K. De, F. Di Natale, T. M. A. Do, B. Enders, T. Fahringer, A. Fouilloux, G. Fursin, A. Gaignard, A. Ganose, D. Garijo, S. Gesing, C. Goble, A. Hasan, A. Huber, D. S. Katz, U. Leser, D. Lowe, B. Ludaescher, K. Maheshwari, M. Malawski, R. Mayani, K. Mehta, A. Merzky, T. Munson, J. Ozik, L. Pottier, S. Ristov, M. Roozmeh, R. Souza, F. Suter, B. Tovar, M. Turilli, K. Vahi, A. Vidal-Torreira, W. Whitcup,M. Wilde, A. Williams, M. Wolf, J. Wozniak, "Workflows Community Summit: Advancing the State-of-the-art of Scientific Workflows Management Systems Research and Development", Zenodo, June 2021.
+R. Ferreira da Silva, H. Casanova, K. Chard, D. Laney, D. Ahn, S. Jha, C. Goble, L. Ramakrishnan, L. Peterson, B. Enders, D. Thain, I. Altintas, Y. Babuji, R. Badia, V. Bonazzi, T. Coleman, M. Crusoe, E. Deelman, F. Di Natale, P. Di Tommaso, T. Fahringer, R. Filgueira, G. Fursin, A. Ganose, B. GrÃ¼ning D. S. Katz, O. Kuchar, A. Kupresanin, B. Ludascher, K. Maheshwari, M. Mattoso, K. Mehta, T. Munson, J. Ozik, T. Peterka, L. Pottier, T. Randles, S. Soiland-Reyes, B. Tovar, M. Turilli, T. Uram, K. Vahi, M. Wilde, M. Wolf, J. Wozniak, "Workflows Community Summit: Bringing the Scientific Workflows Research Community Together", Zenodo, March 2021.
+D. S. Katz, M. Gruenpeter, T. Honeyman, L. Hwang, M. D. Wilkinson, V. Sochat, H. Anzt, C. Goble, for FAIR4RS Subgroup 1, "A Fresh Look at FAIR for Research Software," arXiv:2101.10883 [cs.SE], 2021.
+Task Force on Best Practices for Software Registries: A. Monteil, A. Gonzalez-Beltran, A. Ioannidis, A. Allen, A. Lee, A. Bandrowski, B. E. Wilson, B. Mecum, C. F. Du, C. Robinson, D. Garijo, D. S. Katz, D. Long, G. Milliken, H. MÃ©nager, J. Hausman, J. H. Spaaks, K. Fenlon, K. Vanderbilt, L. Hwang, L. Davis, M. Fenner, M. R. Crusoe, M. Hucka, M. Wu, N. Chue Hong, P. Teuben, S. Stall, S. Druskat, T. Carnevale, T. Morrell, "Nine Best Practices for Research Software Registries and Repositories: A Concise Guide," arXiv:2012.13117 [cs.DL], 2020.
+C. Jay, R. Haines, D. S. Katz, "Software must be recognised as an important output of scholarly research," arXiv:2011.07571 [cs.CY], 2020.
+Research Data Alliance/FORCE11 Software Source Code Identification WG, A. Allen, A. Bandrowski, P. Chan, R. Di Cosmo, M. Fenner, L. Garcia, M. Gruenpeter, C. M. Jones, D. S. Katz, J. Kunze, M. Schubotz, I. T. Todorov, "Use cases and identifier schemes for persistent software source code identification," V1.1, Research Data Alliance, 2020. 
+D. S. Katz, S. Malik, M. S. Neubauer, G. A. Stewart, K. A. Assamagan, E. A. Becker, N. P. Chue Hong, I. A. Cosden, S. Meehan, E. J. W. Moyse, A. M. Price-Whelan, E. Sexton-Kennedy, M. O. Evans, M. Feickert, C. Lange, K. Lieret, R. Quick, A. SÃ¡nchez Pineda, and C. Tunnell, "Software Sustainability & High Energy Physics", arXiv:2010.05102 [hep-ex], 2020.
+J. P. Tennant, R. Agrawal, K. BaÅ¾dariÄ‡, D. Brassard, T. Crick, D. J. Dunleavy, T. R. Evans, N. Gardner, M. Gonzalez-Marquez, D. Graziotin, B. Greshake Tzovaras, D. Gunnarsson, J. Havemann, M. Hosseini, D. S. Katz, M. KnÃ¶chelmann, L. Lahti, C. R. Madan, P. Manghi, A. Marocchino, P. Masuzzo, P. Murray-Rust, S. Narayanaswamy, G. Nilsonne, J. Pacheco-Mendoza, B. Penders, O. Pourret, M. Rera, J. Samuel, T. Steiner, J. Stojanovski, A. Uribe-Tirado, R. Vos, S. Worthington, T. Yarkoni, "A tale of two 'opens': intersections between Free and Open Source Software and Open Scholarship," SocArXiv, 6 Mar. 2020.
+D. S. Katz, D. Bouquin, N. P. Chue Hong, J. Hausman, C. Jones, D. Chivvis, T. Clark, M. Crosas, S. Druskat, M. Fenner, T. Gillespie, A. Gonzalez-Beltran, M. Gruenpeter, T. Habermann, R. Haines, M. Harrison, E. Henneken, L. Hwang, M. B. Jones, A. A. Kelly, D. N. Kennedy, K. Leinweber, F. Rios, C. B. Robinson, I. Todorov, M. Wu, Q. Zhang, "Software Citation Implementation Challenges", arXiv:1905.08674 [cs.CY], 2019.
+L. Barba, J. BazÃ¡n, J. Brown, R. Guimera, M. Gymrek, A. Hanna, L. Heagy, K. D. Huff, D. S. Katz, C. Madan, K. Moerman, K. Niemeyer, J. L. Poulson, P. Prins, K. Ram, A. Rokem, A. M. Smith, G. K. Thiruvathukal, K. M. Thyng, L. Uieda, B. Wilson, Y. Yehudi, "Giving software its due through community-driven review and publication", 2019.
+D. S. Katz, P. Aerts, N. P. Chue Hong, A. Dubey, S. Gesing, H. J. Neeman, D. E. Pearah, "Sustaining Research Software: an SC18 Panel," arXiv: 1902.08942 [cs.SE], 2019.
+J. Tennant, J. Beamer, J. Bosman, B. Brembs, N. Chung, G. Clement, T. Crick, J. Dugan, A. Dunning, D. Eccles, A. Enkhbayar, D. Graziotin, R. Harding, J. Havemann, D. Katz, K. Khanal, J. N. Kjaer, T. Koder, P. Macklin, C. Madan, P. Masuzzo, L. Matthias, K. Mayer, D. Nichols, E. Papadopoulou, T. Pasquier, T. Ross-Hellauer, M. Schulte-Mecklenbeck, D. Sholler, T. Steiner, P. Szczesny, A. Turner, "Foundations for Open Scholarship Strategy Development," 2019.
+M. D. Hildreth, A. Boehnlein, K. Cranmer, S. Dallmeier, R. Gardner, T. Hacker, L. Heinrich, I. Jimenez, M. Kane, D. S. Katz, T. Malik, C. Maltzahn, M. Neubauer, S. Neubert, Jim Pivarski, E. Sexton, J. Shiers, T. Simko, S. Smith, D. South, A. Verbytskyi, G. Watts, J. Wozniak, "HEP Software Foundation Community White Paper Working Group - Data and Software Preservation to Enable Reuse," arXiv: 1810.01191 [physics.comp-ph], 2018.
+HEP Software Foundation: D. Berzano, R. M. Bianchi, P. Elmer, J. Harvey, R. Jones, M. Jouvin, D. S. Katz, S. Malik, D. Menasce, M. Neubauer, A. Puig, G. A. Stewart, C. Tunnell, "HEP Software Foundation Community White Paper Working Group - Training, Staffing and Careers," arXiv:1807.02875 [physics.ed-ph], 2018.
+HEP Software Foundation: L. Bauerdick, R. M. Bianchi, B. Bockelman, N. Castro, K. Cranmer, P. Elmer, R. Gardner, M. Girone, O. Gutsche, B. Hegner, J. M. HernÃ¡ndez, B. Jayatilaka, D. Lange, M. S. Neubauer, D. S. Katz, L. Kreczko, J. Letts, S. McKee, C. Paus, K. Pedro, J. Pivarski, M. Ritter, E. Rodrigues, T. Sakuma, E. Sexton-Kennedy, M. D. Sokoloff, C. Vuosalo, Frank WÃ¼rthwein, G. Watts, "HEP Software Foundation Community White Paper Working Group â€“ Data Analysis and Interpretation," arXiv: 1804.03983 [physics.comp-ph], 2018.
+HEP Software Foundation: B. Couturier, G. Eulisse, H. Grasland, B. Hegner, M. Jouvin, M. Kane, D. S. Katz, T. Kuhr, D. Lange, P. Mendez Lorenzo, M. Ritter, G. A. Stewart, A. Valassi, "HEP Software Foundation Community White Paper Working Group - Software Development, Deployment and Validation," arXiv: 1712.07959 [physics.comp-ph], 2017.
+D. S. Katz, K. E. Niemeyer, A. M. Smith, W. L. Anderson, C. Boettiger, K. Hinsen, R. Hooft, A. Lee, F. LÃ¶ffler, T. Pollard, F. Rios, "Software vs. data in the context of citation," PeerJ Preprints 4:e2630v1, 2016. DOI: https://doi.org/10.7287/peerj.preprints.2630v1
+D. S. Katz and R. Ramnath, "Looking at Software Sustainability and Productivity Challenges from NSF," arXiv: 1508.03348 [cs.CY, cs.SE], 2015.
+D. S. Katz, T. G. Armstrong, Z. Zhang, M. Wilde, and J. M. Wozniak, Many Task Computing and Blue Waters, Technical Report CI-TR-13-0911, Computation Institute, University of Chicago & Argonne National Laboratory, 2012.
+D. S. Katz, K. Keahey, and S. Jul, "TeraGrid eXtreme Digital 'Wide Users' Requirements Elicitation Meeting," Technical Report CI-TR-10-0811, Computation Institute, University of Chicago & Argonne National Laboratory, 2011.
+D. S. Katz, S. Jha, M. Parashar, O. Rana, and J. Weissman, "Survey and Analysis of Production Distributed Computing Infrastructures," Technical Report CI-TR-7-0811, Computation Institute, University of Chicago & Argonne National Laboratory, 2011.
+C. A. Stewart, D. S. Katz, D. L. Hart, D. Lantrip, D. S. McCaulay, R. L. Moore, "Survey of cyberinfrastructure needs and interests of NSF-funded principal investigators," IUScholarWorks, http://hdl.handle.net/2022/9917, 2011.
+C. A. Stewart, D. S. McCaulay, S. Jul, R. L. Moore, D. S. Katz, D. L. Hart, D. Lantrip "Technical Report: TeraGrid eXtreme Digital Campus Cyberinfrastructure and Campus Bridging Requirements Elicitation Meeting," IUScholarWorks, http://hdl.handle.net/2022/13026, 2011.
+G. Allen, D. S. Katz, "Computational Science, Infrastructure and Interdisciplinary Research on University Campuses: Experiences and Lessons from the Center for Computation & Technology," Center for Computation & Technology, Technical Report CCT-TR-2010-1, 2010.
+D. S. Katz, J. Daly, N. DeBardeleben, M. Elnozahy, B. Kramer, L. Lathrop, N. Nystrom, K. Milfeld, S. Sanielevici, S. Cott, and L. Votta, "2009 Fault Tolerance for Extreme-Scale Computing Workshop, Albuquerque, NM - March 19-20, 2009," Argonne National Laboratory, Technical Memorandum ANL/MCS-TM-312, December 2009.
+D. S. Katz, "The Hypercube Implementation of the Finite-Difference Time-Domain (FD-TD) Method for Electromagnetic Wave Scattering," Northwestern University EECS Department Honors Program, June 1988.
+
+Journal Editorships
+PeerJ Computer Science, Special Issue on Software Citation, Indexing, and Discoverability (editors: D. S. Katz, N. Chue Hong), 2024. Editorial: D. S. Katz, N. P. Chue Hong, "Special issue on software citation, indexing, and discoverability," PeerJ CS, 10:e1951, 2024.
+Computing in Science & Engineering (CiSE), Special Issue on Software and Data Citation, (editors: D. S. Katz, N. Chue Hong, T. Clark, M. Fenner, M. E. Martone,) V. 22(2), IEEE, March-April 2020.
+Computing in Science & Engineering (CiSE), Special Issue on Software and Data Citation, (editors: D. S. Katz, N. Chue Hong, T. Clark, M. Fenner, M. E. Martone,) V. 22(1), IEEE, January-February 2020.
+Computing in Science & Engineering (CiSE), Special Issue on Accelerating Scientific Discovery With Reusable Software, (editors: S. Lathrop, M. Folk, D. S. Katz, L. C. McInnes, A. Terrel,) v.21(2), IEEE, March-April 2019.
+Associate Editor-in-Chief (2018-present), Editorial Board Member (2016-2018), Journal of Open Source Software (JOSS), 2016-present.
+Section Editor (2022-present), Editorial Board Member (2015-2022), PeerJ Computer Science, 2015-present.
+Editorial Board Member, Journal of Cloud Computing Advances, Systems and Applications (JoCCASA), 2011-present.
+Editorial Board Member, International Journal of High Performance Computing and Networking (IJHPCN), 2003-present.
+Associate Editor International Journal of Grid and Utility Computing (IJGUC), 2011-present (Editorial Board Member, 2003-2011).
+
+Conferences Organized or Chaired
+Program Co-Chair:  21st IEEE International eScience Conference (eScience'25), 2025.
+Technical Program Co-Chair: 2nd Annual Conference of the US Research Software Engineer Association (US-RSE'24), 2024.
+Domain Co-Chair (Computational Methods and Applied Mathematics): Platform for Advanced Scientific Computing (PASC) Conference, Zurich, Switzerland, June 2024.
+Artifacts Evaluation Committee co-chair: 24rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2024), Philadelphia, Pennsylvania, May 2024.
+Program track (FAIR) co-chair: 19th IEEE eScience Conference, Limassol, Cyprus, October 2023.
+Artifacts Evaluation Committee co-chair: 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2023), Bangalore, India, May 2023.
+Co-Organizer: Research Software Engineers in HPC (RSE-HPC-2022), in conjunction with 2022 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC22), Dallas, Texas, November 2022.
+Poster co-chair: 18th IEEE eScience Conference, Salt Lake City, Utah, 2022.
+Co-Organizer: Research Software Engineers in HPC (RSE-HPC-2021), in conjunction with 2021 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC21), St. Louis, Missouri, November 2021.
+Co-organizer: M. Barker, N. Chue Hong, D. Katz, L. Garcia, P. Martinez, P. Richmond, T. Honeyman, C. Martinez-Ortiz, Building a FAIR roadmap for research software, in conjunction with International FAIR Convergence Symposium, 2020.
+Co-organizer: Research Software Engineers in HPC: Creating Community, Building Careers, Addressing Challenges (RSE-HPC-2020), in conjunction with 2020 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC20), 2020.
+Co-organizer: FAIR 4 Research Software, in conjunction with SORSE, 2020.
+Co-organizer: Sustainable Software in HEP, IRIS-HEP, 2020.
+Co-organizer (Notebooks track): EarthCube Annual Meeting, 2020.
+Co-organizer: Research Software Engineers Community Workshop, in conjunction with PEARC20, 2020.
+SCALE Challenge Co-chair: 20th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2020), Melbourne, Australia, May 2020.
+
+Early Career Chair: 2019 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC19), 2019.
+Co-organizer: 2019 International Workshop on Software Engineering for HPC-Enabled Research (SE-HER 2019), in conjunction with 2019 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC19), 2019.
+Co-organizer: Theory-Software Translation Workshop, 2019.
+Co-organizer: International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 6.1), 2018.
+Program Area Chair (Multidisciplinary), 32nd IEEE International Parallel & Distributed Processing Symposium (IPDPS), Vancouver, Canada, May 2018.
+Area Chair, Technical Papers (State of the Practice), 2017 ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (SC17), Denver, Colorado, November 2017.
+Co-organizer: International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 5.2), 2017.
+Co-organizer: International Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE 5.1), 2017.
+Program Co-Chair: 2017 International Conference on Parallel Processing (ICPP-2017), 2017.
+Co-Organizer: Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4), 2016.
+Program Track Co-Chair (Applications): 2016 International Conference on Parallel Processing (ICPP-2016), 2016.
+Program Track Chair (Applications): 16th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2016. 
+Co-Organizer: Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3), 2015.
+Program co-Chair: 15th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2015.
+Co-Organizer: Second Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE2), in conjunction with SC14, 2014.
+Co-Organizer: First Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE1), in conjunction with SC13, 2013.
+Program Vice Chair (Applications and Experiences): 13th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2013), 2013.
+Program co-Chair: IEEE International Conference on eScience, 2012.
+Program Vice Chair (Applications and Experiences): 12th IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2012), 2012.
+Program Vice-Chair (e-Research and Applications): 12th IEEE/ACM International Conference on Grid Computing (Grid 2011), 2011.
+Program Co-Chair: TeraGrid 2011, 2011. 
+General Co-Chair: TeraGrid 2010, 2010.
+General Co-Chair: Challenges of Large Applications in Distributed Environments (CLADE 2010), in conjunction with HPDC 2010.
+General Chair: 2009 IEEE International Conference on Cluster Computing (Cluster 2009).
+Poster Co-Chair: TeraGrid'09, 2009.
+Program Co-Chair: HPC ASIA 2009. 
+Program Co-Chair: 6th International Symposium on Parallel and Distributed Processing and Applications (ISPA08), 2008.
+Program Co-Chair: International Symposium on Grid computing, high-performAnce and Distributed Applications (GADA'08), 2008.
+Program Vice Chair (Applications): 9th IEEE/ACM International Conference on Grid Computing, 2008.
+Program Vice Chair (HPC Applications): 9th IEEE International Conference on Computational Science and Engineering, 2008.
+General Chair, 15th Mardi Gras Conference, 2008.
+Program Vice Co-Chair (Cluster and Grid Computing), 13th International Conference on Parallel and Distributed Systems (ICPADS'2007).
+Program Co-Chair: International Symposium on Grid computing, high-performAnce and Distributed Applications (GADA'07), 2007.
+Program Vice-Chair (Software and Applications): Fourth International Symposium on Parallel and Distributed Processing and Applications (ISPA'06), 2006.
+Program Vice-Chair (Cluster Computing): 2006 International Conference on Parallel Processing (ICPP-2006).
+Program Chair: Sixth IEEE/ACM International Workshop on Grid Computing (Grid 2005).
+General Vice Chair: 2005 IEEE International Conference on Cluster Computing (CLUSTER2005).
+Co-Chair: Workshop on Web and Grid Services for Scientific Data Analysis (WAGSSDA), 2005.
+General Co-Chair: 2004 IEEE International Conference on Cluster Computing (CLUSTER2004).
+Program Co-Chair: 2003 IEEE International Conference on Cluster Computing (CLUSTER2003).
+Vice Co-Chair: 2002 IEEE International Conference on Cluster Computing (CLUSTER2002).
+Deputy Program Chair: 2001 IEEE International Conference on Cluster Computing (CLUSTER2001). 
+Program Vice Chair (Cluster Applications): 2000 IEEE International Conference on Cluster Computing (CLUSTER2000).
+Member of Advisory Committee: IEEE International Conference on Cluster Computing, 2013 - present; Member of Steering Committee, 2000 - 2013; Chair of Steering Committee, 2008 - 2011.
+Member of Steering Committee, 2011 - 2018, 2024 - present: IEEE International Conference on e-Science, Member of Advisory Committee, 2019 - 2023; Chair of Steering Committee, 2014 - 2018.
+
+Professional Societies
+IEEE Computer Society: Board of Governors member, 2022-2027.
+ACM: Senior Member, 2011-present.
+IEEE: Senior Member, 1999-present.
+
+Service on Campus Committees
+Illinois International Programs Advisory Committee (2020-present)
+Faculty Senate IT subcommittee (2020-present)
+
+Other Outside Service
+Open Science NL, Open Research Software Advisory Panel, 2024 - present
+MolSSI, Science and Software Advisory Board, 2024 - present
+EVERSE, Scientific Advisory Board, 2024 - present
+FORCE11, Board of Directors, 2023 - present
+Open Source Science Initiative (OSSci), Steering Committee Member, 2022 - present
+NANOGrav, Advisory Board Member, 2022 - present
+Workflows Community Initiative (WCI), Steering Committee Chair, 2022 - present
+Research Software Alliance (ReSA): co-founder; member of steering committee, 2019-present; chair of steering committee, 2021-present
+ACES - Accelerating Computing for Emerging Sciences: External Advisory Committee, 2021 - present
+SBGrid Consortium: External Steering Committee, 2021 - present
+Biological and Environmental Data Education Network (BEDE Network): Steering Committee, 2021 - present
+INTERSECT (INovative Training Enabled by a Research Software Engineering Community of Trainers): Advisory Board, 2020 - present
+ReproNim: A Center for Reproducible Neuroimaging Computation: External Advisory Board, 2016 - present
+Center for Computing in Engineering & Sciences (CCES), University of Campinas, Brazil: International Advisory Committee, 2014 - present
+US Research Software Engineer (US-RSE) Association: co-founder; member of steering committee, 2019-2022
+
+
+Research Honors
+US-RSE Impact Award (2024)
+IEEE Computer Society Golden Core recognition (2023)
+IEEE Computer Society Distinguished Contributor recognition (2022)
+LIBER Award for Library Innovation: N. P. Chue Hong, J. Cope, P. Herterich, D. S. Katz, S. Worthington, "Recognising the value of software: how libraries can help the adoption of software citation," LIBER Annual Conference. (2021)
+R&D 100 Award: J. M.Wozniak, T. Armstrong, J, Ozik, N. T. Collier, M. Wilde, D. S. Katz, I. Foster, "Swift/T: Dataflow Programming for Scientific Supercomputing Workflows" (2018)
+Better Scientific Software (BSSw) Fellowship (2018)
+Best Paper Award: K. Maheshwari, J. M. Wozniak, H. Yang, D. S. Katz, M. Ripeanu, V. Zavala, M. Wilde, "Evaluating Storage Systems for Scientific Data in the Cloud," (best paper), Proceedings of 5th Workshop on Scientific Cloud Computing (ScienceCloud) 2014, (in conjunction with HPDC'14). (2014)
+Best Paper Award: Z. Zhang and D. S. Katz, "Application Skeletons: Encapsulating MTC Application Task Computation and I/O," (best paper), Proceedings of 6th Workshop on Many-Task Computing on Grids and Supercomputers (MTAGS) (at SC13). (2013)
+Best Paper Award: T. G. Armstrong, Z. Zhang, D. S. Katz, M. Wilde, and I. T. Foster, "Scheduling Many-Task Workloads on Supercomputers: Dealing with Trailing Tasks," Proceedings of 3rd IEEE Workshop on Many-Task Computing on Grids and Supercomputers (at SC10). (2010)
+Best Paper Award: S. Jha, D. S. Katz, M. Parashar, O. Rana, and J. Weissman, "Critical Perspectives on Large-Scale Distributed Applications and Production Grids," 10th IEEE/ACM International Conference on Grid Computing (Grid 2009), Banff, Canada. (2009)
+NASA Space Act Award: B. Berriman, J. Good, J. C. Jacob, D. S. Katz, A. Laity, and T. A. Prince, "Montage: An Astronomical Image Mosaic Service for the National Virtual Observatory". (2005)
+NASA Space Act Award: A. Borgioli, T. Cwik, W. A. Imbriale, V. Jamnejad, D. S. Katz, and P. L. Springer, "MOD Tool: Microwave and Millimeter-wave Optic Design Tool" (2003)
+Best Paper Award: P. Wang, D. S. Katz, and Y. Chao, "Optimization of a Parallel Ocean General Circulation Model," SC97, San Jose, California. (1997)
+
+Recent Courses TaughtCS 199 INC - INCLUSION project
+

@@ -1,0 +1,72 @@
+
+
+
+Nadya Mason 
+
+
+
+
+
+Adjunct FacultyRosalyn Sussman Yalow Professor in Physics
+
+
+(217) 244-9114
+nadya@illinois.edu
+2010 Superconductivity Center
+
+
+For More Information
+Mason Research Group
+
+Education
+Ph.D. Physics Stanford Univ 2001
+
+BiographyProfessor Nadya Mason received her bachelor's degree in physics from Harvard University in 1995 and received her doctorate in physics in 2001 from Stanford University, working in the group of Aharon Kapitulnik. Her thesis research was on phase transitions in two-dimensional superconductors.
+
+Prior to joining the physics faculty at Illinois, Professor Mason was a Junior Fellow in the Society of Fellows at Harvard University, where she collaborated with Professors Charles Marcus and Michael Tinkham on projects related to both carbon nanotubes and nanostructured superconductors.
+Research Statement
+Professor Mason's research at Illinois focuses on how electrons behave in low-dimensional, correlated materials, where enhanced interactions are expected to give novel results. The research is relevant to a variety of technologies, including quantum communication, information storage, and qubit control in quantum computers.
+Professor Mason's current research focuses on the electronic behavior of materials such as carbon nanotubes, graphene, topological insulators, nanostructured superconductors, and other novel 1D or 2D systems. Typical measurements are of electronic transport at low temperatures. Typical projects include: (i) Tunneling experiments in carbon nanotubes, to study unusual correlated states such as Luttinger liquids, (ii) Studying emergent transport behavior of hybrid systems, e.g., superconductor-graphene, superconductor-toplogical insulator, graphene-PZT, and (iii) Creating planar arrays of superconducting islands, to control and understand collective phenomena in them.
+
+Research Areas
+Condensed Matter Physics (experimental)
+Quantum Information Science
+Science in Philosophy and Society
+
+
+Selected Articles in Journals
+ A. Beach, D. Reig-i-Plessis, G. MacDougall, N. Mason.  Asymmetric Fraunhofer spectra in a topological insulator-based Josephson junction. J. Phys.: Condens. Matter 33 425601 (2021).
+J. Sklenar, Y.J. Zhang, M. B. Jungfleisch, Y. Kim, Y.R. Xiao, G.J. MacDougall, M.J. Gilbert, Axel Hoffmann, P. Schiffer, N. Mason. Proximity-induced anisotropic magnetoresistance in magnetized topological insulators. Appl. Phys. Lett. 118:23, 232402 (2021). 
+T.R. Naibert, H. Polshyn, R. Garrido-Menacho, M. Durkin, B. Wolin, V. Chua, I. Mondragon-Shem, T. Hughes, N. Mason, R. Budakian. Imaging and controlling vortex dynamics in mesoscopic superconductor-normal-metal-superconductor arrays. Phys. Rev. B 103, 224526 (2021).
+S.A Siddiqui, J. Sklenar, K. Kang, M.J. Gilbert, A. Schleife, N. Mason, A. Hoffmann. Metallic antiferromagnets. J. Appl. Phys. 128, 040904 (2020).
+C.J. Liu, V.F.C. Humbert, T.M. Bretz-Sullivan, G.S. Wang, D.S. Hong, F. Wrobel, J.J. Zhang, J.D. Hoffman, J.E. Pearson, J.S. Jiang. Observation of an antiferromagnetic quantum critical point in high-purity LaNiO3. Nature Commun. 11:1, 1402 (2020).
+
+M. Durkin, R. Garrido-Menacho, S. Gopalakrishnan, N.K. Jaggi, J-H. Kwon, J-M. Zuo, and N. Mason, "Rare-region onset of superconductivity in niobium nanoislands," Phys. Rev. B 101, 035409 (2020). 
+Y. Zhang, Y. Kim, M.J. Gilbert and N. Mason, "Magnetotransport in a strain superlattice of graphene," Appl. Phys. Lett. 115, 143508 (2019). 
+J. Damasco, S. T. Gill, S. Gazibegovic, G. Badawy, E. P. A. M. Bakkers, and N. Mason, "Engineering tunnel junctions on ballistic semiconductor nanowires," Appl. Phys. Lett.  115, 043503 (2019)
+J. Oh,   Levi Humbard, Vincent Humbert, Joseph Sklenar, and Nadya Mason, "Angular evolution of thickness-related unidirectional magnetoresistance in Co/Pt multilayers," AIP Advances 9, 045016 (2019). 
+J. Son et al, "Atomically precise graphene etch stops for three dimensional integrated systems from two dimensional material heterostructures," Nature Communications 9, 3988 (2018). Author correction: Nat Commun 9, 4965 (2018).
+Y. Zhang, Y. Kim, M.J. Gilbert and N. Mason, "Electronic transport in a two-dimensional superlattice engineered via self-assembled nanostructures,"npj 2D Mater. Appl. 2, 31 (2018). 
+S.T. Gill, J. Damasco, B.E. Janicek, M.S. Durkin, V. Humbert, S. Gazibegovic, D. Car, E.P.A.M. Bakkers, P.Y. Huang and N. Mason, "Selective-Area Superconductor Epitaxy to Ballistic Semiconductor Nanowires," Nano Letters 18, 6121-6128 (2018).
+Angela Q. Chen, Moon Jip Park, Stephen T. Gill, Yiran Xiao, Gregory J. MacDougall, Matthew J. Gilbert, Nadya Mason, "Finite momentum Cooper pairing in 3D topological insulator Josephson junctions," Nat. Commun. 9:1, 3478 (2018). 
+J. H. Hinnefeld, S.T. Gill, N. Mason, "Graphene transport mediated by micropatterned strain," Appl. Phys. Lett. 112, 173504 (2018).
+Y. Zhang, M. Heiranian, B. Janicek, Z. Budrikis, S. Zapperi, P. Y. Huang, H. Johnson, N. R. Aluru, J. Lyding, N. Mason, "Strain Modulation of Graphene by Nanoscale Substrate Curvatures: A Molecular View," Nano Letters 18, 2098 (2018).
+N. Bronn, N. Mason, "Spatial dependence of electron interactions in carbon nanotubes."  Physical Review B, 88: 16, 161409 (2013)
+S. Cho, B. Dellabetta, A. Yang, J. Schneeloch, Z. J. Xu, T. Valla, G. Gu, M.J. Gilbert, N. Mason, "Symmetry Protected Josephson Supercurrents in Three-Dimensional Topological Insulators."  Nature Communications,  4, 1689 (2013).
+
+
+S. Eley, S. Gopalakrishnan, P.M. Goldbart, and N. Mason. "Approaching zero-temperature metallic states in mesoscopic superconductor-normal-superconductor arrays." Nature Physics, 8, 59 (2012).
+ S. Scharfenberg, N. Mansukhani, C. Chialvo, R. Weaver, and N. Mason, "Observation of a snap-through instability in graphene." Applied Physics Letters 100, 021910 (2012).
+T. Dirks, T. Hughes, B. Uchoa, S. Lal, Y-F. Chen, C. Chialvo, P.M. Goldbart, and N. Mason. "Transport through Andreev bound states in a graphene quantum dot." Nature Physics,98,091908   (2011).
+
+Research Honors
+Maria Goeppert Mayer Award, American Physical Society (APS) (2012)
+Center for Advanced Study Fellow (2011-2012)
+Denice Denton Emerging Leader Award (2009)
+Woodrow Wilson Career Enhancement Fellow  (2008-2009)
+Diverse Magazine "Emerging Scholar"  (2008)
+National Science Foundation CAREER Award (2007-2012)
+Junior Fellow, Harvard Society of Fellows  (2002-2005)
+
+Recent Courses TaughtPHYS 496 - Intro to Physics Research
+

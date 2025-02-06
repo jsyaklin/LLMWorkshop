@@ -1,0 +1,50 @@
+
+
+
+Michael B Weissman 
+
+
+
+
+
+Professor Emeritus
+
+
+(217) 333-7897
+mbw@illinois.edu
+290R Loomis Laboratory
+
+
+Education
+Ph.D., Physics, University of California, San Diego, 1976
+
+BiographyProfessor Michael Weissman received an AB degree in mathematics in 1970 from  Harvard University and master's and doctoral degrees in physics from the  University of California, San Diego, in 1972 and 1976, respectively. He worked  as a postdoctoral research associate in chemistry at Harvard University from  1976 until 1978, when he joined the Department of Physics at the University of  Illinois as an assistant professor. He was promoted to associate professor in  1984, and in 1989, became a full professor of physics.
+Professor Weissman has explored noise in condensed matter systems in a wide  range of settings, including disordered magnetic, ferroelectric, conducting, and  superconducting materials. He and his group have developed a number of novel  noise techniques now used by others the materials science community. He has also  held a long-standing interest in the foundations of quantum mechanics and the  quantum measurement issue.
+Professor Weissman is a dedicated teacher and earns high marks from former  students, who commend his knowledge of the subject material, his concern for  their questions, and his enthusiasm for teaching.
+Documents
+JRSSA paper
+
+Research StatementNoise Investigations in Condensed Matter Systems
+Most conducting materials exhibit conductivity fluctuations with a spectral density approximately inversely proportional to frequency over a wide range. This simple, universal appearance hides a multitude of different mechanisms that can provide information on dynamical properties of many condensed materials, especially ones with significant disorder. We are using this noise to study the dynamics of magnetic vortices in superconductors, domain dynamics in magnets, and basic problems in the formation of glasses and spin glasses. 
+
+Mesoscopic Noise Studies in Condensed Materials 
+Many of the dynamical properties of amorphous materials are not accessible to ordinary measurements in large samples, because most of the detailed behavior of individual sites is lost in an average over many differing sites. Ideally, one wants a method to study individual sites at which, for example, atoms move or spins flip. We are now using the statistics of conductance noise to study the fundamental mechanism of the "colossal magnetoresistance" effect. We have just developed a new dielectric noise technique, which we are applying to understand a class of unusual dielectrics, called relaxor ferroelectrics, with puzzling and potentially useful properties. 
+
+Barkhausen Noise and Self-Organization
+Barkhausen noise arises when magnetic domains reorient discontinuously as an applied field is changed. It is one of the longest-known and best-studied avalanche-like phenomena, yet the origins of its statistical properties are just emerging. Although many of the statistical properties can be modeled by picturing a domain wall dragged across a particluar type of rough pinning potenetial, we have argued that the required potential cannot actually exist in most materials. Rather, a statistically simpler disordered potential gives rise to the noise statistics via collective effects of moving flexible domain walls. We are testing whether finite-size effects in small samples reveal these collective effects. In collaboration with theorist K. Dahmen, we are investigating whether some of the more interesting scaling properties of the noise require a particular magnitude of underlying disorder, or arise via generic processes that are magnitude-independent.
+
+Research Areas
+Condensed Matter Physics (experimental)
+
+
+Selected Articles in Journals
+L. K. Chao, E. V. Colla, M. B. Weissman, and D. D. Viehland. Aging and slow dynamics in SrxBa1-xNb2O6. Phys. Rev. B 72, 134105-1-6 (2005).
+E. V. Colla and M. B. Weissman. Two-step phase changes in cubic relaxor ferroelectrics. Phys. Rev. B 72, 104106-1-7 (2005).
+J. H. Carpenter, K. A. Dahmen, A. C. Mills, M. B. Weissman, A. Berger, and O. Hellwig. History-induced critical behavior in disordered systems. Phys. Rev. B 72, 052410-1-4 (2005).
+A. Palanisami, M. Warusawithana, J. N. Eckstein, M. B. Weissman, and N. D. Mathur. Role of disorder in phase coexistence in manganites: noise in layered films. Phys. Rev. B 72, 024454-1-6 (2005).
+A. Palanisami, M. B. Weissman, and N. D. Mathur. Nonlinear effects of current on transport in manganite films. Phys. Rev. B 71, 094419-1-7 (2005).
+A. Palanisami, M. B. Weissman, and N. D. Mathur. Magnetoresistive dynamics and noise in low-strain manganite films. Phys. Rev. B 71, 014423-1-7 (2005).
+
+Research Honors
+APS Fellow, 1993
+

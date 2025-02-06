@@ -1,0 +1,148 @@
+
+
+
+Maria L. Chu 
+
+
+
+
+
+Associate Professor and Director of Graduate Programs
+
+
+(217) 300-1892
+mlchu@illinois.edu
+332 N Agricultural Engr Sciences Bld
+
+
+For More Information
+Watershed-EcoSystem Research Lab
+
+Education
+B.S. Civil Engineering, Western Institute of Technology, Iloilo City, Philippines, Cum Laude
+M. A., College Teaching (Major in Civil Engineering), University of Mindanao, Davao City, Philippines
+M.S., Hydrology and Water Resources, UNESCO-IHE Institute for Water Education, Delft, The Netherlands
+Ph.D., Biosystems Engineering, Oklahoma State University, Stillwater, OK
+
+Academic Positions
+Associate Professor, Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, Aug 16, 2020 - current
+Assistant Professor, Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, Aug 16, 2014 - Aug 15, 2020
+Senior Engineer, Waterborne Environmental Inc., Champaign, IL, April 16-Aug. 15, 2014
+Postdoctoral Fellow, Saint Louis University, St. Louis, MO, February 2012 – January 2014
+Postdoctoral Associate, University of Florida, Gainesville, FL, September 2009 – December 2011
+Graduate Research Associate, Oklahoma State University, Stillwater, OK, August 2006 – July 2009
+
+Resident Instruction
+ABE 458 Nonpoint Source Pollution Modeling - Spring even years
+ABE 454 Environmental Soil Physics - Spring odd years
+TSM 352 Land and Water Management Systems - Fall semester 
+TSM 100 Technical System Management - Spring 2018
+ABE 598 Environmental Contaminant Transport - Spring 2016; Fall 2019
+
+Course Development
+ABE 454 - Environmental Soil Physics
+
+Research Interests
+Hydrologic time series analysis
+Soil and water interactions from local to large scale
+Streambank erosion processes, stability, and sediment transport
+Global uncertainty and sensitivity of environmental models
+Habitat and metapopulation modeling of shorebirds due to climate change
+Integrated watershed and river hydrodynamics modeling
+Watershed hydrology and ecosystems response to climate and land use changes
+
+
+
+Selected Articles in Journals
+Botero-Acosta, A., M.L. Chu, A. Stumpf. 2018. Impacts of environmental stressors on the water resources of intensively managed hydrologic systems. Hydrol Process. 2018; 32:2947â€“2962. doi.org/10.1002/hyp.13244
+Krause, K., C. Wu, M.L. Chu, J.H. Knouft. 2018. Fish assemblage-environment relationships suggest differential trophic responses to heavy metal contamination. Freshwater Biology (In Press)
+Chu, M.L., J.A. Guzman, M.B. Villamil. 2018. A Modeling Framework to Evaluate the Impacts of Future Climate on Soil Organic Carbon Dynamics. J Environ Qual. Vol. 47 No. 4, p. 596-606. doi:10.2134/jeq2017.07.0295.
+Guzman, J.A., M.L., Chu, J.L. Steiner, P.J., Starks. 2018. Assessing and quantifying changes in precipitation patterns using event-driven analysis. 2018. J Hydrol Regional Studies 15: 1-15
+Prada, A.F., M. L. Chu, J. A. Guzman, D. Moriasi. 2017, Evaluating the impacts of agricultural land management practices on water resources: a probabilistic hydrologic modeling approach. J Environ Manage. [In Press] DOI: 10.1016/j.jenvman.2017.02.048
+Botero-Acosta, A. M.L. Chu, J.A. Guzman, P. Starks, D. Moriasi, 2017. Riparian erosion vulnerability model based on environmental features. J Environ Manage  [In Press] DOI: 10.1016/j.jenvman.2017.02.045
+Guzman, J.A., A. Shirmohammadi, A. Sadeghi, X. Wang, M.L. Chu, M. K. Jha, P. B. Parajuli, D. Harmel, Y. Khare, J. Hernandez. 2015. Uncertainty Considerations in Calibration and Validation of Hydrologic and Water Quality Models. Transactions of ASABE  Vol. 58(6): 1745-1762 
+Baffaut, C., S. M. Dabney, M. Smolen, M. A. Youssef, J. V. Bonta, M. L. Chu, J. A. Guzman, V. Shedekar, M. K. Jha, J. G. Arnold. 2015.  Hydrologic and Water Quality Modeling: Spatial and Temporal Considerations. Transactions of ASABE  Vol. 58(6): 1661-1680
+Knouft, J.H., M.L. Chu. 2015. Using watershed-scale hydrological models to predict the impacts of urbanization on freshwater fish assemblages. Ecohydrol.  8: 273-285.
+Jordan, Y.C., A. Ghulam, M.L. Chu. 2014. Assessing the impacts of future urban developing patterns and climate changes on surface water quality using geoinformatics. J. Environ. Inform. Vol 24 No 2: 65-79.
+J.A. Guzman, M.L. Chu, P.J. Starks, D.N. Moriasi, J.L. Steiner. 2014. Upper Washita River Experimental Watersheds: Data Screening Procedure for Data Quality Assurance. J. Environ. Qual. 43:1250–1261.
+Chu, M.L., J.A. Guzman, R. Muñoz-Carpena, G.A. Kiker, I. Linkov. 2014b. Changes in beach habitat due to the combined effects of long-term sea level rise, storm erosion, and nourishment. Environ. Modell. Softw. 52(2014) 111-120
+Convertino, M., R. Muñoz-Carpena, M.L. Chu-Agor, G.A. Kiker, I. Linkov. 2014b. Untangling Drivers of Species Distributions: Global Sensitivity and Uncertainty Analyses of MaxEnt. Environ. Modell. Softw. 51(2014) 296-309
+Chu, M.L., A. Ghulam, J. H. Knouft, Z. Pan. 2014a. Exploring the trends and shifts in rainfall and runoff patterns: a hydrologic data screening procedure. J. Am. Water Resour. As. DOI: 10.1111/jawr.12149 1-16
+Guzman, J.A., D.N. Moriasi, M.L. Chu, P.J. Starks, J.L. Steiner, P.H.Gowda. 2013. A tool for mapping and spatio-temporal analysis of hydrological data. Environ. Modell. Softw. 48: 163-170.
+Linhoss, A.C., G.A. Kiker, M.E. Aiello-Lammens, M.L. Chu-Agor, M. Convertino, R. Muñoz-Carpena, R. Fischer, I. Linkov. 2013. Decision analysis for species preservation under sea-levl rise. Ecol. Model. 263: 264-272
+Chu, M.L., J. H. Knouft, A. Ghulam, J.A. Guzman. Z. Pan. 2013. Impacts of urbanization on river flow variables: A controlled experiment modeling-based evaluation approach. J. Hydrol. 495:1-12.
+Chu-Agor, M.L., R. Muñoz-Carpena, G.A. Kiker, M. Aiello-Lammens, R. Akçakaya, M. Convertino, I. Linkov. 2012. Simulating the fate of Florida Snowy Plovers with sea-level rise: exploring potential population management outcomes with a global uncertainty and sensitivity analysis perspective. Ecol. Model. 224(2012) 33-47.
+Convertino, M., P. Welle, R. Muñoz-Carpena, G.A. Kiker, M.L. Chu-Agor, R.A. Fischer, I. Linkov. 2012. Epistemic uncertainty in predicting shorebird biogeography affected by sea-level rise. Ecol. Model. 240 (2012) 1-15.
+Convertino, M., G.A. Kiker, R. Muñoz-Carpena, M.L. Chu-Agor, R.A., Fisher, I. Linkov, 2011. Scale- and Resolution-Invariance of Suitable Geographic Range for Shorebird Metapopulations. Ecol. Complex (2011), doi:10.1016/j.ecocom.2011.07.007.
+Akçakaya, 2011.  The Impact of Sea-level Rise on Snowy Plovers in Florida: Integrating Hydrological, Habitat, and Metapopulation Models. Global Change Biol. vol. 17, no. 12, pp. 3644-3654.
+Aiello-Lammens, M., M.L. Chu-Agor, M. Convertino, R.A. Fischer, I. Linkov, H.R. 
+Convertino. M., M.L. Chu-Agor, R.A. Fisher, G.A. Kiker, R. Muñoz-Carpena, I. Lonkov, 2011. Anthropogenic renourishment feedback on shorebirds: A multispecies Bayesian perspective. Ecol. Eng. 37(2011) 1184-1194.
+Chu-Agor, M.L., R. Muñoz-Carpena, G. Kiker, A. Emanuelsson, and I. Linkov, 2011.  Exploring sea level rise vulnerability of coastal habitats through global sensitivity and uncertainty analysis. Environ. Modell. Softw. 26(2011) 593-604.
+Fox, G.A., D.M. Heeren, G.V. Wilson, E.J. Langendoen, A.K. Fox, and M.L. Chu-Agor. 2010. Numerically predicting seepage gradient forces and erosion: Sensitivity to soil hydraulic properties. J. Hydrol.  389(2010), 354-362
+Chu-Agor, M., G.A. Fox, and G.V. Wilson. 2009. Empirical sediment transport function predicting seepage erosion undercutting for cohesive bank failure prediction. J. Hydrol. 377(2009), 155-164.
+Chu-Agor, M., G.A. Fox, R. Cancienne, and G.V. Wilson. 2008a. Seepage caused tension failures and erosion undercutting of hillslopes. J. Hydrol.  359(2008), 247-259.
+Chu-Agor, M., G.V. Wilson, and G.A. Fox. 2008b. Numerical modeling of bank instability by seepage erosion undercutting of layered streambanks. J. Hydrol.  Eng.  13(12), 1133-1145
+Fox, G.A., M.L. Chu-Agor, and G.V. Wilson. 2007. Erosion of noncohesive sediment by groundwater seepage flow: experiments and numerical modeling. Soil Sci. Soc. Am. J. 71(6): 1822-1830.
+
+Articles in Conference Proceedings
+Bailey, S. B., Chu, M., Cooke, R. 2018. Mitigating Tile Drainage Phosphorus using Phosphorus sorbing materials in a continuous flow through pilot system. ASABE Annual International Meeting, Paper no. 1800694.(doi:10.13031/aim.201800694) St. Joseph, Mich.: ASABE.
+Hou, C., M.L. Chu, J.A. Guzman. 2017. Critical nitrogen load in small-scale watershed: an analysis of natural and anthropogenic factors. ASABE Annual International Meeting, Paper No. 1700344 (doi: 10.13031/aim.201700344) St. Joseph, Mich.: ASABE
+Acero, J., M.L. Chu, J.A. Guzman. 2017. Assessing the impacts of climate change on water resources in the Fort Cobb Reservoir Experimental Watershed. ASABE Annual International Meeting, Paper No. 1700046 (doi: 10.13031/aim.201700046) St. Joseph, Mich.: ASABE.
+Botero, A., M.L. Chu. 2017. Estimation of Watershed Responses to Anthropogenic Stressors Considering Spatial and Temporary Variations. ASABE Annual International Meeting, Paper No. 1700240 (doi: 10.13031/aim.201700240) St. Joseph, Mich.: ASABE.
+Prada, A., M.L. Chu, J.A. Guzman. 2016. Probabilistic approach to modeling under changing scenarios. 2016 ASABE Annual International Meeting, Paper No. 162459770, pages 1-18 (doi: 10.13031/aim.20162459770). St. Joseph, Mich.: ASABE.
+Huo, C., M.L. Chu, J.A. Guzman. 2016.  NexRad N1P data and ground-based rainfall time series comparison in Little Washita Watershed. 2016 ASABE Annual International Meeting, Paper No. 162459110, pages 1-9 (doi: 10.13031/aim.20162459110). St. Joseph, Mich.: ASABE.
+Botero, A., M.L. Chu, J.A. Guzman. 2016b. Riparian erosion suitability model based on environmental features. 2016 ASABE Annual International Meeting, Paper No. 162458368, pages 1-12 (doi: 10.13031/aim.20162458368). St. Joseph, Mich.: ASABE. 
+Prada, Andres, M.L. Chu, J.A. Guzman, D. Moriasi, K.W. King, D. Bosch, D. Bjorneberg, S. Teet. 2015. Uncertainty and equifinality driven by rainfall in the APEX model. 2015 ASABE Annual International Meeting, Paper No. 152188857, pages 1-10 (doi: 10.13031/aim.20152188857). St. Joseph, Mich.: ASABE.
+Kiker, G., Convertino, M, Chu-Agor, M.L., Aiello-Lammens, M., Kiker, G.A., Munoz-Carpena, R, Akçakaya, H.R., Fischer, R.A., and Linkov, I., Integrated Modeling for Risk Assessment of Shoreline-dependent Species Threatened by Sea-level Rise, Society of Risk Analysis Annual Meeting, Charleston, SC, December 2011, and SERDP-ESTC meeting, Arlington, November 2011
+Convertino, M., J.F. Donoghue, M.L. Chu-Agor, G.A. Kiker, R. Munoz-Carpena, R.A. Fischer, I. Linkov. Anthropogenic Renourishment Feedback on Shorebirds: a Multispecies Bayesian Perspective for Beach restoration in the face of Climate Change, National Conference on Ecosystem Restoration (NCER), Baltimore, August 2011
+Chu-Agor, M.L., R. Muñoz-Carpena, G. Kiker, and I. Linkov. 2010. Exploring the effects of land-use classification errors on the outputs of a coastal habitat model using global sensitivity and uncertainty analysis. ASABE-TMDL 2010: Watershed Management to Improve Water Quality Proceedings, November 14-17, 2010, Baltimore, MD. 
+Linkov, I., M. Convertino, M.L. Chu-Agor, G.A. Kiker, R.A. Fischer, R. Munoz-Carpena, C. Martinez, H.R. Akcakaya, M. Aiello-Lammens. (2011), Integrated Climate Change and Threatened Bird Population Modeling to Mitigate Operation Risks on Florida Military Installations, Vulnerability Report SERDP-1699. 
+Chu-Agor, M.L., R. Muñoz-Carpena, G. Kiker, A. Emanuelsson, and I. Linkov. 2010. Global sensitivity and uncertainty analysis of SLAMM for the purpose of habitat vulnerability assessment and decision making. Proceedings of the American Society of Civil Engineers Environmental and Water Resources Congress 2010, May 16-20, 2010, Providence, RI.
+Chu-Agor, M.L., G.A. Fox, and G.V. Wilson. 2009. Incorporating seepage processes into a streambank stability model. ASABE Paper No. 095936, St. Joseph, Mich.: ASABE.
+Chu-Agor, M.L., G.A. Fox, and G.V. Wilson. 2009. A seepage erosion sediment transport function and geometric headcut relationships for predicting strembank seepage undercutting. Proceedings of the American Society of Civil Engineers Environmental and Water Resources Congress 2009, May 17-21, 2009, Kansas City, MO, 10 pages (CD-ROM).
+Heeren, D.M., G.A. Fox, M.L. Chu-Agor, and G.V. Wilson. 2009. Predicting streambank seepage flows: sensitivity to soil properties and layering. Proceedings of the American Society of Civil Engineers Environmental and Water Resources Congress 2009, May 17-21, 2009, Kansas City, MO, 10 pages (CDROM).
+Chu-Agor, M.L., R.M. Cancienne, G.A. Fox, and G.V. Wilson,. 2008. Slope failure mechanisms due to seepage: three-dimensional soil block experiments. ASABE Paper No. 083771, St. Joseph, Mich.: ASABE.
+Fox, G.A., M. Chu-Agor, R.M. Cancienne, and G.V. Wilson. 2008. Seepage erosion mechanisms of bank collapse: three-dimensional seepage particle mobilization and undercutting. American Society of Civil Engineers Environmental Water Resources Institute Annual Meeting, Honolulu, HI, May 12-17, 2008, 10 pages (CDROM).
+Fox, G.A., M. Chu-Agor, and G.V. Wilson. 2007. Seepage erosion: a significant mechanism of stream bank failure. Proceedings of the American Society of Civil Engineers (ASCE) World Environmental and Water Resources Congress 2007, May15-19, Tampa, FL, 14 pages (CD-ROM).
+Fox G.A., M. Chu-Agor, and G.V. Wilson. 2007. Erosion of noncohesive sediment by groundwater seepage flow: lysimeter experiments and numerical modeling. ASABE Paper No. 072235, St. Joseph, Mich.: ASABE.
+Chu-Agor, M.L., G.V. Wilson, G.A. Fox. 2007. Modeling streambank instability by seepage undercutting. ASABE Paper No. 072117, St. Joseph, Mich.: ASABE.
+
+Professional Societies
+Panelist: Marketing yourself in academia, Young Professionals’ Community	Forum, 2016 Annual International Meeting, July 17-20, 2016. Orlando, Fl.
+Moderator: Advances in model calibration and validation technical session. 2016 Annual International Meeting, July 17-20, 2016. Orlando, Fl.
+Member: Committee on Standards 2016-2019
+Member: Model Calibration and Validation Guidelines Development Team, Model Uncertainty, ASABE
+Member: Model Calibration and Validation Guidelines Development Team, Spatial and Temporal Scales, ASABE
+
+Service on Department Committees
+Member: ABE Department Head Search Committee, 2018
+Courses and Curriculum/ABET Committee, 2017 – present
+Advisor: ASABE student chapter, 2015-2018   
+Member: ABE Department Head Search Committee, 2016
+
+Service on College Committees
+President: Gamma Sigma Delta, The Honor Society of Agriculture, 2018-2019
+College of Engineering Faculty Awards 2017 - present 
+ACES Library Subcommittee, 2015-2017
+
+Service on Campus Committees
+Pre-proposal reviewer, 2016 NSF Research Traineeship (NRT) Program, UIUC
+Pre-tenure Advisory Committee, 2015-present
+
+Service to Federal and State Government
+Review panelist, AFRI Climate Resilient Land Use for Agriculture and Forestry and Global Food Security: National Strategy for Sustainable Production Joint Panel, September 15-16, 2015, Washington, D.C.
+
+Honors
+Boyd-Scott Graduate Student Research Award (Ph.D. category), ASABE (2009)
+Boyd-Scott Graduate Student Research Award (Ph.D. category), ASABE (2007)
+
+Improvement Activities
+Conference for Pre-Tenure Women, Susan Bulkeley Butler Center, Purdue University, West Lafayette, IN. Sept. 2016
+Teaching Academy Program, College of ACES, 2016
+Research Academy Program, College of ACES, 2015
+Collin's Scholar Program, College of Engineering, UIUC, 2014-2015
+
+Recent Courses TaughtABE 454 - Environmental Soil Physics
+ABE 458 - NPS Pollution Modeling
+ETMA 352 (TSM 352) - Land and Water Mgt Systems
+

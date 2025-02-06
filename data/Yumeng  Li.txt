@@ -1,0 +1,79 @@
+
+
+
+Yumeng Li 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-6569
+yumengl@illinois.edu
+212 Transportation Building
+
+
+For More Information
+Group's Webpage
+
+Education
+Ph.D. Department of Aerospace Engineering
+ Virginia Tech, Blacksburg, VA, 2014
+M.S. Naval Architecture and Ocean Engineering,
+ Huazhong University of Sci. & Tech., Wuhan, China, 2009
+B.S.            Naval Architecture and Ocean Engineering,
+       Huazhong University of Sci. & Tech., Wuhan, China, 2007
+
+Academic Positions
+Assistant Professor, University of Illinois at Urbana Champaign, Department of Industrial and Enterprise Systems Engineering, 2017-present
+Assistant Professor, Wichita State University, Department of Mechanical Engineering, 2016-2017
+Postdoctoral Researcher, Vanderbilt University, Department of Civil and Environmental Engineering, 2015
+
+Research Interests
+Uncertainty quantification in multiscale simulation framework
+Physics-based machine learning
+Surrogate modeling
+Multiscale Simulation
+Integrated Computational Material Engineering
+Material Design
+
+
+
+Selected Articles in Journals
+Z. Zheng, X. Chen, Y. Li, "Numerical study on mechanisms of soy protein as a functional modifier for polymer materials", Modelling and Simulation in Materials Science and Engineering, Vol. 27, pp. 085010, 2019.
+
+X. Chen, H. Zhou, Y. Li, "Effective design space exploration of gradient nanostructured materials using active learning based surrogate models", Materials & Design, Vol. 183, pp. 108085, 2019.
+
+Z. Zheng, Z. Liu, P. Wang and Y. Li, "Numerical Modeling on the Delamination-Induced Capacity Degradation of Silicon Anode", Journal of Energy Storage, Vol. 43, pp. 103190, 2021
+
+D. Zhou, M. Fuentes-Cabrera, A. Singh, R. R. Unocic, J.M. Carrillo, K. Xiao, Y. Li, and B. Li, “Atomic Edge-Guided Polyethylene Crystallization on Monolayer Two-Dimensional Materials”, Macromolecules, Vol. 55 (2), pp. 559-567, 2022, DOI: 10.1021/acs.macromol.1c01978
+
+P. Bansal, Z. Zheng, C. Shao, J. Li, M. Banu, B. Carlson, and Y. Li, "Physics-Informed Machine Learning Assisted Uncertainty Quantification for the Corrosion of Dissimilar Material Joints", Reliability Engineering & System Safety, Vol. 227, pp. 108711, 2022
+Y. Zhang, J. Cui, K. Chen, S.H. Kuo, J. Sharma, R. Bhatta, Z. Liu, A. Ellis-Mohr, F. An, J. Li, Q. Chen, K. D. Foss, H. Wang, Y. Li, A. M. McCoy, G. W. Lau and Q. Cao. “A Smart Coating with Integrated Physical-Antimicrobial and Strain-Mapping Functionalities for Orthopedic Implants”, Science Advances, 9, eadg7397(2023)
+
+P. Bansal, Z. Zheng, B. Pan, Y. Meng, W. Wen, M. Banu, J. Li, B. E Carlson, C. Shao, P. Wang, Y. Li, "Corrosion of Al-Fe self-pierce riveting joints with multiphysics-based modeling and experiments ", Journal of Manufacturing Process, Vol. 95, pp. 434-445, 2023, ISSN 1526-6125,https://doi.org/10.1016/j.jmapro.2023.04.014.
+
+A. Singh, Y. Li, "Reliable Machine Learning Potentials based on Artificial Neural Network for Graphene", Computational Material Science, Vol. 227, pp. 112272, 2023
+Z. Liu, J. Sederholm, K. Lan, E. Cho, M. Dipto, Y. Gurumukhi, K. Rabbi, M. Hatzell, N. Perry, N. Miljkovic, P. Braun, P. Wang, Y. Li. "Life cycle assessment of hydrometallurgical recycling for cathode active materials." Journal of Power Sources, Vol. 580, pp. 233345, 2023
+
+H. Wu, Y. Xu, Z. Liu, Y. Li, and P. Wang. "Adaptive Machine Learning with Physics-based Simulations for Mean Time to Failure Prediction of Engineering Systems" Reliability Engineering & System Safety, Vol. 240, pp. 109553, 2023
+
+B. Pan, H. Sun, D. Xie, S. Shang, N. Li, B. E. Carlson, Y. Li, Z. Liu, J. Li, "Influence of accelerated corrosion on Al/steel RSW joints by in situ compression tests", Materials Science and Engineering: A, Vol. 889, pp. 145851, 2024
+Y. Xu, H. Wu, Z. Liu, P. Wang, and Y. Li, "Multi-Task Learning for Design under Uncertainty with Multi-Fidelity Partially Observed Information", Journal of Mechanical Design, J. Mech. Des., Vol. 146(8), pp. 081704, 2024
+A. Singh, M. Sun, J. Chen, B. Li, and Y. Li, "Templating effect of MoSe2 on crystallization of polyethylene : A Molecular Dynamics Simulation Study", Journal of Physical Chemistry C, J. Phys. Chem. C,  Vol. 128(5), pp. 2147–2162, 2024
+Z. Liu, H. Wu, P. Wang, Y. Li, "Reliability-Based Design Optimization of Additive Manufacturing for Lithium Battery Silicon Anode", ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, Vol. 10(3), pp. 031104, 2024
+
+H. Wu, P. Bansal, Z. Liu, P. Wang and Y. Li, "Uncertainty Quantification of Mechanical Behavior of Corroded Al-Fe Self-Pierce Riveting Joints with Statistical Shape Modeling”, Journal of Manufacturing Processes, Vol. 124, pp. 909-917, 2024
+
+Z. Liu, P. Kabirzadeh, H. Wu, W. Fu, H. Qiu, N. Miljkovic, Y. Li, P. Wang, "Machine learning enhanced control co-design optimization of an immersion cooled battery thermal management system", J. Appl. Phys., Vol. 136 (2), pp. 025001, 2024
+
+
+Recent Courses TaughtSE 310 - Dsgn of Structures & Mechanism
+SE 410 - Component Design
+SE 498 YL1 (SE 498 YL2) - Numerical Methods in Engr
+SE 598 - ML in Material Design
+SE 598 - ML in Materials Design
+SE 598 - Multiscale Simulation
+

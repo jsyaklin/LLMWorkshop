@@ -1,0 +1,67 @@
+
+
+
+Nickvash Kani 
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+kani@illinois.edu
+265 Coordinated Science Lab
+
+
+For More Information
+Group website.
+Personal website.
+
+
+Education
+Ph.D. in Electrical and Computer Engineering; Georgia Institute of Technology; 2017
+M.S. in Electrical and Computer Engineering; Georgia Institute of Technology; 2013
+B.S. in Computer Engineering; Boston University; 2010
+
+Academic Positions
+Research Assistant Professor; University of Illinois at Urbana-Champaign; Electrical and Computer Engineering; October 2019 - July 2023
+
+Research Interests
+Mathematical Language Processing
+
+Data retrieval systems
+Scientific Computing 
+
+
+
+Selected Articles in Journals
+Kani, Nickvash, Shaloo Rakheja, and Azad Naeemi. "A probability-density function approach to capture the stochastic dynamics of the nanomagnet and impact on circuit performance." IEEE Transactions on Electron Devices 63.10 (2016): 4119-4126.
+Kani, Nickvash, John T. Heron, and Azad Naeemi. "Strain-mediated magnetization reversal through spin-transfer torque." IEEE Transactions on Magnetics 53.11 (2017): 1-8.
+Kani, Nickvash, and Azad Naeemi. "Analytical models for coupling reliability in identical two-magnet systems during slow reversals." Journal of Applied Physics 122.22 (2017): 223902.
+Kani, Nickvash, Shaloo Rakheja, and Azad Naeemi. "Analytic modeling of dipolar field requirements for robust coupling in a non-identical biaxial two-magnet system." Journal of Applied Physics 124.2 (2018): 023901.
+Gangwar, Neeraj, and Nickvash Kani. "Semantic Representations of Mathematical Expressions in a Continuous Vector Space." Transactions on Machine Learning Research. (2023).
+
+Hamel, Emma, and Nickvash Kani. "Factors That Influence Automatic Recognition of African-American Vernacular English in Machine-Learning Models." IEEE/ACM Transactions on Audio, Speech, and Language Processing 32 (2023): 509-516.
+
+
+Articles in Conference Proceedings
+Kani, Nickvash, and Azad Naeemi. "Wiring resource minimization for physically-complex Network-on-Chip architectures." 2014 27th IEEE International System-on-Chip Conference (SOCC). IEEE, 2014.
+Kani, Nickvash, Shaloo Rakheja, and Azad Naeemi. "A probability-density function approach to capture the stochastic dynamics of the nanomagnet and impact on circuit performance." IEEE Transactions on Electron Devices 63.10 (2016): 4119-4126.
+Hamel, Emma, Hongbo Zheng, and Nickvash Kani. "An Evaluation of NLP Methods to Extract Mathematical Token Descriptors." International Conference on Intelligent Computer Mathematics. Cham: Springer International Publishing, 2022.
+
+Gangwar, Neeraj, and Nickvash Kani. "Highlighting named entities in input for auto-formulation of optimization problems." International Conference on Intelligent Computer Mathematics. Cham: Springer Nature Switzerland, 2023.
+
+
+Teaching Honors
+ George Anner Excellence in Undergrad Teaching Award (09/2023)
+
+Research Honors
+1st Place - NL4Opt-Task2 challenge at NIPS 2022 (12/2022)
+
+Recent Courses TaughtCS 374 AL1 (CS 374 BL1, CS 374 BYA, CS 374 BYB, CS 374 BYC, CS 374 BYD, CS 374 BYE, CS 374 BYF, CS 374 BYG, CS 374 BYH, CS 374 CSP, CS 374 OL1, ECE 374 AL1, ECE 374 BL1, ECE 374 BLZ, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC, ECE 374 BYD, ECE 374 BYE, ECE 374 BYF, ECE 374 BYG, ECE 374 BYH, ECE 374 CSP, ECE 374 OL1, ECE 374 ZJ1, ECE 374 ZJU) - Intro to Algs & Models of Comp
+ECE 342 - Electronic Circuits
+ECE 364 - Data Science and Engineering
+ECE 364 - Programming Methods for ML
+

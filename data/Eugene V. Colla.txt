@@ -1,0 +1,41 @@
+
+
+
+Eugene V Colla 
+
+
+
+
+
+Teaching Professor
+
+
+(217) 333-5772
+kolla@illinois.edu
+4137 Engineering Sciences Building
+
+
+Research StatementInvestigations of highly disordered ferroelectric materials (relaxors). Relaxors are widely used in different applications due to their unique properties, but there is no comprehensive understanding of the physical nature of these properties. Study of dielectric and pyroelectric properties of such relaxors as PMN, PMN-PT, PLZT etc. Study of phase transitions and other properties of nanosize scale objects.
+
+Research Areas
+Condensed Matter Physics (experimental)
+
+
+Selected Articles in Journals
+Eugene V. Colla, E. Yu. Koroleva, N. M. Okuneva, and S. B. Vakhrushev, "Long-Time Relaxation of the Dielectric Response in Lead Magnoniobate", Phys. Rev. Letters, vol. 74, 1681-1684, (1995).
+Eugene V. Colla, A. V. Fokin, and Yu. A. Kumzerov, "Ferroelectric Properties of Nanosize KDP Particles", Solid State Commun, vol. 103, 127-130, (1997).
+Eugene V. Colla, N. K. Yushin, and D. D. Viehland "Dielectric Properties of (PMN)(1-x)(PT)x Single Crystals for Various Electrical and Thermal Histories", J.Appl.Phys., vol. 83, 3298-3304, (1998)
+Eugene V. Colla, A.V. Fokin, E.Yu. Koroleva, Yu.A. Kumzerov, S.B. Vakhrushev, B.N. Savenko, "Ferroelectric phase transitions in materials embedded in porous media", Nanostructured Materials, v12, 963, (1999)
+Eugene V. Colla, L. K. Chao, M. B. Weissman, and D. D. Viehland, "Aging in a relaxor ferroelectric: Scaling and memory effects", Phys. Rev. Letters, v85, no14,  3033, (2000).
+Eugene V. Colla, L. K. Chao, M. B. Weissman,"Barkhausen Noise in a Relaxor Ferroelectrics", Phys. Rev. Letters, v.88, 017601-1, (2002)
+Wai-Hung Chan, Haydn Chen, Eugene V. Colla, "Temporal Effect of Low-Temperature Ferroelectric Behaviors in Pb0.97La0.02(Zr0.60Sn0.30Ti0.10)O3  Ceramics", Appl. Phys. Letters, (2003), 82, no14, 2314-2316 (2003).
+Maitri P. Warusawithana, Eugene V. Colla, J. N. Eckstein, and M. B. Weissman, "Artificial Dielectric Superlattices with Broken Inversion Symmetry", Phys. Rev. Letters, 90, 036802 (2003).
+Eugene V. Colla and M. B. Weissman, "Two-step phase changes in cubic relaxor ferroelectrics" Phys. Rev.B72, 104106(1-7), (2005).
+Eugene V. Colla, Phillip Griffin, Matt Delgado, M. B. Weissman, Z.-G. Ye, X. Long, "Polarization-independent aging in the relaxor 0.92PbMg1/3Nb2/3O3-0.08PbTiO3", Phys. Rev. B 78, 054103/1-5, (2008)
+
+Teaching Honors
+Doug and Judy Davis Award for Excellence in Teaching Undergraduate Physics (2015)
+
+Recent Courses TaughtPHYS 401 - Classical Physics Lab
+PHYS 403 - Modern Experimental Physics
+

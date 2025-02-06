@@ -1,0 +1,74 @@
+
+
+
+Matthias Grosse Perdekamp 
+
+
+
+
+
+Professor
+
+
+(217) 333-6544
+mgp@illinois.edu
+469 Loomis Laboratory
+
+
+For More Information
+ATLAS Research Page
+COMPASS Research Page
+PHENIX Research Page
+
+Education
+Ph.D., Physics, Univ. of California, Los Angeles, 1995
+
+BiographyProfessor Grosse Perdekamp received his diplom in physics from Albert-Ludwig University in Freiburg, Germany, in 1990, and his Ph.D. in physics from the University of California, Los Angeles, in 1995 for experimental work on proton structure at CERN. As an associate research scientist at Yale University from 1995 to 1998 he carried out precision measurements of muonium hyperfine structure at Los Alamos National Laboratory and of the muon anomalous magnetic moment (g-2) at Brookhaven National Laboratory (BNL). He was a research scientist at Johannes Gutenberg University in Mainz, Germany, from 1998 to 1999 and then through 2007 a Fellow at the joint Japanese-American RIKEN-BNL Research Center (RBRC) at Brookhaven National Laboratory. He joined the Department of Physics at the University of Illinois in 2002.
+ At RBRC and Illinois Professor Grosse Perdekamp has studied the physics of the strong interaction and the spin-structure of its bound states through high energy scattering experiments at the Relativistic Heavy Ion Collider (RHIC) at BNL on Long Island, NY and the B-Factory at KEK in Tsukuba, Japan. Most recently, he has joined the COMPASS experiment at the Super Proton Synchrotron (SPS) at CERN (2012) and the ATLAS experiment at the Large Hadron Collider (LHC) at CERN in Geneva Switzerland (2016).
+
+Professor Grosse Perdekamp and his group at UIUC have developed and built instruments for the detection of ionizing radiation for the PHENIX experiment at RHIC
+and the COMPASS experiment at CERN. Currently the group carries out R&D for an upgrade of the Zero Degree Calorimeter in ATLAS. Grosse Perdekamp studies possible applications of this instrumentation for the detection of fissile materials. He has been teaching a course on Nuclear Weapons and Arms Control since 2012 and is a member of the core faculty of the UIUC program for Arms Control, Disarmament, and International Security (ACDIS).
+
+Other Professional Employment
+RIKEN Fellow, Brookhaven National Lab, 2000-2002
+
+
+Research Areas
+Nuclear Physics (experimental)
+Science in Philosophy and Society
+
+
+Selected Articles in Journals
+U. Acharya, et al. (PHENIX Collaboration).  Measurement of jet-medium interactions via direct photon-hadron; correlations in Au + Au and d + Au collisions at root S-NN=200 GeV.  Phys. Rev. C 102, 054910 (2020). 
+U. Acharya, et al. (PHENIX Collaboration). Production of b(b)over-bar at forward rapidity in p + p collisions at root s=510 GeV. Phys. Rev. D, 102, 092002 (2020). 
+U. Acharya, et al. (PHENIX Collaboration).  Polarization and cross section of midrapidity J/psi production in p + p collisions at root s=510 GeV. Phys. Rev. D, 102, 072008 (2020). 
+U. Acharya, et al. (PHENIX Collaboration.  Measurement of charged pion double spin asymmetries at midrapidity in longitudinally polarized p + p collisions at root s=510 GeV. Phys. Rev. D, 102, 032001 (2020). 
+A. Adare, et al. Evolution of pi(0) Suppression in Au + Au Collisions from root s(NN) = 39 to 200 GeV [vol 109, 152301, 2012]. Phys. Rev. Lett., 125, 049901 (2020). 
+U. Acharya, et al. (PHENIX Collaboration).  Measurement of J/Psi at forward and backward rapidity in p plus p, p; plus Al, p + Au, and He-3+Au collisions at root s(NN)=200 GeV. Phys. Rev. C, 102, 014902 (2020). 
+J. Agarwala, (COMPASS Collaboration).  Contribution of exclusive diffractive processes to the measured; azimuthal asymmetries in SIDIS. Nucl. Phys. 956, 115039 (2020). 
+C. Adolph, C., et al. (COMPASS Collaboration).  Azimuthal asymmetries of charged hadrons produced in high-energy muon; scattering off longitudinally polarised deuterons (vol 78, 952, 2018). Euro. Phys. J. C 80:4, 298 (2020).
+C. Aidala, (PHENIX Collaboration).  Nuclear-modification factor of charged hadrons at forward and backward rapidity in p + Al and p + Au collisions at root S-NN=200 GeV. Phys. Rev. C 101, 034910 (2020). 
+U. Acharya, et al.  (PHENIX Collaboration).  J/psi and psi(2S) production at forward rapidity in p plus p collisions; at root s=510 GeV. Phys. Rev. D 101, 052006  (2020). 
+R. Akhunzyanov, et al. (COMPASS Collaboration).  Transverse extension of partons in the proton probed in the sea-quark range by measuring the DVCS cross section (vol 793, pg 188, 2019). Phys. Lett. B 800, 135129  (2020).  
+R. Seidl, et al. (Belle Collaboration). Measurement of azimuthal asymmetries in inclusive production of hadron pairs in e+e- annihilation at √s = 10.58 GeV. Phys. Rev. D 78, 032011 (2008).
+
+A. Adare, et al. (PHENIX Collaboration). Inclusive cross-section and double helicity asymmetry for π0 production in p+p collisions at √s = 200-GeV: Implications for the polarized gluon distribution in the proton. Phys. Rev. D 76, 051106 (2007).
+
+R. Seidl, M. Grosse Perdekamp, et al. Measurement of azimuthal asymmetries in inclusive production of hadron pairs in e+ e- annihilation at Belle. Phys. Rev. Lett. 96, 232002 (2006).
+S.S. Adler, et al. Midrapidity neutral-pion production in a proton-proton collisions at √s = 200 GeV. Phys. Rev. Lett. 91, 241803 (2003).
+
+S.S. Adler, M. Grosse-Perdekamp, H. Hiejima, and J.-C. Peng. Absence of suppression in particle production at large transverse momentum in √NN = 200 GeV d + Au collisions. Phys. Rev. Lett. 91, 072303 (2003).
+
+
+Research Honors
+APS Fellow, 2015.
+Campus Distinguished Service Award, 2013.
+Willett Faculty Scholar, 2010-2014.
+Xerox Research Award 2008.
+Fellow at the RIKEN BNL Research Center, 2002-2007.
+Forgein Scholar Award, UCLA, Los Angeles, CA, 1990.
+Gustav Mie Award, Albert-Ludwigs University, Freiburg, Germany, 1990.
+
+Recent Courses TaughtPHYS 280 (GLBL 280) - Nuclear Weapons & Arms Control
+PHYS 496 - Communicating in Physics
+

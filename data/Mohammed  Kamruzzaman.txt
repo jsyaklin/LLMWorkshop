@@ -1,0 +1,135 @@
+
+
+
+Mohammed Kamruzzaman 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 333-3570
+mkamruz1@illinois.edu
+376A Agricultural Engr Sciences Bld
+
+
+For More Information
+ORCID
+Publons
+Google Scholar 
+
+Education
+PhD., Food and Biosystems Engineering, University College Dublin(UCD), Ireland, 2013  
+MSc., Food Science, Technology and Nutrition, Dublin Institute of Technology (DIT), Ireland, 2009
+BSc., Chemical Engineering, Bangladesh University of Engineering and Technology (BUET), Bangladesh, 2003
+
+Academic Positions
+Assistant Professor, Department of Agricultural and Biological Engineering, University of Illinois at Urbana-Champaign, 2020-current
+Postdoctoral Fellow, Air Quality Research Center, University of California, Davis (UC Davis), 2015-2016
+JSPS Postdoctoral Fellow, Department of Biological and Environmental Engineering, The University of Tokyo, Japan, 2013-2015
+Assistant Professor, Department of Food Technology and Rural Industries, Bangladesh Agricultural University, Bangladesh, 2007-2012
+Lecturer, Department of Food Technology and Rural Industries, Bangladesh Agricultural University, Bangladesh, 2004-2006
+
+Professional Registrations
+Fellow, The institute of Engineers, Bangladesh
+Member, American Society of Agricultural and Biological Engineers (ASABE)
+Member, Institute of Food Technologists (IFT)
+
+Research Interests
+Sustainability of bioprocessing technologies
+Optical sensing technologies such as NIR spectroscopy, FT-IR spectroscopy and Hyperspectral imaging 
+Real-time quality assessment/control of bioproducts/bioprocesses 
+Machine learning in agriculture 
+Organic compound based nanozyme for biosensing 
+
+
+
+Books Edited or Co-Edited (Original Editions)
+Hyperspectral Imaging Analysis and Applications for Food Quality. Basantia, N. (Ed.), Nollet, L. (Ed.), Kamruzzaman, M. (Ed.). (2019).  Boca Raton: CRC Press.
+
+Chapters in Books
+Kamruzzaman, M. Applications of Hyperspectral Imaging for Meat Quality and
+Authenticity. In: Hyperspectral Imaging Analysis and Applications for Food Quality. Edited by Nrusingha Charan Basantia, Leo M. L. Nollet, and Mohammed Kamruzzaman. CRC Press. 2018
+Kamruzzaman, M. Multivariate Analysis and Technique. In: Hyperspectral Imaging Analysis and Applications for Food Quality. Edited by Nrusingha Charan Basantia, Leo M.L. Nollet, L. M.L. and  Kamruzzaman, M. CRC Press. 2018
+Kamruzzaman, M. Food adulteration and authenticity. In: Food safety-Basic concepts, recent issues, and future challenges. Edited by Jinap, S and Shahzad Z Iqbal. Springer international publishing. 2016, 127-148
+Kamruzzaman, M., & Sun, D.-W. Introduction to Hyperspectral Imaging. In: Computer Vision Technology for Food Quality Evaluation. Edited by Da-Wen Sun. Elsevier. 2016, 111-139.
+Kamruzzaman, M., Nakauchi, S. & ElMasry, G. On-line screening of meat and poultry products using hyperspectral imaging. In: High Throughput Screening for Food Safety Assessment - Biosensor Technologies, Hyperspectral Imaging and Practical Applications. Edited by Arun K. Bhunia, Moon S. Kim and Chris R. Taitt. Woodhead Publishing Limited, Cambridge, UK. 2015, 425-466.
+
+Selected Articles in Journals
+Oliveira, M. M. , Ferreira, M. V. S., Kamruzzaman, M. & Barbin, D. F. (2023). Prediction of impurities in cocoa shell powder using NIR spectroscopy, Journal of Pharmaceutical and Biomedical Analysis Open. 2, 100015. https://doi.org/10.1016/j.jpbao.2023.100015
+Oliveira, M. M. Badaro, A. T., Esquerre, C. A., Kamruzzaman, M. & Barbin, D. F. (2023). Handheld and benchtop vis/NIR spectrometer combined with PLS regression for fast prediction of cocoa shell in cocoa powder. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. 298, 122807. https://doi.org/10.1016/j.saa.2023.122807 
+Achata, E. M., Mousa, M. A.A., Al-Qurashi, Adel D., Ibrahim. O. H. M., Abo-Elyousr, K., A. M., Aal, A. M. K. A., & *Kamruzzaman, M. (2023). Multivariate optimization of hyperspectral imaging for adulteration detection of ground beef: Towards the development of generic algorithms to predict adulterated ground beef and for digital sorting. Food Control, 153, 109907. https://doi.org/10.1016/j.foodcont.2023.109907 
+Wu, Q., Mousa, M. A.A., Al-Qurashi, Adel D., Ibrahim. O. H. M., Abo-Elyousr, K., A. M., Raush, K., Aal, A. M. K. A., & *Kamruzzaman, M. (2023). Global calibration for non-targated fraud detection in quinoa flour using portable hyperspectral imaging and chemometrics, Current Research in Food Science, 6, 100483. 
+Wu, Q., Oliveira, M. M., Achata, E. M., & *Kamruzzaman, M. (2023). Reagent free detection of multiple allergens in gluten-free flour using NIR spectroscopy and multivariate analysis. Journal of Food and Composition Analysis. 120, 105324. 
+Ahmed, M. W.,Hossainy, S. J., Khaliduzzaman, A., Emmert, J. L.,& *Kamruzzaman, M. (2023). Non-destructive optical sensing technologies for advancing the egg industry toward industry 4.0: A review. Comprehensive Reviews in Food Science and Food Safety. 1-26. https://doi.org/10.1111/1541-4337.13227
+Song, D., Wu, Q., *Kamruzzaman, M. (2023). Appropriate use of chemometrics for feasibility study for developing low-cost filter-based multi-parameter detection spectroscopic device for meat proximate analysis. Chemometrics and Intelligent Laboratory Systems. 238, 104844. 
+Song, D., Silva, K. De., Brooks, M. D. *Kamruzzaman, M. (2023). Biomass prediction based on hyperspectral images of the Arabidopsis canopy. Computers and Electronics in Agricultural. 210, 105324. 
+Kamruzzaman, M. (2023). Optical sensing as analytical tools for meat tenderness measurements-A review. Meat Science, 109007. 
+Lee, D. H., & *Kamruzzaman, M. (2023b). Eco-friendly, degradable, peroxidase-mimicking nanozyme for selective antioxidant detection. Materials Today Chemistry. 
+Lee, D. H., & *Kamruzzaman, M. (2023a). Organic compound-based nanozymes for agricultural herbicide detection. Nanoscale, 15, 12954-12960. 
+Wang, Z., Wu, Q., & Kamruzzaman M. (2022). Portable NIR spectroscopy and PLS based variable selection for adulteration detection in quinoa flour. Food Control. 138, 108970
+Kamruzzaman, M., Kalita, D., Ahmed, M. T., ElMasry, G., Makino, M. (2022). Effect of variable selection algorithms on model performance for predicting moisture content in biological materials using spectral data. Analytica Chimica Acta
+Malvandi, A., Kapoor, R., Feng, H., &  Kamruzzaman, M. (2022). Non-destructive measurement and real-time monitoring of apple hardness during ultrasonic contact drying via portable NIR spectroscopy and machine learning. Infrared Physics & Technology, 122, 104077
+Fatemi, A., Singh, V., & Kamruzzaman, M. (2022). Identification of informative spectral ranges for predicting major chemical constituents in corn using NIR spectroscopy. Food Chemistry, 383, 132442
+Malvandi, A., Feng, H., Kamruzzaman, M. (2022). Application of NIR spectroscopy and multivariate analysis for Non-destructive evaluation of apple moisture content during ultrasonic drying. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. 269,  120733
+Kapoor, R., Malvandi, A., Feng, H., Kamruzzaman, M., (2022). Real-time moisture monitoring of edible coated apple chips during hot air drying using miniature NIR spectroscopy and chemometrics. LWT, 154, 112602
+Kamruzzaman, M. (2021). Fraud Detection in Meat Using Hyperspectral Imaging. Meat and Muscle Biology 5(3): 2, 1â€“10
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P. (2011). Application of NIR hyperspectral imaging for discrimination of lamb muscles. Journal of Food Engineering. 104, 332-340.
+ElMasry, G., Kamruzzaman, M., Sun, D.-W., & Allen, P. (2012). Principles and applications of hyperspectral imaging in quality evaluation of agro-food products: a review. Critical Reviews in Food Science and Nutrition. 52, 999-1023.
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P. (2012). Potential of hyperspectral imaging and pattern recognition for categorization and authentication of red meat. Innovative Food Science and Emerging Technologies. 16, 316-235.
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P. (2012). Non-destructive prediction and visualization of chemical composition in lamb meat using NIR hyperspectral imaging and multivariate regression.
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P. (2012). Prediction of some quality attributes of lamb meat using near infrared hyperspectral imaging and multivariate analysis. Analytica Chimica Acta. 714, 57-67.
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P. (2013). Non-destructive assessment of instrumental and sensory tenderness of lamb meat by NIR hyperspectral imaging. Food Chemistry. 141, 389-396.
+Kamruzzaman, M., Sun, D-W., ElMasry, G., & Allen, P. (2013). Fast detection and visualization of minced lamb meat adulteration using NIR hyperspectral imaging and multivariate image analysis. Talanta, 103, 130-136.
+Pu, H.-B., Kamruzzaman, M., Sun, D.-W. (2015). Selection of feature wavelengths for developing multispectral imaging systems for quality, safety and authenticity of muscle foods-a review. Trends in Food Science and Technology, 45, 86-104.
+Kamruzzaman, M., Makino, Y., Oshita, S. & Liu, S. (2015). Assessment of visible near-infrared hyperspectral imaging as a tool for detection of horsemeat adulteration in minced. Food & Bioprocess Technology. 8, 1054-1062.
+Kamruzzaman, M., Makino, Y., & Oshita, S. (2015). Hyperspectral imaging in tandem with multivariate analysis and image processing for non-invasive detection and visualization of pork adulteration in minced beef. Analytical Methods. 7, 7496-7502.
+Kamruzzaman, M., Makino, Y., & Oshita, S. (2015). Non-invasive analytical technology for the detection of contamination, adulteration, and authenticity of meat, poultry, and fish: a review. Analytica Chimica Acta. 853, 19-29.
+Kamruzzaman, M., Makino, Y., & Oshita, S. (2016). Online monitoring of red meat color using hyperspectral imaging. Meat Science. 116, 110-117.
+Kamruzzaman, M., Makino, Y., & Oshita, S. (2016). Hyperspectral imaging for real-time monitoring of water holding capacity in red meat. LWT-Food Science and Technology, 66, 685-691.
+Kamruzzaman, M., Makino, Y., & Oshita, S. (2016). Parsimonious model development for real-time monitoring of moisture in red meat using hyperspectral imaging. Food Chemistry, 196, 1084-1091.
+Kamruzzaman, M., Makino, Y., & Oshita, S. (2016). Rapid and non-destructive detection of chicken adulteration in minced beef using visible near-infrared hyperspectral imaging and machine learning. Journal of Food Engineering. 170, 8-15.
+Kamruzzaman, M., Takahama, S., & Dillner, A. M. (2018). Quantification of amine functional groups and their influence on OM/OC in the IMPROVE network. Atmospheric Environment. 172, 124-132.
+Magdi A. A. Mousa, Yangyang Wang, Salma Akter Antora, Adel D. Al-qurashi,
+Omer H. M. Ibrahim, Hong-Ju He, Shu Liu & Mohammed Kamruzzaman (2021). An overview of recent advances and applications of FT-IR spectroscopy for quality, authenticity, and adulteration detection in edible oils. Critical Reviews in Food Science and Nutrition, DOI:
+10.1080/10408398.2021.1922872
+
+Articles in Conference Proceedings
+Song, D., Ngumbi, E., Kamruzzaman, M. Rapid and Low-cost Measurement Method of Normalized Difference Vegetation Index in Different Scenes. 2023 ASABE Annual International Meeting  2300864
+Ahmed, M. W., Esquerre, C., Singh, V., Leakey, A. D. B., Kamruzzaman, M. NIR spectroscopy and chemometrics for detecting some selected components of lipid-producing sorghum biomass for biofuels. 2023 ASABE Annual International Meeting  2300494
+Sobreira, C. H., Ferreira, M, V, D. S., Kamruzzaman, M. Authentication of premium tea based on geographical origin using NIR spectroscopy and multivariate analysis. 2023 ASABE Annual International Meeting  2300636
+Ahmed, M. T., Lu, Y., Vilordon, A., Kamruzzaman, M. Prediction of Firmness of Sweetpotatoes using VNIR Hyperspectral Imaging and Machine Learning. 2023 ASABE Annual International Meeting  2301414
+Lee, D.H.,& Kamruzzaman, M (2023). FODMAP: Food and Agriculture-Friendly, Organic Compound-Based, Degradable Nanozymes Integrated with an Optical Sensing Platform for Toxic Molecules Detection on The Food Samples. Materials Research Society (MRS) Fall Meeting. November 26-December 1, 2023, in Boston, Massachusetts.
+Lee, D.H.,& Kamruzzaman, M (2023). Fully polymer-based, hemecofactor mimetic-contained nanozyme, 266th American Chemical Society National meeting,2023
+Lee, D.H.,& Kamruzzaman, M (2023). EpCAM: Eco-friendly, Polymer-based nanozyme integrated with colorimetric sensing platform for agricultural biomolecule detection, 266th American Chemical Society National meeting,2023
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P., Discrimination of lamb muscles by NIR hyperspectral imaging, in Proceedings of the XVIIth World Congress of CIGR, 13 â€“ 17 June 2010, QuÃ©bec City, Canada.
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P., Applicability of NIR hyperspectral imaging in classification of lamb muscles, in Proceedings of IASIM-10, 18â€“19 November 2010, Ashtown Food Research Centre, Dublin, Ireland.
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P., Predicting some quality attributes of lamb muscles by NIR hyperspectral imaging, in Proceedings of the 6th International CIGR Technical Symposium on Towards a Sustainable Food Chain, 18-20 April 2011, Nantes, France.
+Kamruzzaman, M., ElMasry, G., Sun, D-W., & Allen, P., Determination of lamb meat tenderness by NIR hyperspectral imaging, in Proceedings of International Conference for Agricultural Engineering, CIGR-AgEng2012, July 8-12, 2012. Valencia, Spain.
+Kamruzzaman, M., Feng, Y-Z., ElMasry, G., Sun, D-W., & Allen, P., An Appraisal of NIR Hyperspectral Imaging for Authentication of Minced Lamb Meat, 16th international conference on Near Infrared Spectroscopy, NIR-2013. June 2 â€“ 7, 2013, 34280 La Grande-Motte, France.
+Kamruzzaman, M., Makino, Y., & Oshita, S. Application of VIS/SWNIR hyperpsectral imaging for predicting some technological attributes of beef and pork. 7th International Symposium on Machinery and Mechatronics for Agriculture and Biosystems Engineering (ISMAB). May 21-23, 2014, Yilan, Taiwan.
+Kamruzzaman, M., Makino, Y., & Oshita, S. Quality classification and moisture monitoring of beef using hyperspectral imaging. Japanese Society of Agricultural Machinery (JSAM) conference, May 16-19, 2014. Okinawa, Japan
+Kamruzzaman, M., Makino, Y., & Oshita, S. An appraisal of hyperspectral imaging for non-invasive authentication of geographical origin of beef and pork. International conference of Agriculture Engineering, AgEng-2014. July 6-10, 2014. Zurich, Switzerland.
+Kamruzzaman, M., Makino, Y., & Oshita, S. Application of hyperspectral imaging-detection and quantification of adulterants in minced beef. International conference on plant factory (ICPF), November 10-12, 2014. Kyoto, Japan
+Kamruzzaman, M., Takahama, S., & Dillner, A. M. Prediction of organic and elemental carbon in aerosol using FT-IR spectroscopy: case studies from the CSN and IMPROVE networks. International Conference on Carbonaceous Particle in the Atmosphere (ICCPA-2015), August 10-13, 2015. Berkeley, CA, USA
+
+Honors
+Highly Cited Researcher 2019 in Agricultural Sciences by Clarivate Analytics (formerly Thomson Reuters)
+
+Research Honors
+Global Reorganization of Research Impact Award-2020 by Bangladesh Agricultural University Research System (BAURES)
+
+Public Service Honors
+Editorial board member, Journal of Biosystems Engineering (Springer)
+
+Other Honors
+Erasmus Mundus scholarship funded by European Commission (2007)
+FIRM (Food Institutional Research Measure) fellowship from Irish Government Department of Agriculture, Fisheries and Food (2009)
+Japanese Society for the Promotion of Sciences (JSPS) Fellowship (2013)
+
+Recent Courses TaughtABE 340 - Thermodynamics for ABE
+ABE 483 - Engr Props Food Materials
+ABE 498 AE1 (ABE 498 KAM, ABE 598) - Analysis of Food & Bio Mtrl
+

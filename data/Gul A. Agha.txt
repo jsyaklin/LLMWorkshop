@@ -1,0 +1,46 @@
+
+
+
+Gul A Agha 
+
+
+
+
+
+Research Professor and Professor Emeritus
+
+
+(217) 244-3087
+agha@illinois.edu
+2104 Siebel Center for Comp Sci
+
+
+For More Information
+Gul Agha's home page
+
+Education
+Ph.D., Computer & Communication Science, University of Michigan at Ann Arbor, 1985
+
+Research Interests
+Parallel and Distributed Algorithms and Applications
+Network Embedded Systems Software
+Large-scale Multi-agent Systems
+Concurrent Programming Languages and Semantics
+
+
+Research Areas
+Programming Languages / Formal Methods / Software Engineering
+Systems and Networking
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Distributed computing and storage systems
+Sensing systems
+Smart infrastructures
+Wearable and mobile computing
+
+Recent Courses TaughtCS 498 GA - Smart Cities
+

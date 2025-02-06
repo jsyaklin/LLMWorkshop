@@ -1,0 +1,40 @@
+
+
+
+Lingming Zhang 
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-8921
+lingming@illinois.edu
+2104 Siebel Center for Comp Sci
+
+
+For More Information
+Lingming Zhang's Web Page
+
+Research StatementZhang's main research interests are in Software Engineering, and its synergy with Machine Learning, Programming Languages, and Formal Methods.
+Research Interests
+Formal Methods
+Programming Languages
+Software Engineering
+
+
+Research Areas
+Programming Languages / Formal Methods / Software Engineering
+
+
+Recent Courses TaughtCS 427 (CSE 426) - Software Engineering I
+CS 527 - Topics in Software Engineering
+CS 591 SE - Advanced Seminar
+CS 591 SE - SOFTWARE ENGINEER. SEM.
+CS 591 SE - Software Engineering Seminar
+CS 598 AST - Adv Software Testing and Debug
+CS 598 LMZ - ADV Software Test. & Debugging
+CS 598 LMZ - Software QA w Generative AI
+

@@ -1,0 +1,198 @@
+
+
+
+Yang Liu she/her/hers
+
+
+
+
+
+Professor
+
+
+(217) 244-6208
+liuy46@illinois.edu
+4047 Beckman Institute
+
+
+For More Information
+Research Website of Dr. Yang Liu's Biomedical Optical Imaging Laboratory
+
+
+Education
+Ph.D., Biomedical Engineering, Northwestern University, 2006
+
+M.S., Chemistry, University of Chicago, 2001
+
+
+Academic Positions
+Professor, Department of Bioengineering, University of Illinois Urbana-Champaign, January 2024 -  
+
+Affiliate Professor, Department of Electrical and Computer Engineering, University of Illinois Urbana-Champaign, January 2024 - 
+
+Affiliate Professor, Cancer Center at Illinois, University of Illinois Urbana-Champaign, January 2024 - 
+
+Member, Beckman Institute for Advanced Science and Technology, University of Illinois Urbana-Champaign, January 2024 -
+
+Professor, Departments of Medicine and Bioengineering, University of Pittsburgh, June 2023 - December 2023
+
+Associate Professor, Departments of Medicine and Bioengineering, University of Pittsburgh, June 2014 - May 2023
+Assistant Professor, Departments of Medicine and Bioengineering, University of Pittsburgh, May 2008 - May 2014
+
+Senior Scientist, Johnson & Johnson, June 2006 - April 2008
+
+Research Interests
+Molecular, Cellular and Tissue Engineering
+Computational and Systems Biology
+Bioimaging at Multi-scale
+
+
+Research Areas
+Bioinformatics
+Biophotonics
+Cancer
+Cellular fate-determination and state transitions
+Early cancer detection
+Image reconstruction
+Live-cell imaging
+Single-cell biophysics
+Single-molecule imaging
+Tumor microenvironments
+
+
+Research Topics
+Bioimaging at Multi-Scale
+Computational and Systems Biology
+
+Chapters in Books
+Hongqiang Ma and Yang Liu, "Super-Resolution Imaging through Single-Molecule Localization," in Biomedical Optical Imaging: From Nanoscopy to Tomography, edited by Jun Xia and Regine Choe (AIP Publishing, Melville, New York, 2021), Chapter 4, pp. 4-1–4-26.
+
+Selected Articles in Journals
+Ma H, Nguyen P, Liu Y. A Versatile Drift-Free Super-resolution Imaging Method via Oblique Bright-Field Correlation, Advanced Science. 2024; 2412127.
+
+Li D, Geng K, Hao Y, Gu J, Kumar S, Olson AT, ..., Liu Y, Zhang X, Bruno TC, Gray NS, Nabet B, Wong K-K, Zhang H. Targeted degradation of oncogenic KRASG12V triggers antitumor immunity in lung cancer models. The Journal of Clinical Investigation. 2024; https://doi.org/10.1172/JCI174249.
+
+Ma H, Chen M, Xu J, Yang Y, Zhao Y, Liu Y. An Omni-Mesoscope for multiscale high-throughput quantitative phase imaging of cellular dynamics and high-content molecular characterization. Science Advances, 2024; 10: eadq5009.
+
+Xu J, Sun X, Chen Z, Ma H, Liu Y. Super-resolution imaging of T lymphocyte activation reveals chromatin decondensation and disrupted nuclear envelope. Communications Biology, 2024; 7: 717.
+
+Ma H, Chen M, Nguyen P, Liu Y. Towards drift-free high-throughput nanoscopy through adaptive intersection maximization. Science Advances, 2024; 10: eadm7765.
+
+Liu Y, Uttam S. Perspective on Quantitative Phase Imaging to Improve Precision Cancer Medicine. Journal of Biomedical Optics; 2024; 29(S2): S22705.
+
+Cang H, Liu Y, Xing J. Mosaic-PICASSO: accurate crosstalk removal for multiplex fluorescence imaging. Bioinformatics, 2024; 40 (1), btad784.
+
+Han L, Mich-Basso JD, Li Y, Ammanamanchi N, Xu J, Bargaje AP, Liu H, Wu L, Jeong J-H, Franks J, Stolz DB, Wu Y, Rajasundaram D, Liu Y, Kühn B. Changes in nuclear pore numbers control nuclear import and stress response of mouse hearts. Developmental Cell, 2022; 57(20): 2397-2411.
+
+Thota PN, Nasibli J, Kumar P, Sanaka MR, Chak A, Zhang X, Liu X, Uttam S* and Liu Y*. Prediction of Neoplastic Progression in Barrett’s Esophagus Using Nanoscale Nuclear Architecture Mapping: A Pilot Study, Gastrointestinal Endoscopy, 2022; 95(6): 1239-1246.
+
+Xu J, Sun X, Kim K, Brand RM, Hartman D, Ma H, Brand RE, Bai M, Liu Y. Ultrastructural visualization of chromatin in cancer pathogenesis using a simple small-molecule fluorescent probe, Science Advances, 2022; 8(9): eabm8293.
+
+Ma H, Liu Y. Embedded nanometer position tracking based on enhanced phasor analysis. Optics Letters, 2021; 46(16), 3825.
+
+Mela C, Liu Y. Application of Convolutional Neural Networks Towards Nuclei Segmentation in Localization-based Super-Resolution Fluorescence Microscopy Images, BMC Bioinformatics, 2021; 22, 325.
+
+Ma H, Liu Y. Super-resolution localization microscopy: Towards high throughput, high quality, and low cost. APL Photonics, 2020; 5, 060902.
+
+Xu J, Ma HQ, Ma HB, Jiang W, Duan M, Mela CA, Zhao S, Gao C, Hahm E-R, Lardo SM, Troy K, Sun M, Pai R, Stolz DB, Zhang L, Singh S, Brand RE, Hartman DJ, Hu J, Hainer SJ, Liu Y. Super-resolution imaging reveals the evolution of higher-order chromatin folding in early carcinogenesis. Nature Communications, 2020; 11(1): 1899.
+
+Uttam S, Hashash JG, LaFace J, Binion D, Regueiro M, Hartman DJ, Brand RE, Liu Y. Three-dimensional nanoscale nuclear architecture mapping of rectal biopsies detects colorectal neoplasia in patients with inflammatory bowel disease. Cancer Prevention Research, 2019, 12(8):527-538.
+
+Xu J, Liu Y. A guide to visualizing spatial epigenomics with super-resolution microscopy. FEBS Journal, 2019, 286(16): 3095-3109.
+
+Nmezi B, Xu J, Fu R, Armiger T, Bey G, Schneider J, Ma H, Tu Y, Chen N, Young S, Dahl K*, Liu Y*, Padiath Q* (co-corresponding authors). A concentric model predicts district roles for the A and B type lamins in the spatial organization and stability of the nuclear lamina, Proceedings of the National Academy of Sciences, 2019; 116(10): 4307-4315.
+
+Ma H, Xu J, Liu Y. WindSTORM: Robust online image processing for high-throughput nanoscopy. Science Advances, 2019; eaaw0683.
+
+Xu J, Ma H, Jin J, Uttam S, Fu R, Huang Y, Liu Y. Super-resolution imaging of higher-order chromatin structures at different epigenomic states in single mammalian cells, Cell Reports, 2018; 24: 873–882.
+
+Teng Y, Yadav T, Duan M, Tan J, Xiang Y, Gao B, Xu J, Liang Z, Liu Y, Nakajima S, Shi Y, Levine AS, Zou L, and Lan L. ROS-induced R loops trigger a transcription-coupled but BRCA1/2-independent homologous recombination pathway through CSB, Nature Communications, 2018; 9: 4115.
+
+Uttam S, Liu Y. Fourier phase based depth-resolved nanoscale nuclear architecture mapping for cancer detection. Methods, 2018; 136: 134-151.
+
+Xu J, Ma H, Liu Y. Stochastic optical reconstruction microscopy (STORM). Current Protocols in Cytometry, 2017; 81: 12.46.1–12.46.27.
+
+Gao Y, Li C, Wei L, Teng Y, Nakajima S, Chen X, Xu J, Legar B, Ma H, Spagnol ST, Wan Y, Dahl KN, Liu Y, Levine A, Lan L. SSRP1 cooperates with PARP and XRCC1, facilitating single strand break repair through chromatin priming, Cancer Research, 2017; 77: 2674-2685.
+
+Pham HV, Pantanowitz L, Liu Y. Quantitative phase imaging to improve diagnostic accuracy of urine cytology. Cancer Cytopathology, 2016; 124: 641-650.
+
+Uttam S, Liu Y. Fourier phase in Fourier-domain optical coherence tomography. Journal of the Optical Society of America A, 2015; 32(12), 2286-2306. 
+
+Uttam S, Pham HV, LaFace J, Leibowitz B, Yu J, Brand RE, Hartman DJ, Liu Y. Early prediction of cancer progression by depth-resolved nanoscale maps of nuclear architecture from unstained tissue specimens. Cancer Research, 2015; 75(22): 4718-4722. 
+
+
+Patents
+H. Ma, Y. Liu, Hyper-throughput, multiplex, single molecule imaging platform, US Provisional Patent Application No. 63/440,600, January 23, 2023.
+H. Ma, Y. Liu, Drift-free high-throughput localization microscopy, US Provisional Patent Application No. 63/420,847, October 31, 2022.
+H. Ma, Y. Liu, Automated nanoscopy system having integrated artifact minimization modules, including embedded nanometer position tracking based on phasor analysis, US Provisional Patent Application No. 63/190,452, May 19, 2021.
+Y. Liu, R.E. Brand, P. Wang, S. Fnu, Spatial-domain Low-coherence Quantitative Phase Microscopy, US Patent 11,105,686; Issue Date: August 31, 2021.
+H. Ma, Y. Liu, System and method for estimating and compensating for sample drift during data acquisition in fluorescence microscopy, U.S. Patent 11,067,510; Issue Date: July 20, 2021.
+H. Ma, Y. Liu, System and method for robust background correction for super-resolution localization microscopy, US Provisional Patent Application No. 62/624,932, March 2018.
+Y. Liu, R.E. Brand, S. Uttam, H. Pham, Spatial-domain Low-coherence Quantitative Phase Microscopy, US Patent 10,156,479; Issue Date: Dec 18, 2018.
+Y. Liu, S. Fnu, H. Pham. Depth-resolved spatial-domain low-coherence quantitative phase microscopy for unstained tissue and cell, US Patent 9,983,399, Issue date: May 29, 2018.
+Y. Liu, Depth-selective Fiber-Optic Probe, US Patent 9,451,885; Issue date: Sept 27, 2016.
+V. Backman, H. Roy, R. Brand, Y. Liu, J. Rogers, V. Turzhitsky, “Systems, methods and apparatuses of elastic light scattering spectroscopy and low coherence enhanced backscattering spectroscopy”, US Patent 8,131,348, Issue date: March 06, 2012.
+V. Backman, Y. Liu, Y. Kim, H. Roy, M. Goldberg, R. Brand, P. Pradhan, S. Hariharan, “Method for identifying refractive-index fluctuations of a target”, US Patent 7,800,746, US Class 356/128, International Class G01N 21/41, Issue date: September 21, 2010.
+V. Backman, Y. Liu, Y. Kim, “System for identifying refractive-index fluctuations of a target”, US Patent 7,667,832, US Class 356/128, International Class G01N 21/41, Issue date: February 23, 2010.
+V. Backman, H. Roy, Y. L. Kim, Y. Liu, V. Turzhitsky, “Systems, methods, and apparatuses of low-coherence enhanced backscattering spectroscopy”, US Patent 7,652,772, US Class 356/497, International Class G01B 9/02, Issue date: January 26, 2010.
+V. Backman, H. Roy, Y. L. Kim, Y. Liu, “Apparatus for recognizing abnormal tissue using the detection of early increase in microvascular blood content”, US patent application No. 20070129615 (Serial No. 11/604,659), US Class 600/315, International Class A61B 005/00, Issue date: June 7, 2007.
+
+Journal Editorships
+2019. Guest Editor, eLife
+
+2016 – Present. Scientific Reports, Nature Publishing Group.
+
+2022 – Present. Associate Editor, Biomedical Optics Express, Optica Publishing Group
+
+
+Conferences Organized or Chaired
+Microscopy, Histopathology & Analytics for the 2024 Biophotonics Congress; Biomedical Optics, Program chair, May 2023 – April 2024.
+
+IEEE Photonics Conference (IPC) Biophotonics and Medical Optics Co-chair, January 2023 – Present.
+
+Quantitative Phase Imaging, Conference Co-Chair, The International Society for Optics and Photonics (SPIE), Photonics West, 2018 – Present.
+
+
+Service on Department Committees
+August 2016 – December 2023. Tenure and Promotion Committee, Department of Medicine, University of Pittsburgh.
+
+September 2016 – December 2023. GI Research Rounds Course Director, Division of Gastroenterology, Hepatology and Nutrition, Department of Medicine, University of Pittsburgh.
+
+February 2018 – December 2023. PhD Task Force Member, Department of Medicine, University of Pittsburgh.
+
+June 2018 – December 2023. Cell and Tissue Imaging Facility Advisory Committee, University of Pittsburgh Hillman Cancer Center.
+
+
+Service to Federal and State Government
+2020 – 2024. Standing Member. National Institute of Health, Instrumentation and Systems Development (ISD) Study Section.
+
+2020 - 2021. Reviewer and panelist, National Science Foundation, Genetic Mechanisms.
+
+2017 – 2018. Ad hoc member, National Institute of Health, Cellular and Molecular Technologies (CMT) study section.
+
+2015 – 2019. Ad hoc member, National Cancer Institute, Innovative Molecular Analysis Technologies (IMAT) Study Section.
+
+2015 – 2017. Ad hoc member, National Institute of Health, Enabling Bioanalytical and Imaging Technologies (EBIT) study section.
+
+2009 – 2014. Reviewer and panelist. National Science Foundation, Small Business Innovative Research (SBIR).
+
+
+Honors
+Melanoma SPORE Career Development Award (2009)
+Wallace H. Coulter Phase I & II Translational Research Award, Wallace H. Coulter Foundation (2010, 2012)
+3Rivers Venture Fair Award for NanoVision Diagnostics, Office of Technology Management at University of Pittsburgh (2013)
+Edmund Optics Higher Education Award (2013)
+Pitt Innovator Award, University of Pittsburgh (2014)
+Fast Tracker Award, Pittsburgh Business Times (2014)
+Pitt Innovator Award, University of Pittsburgh (2016)
+Hillman Fellow for Innovative Cancer Research
+ (2019
+)
+Fellow, SPIE (The International Society for Optics and Photonics)
+ (2020)
+Fellow, Optica (formerly Optical Society of America)
+ (2022
+)
+
+Recent Courses TaughtBIOE 598 TC1 (BIOE 498 TC1) - Tech for Cancer Diag & Therapy
+

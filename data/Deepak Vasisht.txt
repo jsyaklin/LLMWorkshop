@@ -1,0 +1,84 @@
+
+
+
+Deepak Vasisht he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+deepakv@illinois.edu
+3110 Siebel Center for Comp Sci
+
+
+For More Information
+Website
+
+Education
+Ph.D., Computer Science and Engineering, MIT, 2019
+B. Tech., Computer Science and Engineering, IIT Delhi, 2013
+
+
+Research Areas
+Sensors
+Systems and Networking
+
+
+Articles in Conference Proceedings
+Support is All You Need for Certified VAE Training. Changming Xu, Debangshu Banerjee, Deepak Vasisht, Gagandeep Singh. ICLR 2025. (Acceptance rate: 31%)
+Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation. Shreya Gummadi, Mateus V Gasparino, Deepak Vasisht, Girish Chowdhary. IEEE Robotic Automation Letters 2024 and IEEE ICRA 2025.
+A Call for Decentralized Satellite Networks. Seoyul Oh, Deepak Vasisht. ACM HotNets 2024. (Acceptance rate: 28%).
+Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval. Bill Tao, Om Chabra, Ishani Janveja, Indranil Gupta, Deepak Vasisht. USENIX NSDI 2024. (Acceptance rate: 19%)
+Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things. Vaibhav Singh, Tusher Chakraborty, Suraj Jog, Om Chabra, Deepak Vasisht, Ranveer Chandra. USENIX NSDI 2024. (Acceptance rate: 19%)
+Radarize: Enhancing Radar SLAM with Generalizable Doppler-Based Odometry. Emerson Sie, Xinyu Wu, Heyu Guo, Deepak Vasisht. ACM MobiSys 2024. (Acceptance rate: 16%)
+CosMAC: Constellation-Aware Medium Access and Scheduling for IoT Satellites. Jayanth Shenoy, Om Chabra, Tusher Chakraborty, Suraj Jog, Deepak Vasisht, Ranveer Chandra. ACM MobiCom 2024. (Acceptance rate: 21%)
+ Magnetic Backscatter for In-body Communication and Localization. Bill Tao, Emerson Sie, Jayanth Shenoy, Deepak Vasisht. ACM MobiCom, 2023. (Acceptance rate: 24%)
+Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems. Zikun Liu, Chanming Xu, Emerson Sie, Gagandeep Singh, Deepak Vasisht. USENIX NSDI, 2023. (Acceptance rate: 16%)
+Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time. Bill Tao, Maleeha Masood, Indranil Gupta, Deepak Vasisht. ACM MobiCom, 2023. (Acceptance rate: 24%)
+BatMobility: Flying Without Seeing for Lightweight Unmanned Aerial Vehicles. Emerson Sie, Zikun Liu, Deepak Vasisht. ACM Mobicom, 2023. (Acceptance rate: 24%)
+Non-Cooperative Wi-Fi Localization & its Privacy Implications. Ali Abedi, Deepak Vasisht. ACM Mobicom, 2022. (Acceptance rate: 18%)
+RF-Protect: Privacy against Device-Free Human Tracking. Jayanth Shenoy, Zikun Liu, Bill Tao, Zachary Kabelac, Deepak Vasisht. ACM SIGCOMM, 2022. (Acceptance rate:  20%)
+RF-Annotate: Automatic  RFID-Supervised  Image  Annotation  of Common  Objects  in  Context. Emerson Sie, Deepak Vasisht. IEEE ICRA 2022. (Acceptance rate: 43%)
+MiLTOn: Sensing Product Integrity without Opening the Box using Non-Invasive Acoustic Vibrometry. Akshay Gadre, Deepak Vasisht, Nikunj Raghuvanshi, Bodhi Priyantha, Manikanta Kotaru, Swarun Kumar, Ranveer Chandra. ACM IPSN 2022 (Acceptance rate: 30%)
+Whisper: IoT in the TV White Space Spectrum. Tusher Chakraborty, Heping Shi, Zerina Kapetanovic, Bodhi Priyantha, Deepak Vasisht, Andrew Nelson, Parag Pandit, Prasad Pillai, Yaswant Chabria, Binh Vu, Ranveer Chandra. USENIX NSDI 2022 (Acceptance rate: 17%)
+Enabling IoT Self-Localization Using Ambient 5G Signals. Suraj Jog, Junfeng Guan, Sohrab Madani, Ruochen Lu, Songbin Gong, Deepak Vasisht, Haitham Hassanieh. USENIX NSDI 2022. (Acceptance rate: 17%)
+FIRE: Enabling Reciprocity for FDD MIMO Systems. Zikun Liu, Gagandeep Singh, Deepak Vasisht. ACM MobiCom 2021. (Acceptance rate: 20%)
+L2D2: Low Latency Distributed Downlink for Low Earth Orbit Satellites. Deepak Vasisht, Jayanth Shenoy, Ranveer Chandra. ACM SIGCOMM, 2021. (Acceptance rate: 23%)
+Deep Learning based Wireless Localization for Indoor Navigation. Roshan Ayyalasomayajula, Aditya Arun, Chenfeng Wu, Sanatan Sharma, Abhishek Sethi, Deepak Vasisht, Dinesh Bharadia. ACM MobiCom, 2020 (Acceptance rate: 16%).
+A Distributed Hybrid Ground Station Design for Low Earth Orbit Satellites. Deepak Vasisht, Ranveer Chandra. ACM HotNets 2020 (Acceptance rate: 25%).
+Low-Cost Aerial Imaging for Small Holder Farmers. Vasuki Narasimha Swamy, Akshit Kumar, Rohit Patil, Aditya Jain, Zerina Kapetanovic, Rahul Sharma, Deepak Vasisht, Manohar Swaminathan, Ranveer Chandra, Anirudh Badam, Gireeja Ranade, Sudipta Sinha, Akshay Uttama Nambi SN. ACM Compass, 2019. (Acceptance rate: N/A)
+BLoc: CSI-based Accurate Localization for BLE Tags. Roshan Ayyalasomayajula, Deepak Vasisht, Dinesh Bharadia. ACM CoNext, 2018 (Acceptance rate: 17%).
+Duet: Estimating User Position and Identity in Smart Homes using Intermittent and Incomplete RF-Data. Deepak Vasisht, Anubhav Jain, Chen-Yu Hsu, Zachary Kabelac, Dina Katabi. ACM IMWUT/UbiComp, 2018. (Acceptance rate: N/A)
+In-body Backscatter Communication and Localization. Deepak Vasisht, Guo Zhang, Omid Abari, Jay Flanz, Hsiao Ming-Lu, Dina Katabi. ACM SIGCOMM, 2018 (Acceptance rate: 18%).
+Farmbeats: An IoT Platform for Data-Driven Agriculture. Deepak Vasisht, Zerina Kapetanovic, Jongho Won, Xinxin Jin, Ranveer Chandra, Ashish Kapoor, Sudipta Sinha, Madhusudhan Sudarshan, Sean Stratman. USENIX NSDI, 2017 (Acceptance rate: 18%).
+Eliminating Channel Feedback in Next-Generation Cellular Networks. Deepak Vasisht, Swarun Kumar, Hariharan Rahul, Dina Katabi. ACM SIGCOMM, 2016 (Acceptance rate: 17%).
+Decimeter-Level Localization with a Single WiFi Access Point. Deepak Vasisht, Swarun Kumar, Dina Katabi. USENIX NSDI, 2016 (Acceptance rate: 20%).
+Caraoke: An E-Toll Transponder Network for Smart Cities. Omid Abari, Deepak Vasisht, Dina Katabi, Anantha Chandrakasan. ACM SIGCOMM, 2015 (Acceptance rate: 17%).
+Exploiting Sparsity and Co-occurrence Structure for Action Unit Recognition. Yale Song, Daniel McDuff, Deepak Vasisht, Ashish Kapoor. IEEE Face & Gestures (FG), 2015. (Acceptance rate: N/A)
+RF-IDraw: Virtual Touch Screen in the Air Using RF Signals. Jue Wang, Deepak Vasisht, Dina Katabi. ACM SIGCOMM, 2014 (Acceptance rate: 19%).
+Active Learning for Sparse Bayesian Multilabel Classification. Deepak Vasisht, Andreas Domianou, Manik Varma, Ashish Kapoor. ACM SIGKDD, 2014 (Acceptance rate: 15%).
+
+Honors
+Best Community Contribution Award, ACM MobiCom (2024)
+Systems Research Award by VMWare (2023)
+NSF CAREER Award (2023)
+Outstanding Advisor Award, Engineering Council, Grainger College of Engineering, UIUC (Spring 2022)
+IIT Delhi Graduate of the Last Decade (GOLD) Award (2021)
+List of Teachers Ranked as Excellent by their Students, UIUC (Spring 2021)
+ACM SIGCOMM Doctoral Dissertation Award (2020)
+Microsoft Inaugural Industry Research Fellow (2020)
+ACM COMPASS Best Paper Award (2019)
+ACM SIGCOMM Best Paper Award (2016)
+Microsoft Research Ph.D. Fellowship (2016)
+President of India Gold Medal, IIT Delhi (2013)
+
+Recent Courses TaughtCS 438 (ECE 438) - Communication Networks
+CS 498 DV1 (CS 498 DV2) - ML in Wireless Networks
+CS 591 WN - Wireless Networking Seminar
+CS 598 WSI - ADV Wireless Networks and IOT
+CS 598 WSI - Wireless Sys for The IOT
+

@@ -1,0 +1,45 @@
+
+
+
+ Alexander Schwing 
+
+
+
+
+
+Associate Professor
+W.J. "Jerry" Sanders III - Advanced Micro Devices, Inc. Faculty Fellow
+
+
+
+aschwing@illinois.edu
+103 Coordinated Science Lab
+
+
+For More Information
+Personal Website
+
+Research Interests
+Machine Learning
+Computer Vision
+
+
+Research Areas
+Artificial Intelligence
+Computer vision and pattern recognition
+Machine learning
+Robotics, vision, and artificial intelligence
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Cognitive computing
+Data science and analytics
+Data/Information Science and Systems
+Machine learning
+Machine vision
+
+Recent Courses TaughtCS 446 (ECE 449) - Machine Learning
+ECE 398 AS - Progm Mthds - Machine Learning
+ECE 544 NA (ECE 544 ONL) - Pattern Recognition
+

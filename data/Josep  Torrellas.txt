@@ -1,0 +1,67 @@
+
+
+
+Josep Torrellas 
+
+
+
+
+
+Saburo Muroga Professor
+
+
+(217) 244-4148
+torrella@illinois.edu
+4231 Siebel Center for Comp Sci
+
+
+For More Information
+Josep Torrellas's home page
+
+Education
+Ph.D. Electrical Engineering, Stanford University, 1992
+
+Research Interests
+Low Power Design
+Hardware and Software Reliability
+    
+
+Parallel Processing
+Shared-Memory Multiprocessors
+  
+ Computer Architecture
+
+
+Research Areas
+Architecture, Compilers, and Parallel Computing
+Compilers
+Computer architecture
+Fault tolerance and reliability
+Operating systems
+Parallel processing
+System modeling and measurement
+
+
+Research Topics
+Cognitive computing
+Computational science and engineering
+Cybersecurity and privacy
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Machine learning
+Wearable and mobile computing
+
+Honors
+IEEE Computer Society Harry H. Goode Memorial Award (2021)
+UIUC Campus Award for Excellence in Graduate Student Mentoring (2017)
+Fellow of the American Association for the Advancement of Science (AAAS) (2016)
+IEEE Computer Society Technical Achievement Award (2015)
+High-Impact Paper Award, International Conference on Computer Design (ICCD) (2012)
+ACM Fellow (2010)
+IEEE Fellow (2004)
+
+Recent Courses TaughtCS 533 (CSE 522) - Parallel Computer Architecture
+CS 534 - Adv Topics in Comp Arch
+CS 598 JT (CS 598 JTE) - Energy-Efficient Comp Architec
+

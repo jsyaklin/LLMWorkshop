@@ -1,0 +1,41 @@
+
+
+
+Sasa Misailovic 
+
+
+
+
+
+Associate Professor
+
+
+(217) 300-4916
+misailo@illinois.edu
+4110 Siebel Center for Comp Sci
+
+
+For More Information
+Sasa Misailovic's homepage
+
+
+Research Areas
+Architecture, Compilers, and Parallel Computing
+Compilers
+Programming languages
+Programming Languages / Formal Methods / Software Engineering
+Security and Privacy
+
+
+Recent Courses TaughtCS 421 - Progrmg Languages & Compilers
+CS 426 - Compiler Construction
+CS 477 (ECE 478) - Formal Software Devel Methods
+CS 491 CSP (CS 491 MCS) - Seminar in Prog Sys & Safe AI
+CS 521 - Adv Topics in Pgm Systems
+CS 521 - ML & Compilers
+CS 526 - Advanced Compiler Construction
+CS 591 ACT - Advanced Compiler Technology
+CS 591 SE - Advanced Seminar
+CS 591 SE - Software Engineering Seminar
+CS 598 SM - Approx & Probabilistic Comp
+

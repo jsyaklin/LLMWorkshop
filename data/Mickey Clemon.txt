@@ -1,0 +1,109 @@
+
+
+
+Mickey Clemon he/him/his
+
+
+
+
+
+Teaching Assistant Professor
+
+
+(217) 265-6508
+lmclemon@illinois.edu
+2024 Sidney Lu Mech Engr Bldg
+
+
+Education
+B.S. Mechanical Engineering, University of Kansas
+
+M.S. Mechanical Engineering, University of California, Berkeley
+
+PhD Mechanical Engineering, University of California, Berkeley
+
+
+BiographyDr. Lee Clemon, P.E. is a research scientist in advanced manufacturing and high consequence design and licensed professional engineer. He focuses on the interplay of materials, design, and manufacturing for a more reliable and environmentally conscious industrial world. His current research interests are in process improvement and material property manipulation in advanced manufacturing processes, with an emphasis on additive and hybrid additive-subtractive manufacturing through particulate, wire, layer, and ensemble fabrication methods.
+Academic Positions
+Lecturer, University of Technology Sydney, 2018-2022
+
+Senior Lecturer, University of Technology Sydney, 2023
+
+
+Other Professional Employment
+R&D, S&E Mechanical Engineer, Senior Member of Technical Staff, Sandia National Laboratories, 2017
+
+R&D, S&E Mechanical Engineer, Member of Technical Staff, Sandia National Laboratories, 2011-2016
+
+
+Professional Registrations
+Professional Engineer, California
+
+
+Undergraduate Research OpportunitiesCollaborative robotic printingComputational and material modeling for additive manufacturing
+Research Interests
+Additive Manufacturing
+Mechanical Design
+Sustainable Manufacturing
+
+
+
+Research Areas
+Environment
+Manufacturing
+Security and Defense
+
+
+Keywords
+Computational Science and Engineering
+Manufacturing Systems
+Materials Behavior
+
+Selected Articles in Journals
+Al-zqebah, Ruba, Matthias Guertler, and Lee Clemon. "Powder bed fusion factory productivity increases using discrete event simulation and genetic algorithm." Production Engineering (2024): 1-17.
+Zimu Guo, Sipei Zhao, Benjamin J. Halkon, & Lee Clemon. Simulation of active vibration control of a moving stage. J. Acoust. Soc. Am. 154, A164. 2023.
+
+Ruba Al-zqebah, Florian Hoffmann, Nicholas Bennett, Jochen Deuse, & Lee Clemon. Layout optimisation for production systems in the wool industry using discrete event simulation. Journal of Industrial Engineering and Management, 15(2), 296-308. 2022.
+
+Lee Clemon. Rapid estimation of viral emission source location via genetic algorithm. Computational Mechanics. 1-12. 2022. DOI:10.1007/s00466-021-02138-7.
+Xinlei Huang, Lee Clemon, Mohammad Islam, Suvash Saha, Optimization of fluid characteristics in the main nozzle of an air-jet loom. Textile Research Journal. August. 2021.
+Ruoyu Song, Lee Clemon, and Cassandra Telenko. Uncertainty and Variability in Energy and Material Balances for FDM Printers for Makerspaces. Journal of Industrial Ecology. 2018.
+Lee Clemon and Tarek Zohdi. On the tolerable limits of granulated recycled material additives to maintain structural integrity. Construction and Building Materials. 167C. pp 846-852. 2018.
+
+Nancy Yang, Joshua Yee, Kyle Gaiser, Lee Clemon, W.Y. Lu, Julie Schoenung, Enrique Lavernia. Process-structure-property relationships for 316L stainless steel fabricated by additive manufacturing and its implication for component engineering. Journal of Thermal Spray and Technology. 2016.
+
+
+Articles in Conference Proceedings
+Jayant Khatkar, Lee Clemon, Robert Fitch, Ramgopal Mettu. A Reeb Graph Approach for Faster 3D Printing. 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE) August 20-24, 2022. Mexico City, Mexico
+Jayant Khatkar, Chanyeol Yoo, Robert Fitch, Lee Clemon, Ramgopal Mettu. Coordinated toolpath planning for multi-extruder additive manufacturing. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems. 2022.
+Laryssa Raffa, Nicholas Bennett, Lee Clemon, Opportunities for Energy Efficiency Improvements in Small and Micro Breweries. Proceedings of ASME 2022 International Mechanical Engineering Congress & Exposition. 2022.
+Jayant Khatkar, Ramgopal Mettu, Lee Clemon, Toolpath Planning With Thermal Stress Awareness for Material Extrusion Additive Manufacturing. Proceedings of ASME 2022 International Mechanical Engineering Congress & Exposition. 2022.
+Pavlos Hanna, Marc Carmichael, Lee Clemon, Benefit Of Optimal Actuator Selection – A Comparative Study. Proceedings of ASME 2022 International Mechanical Engineering Congress & Exposition. 2022.
+Laura Tomedei, Nathalie Sick, Jochen Deuse, Lee Clemon, Production Flow Analysis in the era of Industry 4.0, 2022 Proceedings of PICMET’22: Technology Management and Leadership in Digital Transformation-Looking Ahead to Post-COVID Era. 2022.
+Matthias Guertler, Lee Clemon, Nicholas Bennett, Jochen Deuse, Design for Additive Manufacturing (DfAM): Analysing and Mapping Research Trends and Industry Needs, 2022 Proceedings of PICMET’22: Technology Management and Leadership in Digital Transformation-Looking Ahead to Post-COVID Era. 2022.
+Pavlos Hanna and Lee Clemon, Development of an Organisational Framework for the Optimal and Efficient Selection of Actuators. Proceedings of ASME 2021 International Mechanical Engineering Congress & Exposition. 2021.
+Rhys Edwards and Lee Clemon, Influencing The Mechanical Properties of Fused Filament Fabrication Parts by Non-planar Material Extrusion. Proceedings of ASME 2021 International Mechanical Engineering Congress & Exposition. 2021.
+Lee Clemon and Karan Christopher, Increased Strength of 3D Printed Pats with Z-pin Approach. Proceedings of ASME 2021 International Mechanical Engineering Congress & Exposition. 2021.
+Yoo, C., Lensgraf, S., Fitch, R., Clemon, L.M., Mettu, R., 2020. Toward Optimal FDM Toolpath Planning with Monte Carlo Tree Search. 2020 IEEE International Conference on Robotics and Automation (ICRA), 4037-4043. 2020.
+
+Lee Clemon, Directed Graphical Model for Real-Time Process Monitoring in Additive Manufacturing. Proceedings of ASME 2020 International Mechanical Engineering Congress & Exposition. 2020.
+
+Behrokh Abbasnejad, Lee Clemon, David McGloin. A flexible Laser Induced Graphitic Sensor for Flow Rate Sensing Applications. Proceedings of ASME 2020 International Mechanical Engineering Congress & Exposition. 2020.
+Rebecca Murray, Garrick Foy, Lee Clemon.Dimensional comparison of a cold spray additive manufacturing simulation tool. Solid Freeform Fabrication Symposium. Austin USA. 2019.
+Lee Clemon. Energy and Emission Uncertainty in Fused Deposition Modeling for a Job-Shop. 28th Solid Freeform Fabrication Symposium. 1878-1889. 2016.
+Baolong Zheng, Nancy Yang, Joshua Yee, Kyle Gaiser W. Y. Lu, Lee Clemon, Y. Zhou, Enrique Lavernia, Julie Schoenung. Review on laser powder injection additive manufacturing of novel alloys and composites. Proc. SPIE 9738. Laser 3D Manufacturing III. 2016.
+
+Professional Societies
+Chair, E-Fest Steering Committee. ASME.2022-2025
+
+
+Honors
+Old Guard Early Career Award, ASME
+ (2019
+)
+Dedicated Service Award, ASME
+ (2021
+)
+
+Recent Courses TaughtME 270 (TAM 270) - Design for Manufacturability
+

@@ -1,0 +1,81 @@
+
+
+
+Paul G Kwiat 
+
+
+
+
+
+John Bardeen Chair in Electrical Engineering and Physics
+John Bardeen Endowed Chair in Electrical and Computer Engineering and Physics (funded by the Sony Corporation)
+
+
+(217) 333-9116
+kwiat@illinois.edu
+337B Loomis Laboratory
+
+
+For More Information
+Kwiat Research Group
+
+Education
+Ph.D., Physics, University of California, Berkeley, 1993
+
+BiographyProfessor Paul G. Kwiat received his Ph.D from the University of California, Berkeley (1993), where his dissertation was on nonclassical effects from spontaneous parametric downconversion. After two years as a Lise Meitner Fellow with the quantum optics group of Prof. Anton Zeilinger (at the Univ. of Innsbruck, Austria), he went to Los Alamos National Laboratory (LANL) as an Oppenheimer Fellow; in 1998 he became a technical staff member in the Neutron Science and Technology group of Physics Division. He has given invited talks at numerous national and international conferences and has authored more than 100 articles on various topics in quantum optics and quantum information, including several review articles. He is a Fellow of the Optical Society of America and the American Physical Society and an Expert Panel member for both the Quantum Computation and Quantum Cryptography Roadmaps.
+In 1998, Professor Kwiat was awarded the LANL Fellows Prize for his work on optical studies of quantum information. He has done pioneering research on the phenomena of quantum interrogation, quantum erasure, and optical implementations of quantum information protocols. He is a primary inventor of the world's first two sources of polarization-entangled photons from down-conversion, which have been used for quantum cryptography, dense-coding, quantum teleportation, entanglement distillation, and most recently, optical quantum gates. In January 2001, he joined the Physics faculty as the second Bardeen Chair.
+In 2018, Professor Kwiat was instrumental in the formation of the Illinois Quantum Information Science and Technology Center (IQUIST) at the University of Illinois at Urbana-Champaign and  is currently serving as the center's inaugural Director. IQUIST seeks to accelerate quantum information science (QIS) research on the Urbana campus through collaborations across physics, electrical and computer engineering, computer science, math, and other engineering disciplines; and to build new educational programs to better equip a future QIS-smart workforce.
+Teaching StatementMy intent is to motivate students to care about these topics (e.g., electricity and magnetism, and thermal physics), by showing the ubiquitous application to our everyday lives, in addition to cutting edge technologies.
+Research StatementQuantum Optics and Quantum Information — In our quantum optics lab, we use photons to investigate a range of topics from foundations of quantum mechanics (such as tests of nonlocality, the quantum Zeno effect, and so forth) to quantum cryptography (enabling for the first time provable unconditional security), communication (including "teleportation"), and computation (investigating simple quantum logic, algorithms, and decoherence-defeating measures). We have developed methods to produce pairs of photons that share the most mysterious of all quantum properties -- entanglement. The goal now is to improve these systems, to explore uncharted waters of novel quantum mechanical states, and to learn to use them to advantage in all areas of information processing.
+Photonic Quantum Information Systems — Our goal is to develop the following optical quantum technologies for quantum information processing (including computation, cryptography, and metrology), and apply them to critical problems in these areas: Entangled-photon sources and characterization, quantum state transducer, photon storage and quantum memory, periodic single photon source, and photon number-resolving solid-state photomultipliers (SSPMs). These are central resources for many quantum communication applications.
+Hyper-entanglement for Advanced Quantum Communication — Hyper-entanglement — the property that quantum systems, photons in our case, may be simultaneously entangled in multiple degrees of freedom — promises to enhance the capabilities of current quantum communication protocols, and to enable new ones.  We will extend  our experience in the creation, manipulation and characterization of hyper-entanglement in the photon pairs produced via spontaneous parametric down-conversion, and employ them for several relevant advanced quantum communication applications: quantum super-dense coding, production and application of bound entanglement, optimized teleportation beyond single qubits, and entanglement-enhanced quantum fingerprinting. Our research in these areas will substantially increase understanding of the benefits — and limitations — of using hyper-entanglement for quantum information processing, extending the capabilities of current communication protocols, and enabling new ones.
+Optical Quantum Computing — Quantum computing uses the unique quantum properties of small systems to enable exponential computational speedups for certain classes of problems. Simple gates have been realized in several systems; the cleanest of these have been using photons as the quantum bits ("qubits"). Now we are investigating the feasibility of transitioning these small scall results to a much larger system, eventually capable of performing universal computations. We are exploring two approaches in detail. The first uses the newly devised "cluster" state paradigm, thereby reducing resoures requirements by several orders of magnitude. The second approach, relying on weak nonlinear effects, reduces the resource requirements even further.
+Undergraduate Research OpportunitiesI routinely have talented undergraduates working in my group.  They typically begin assisting with ongoing projects before taking responsibility for their own research project.  Much of the research has resulted in published papers, with the students as co-authors.
+Research Interests
+Ph.D. thesis title: Nonclassical Effects from Spontaneous Parametric Downconversion
+
+
+Research Areas
+Adaptive control and identification
+Atomic, Molecular, and Optical Physics
+Coherent optics/imaging
+Lasers and optical physics
+Quantum Information Science
+
+
+Research Topics
+Quantum optics, cryptography, information, and computing
+
+Selected Articles in Journals
+ J. Chapman, T. Graham, C. Zeitler, P.G. Kwiat. Time-bin and polarization superdense teleportation for space applications. Phys. Rev. Appl. 14, 014044 (2020). Erratum Phys. Rev. Applied 14, 059902 (2020).
+U. Paudel, J.J. Wong, M. Goggin, P.G. Kwiat, A.S. Bracker, M. Yakes, D. Gammon, A.D.G. Steel. Direct excitation of a single quantum dot with cavity-SPDC photons. Optics Express 27:11, 16308-16319 (2019).
+F. Kaneda and P. G. Kwiat. High-efficiency single-photon generation via large-scale active time multiplexing. Science Advances 5, eaaw8586 (2019).
+K. Zielnicki, K. Garay-Palmett, D. Cruz-Delgado, H. Cruz-Ramirez, M. F. O’Boyle, B. Fang, V. O. Lorenz, A. B. U’Ren, and P. G. Kwiat. Joint spectral characterization of photon-pair sources, J. Mod. Opt. 65, 1141-1160 (2018).
+P. G. Kwiat. Quantum information: An integrated light circuit. Nature 453, 294-295 (2008).
+J. T. Barreiro, T. –C. Wei, and P. G. Kwiat.Beating the channel capacity limit for linear photonic superdense coding. Nature Physics, 23 March 2008.
+O. Hosten and P. G. Kwiat. Observation of the Spin Hall Effect of Light via Weak Measurements. Science 319, 787-790 (2008); also in Science Express Reports, published online Jan. 10, 2008.
+A. VanDevender and P. G. Kwiat. High-speed transparent switch via frequency up-conversion. Opt. Exp. 15, 4677-4683 (2007).
+E.R. Jeffrey, J.B. Altepeter, M. Colci, and P.G. Kwiat. Optical implementation of quantum orienteering. Phys Rev. Lett. 96, 150503 (2006).
+O. Hosten, M.T. Rakher, J.T. Barreiro, N.A. Peters and P.G. Kwiat. Counterfactural quantum computation via quantum interrogation. Nature 439, 939 (2006).
+N. A. Peters, J. T. Barreiro, M. E. Goggin, T.-C. Wei, and P. G. Kwiat. Remote state preparation: Arbitrary remote control of photon polarization. Phys. Rev. Lett. 94, 150502-1-4 (2005).
+P. G. Kwiat, S. Barraza-Lopez, A. Stefanov, and N. Gisin. Experimental entanglement distillation and 'hidden' non-locality. Nature 409, 1014-1017 (2001).
+P. G. Kwiat, A. J. Berglund, J. B. Altepeter, and A. G. White. Experimental verification of decoherence-free subspaces. Science 290, 498-501 (2000).
+
+Articles in Conference Proceedings
+Chapman, JC; Miller, I; Call, I; Oshiro, L; Zajdela, M; Polak, B; Kwiat, PG. Towards hyperentangled time-bin and polarization superdense teleportation in space. Conference on Quantum Technologies and Quantum Information Science V part of SPIE Security + Defence Conference, (SEP 09-12, 2019) Quantum Technologies And Quantum Information Science V 11167, UNSP 1116702 (2019) 
+
+Research Honors
+Optical Society of America R. 
+W. Wood Prize (2009) (2009)
+Young Scholar Award (3rd place), Amazing Light competition (2005)
+ (2005)
+Fellow, Optical Society of America (2005) (2005)
+J. David Murley Milestone Award for Outstanding Achievements in Quantum Cryptography (2004) (2004)
+Descartes Prize (2004) (2004)
+Fellow, American Physical Society (2002) (2002)
+Bardeen Chair, Dept. of Physics, Univ. of Illinois (2001-present) (2001)
+Los Alamos National Laboratory Fellows Prize (1999) (1999)
+
+Recent Courses TaughtPHYS 212 - University Physics: Elec & Mag
+PHYS 513 - Quantum Optics & Information
+

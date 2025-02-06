@@ -1,0 +1,73 @@
+
+
+
+ Joaquin Vieira 
+
+
+
+
+
+Professor
+
+
+
+jvieira@illinois.edu
+487C Loomis Laboratory
+
+
+For More Information
+Observational Cosmology Group Webpage
+Astronomy Webpage
+
+Education
+BS, Astrophysics, University of California, Los Angeles, 2002
+MS, Physics, University of Chicago, 2005
+PhD, Physics, University of Chicago, 2009
+
+BiographyProfessor Vieira is an observational cosmologist in the departments of Astronomy and Physics. His work has focused on instrumentation and observations of the cosmic microwave background -  the relic radiation left over from the big bang - and the evolution of the universe over cosmic time. He is currently actively involved on a number of large cosmological experiments, including the South Pole Telescope (SPT), CMB-S4, and the Terahertz Intensity Mapper (TIM). He regularly observes with major astronomical facilities such as ALMA, Hubble, and soon, JWST. He currently serves as Director of Astronomy at the National Center for Supercomputing Applications (NCSA) and is the Founding Director of the Center for AstroPhysical Surveys (CAPS).
+Post-Doctoral Research OpportunitiesProf. Vieira is seeking to hire Post-Doctoral Researchers to work on the following projects:
+1) Analysis of South Pole Telescope (SPT) survey data.
+2) The Terahertz Intensity Mapper (TIM), a NASA-funded balloon project to build and fly a 2-m FIR telescope around Antartica and make a 3D map of the Universe with the redshifted 158 micron ionized carbon line. 
+Graduate Research OpportunitiesProf. Vieira is currently looking for graduate students to work on the following projects:
+1) Analysis of South Pole Telescope (SPT) survey data.
+2) Development of an experiment to search for axion dark matter.
+3) The Terahertz Intensity Mapper (TIM), a NASA-funded balloon project to build and fly a 2-m FIR telescope around Antartica and make a 3D map of the Universe with the redshifted 158 micron ionized carbon line. 
+Students are welcome and encouraged to drop by with questions about science, instrumentation, or available research projects.
+Undergraduate Research OpportunitiesI am always looking for undergraduates to work on analysis and instrumentation projects. I prefer taking on promising students in their first or second year. It's best to just come chat with me during office hours. Come prepared with a CV, some background reading, and questions. Students from traditionally underrepresented groups in science are encouraged to inquire about research opportunities in my group.
+Research Interests
+High redshift galaxies
+Cosmic dust
+Dark matter, dark energy, inflation, relic neutrino background
+Gravitational Lensing
+Instrumentation
+Astrophysical Surveys
+
+The Cosmic Microwave Background
+Cosmology
+
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+High Energy Physics (experimental)
+
+
+Selected Articles in Journals
+Nadolski, A.;  Vieira, J. D.; et al. "Broadband, millimeter-wave antireflection coatings for large-format, cryogenic aluminum oxide optics" Applied Optics, Vol. 59, Issue 10, pp. 3285-3295 (2020)
+Jarugula, Sreevani;  Vieira, Joaquin D.; et al.,  "Spatially Resolved Water Emission from Gravitationally Lensed Dusty Star-forming Galaxies at z~3" The Astrophysical Journal, Volume 880, Issue 2, article id. 92, 13 pp. (2019)
+Miller, T. B.;  Chapman, S. C.;  Aravena, M.;  Ashby, M. L. N.;  Hayward, C. C.;  Vieira, J. D.; et al, "A massive core for a cluster of galaxies at a redshift of 4.3" Nature, Volume 556, Issue 7702, p.469-472 (2018)
+Marrone, D. P.;  Spilker, J. S.;  Hayward, C. C.;  Vieira, J. D, et al.  "Galaxy growth in a massive halo in the first billion years of cosmic history" Nature, Volume 553, Issue 7686, pp. 51-54 (2018)
+Hanson, D., Hoover, S., Crites, A., et al., "Detection of B-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope," Physical Review Letters, vol. 111, id. 141301 (2013)
+Vieira, J.D., Marrone, D.P., et al., "Dusty starburst galaxies in the early Universe as revealed by gravitational lensing," Nature, Volume 495, Issue 7441, pp. 344-347 (2013)
+Page, M. J.; Symeonidis, M.; Vieira, J.D., et al., "The suppression of star formation by powerful active galactic nuclei," Nature, Volume 485, Issue 7397, pp. 213-216 (2012)
+Carlstrom, J.E., et al., "The 10 Meter South Pole Telescope," Publications of the Astronomical Society of the Pacific, Volume 123, pp. 568-581 (2011)
+Vieira, J.D., Crawford, T.M.,  Switzer, E.R., et al.,  "Extragalactic millimeter-wave sources in South Pole Telescope survey data: source counts, catalog, and statistics for an 87 square-degree field," The Astrophysical Journal, Vol. 719, pp. 763-783 (2010)
+Staniszewski, Z., et al., "Galaxy Clusters Discovered with a Sunyaev-Zel'dovich Effect Survey," The Astrophysical Journal, Volume 701, pp. 32-41 (2009)
+
+Honors
+Sloan Research Fellowship (2017)
+Beckman Fellow, Center for Advanced Study, University of Illinois  (2015)
+National Center for Supercomputing Applications (NCSA) Fellow  (2015)
+Antarctic Service Medal of the United States of America (2011)
+
+Recent Courses TaughtPHYS 212 - University Physics: Elec & Mag
+

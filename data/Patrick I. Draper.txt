@@ -1,0 +1,69 @@
+
+
+
+Patrick I Draper 
+
+
+
+
+
+Associate Professor
+
+
+
+pdraper@illinois.edu
+435 Loomis Laboratory
+
+
+For More Information
+papers from Inspire
+
+Education
+Ph.D., Physics, University of Chicago, 2011
+
+BiographyProfessor Draper received his PhD in Physics from The University of Chicago in 2011 following his BS from the University of Illinois in 2005. He held postdoctoral appointments at the University of California Santa Cruz and the University of California Santa Barbara and a faculty appointment at the University of Massachusetts Amherst before moving to the University of Illinois in 2018. He works on a variety of topics in theoretical high energy physics and early-universe cosmology.
+Research StatementMuch of my research has been motivated by the electroweak hierarchy problem and the strong CP problem. I have worked on the physics of the Higgs boson, particularly in the context of supersymmetric solutions to the hierarchy problem; the cosmology of axion solutions to the strong CP problem and other axion-like dark matter candidates; and the experimental probes of other mechanisms that could address strong CP. I am also interested in more theoretical aspects of quantum field theory, particularly regarding nonperturbative phenomena in gauge theories, and in constraining effective field theories with ultraviolet consistency conditions.
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+High Energy Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+M. J. Dolan, P. Draper, J. Kozaczuk and H. Patel, "Transplanckian Censorship and Global Cosmic Strings," JHEP 1704, 133 (2017) [arXiv:1701.05572 [hep-th]]
+M. Dine, P. Draper, L. Stephenson-Haskins and D. Xu, "Axions, Instantons, and the Lattice," Phys. Rev. D 96, no. 9, 095001 (2017) [arXiv:1705.00676 [hep-ph]]
+P. Draper, "Domain Walls and the CP Anomaly in Softly Broken Supersymmetric QCD,'' Phys. Rev. D 97, no. 8, 085003 (2018) [arXiv:1801.05477 [hep-th]]
+P. Draper, J. Kozaczuk and J. H. Yu, "Theta in new QCD-like sectors," Phys. Rev. D 98, no. 1, 015028 (2018) [arXiv:1803.00015 [hep-ph]]
+J. de Vries, P. Draper, K. Fuyuto, J. Kozaczuk and D. Sutherland,  "Indirect Signs of the Peccei-Quinn Mechanism," Phys. Rev. D 99, no. 1, 015042 (2019) [arXiv:1809.10143 [hep-ph]]
+P. Draper,  "Virtual and Thermal Schwinger Processes," Phys. Rev. D 98, no. 12, 125014 (2018) [arXiv:1809.10768 [hep-th]]
+P. Draper, J. Kozaczuk and S. Thomas, "Precision Inclusive Higgs Physics at $e^+e^-$ Colliders With Tracking Detectors and Without Calorimetry," JHEP 09 (2020) 174 [arXiv:1812.08289 [hep-ph]]
+P. Draper and S. Farkas, "Gravitational Instabilities and Censorship of Large Scalar Field Excursions,"  JHEP 1905, 158 (2019) [arXiv:1901.00515 [hep-th]]
+N. Blinov, M. J. Dolan, P. Draper and J. Kozaczuk, "Dark matter targets for axionlike particle searches," Phys. Rev. D 100, no. 1, 015049 (2019) [arXiv:1905.06952 [hep-ph]]
+J. Dinsmore, P. Draper, D. Kastor, Y. Qiu and J. Traschen, "Schottky Anomaly of deSitter Black Holes," Class. Quant. Grav. 37 (2020) 5, 054001   [arXiv:1907.00248 [hep-th]]
+P. Draper and S. Farkas, "Transplanckian Censorship and the Local Swampland Distance Conjecture,"  JHEP 01 (2020) 133 [arXiv:1910.04804 [hep-th]]
+T. Banks and P. Draper, "Remarks on the Cohen-Kaplan-Nelson Bound,"  Phys. Rev. D 101 (2020) 12, 126010 [arXiv:1911.05778 [hep-th]]
+N. Blinov, M. J. Dolan and P. Draper, "Imprints of the Early Universe on Axion Dark Matter Substructure," Phys. Rev. D 101 (2020) 3, 035002 [arXiv:1911.07853 [astro-ph.CO]]
+P. Adshead, P. Draper and B. Lillard, "Time-Domain Properties of Electromagnetic Signals in a Dynamical Axion Background," Phys. Rev. D 102, 123011 (2020).
+T. Banks, P. Draper and S. Farkas, "Path Integrals for Causal Diamonds and the Covariant Entropy Principle," Phys.Rev.D 103 (2021) 10, 106022 [arXiv:2008.03449]
+P. Draper, A. Ekstedt and H. Haber, "A Natural Mechanism for Approximate Higgs Alignment in the 2HDM,"  JHEP 05 (2021) 235 [arXiv:2011.13159]
+N. Blinov, M. Dolan, P. Draper and J. Shelton, "Dark Matter Microhalos from Simplified Models," Phys.Rev.D 103 (2021) 10, 103514 [arXiv: 2102.05070]
+P. Draper, I. Garcia Garcia, and B. Lillard, "Bubble of nothing decays of unstable theories," Phys.Rev.D 104 (2021) 12, 12 [arxiv:2105.08068]
+P. Draper, I. Garcia Garcia, and B. Lillard, "De Sitter decays to infinity," JHEP 12 (2021) 154 [arxiv:2105.10507]
+N. Blinov and P. Draper, "Densities of States and the Cohen-Kaplan-Nelson bound,"  Phys.Rev.D 104 (2021) 7, 076024 [arxiv:2107.03530]
+J. de Vries, P. Draper, K. Fuyuto, J. Kozaczuk, and B. Lillard, "Uncovering an axion mechanism with the EDM portfolio," Phys.Rev.D 104 (2021) 5, 055039 [arxiv:2107.04046]
+J. Shen, D. Luo, Chenxi Huang, B. Clark, A. X. El-Khadra, B. Gadway and P. Draper, "Simulating Quantum Mechanics with a theta-term and an 't Hooft Anomaly on a Synthetic Dimension," [arXiv:2107.08073]
+J. de Vries, P. Draper, and H.H. Patel, "Do Minimal Parity Solutions to the Strong CP Problem Work?," [arxiv:2109.01630]
+P. Draper and S. Farkas, "Euclidean de Sitter Black Holes and Microcanonical Equilibrium," [arxiv:2203.01871]
+P. Draper and S. Farkas, "de Sitter Black Holes as Constrained States in the Euclidean Path Integral," [arxiv:2203.02426]
+N. Blinov, N. Craig, M. J. Dolan, J. de Vries, P. Draper, I. Garcia Garcia, B. Lillard and J. Shelton, "Snowmass White Paper: Strong CP Beyond Axion Direct Detection," [arxiv:2203.07218]
+P. Draper, I. Garcia Garcia and M. Reece, "Snowmass White Paper: Implications of Quantum Gravity for Particle Physics," [arxiv:2203.07624]
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 212 - University Physics: Elec & Mag
+PHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 427 - Thermal & Statistical Physics
+PHYS 505 - Classical Electromagnetism
+PHYS 508 - Mathematical Physics I
+

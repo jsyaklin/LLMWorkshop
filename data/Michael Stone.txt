@@ -1,0 +1,71 @@
+
+
+
+Michael Stone he/him/his
+
+
+
+
+
+Professor
+
+
+(217) 333-2891
+m-stone5@illinois.edu
+2117 Engineering Sciences Building
+
+
+For More Information
+Personal webpage with pedagogical essays. 
+Course page and online notes for Phys509 "Mathematical Methods II"
+Course page and online notes for Phys508 "Mathematical Methods I"
+
+Education
+Ph.D., Particle Physics, Univ. Cambridge, 1976
+
+BiographyProfessor Michael Stone Professor Stone received his Ph.D. from the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge in 1976. He joined the Department of Physics at the University of Illinois as an assistant professor in 1981. He served as the Deputy Director for the Institute of Theoretical Physics at the University of California, Santa Barbara from 1992 until 1994. He serves on the editorial boards of the International Journal of Modern Physics B, Modern Physics Letters B, and Physical Review Letters. He was the divisional associate editor for Physical Review Letters from 1997 until 1999.
+The main focus of Professor Stone's current research is the dynamics of vortices in superfluids and superconductors. He has resolved a decades-long puzzle about the fundamental mechanism of dissipation in superconductors by clarifying the motion of Abrikosov vortices under the influence of a Magnus force. Previously, he explored and clarified the extent to which topological constraints impose "anomalous" behavior on physical systems, such as superfluid liquid helium, and has linked such behavior to the Berry's phase. He has also greatly extended the range of models to which bosonization can be applied and has successfully extracted implications for physical systems. In addition, he has explored the "edge wave" states observed in experiments on the quantum Hall effect and has clarified their nature by linking them to one-dimensional chiral field theories. Professor Stone's contributions have been characterized by a combination of sophisticated mathematical formalism and deep physical insight.
+Research StatementApplications of Field Theory to Condensed Matter Physics 
+
+Mike Stone
+
+This program is aimed at advancing the theoretical understanding of a variety of condensed matter systems, each involving many strongly coupled degrees of freedom. Attention is primarily focused on the following areas: electronic liquid crystal phases in Mott insulators; the quantum Hall effect; geometric phases and their condensed matter implications; superfluids and superconductors, including vortex motion in dirty systems, quantum critical behavior of magnetic impurities in -wave superconductors; vulcanized matter and the vulcanization transition; structural glasses and network-forming systems, glassiness of superfluid helium-three in aerogel, shapes adopted by large biological macromolecules, and static and dynamic properties of polysoap macromolecules.
+
+Research Areas
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+M. Stone,  Gamma matrices, Majorana fermions, and discrete symmetries in Minkowski and Euclidean signature, 2022 J. Phys. A: Math. Theor. 55 205401. (37 pp)
+
+M. Stalhammer, M Stone, .M Sato, T.H.Hansson,  "Electromagnetic response of topological superconductors"Physical Review B 103, 235427 (2021) (13ppp) 
+M .Stone JY. Kim, Mixed Anomalies: Chiral Vortical Effect and the Sommerfeld Expansion, Phys. Rev. D 98, 025012 (2018). (12pp)
+V Dwivedi, M.Stone, Chiral kinetic theory and anomalous hydrodynamics in even spacetime dimensions. J. Phys. A: Math. Theor. 50 (2017) 155202 (18pp).
+M. Stone, P. Lopes, Effective action and electromagnetic response of topological superconductors and Majorana-mass Weyl fermions, Phys. Rev. B 93, 174501 (2016)  [12 pages]
+M.Stone. Berry phase and anomalous velocity of Weyl fermions and Maxwell photons, Int. J. Mod. Phys. B, 30, 1550249 (2016) [19 pages],
+T. Zhou, M.Stone, Solitons in a continuous classical Haldane-Shastry spin chain, Physics Letters A,  2817â€“2825 (2015)
+M .Stone, Topology, Spin and  Light, Science,  348, 1432-1433 (2105)
+
+
+M. Stone, V. Dwivedi, T. Zhou. Wigner translations and the observer-dependence of the position of masslesss spinning particles.
+Phys. Rev. Lett. 114, 210402  (2015)
+
+ 
+M. Stone, V. Dwivedi, T. Zhou. Berry Phase, Lorentz Covariance, and Anomalous Velocity for Dirac and Weyl Particles,Phys. Rev. D 91, 025004-18 (2015).
+V. Dwivedi, M. Stone. Classical chiral kinetic theory and anomalies in even space-time dimensions, J. Phys. A 47, 025401 (2014).
+K. Roberts, R. Budakian,  M Stone. Numerical study of the stability regions for half-quantum vortices in superconducting Sr2RuO4, Phys. Rev. B 88, 094503-7  (2013)
+M. Stone, V. Dwivedi. Classical version of the non-Abelian gauge anomaly, Phys. Rev. D 88, 045012-8 (2013).
+M. Stone. An Analogue of Hawking Radiation in the Quantum Hall effect, Class, Quantum Grav. 30, 085003-1-14 (2013)
+
+M. Stone. Gravitational anomalies and thermal Hall effect in topological insulators, Phys. Rev. B 85, 184503-1-10 (2012).
+Y. Liu, A. Roy, and M. Stone. A Non-Abelian Berry transport, spin coherent states and Majorana points, J. Phys. A 45, 135304-1-20 (2012).
+
+Research Honors
+Fellow, Institute of Physics (UK) (2011)
+Fellow, American Physical Society (2009)
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 508 - Mathematical Physics I
+PHYS 509 - Mathematical Physics II
+

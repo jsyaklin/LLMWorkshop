@@ -1,0 +1,31 @@
+
+
+
+Daniel Kang 
+
+
+
+
+
+Assistant Professor
+
+
+
+ddkang@illinois.edu
+ 
+
+
+For More Information
+Daniel Kang's website
+
+
+BiographyDaniel's research focuses on making analytics with machine learning (ML) easy for scientists and analysts to use. For his dissertation, Daniel worked a particular emphasis on video analytics and data systems for deploying ML.His research has been supported by Google, the Open Philanthropy project, and others. At Illinois CS, Daniel is actively recruiting PhD students for fall 2023. Those interested can connect with him via email.
+Research Interests
+Analytics with Machine Learning
+
+
+
+Recent Courses TaughtCS 511 - Advanced Data Management
+CS 598 KD - How to Do Research
+CS 598 MS - ML + Data Systems
+

@@ -1,0 +1,89 @@
+
+
+
+Varda Hagh they/them/theirs
+
+
+
+
+
+Assistant Professor
+
+
+
+hagh@illinois.edu
+3042 Sidney Lu Mech Engr Bldg
+
+
+For More Information
+Research Group Website
+
+Education
+Ph.D, Physics, Arizona State University, 2018
+B.SC, Physics, University of Tehran, 2011 
+
+Academic Positions
+Assistant Professor, Department of Mechanical Science and Engineering, University of Illinois Urbana-Champaign, 2024 - present
+
+Postdoctoral Researcher, James Franck Institute, University of Chicago, 2018-2023
+
+Research Interests
+Control in Mechanical Metamaterials
+Training Soft and Biological Matter
+Reconfigurable Mechanisms and Structures 
+Memory Formation in Matter
+
+
+
+Selected Articles in Journals
+C. W. Lindeman and V. F. Hagh, C. I. Ip, S. R. Nagel, “Competition between energy and dynamics in memory
+formation,” Physical review letters, vol. 130, no. 19, p. 197201, 2023.
+
+V. F. Hagh, S. R. Nagel, A. J. Liu, M. L. Manning, and E. I. Corwin, “Transient learning degrees of free-
+dom for introducing function in materials,” Proceedings of the National Academy of Sciences, vol. 119, no. 19,
+p. e2117622119, 2022.
+
+R. C. Dennis, V. F. Hagh, and E. I. Corwin, “Emergence of zero modes in disordered solids under periodic tiling,”
+Physical Review E, vol. 106, no. 4, p. 044901, 2022.
+
+V. F. Hagh and M. Sadjadi, “rigidpy: Rigidity analysis in python,” Computer Physics Communications, vol. 275,
+p. 108306, 2022.
+
+O. K. Damavandi, V. F. Hagh, C. D. Santangelo, and M. L. Manning, “Energetic rigidity. i. a unifying theory of
+mechanical stability,” Physical Review E, vol. 105, no. 2, p. 025003, 2022.
+
+O. K. Damavandi, V. F. Hagh, C. D. Santangelo, and M. L. Manning, “Energetic rigidity. ii. applications in
+examples of biological and underconstrained materials,” Physical Review E, vol. 105, no. 2, p. 025004, 2022.
+
+F. Arceri, E. I. Corwin, and V. F. Hagh, “Marginal stability in memory training of jammed solids,” Physical
+Review E, vol. 104, no. 4, p. 044907, 2021.
+
+M. Sadjadi, V. F. Hagh, M. Kang, M. Sitharam, R. Connelly, S. J. Gortler, L. Theran, M. Holmes-Cerfon, and M. F.
+Thorpe, “Realizations of isostatic material frameworks,” physica status solidi (b), vol. 258, no. 9, p. 2000555,
+2021.
+
+V. F. Hagh, E. I. Corwin, K. Stephenson, and M. Thorpe, “A broader view on jamming: from spring networks to
+circle packings,” Soft matter, vol. 15, no. 15, pp. 3076–3084, 2019.
+
+V. F. Hagh and M. F. Thorpe, “Disordered auxetic networks with no reentrant polygons,” Physical Review B,
+vol. 98, no. 10, p. 100101, 2018.
+
+W. G. Ellenbroek, V. F. Hagh, A. Kumar, M. Thorpe, and M. Van Hecke, “Rigidity loss in disordered systems:
+Three scenarios,” Physical review letters, vol. 114, no. 13, p. 135501, 2015.
+
+
+Pending Articles
+Varda F. Hagh, and Sidney R. Nagel, "Permutation Symmetry Restoration in Disordered Materials" is under peer review in PNAS.
+
+
+Professional Societies
+American Physical Society Membership, 2014- Present
+
+
+Service on Department Committees
+Diversity, Equity, Inclusion Committee Member, Jan 2024- Present
+
+
+Recent Courses TaughtTAM 251 - Introductory Solid Mechanics
+TAM 451 - Intermediate Solid Mechanics
+

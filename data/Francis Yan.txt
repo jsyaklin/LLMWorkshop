@@ -1,0 +1,48 @@
+
+
+
+Francis Yan he/him/his
+
+
+
+
+
+ASST PROF
+
+
+
+fyy@illinois.edu
+ 
+
+
+For More Information
+Francis Yan's website
+
+
+Education
+Ph.D. in Computer Science, Stanford University, 2020
+
+B.S. in Computer Science, Tsinghua University, 2015
+
+B.A. in Economics, Tsinghua University, 2015
+
+BiographyFrancis Y. Yan is an Assistant Professor of Computer Science at the University of Illinois at Urbana-Champaign (UIUC), with an affiliate appointment in Electrical & Computer Engineering. His research focuses on enhancing networked systems with practical machine learning (ML), ranging from building real systems and open research platforms that lay the groundwork for applying ML, to devising ML-based algorithms that are readily deployable in practice.
+Prior to joining UIUC, Francis was a Senior Researcher at Microsoft Research Redmond. He earned his Ph.D. in computer science from Stanford University and completed his undergraduate studies at Tsinghua University (Yao Class) and MIT. Francis is a recipient of the IRTF Applied Networking Research Prize, the USENIX NSDI Community Award, the USENIX NSDI Outstanding Paper Award, the USENIX ATC Best Paper Award, and the APNet Best Paper Award.
+Academic Positions
+Assistant Professor of Computer Science, University of Illinois at Urbana-Champaign, 2025–Present
+Affiliate Professor of  Electrical & Computer Engineering, University of Illinois at Urbana-Champaign, 2025–Present
+Senior Researcher, Microsoft Research Redmond, 2020–2024
+
+Research Interests
+Networked Systems
+Multimedia Systems
+Machine Learning for Systems and Networking
+
+
+Research Areas
+Artificial Intelligence
+Systems and Networking
+
+
+Recent Courses TaughtCS 538 - Advanced Computer Networks
+

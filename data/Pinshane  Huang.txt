@@ -1,0 +1,123 @@
+
+
+
+Pinshane Huang 
+
+
+
+
+
+Associate Professor and Racheff Faculty Scholar
+
+
+(217) 300-2574
+pyhuang@illinois.edu
+258 Seitz Materials Research Lab
+
+
+For More Information
+Huang research group page
+
+Education
+PhD, Cornell University, Applied and Engineering Physics
+MS, Cornell University, Applied and Engineering Physics
+BA, Carleton College, Department of Physics (with Distinction)
+
+BiographyPinshane Huang is an associate professor in the Department of Materials Science and Engineering at the University of Illinois Urbana-Champaign. She holds a B.A. in Physics from Carleton College and a Ph.D. in Applied Physics from Cornell University. Her current research is focused around transmission electron microscopy and spectroscopy of two-dimensional materials and soft-hard interfaces. Her work has produced iconic images showing how defects occur in atomically thin materials such as graphene, 2D semiconductors, and silica glass. Her awards include a Presidential Early Career Award for Scientists and Engineers (PECASE), a Packard Fellowship, a Sloan Fellowship, and young investigator awards from the Department of Defense and the National Science Foundation. Her research has been featured in National Geographic, BusinessWeek, CBS News, Discover Magazine, and the Guinness Book of World Records.
+Academic Positions
+Associate Professor, University of Illinois, Department of Materials Science and Engineering, 2021-present
+Associate Director, University of Illinois, Materials Research Laboratory, 2023-present
+Ivan Racheff Faculty Scholar, University of Illinois, Department of Materials Science and Engineering, 2022-present
+Assistant Professor, University of Illinois, Department of Materials Science and Engineering, 2015-2020
+Affiliate Faculty, University of Illinois, Materials Research Laboratory, 2015-present
+
+Research StatementOur group  uses transmission electron microscopy and spectroscopy to  understand  nanomaterials and devices at the atomic scale. Using recent  advances in  aberration-corrected electron microscopy, we aim to image  the structure,  bonding, electronic, optical properties of materials  with unprecedented precision—especially  in 2D materials such as  graphene. Studying this new class of nanomaterials  offers a two-fold  opportunity: first, 2D materials serve as model systems to  directly  correlate the structure and properties of individual atomic features.   In these studies, the reduced dimensionality of 2D materials allow us to  access  new regimes in complex materials systems, such as the  real-space, atomic-scale  structure of glass.  Second, because  defects,  dopants, and interfaces have dramatic effects on the properties of  materials  that are only a single unit-cell thick, these studies allow  for dramatic tuning  of the properties of 2D materials. Together, this  research aims to harness the incredible  insights of atom-by-atom  microscopy to design novel nanomaterials and devices.
+
+Research Areas
+Advanced Materials for Electronics and Communications
+Data-Driven Materials Discovery
+Sustainable Materials for Energy and the Environment
+
+
+Selected Articles in Journals
+J. H. Park, C. H. Lee, S. Yu, P. Kharel, R. Choi, C. Zhang, P. Y. Huang, J. S.-I. Kwon & H. Yang. Effects of amine-based covalent organic framework on platinum electrocatalyst performance towards hydrogen evolution reaction. Nano Energy 128, 109947 (2024).  doi:https://doi.org/10.1016/j.nanoen.2024.109947
+Y. Zhang, J.-H. Baek, C.-H. Lee, Y. Jung, S. C. Hong, G. Nolan, K. Watanabe, T. Taniguchi, G.-H. Lee & P. Y. Huang. Atom-by-atom imaging of moiré transformations in 2D transition metal dichalcogenides. Science Advances 10, eadk1874 (2024).  doi:10.1126/sciadv.adk1874
+K. X. Nguyen, Y. Jiang, C.-H. Lee, P. Kharel, Y. Zhang, A. M. van der Zande & P. Y. Huang. Achieving sub-0.5-angstrom–resolution ptychography in an uncorrected electron microscope. Science 383, 865-870 (2024).  doi:10.1126/science.adl2029
+J. A. Christensen, S. Bettler, K. Qu, J. Huang, S. Kim, Y. Lu, C. Zhao, J. Chen, M. J. Krogstad, T. J. Woods, F. Mahmood, P. Y. Huang, P. Abbamonte & D. P. Shoemaker. Disorder and diffuse scattering in single-chirality (TaSe4)2I crystals. Physical Review Materials 8, 034202 (2024).  doi:10.1103/PhysRevMaterials.8.034202
+J. H. Baek, H. G. Kim, S. Y. Lim, S. C. Hong, Y. Chang, H. Ryu, Y. Jung, H. Jang, J. Kim, Y. Zhang, K. Watanabe, T. Taniguchi, P. Y. Huang, H. Cheong, M. Kim & G. H. Lee. Thermally induced atomic reconstruction into fully commensurate structures of transition metal dichalcogenide layers. Nat Mater 22, 1463-1469 (2023).  doi:10.1038/s41563-023-01690-2
+Y. Shin, S. Shin, D. Sung, J. Cha, H.-K. Choi, Y. Jeong, M. Ji Im, Y. Hui Kim, S. Ahn, S. Bae, J. Lim, E. Han, P. Y. Huang, A. M. van der Zande, S. Hong, G.-H. Lee & J. Son. Facilitated fluorination and etching of 2D materials. Applied Surface Science 645, 158857 (2024).  doi:10.1016/j.apsusc.2023.158857
+A. Khan, C.-H. Lee, P. Y. Huang & B. K. Clark. Leveraging generative adversarial networks to create realistic scanning transmission electron microscopy images. npj Computational Materials 9, 85 (2023).  doi:10.1038/s41524-023-01042-3
+D. Chen, H. Zhuang, M. Chen, P. Y. Huang, V. Vlcek & Y. Jiao. Disordered hyperuniform solid state materials. Applied Physics Reviews 10 (2023).  doi:10.1063/5.0137187
+E. Han, S. M. Nahid, T. Rakib, G. Nolan, P. F. Ferrari, M. A. Hossain, A. Schleife, S. Nam, E. Ertekin, A. M. van der Zande & P. Y. Huang. Bend-Induced Ferroelectric Domain Walls in α-In2Se3. ACS Nano 17, 7881-7888 (2023).  doi:10.1021/acsnano.3c01311
+K. X. Nguyen, J. Huang, M. H. Karigerasi, K. Kang, D. G. Cahill, J.-M. Zuo, A. Schleife, D. P. Shoemaker & P. Y. Huang. Angstrom-scale imaging of magnetization in antiferromagnetic Fe2As via 4D-STEM. Ultramicroscopy 247, 113696 (2023).  doi:10.1016/j.ultramic.2023.113696
+C. H. Lee, H. Ryu, G. Nolan, Y. Zhang, Y. Lee, S. Oh, H. Cheong, K. Watanabe, T. Taniguchi, K. Kim, G. H. Lee & P. Y. Huang. In Situ Imaging of an Anisotropic Layer-by-Layer Phase Transition in Few-Layer MoTe(2). Nano Lett 23, 677-684 (2023).  doi:10.1021/acs.nanolett.2c04550
+P. Kharel, B. E. Janicek, S. h. Bae, A. L. Loutris, P. T. Carmichael & P. Y. Huang. Atomic-Resolution Imaging of Small Organic Molecules on Graphene. Nano Letters 22, 3628-3635 (2022).  doi:10.1021/acs.nanolett.2c00213
+M. H. Karigerasi, K. Kang, J. Huang, V. K. Peterson, K. C. Rule, A. J. Studer, A. Schleife, P. Y. Huang & D. P. Shoemaker. High-resolution diffraction reveals magnetoelastic coupling and coherent phase separation in tetragonal CuMnAs. Physical Review Materials 6, 094405 (2022).  doi:10.1103/PhysRevMaterials.6.094405
+S.-J. Yang, J.-H. Jung, E. Lee, E. Han, M.-Y. Choi, D. Jung, S. Choi, J.-H. Park, D. Oh, S. Noh, K.-J. Kim, P. Y. Huang, C.-C. Hwang & C.-J. Kim. Wafer-Scale Programmed Assembly of One-Atom-Thick Crystals. Nano Letters 22, 1518-1524 (2022).  doi:10.1021/acs.nanolett.1c04139
+Z. W. Riedel, F. Amerikheirabadi, K. Qu, J. Huang, M. S. Gebre, A. Bhutani, R. T. Haasch, P. Y. Huang, A. Schleife & D. P. Shoemaker. Structure and Magnetic Properties of Ni4V3O10, an Antiferromagnet with Three Types of Vanadium–Oxygen Polyhedra. Chemistry of Materials 34, 4721-4731 (2022).  doi:10.1021/acs.chemmater.2c00697
+J. Yu, E. Han, M. A. Hossain, K. Watanabe, T. Taniguchi, E. Ertekin, A. M. van der Zande & P. Y. Huang. Designing the Bending Stiffness of 2D Material Heterostructures. Adv Mater 33, e2007269 (2021).  doi:10.1002/adma.202007269
+H. Ryu, Y. Lee, H.-J. Kim, S.-H. Kang, Y. Kang, K. Kim, J. Kim, B. E. Janicek, K. Watanabe, T. Taniguchi, P. Y. Huang, H. Cheong, I.-H. Jung, K. Kim, Y.-W. Son & G.-H. Lee. Anomalous Dimensionality-Driven Phase Transition of MoTe2 in Van der Waals Heterostructure. Advanced Functional Materials n/a, 2107376 (2021).  doi:https://doi.org/10.1002/adfm.202107376
+D. Chen, Y. Zheng, C.-H. Lee, S. Kang, W. Zhu, H. Zhuang, P. Y. Huang & Y. Jiao. Nearly hyperuniform, nonhyperuniform, and antihyperuniform density fluctuations in two-dimensional transition metal dichalcogenides with defects. Physical Review B 103, 224102 (2021).  doi:10.1103/PhysRevB.103.224102
+S. Kang, Y. S. Kim, J. H. Jeong, J. Kwon, J. H. Kim, Y. Jung, J. C. Kim, B. Kim, S. H. Bae, P. Y. Huang, J. C. Hone, H. Y. Jeong, J.-W. Park, C.-H. Lee & G.-H. Lee. Enhanced Photoluminescence of Multiple Two-Dimensional van der Waals Heterostructures Fabricated by Layer-by-Layer Oxidation of MoS2. ACS Applied Materials & Interfaces 13, 1245-1252 (2021).  doi:10.1021/acsami.0c18364
+C. H. Lee, A. Khan, D. Luo, T. P. Santos, C. Shi, B. E. Janicek, S. Kang, W. Zhu, N. A. Sobh, A. Schleife, B. K. Clark & P. Y. Huang. Deep Learning Enabled Strain Mapping of Single-Atom Defects in Two-Dimensional Transition Metal Dichalcogenides with Sub-Picometer Precision. Nano letters 20, 3369-3377 (2020).  doi:10.1021/acs.nanolett.0c00269
+E. Han, J. Yu, E. Annevelink, J. Son, D. A. Kang, K. Watanabe, T. Taniguchi, E. Ertekin, P. Y. Huang & A. M. van der Zande. Ultrasoft slip-mediated bending in few-layer graphene. Nature Materials 19, 305-309 (2019). 
+
+B. E. Janicek, J. G. Hinman, J. J. Hinman, S. H. Bae, M. Wu, J. Turner, H. H. Chang, E. Park, R. Lawless, K. S. Suslick, C. J. Murphy & P. Y. Huang. Quantitative Imaging of Organic Ligand Density on Anisotropic Inorganic Nanocrystals. Nano Lett 19, 6308-6314 (2019). 
+
+J. G. Hinman, J. J. Hinman, B. E. Janicek, P. Y. Huang, K. S. Suslick & C. J. Murphy. Ultrasonic Nebulization for TEM Sample Preparation on Single-Layer Graphene Grids. Nano Letters 19, 1938-1943 (2019).
+
+J. Finley, C. H. Lee, P. Y. Huang & L. Liu. Spin–Orbit Torque Switching in a Nearly Compensated Heusler Ferrimagnet. Advanced Materials 31, 1-6 (2019).
+
+J. Son, J. Kwon, S. Kim, Y. Lv, J. Yu, J.-Y. Lee, H. Ryu, K. Watanabe, T. Taniguchi, R. Garrido-Menacho, N. Mason, E. Ertekin, P. Y. Huang, G.-H. Lee & A. M. van der Zande. Atomically precise graphene etch stops for three dimensional integrated systems from two dimensional material heterostructures. Nature Communications 9, 3988-3988 (2018). 
+
+Q. Zheng, S. Li, C. Li, Y. Lv, X. Liu, P. Y. Huang, D. A. Broido, B. Lv & D. G. Cahill. High Thermal Conductivity in Isotopically Enriched Cubic Boron Phosphide. Advanced Functional Materials 28, 1805116-1805116 (2018).
+F. Tian, B. Song, X. Chen, N. K. Ravichandran, Y. Lv, K. Chen, S. Sullivan, J. Kim, Y. Zhou, T. H. Liu, M. Goni, Z. Ding, J. Sun, G. A. G. Udalamatta Gamage, H. Sun, H. Ziyaee, S. Huyan, L. Deng, J. Zhou, A. J. Schmidt, S. Chen, C. W. Chu, P. Y. Huang, D. Broido, L. Shi, G. Chen & Z. Ren. Unusual high thermal conductivity in boron arsenide bulk crystals. Science 361, 582-585 (2018).
+
+S. Li, Q. Zheng, Y. Lv, X. Liu, X. Wang, P. Y. Huang, D. G. Cahill & B. Lv. High thermal conductivity in cubic boron arsenide crystals. Science 361, 579-581 (2018).
+
+D. Rhodes, D. A. Chenet, B. E. Janicek, C. Nyby, Y. Lin, W. Jin, D. Edelberg, E. Mannebach, N. Finney, A. Antony, T. Schiros, T. Klarr, A. Mazzoni, M. Chin, Y.-c Chiu,W. Zheng, Q. R. Zhang, F. Ernst, J. I. Dadap, X. Tong, J. Ma, R. Lou, S. Wang, T. Qian, H. Ding, R. M. Osgood, Jr., D. W. Paley, A. M. Lindenberg, P. Y. Huang, A. N. Pasupathy, M. Dubey, J. Hone, and L. Balicas, Engineering the Structural and Electronic Phases of MoTe2 through W substitution, Nano Letters 17, 1616–1622 (2017).
+Blees, M. K. Barnard, A. W., Rose, P., Roberts, S. P., McGill, K. L., Huang, P. Y., Ruyack, A. R., Kevek, J. W., Kobrin, B., Muller, D. A., & McEuen, P. L. Graphene kirigami, Nature 524, 204–207 (2015).
+Kang, K. Xie, S., Huang, L., Han, Y., Huang, P.Y., Mak, K.F., Kim, C.-J., Muller, D. A., & Park, J. High-mobility three-atom-thick semiconducting films with wafer-scale homogeneity, Nature 520, 656–660 (2015). 
+Cui, X., Lee, G.-H., Kim, Y. D., Arefe, G., Huang, P. Y., Lee, C.-H., Chenet, D. A., Zhang, X., Wang, L., Ye, F., Pizzocchero, F., Jessen, B., S., Watanabe, K., Taniguci, T., Muller, D. A., Kim, P., & Hone, J.  Multi-terminal transport measurements of MoS2 using a van der Waals heterostructure device platform, Nature Nanotechnology 10, 534–540 (2015).
+Chenet, D. A., Aslan, O. B., Huang, P. Y., Fan, C., van der Zande, A. M., Heinz, T. F. & Hone, J. C. In-Plane Anisotropy in Mono-and Few-Layer ReS2 Probed by Raman Spectroscopy and Scanning Transmission Electron Microscopy. Nano letters 15, 5667-5672 (2015).
+A. M. Van Der Zande, J. Kunstmann, A. Chernikov, D. A. Chenet, Y. You, X. Zhang, P. Y. Huang, T. C. Berkelbach, L. Wang, F. Zhang, M. S. Hybertsen, D. A. Muller, D. R. Reichman, T. F. Heinz & J. C. Hone. Tailoring the electronic structure in bilayer molybdenum disulfide via interlayer twist. Nano Letters 14, 3869-3875 (2014).  doi:10.1021/nl501077m
+L. Wang, I. Meric, P. Y. Huang, Q. Gao, Y. Gao, H. Tran, T. Taniguchi, K. Watanabe, L. M. Campos, D. A. Muller, J. Guo, P. Kim, J. Hone, K. L. Shepard & C. R. Dean. One-dimensional electrical contact to a two-dimensional material. Science 342, 614-617 (2013).  doi:10.1126/science.1244358
+P. Y. Huang, S. Kurasch, J. S. Alden, A. Shekhawat, A. A. Alemi, P. L. McEuen, J. P. Sethna, U. Kaiser & D. A. Muller. Imaging atomic rearrangements in two-dimensional silica glass: Watching silica's dance. Science 342, 224-227 (2013).  doi:10.1126/science.1242248
+A. M. Van Der Zande, P. Y. Huang, D. A. Chenet, T. C. Berkelbach, Y. You, G. H. Lee, T. F. Heinz, D. R. Reichman, D. A. Muller & J. C. Hone. Grains and grain boundaries in highly crystalline monolayer molybdenum disulphide. Nature Materials 12, 554-561 (2013).  doi:10.1038/nmat3633
+J. S. Alden, A. W. Tsen, P. Y. Huang, R. Hovden, L. Brown, J. Park, D. A. Muller & P. L. McEuen. Strain solitons and topological defects in bilayer graphene. Proceedings of the National Academy of Sciences 110, 11256-11260 (2013).  doi:10.1073/pnas.1309394110
+P. Y. Huang, J. C. Meyer & D. A. Muller. From atoms to grains: Transmission electron microscopy of graphene. MRS Bulletin 37, 1214-1221 (2012).  doi:10.1557/mrs.2012.183
+M. P. Levendorf, C. J. Kim, L. Brown, P. Y. Huang, R. W. Havener, D. A. Muller & J. Park. Graphene and boron nitride lateral heterostructures for atomically thin circuitry. Nature 488, 627-632 (2012).  doi:10.1038/nature11408
+N. Petrone, C. R. Dean, I. Meric, A. M. Van Der Zande, P. Y. Huang, L. Wang, D. Muller, K. L. Shepard & J. Hone. Chemical vapor deposition-derived graphene with electrical performance of exfoliated graphene. Nano Letters 12, 2751-2756 (2012).  doi:10.1021/nl204481s
+
+L. Brown, R. Hovden, P. Huang, M. Wojcik, D. A. Muller & J. Park. Twinning and twisting of tri- and bilayer graphene. Nano Letters 12, 1609-1615 (2012).  doi:10.1021/nl204547v
+A. W. Tsen, L. Brown, M. P. Levendorf, F. Ghahari, P. Y. Huang, R. W. Havener, C. S. Ruiz-Vargas, D. A. Muller, P. Kim & J. Park. Tailoring Electrical Transport Across Grain Boundaries in Polycrystalline Graphene. Science 336, 1143-1146 (2012).  doi:10.1126/science.1218948
+P. Y. Huang, S. Kurasch, A. Srivastava, V. Skakalova, J. Kotakoski, A. V. Krasheninnikov, R. Hovden, Q. Mao, J. C. Meyer, J. Smet, D. A. Muller & U. Kaiser. Direct imaging of a two-dimensional silica glass on graphene. Nano Letters 12, 1081-1086 (2012).  doi:10.1021/nl204423x
+P. Y. Huang, C. S. Ruiz-Vargas, A. M. Van Der Zande, W. S. Whitney, M. P. Levendorf, J. W. Kevek, S. Garg, J. S. Alden, C. J. Hustedt, Y. Zhu, J. Park, P. L. McEuen & D. A. Muller. Grains and grain boundaries in single-layer graphene atomic patchwork quilts. Nature 469, 389-392 (2011).  doi:10.1038/nature09718
+
+Teaching Honors
+Campus Award for Excellence in Undergraduate Teaching (2024)
+Rose Award for Teaching Excellence (2023)
+The Grainger College of Engineering Teaching Excellence Award (2021)
+Illinois Student Government Teaching Excellence Award (2019)
+List of Teachers Ranked as Excellent by Their Students for MSE 182: Introduction to Materials Science  (2016-2022, 2024)
+List of Teachers Ranked as Excellent by Their Students for MSE 481: Electron Microscopy (2017, 2018, 2021)
+
+Research Honors
+Dean's Award for Excellence in Research (2021)
+Presidential Early Career Award for Scientists and Engineers (2019)
+Kavli Fellow of the National Academy of Sciences (2018, 2019)
+NSF CAREER Award (2019)
+Highly Cited Researchers List 2018, Clarivate Analytics (2018)
+Sloan Research Fellowship in Physics (2018)
+Center for Advanced Study Fellowship, UIUC (2018)
+Packard Fellowship, David and Lucile Packard Foundation (2017)
+Albert Crewe Award, Microscopy Society of America (2017)
+3M Non-Tenured Faculty Award (2017)
+Air Force Office of Scientific Research Young Investigator Award (2016)
+William Nichols Findley Award for Exceptional Research, Cornell University (2013)
+Presidential Scholarship Award, Microscopy Society of America (2012)
+Castaing Award, Microanalysis Society (2012)
+
+Recent Courses TaughtMSE 182 - Introduction to MatSE
+MSE 481 - Electron Microscopy
+

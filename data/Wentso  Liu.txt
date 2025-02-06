@@ -1,0 +1,311 @@
+
+
+
+Wentso Liu 
+
+
+
+
+
+Professor Emeritus
+Arthur C. Nauman Endowed ProfessorCivil and Environmental Engineering Excellence Faculty Scholar
+
+
+(217) 333-8442
+wtliu@illinois.edu
+3230e Newmark Civil Engineering Bldg
+
+
+Education
+B.S. Civil Engineering, National Taipei University of Technology, Taiwan, 1984 
+M.Sc. Environmental Science, Rutgers – the State University of New Jersey, 1989 
+M.Eng. Environmental Engineering, University of California at Berkeley, 1992 
+Ph.D. Urban Engineering, University of Tokyo, Japan, 1995 
+
+BiographyDr. Wen-Tso Liu holds a B.S. (National Taipei University of Technology, Taiwan) in Civil Engineering, an MS (Rutgers University) in Environmental Science, an MEng (University of California at Berkeley) in Environmental Engineering, and Ph.D. (University of Tokyo, 1995) in Urban Engineering. He has been a professor at the department of Civil and Environmental Engineering at the University of Illinois since 2008. Prior to 2008, Dr. Liu served as a professor at National Central University, Taiwan (1998-01) and at National University of Singapore (2001-08).  He also worked as a post-doctoral scientist at Michigan State University (1995-97) and Northwestern University (1997-98).
+
+Dr. Liu has taught undergraduate and graduate courses in water quality control engineering, biological principles in environmental engineering, environmental microbiology, wastewater biotechnology, and current topics in environmental biotechnology.
+
+Dr. Liu's recognitions include 2020 Walter J. Weber, Jr. AEESP Frontier in Research Award, 2018 ISME-IWA Bio-Cluster Grand Prize, Arthur Nauman Endowed Professor and CEE Excellence Faculty Scholar at UIUC, the distinguished alumni award and honorary international professorship of National Taipei University of Technology (2012), the visiting professorship of Shanghai Jiao-Tung University (2006-2009), the Asian Young Biotechnologist Prize (2005), and National Science Council research award, Taiwan (2000). He is a member of the American Society of Microbiology, International Society on Microbial Ecology, International Water Association, and American Water Work Association. He serves a member of the editorial board for several leading journals in Environmental Microbiology such as Microbial Ecology and the ISME journal by the publisher of Nature. He has contributed as a reviewer for more than 15 leading journals.
+Academic Positions
+Assistant Professor, 		National Central University, 			1998-2001 
+Assistant Professor, 		National University of Singapore, 		2001-2004 
+Associate faculty member, 	NUS Graduate School (NGS) for Integrative Sciene and Engineering	2003-2008 (0%) 
+Associate Professor, 		National University of Singapore, 		2004-2008 
+Joint Appointed Faculty, 	Inst of Microelectronics, Singapore, 		2005-2006(25%), 2006-2007 (50%) 
+Guest Professor, 		Shanghai Jiao-Tong Univ, China 		2006-2009 (0%) 
+Visiting Associate Professor, 	National University of Singapore, 		2008-2011 (0%) 
+Faculty member, Biocomplexity theme group, Institute for Genomic Biology, University of Illinois at Urbana-Champaign, 2008-2021 (0%)
+Associate Professor, 		University of Illinois at Urbana-Champaign, 	2008-2011 
+Distinguished Visiting Professor, National Taipei University of Technology, Taiwan 2012-2013 (0%)
+Chair, Environmental Engineering & Science program, Department of Civil and Environmental Engineering, UIUC, 2013-2015
+Professor, University of Illinois at Urbana-Champaign, 8/2011-9/2023
+
+Research StatementDr. Liu is the Arthur C. Nauman Endowed Professor of Environmental Engineering & Science program at the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign.  Prior to joining UIUC in 2008, Dr. Liu served as a faculty at National Central University, Taiwan (1998-01) and at National University of Singapore (2001-08).  His research focuses on "water microbiome" that describes the ecological roles of microbes in different water systems including watershed, drinking water systems, and wastewater treatment and reclamation systems. In studying water microbiome, the greatest scientific challenges are to fully understand the role of microbes and correlate the findings with comprehensive metadata (i.e., physical, chemical, and geological data) in individual water systems. The knowledge can be further used to improve water cycling within the natural and engineered systems, and to protect the public health. Dr. Liu has received several awards, including the Asian Young Biotechnologist Prize (2005),  the IWA-ISME Biocluster Award Grand Prize (2018), and Walter J. Weber, Jr. AEESP Frontier in Research Award (2020). He serves a member of the editorial board for several leading journals in Environmental Microbiology such as the ISME journal by the publisher of Nature and Frontiers in Microbiology.  Dr. Liu has published more than 165 peer reviewed articles with a Google citation of 14476.
+Research Interests
+Drinking Water Microbiome: 	High-quality and safe drinking water is produced by continuously taking and treating source water through a conventional or advanced drinking water production plant, then transported through drinking water distribution systems (DWDS), and finally enters premise plumbing prior to human consumption at the tap. However, our understanding of microorganisms in drinking water (DW) or DW microbiome is limited, as majority of consumers still think drinking water as sterile and recent studies just start to uncover that microorganisms are ubiquitous during the process of drinking water production and distribution. One can simply ask 'why are microbes present in DW?' and 'where are they from?'. To effectively address fundamental questions pertained to drinking water microbiome, my group has applied meta-omics tools (e.g., metagenomics, metatranscriptomics, and metaproteomics) in long-term collaborations with local drinking water company and with researchers from different countries including the Netherlands and Switzerland. The final goal is to obtain a deep understanding of DW microbiomes by meta-omic tools in a systematic and cost-effective way so that the knowledge can be used by water utilities to better manage the water quality, shape the DW microbiome, and ultimately protect public health.  Overall, these research activities support my grand vision toward to safeguard the sustainability of water that driving the growth of societal economy and basic human needs for better future. 
+Wastewater Microbiome: 	My current activities primarily focus on anaerobic digester microbiomes. In anaerobic digestion processes, the state-of-art sequencing technologies including metagenomics and single-cell genomics have been used to decipher the function of enigmatic and uncultured microbes.  I am the lead PI for a DOE project 'Digester Microbiome Project (DMP)'.  DMP explores the microbial diversity and function in anaerobic digesters (AD) using the next-generation DNA sequencing technologies with an ultimate engineering goal to maximize biogas (CH4) production in AD.  I have also an ongoing long-term collaboration with a major soft drinking industry to develop an integrated treatment system to treat and reuse wastewater generated during the soft drink bottling process. After six years of laboratory studies, a one-year pilot-scale system was commissioned and completed with great success at a bottling plant in California in March 2017.  
+My research focuses on 'microbiome' that describes the ecological roles of microbes in different water systems (e.g., water shed, drinking water systems, and wastewater treatment and reclamation systems) and animal gut systems. In studying 'water microbiome', the greatest scientific challenge is to fully understand the role of microbes and correlate the findings with comprehensive metadata (i.e., physical, chemical, and geological data) in individual water systems. In specific, it is critical to know who they are (microbial diversity), what and how they perform different metabolic functions (e.g. C and N cycling), and whether the microbial diversity and function can be influenced or controlled in water systems.  The knowledge can be further used to improve water cycling within the natural and engineered system, and to protect the public health. The challenges with 'gut microbiome' study are to understand the interaction between microbes and hosts and to improve host health by manipulating microbiome composition. To tackle the scientific challenge, I have leveraged on both conventional and advanced analytical methods.  For microbiome analysis, the next-generation DNA sequencing (NGS) technologies are currently used to profile microbial diversity based on 16S rRNA gene as the biomarker, and to produce microbial genomes (i.e., metagenomics) and single cell genome from a single microbial cell within a microbial assemblage.  
+
+
+Research Areas
+Environmental Engineering and Science
+Societal Risk & Hazard Mitigation
+
+
+Books Edited or Co-Edited (Original Editions)
+Liu, W.T and J. Jansson, “Environmental Molecular Microbiology”, Caister Academic Press, 2010. 
+
+Chapters in Books
+Kagia, K. and W.-T. Liu. 2014. The Family Dermatophilaceae. In S. Falkow, E. Rosenberg, K-H Schleifer, and E. Stackebrandt. The Prokaryotes: Actinobacteria. pp. 317-325 Springer.
+Cheng, SS, TM Liang, R Anatrya. WT Liu. Development and Application of Anaerobic Technology for the Treatment of Chemical Effluents in Taiwan. In HHP Fang (Ed) Anaerobic Biotechnology: Environmental Protection and Resource Recovery. World Scientific Publishing Co., 2015. 
+Narihiro, T, MK Nobu, R Mei, WT Liu. Microbial community involved in anaerobic purified terephthalic acid treatment process. In HHP Fang (Ed) Anaerobic Biotechnology: Environmental Protection and Resource Recovery. World Scientific Publishing Co., 2015. 
+Liu, W-T. 2010. Terminal restriction fragment length polymorphism (T-RFLP). In R. Seviour and P. H. Nielsen (Eds.). Microbial Ecology of Activated Sludge. IWA Publishing.
+Prosser, J, J.K. Jansson, and W.-T. Liu. 2010. Nucleic-acid-based characterization of community structure and function. In W.-T. Liu and J.K. Jansson (Eds.). Environmental Molecular Microbiology, Caister Academic Press. 
+Liu, W.-T. and D. A. Stahl. 2006. Molecular approaches for the measurement of density, diversity, and phylogeny. In Hurst, C. J., Knudsen, G. R., McInerney, M. J., Stetzenbach, L. D., and Walter, M. V. (3rd Eds.) Manual of Environmental Microbiology, ASM press, Washington, D.C. 
+Liu, W.-T. and D. A. Stahl. 2001. Molecular approaches for the measurement of density, diversity, and phylogeny. In Hurst, C. J., Knudsen, G. R., McInerney, M. J., Stetzenbach, L. D., and Walter, M. V. (Eds.) Manual of Environmental Microbiology, 114-134. ASM press, Washington, D.C. 
+Liu, W.T., J.H. Wu, O.C. Chan, S.S. Cheng, I.C. Tseng, and H. H. P. Fang. 2001. Comparison of microbial communities in anaerobic granulated sludge reactors treating benzoate, methyl benzoate and terephthalate. pp. 79¬88. In Matsuo, T, Hanaki H, Takizawa, S., and Satoh, H. (Eds) Advances in Water and Wastewater Treatment Technology, Elsevier, Tokyo. 
+Ouyang, C.F., Y.J. Chou, T.Y. Pai, H.Y. Chang and W.T. Liu. 2001. Optimization of enhanced biological wastewater treatment processes using a step-feed approach. pp. 207-218. In Matsuo, T, Hanaki H, Takizawa, S., and Satoh, H. (Eds) Advances in Water and Wastewater Treatment Technology, Elsevier, Tokyo.
+You, S.J., W.-T. Liu, M. Onuki, T. Mino, H. Satoh, T. Matuso and C.F. Ouyang. 2001. Identification on predominant microbial populations in a non-phosphate removal anaerobic aerobic bioreactor fed with fermented products. pp. 295-304. In Matsuo, T, Hanaki H, Takizawa, S., and Satoh, H. (Eds) Advances in Water and Wastewater Treatment Technology, Elsevier, Tokyo. 
+
+Selected Articles in Journals
+Sun, H.; Mei, R.; Zhang, X. X.; Ren, H.; Liu, W. T.; Ye, L., Bacterial enrichment in highly-selective acetate-fed bioreactors and its application in rapid biofilm formation. Water Res 2020, 170, 115359.
+Liu, G.; Zhang, Y.; Liu, X.; Hammes, F.; Liu, W. T.; Medema, G.; Wessels, P.; van der Meer, W., 360-Degree Distribution of Biofilm Quantity and Community in an Operational Unchlorinated Drinking Water Distribution Pipe. Environ Sci Technol 2020, 54, (9), 5619-5628.
+Ye, L.; Mei, R.; Liu, W. T.; Ren, H.; Zhang, X. X., Machine learning-aided analyses of thousands of draft genomes reveal specific features of activated sludge processes. Microbiome 2020, 8, (1), 16.
+Nobu, M. K.; Narihiro, T.; Mei, R.; Kamagata, Y.; Lee, P. K. H.; Lee, P. H.; McInerney, M. J.; Liu, W. T., Catabolism and interactions of uncultured organisms shaped by eco-thermodynamics in methanogenic bioprocesses. Microbiome 2020, 8, (1), 111.
+Mei, R.; Nobu, M. K.; Narihiro, T.; Liu, W. T., Metagenomic and Metatranscriptomic Analyses Revealed Uncultured Bacteroidales Populations as the Dominant Proteolytic Amino Acid Degraders in Anaerobic Digesters. Front Microbiol 2020, 11, 593006.
+Lam, T. Y. C.; Mei, R.; Wu, Z.; Lee, P. K. H.; Liu, W. T.; Lee, P. H., Superior resolution characterisation of microbial diversity in anaerobic digesters using full-length 16S rRNA gene amplicon sequencing. Water Res 2020, 178, 115815.
+Kim, J.; Mei, R.; Wilson, F. P.; Yuan, H.; Bocher, B. T. W.; Liu, W. T., Ecogenomics-Based Mass Balance Model Reveals the Effects of Fermentation Conditions on Microbial Activity. Front Microbiol 2020, 11, 595036.
+Chen, L.; Ling, F.; Bakker, G.; Liu, W. T.; Medema, G.; van der Meer, W.; Liu, G., Assessing the transition effects in a drinking water distribution system caused by changing supply water quality: an indirect approach by characterizing suspended solids. Water Res 2020, 168, 115159.
+Chen, L.; Ling, F.; Bakker, G.; Liu, W. T.; Medema, G.; van der Meer, W.; Liu, G., Assessing the transition effects in a drinking water distribution system caused by changing supply water quality: an indirect approach by characterizing suspended solids. Water Res 2020, 168, 115159.
+Zealand, A. M.; Mei, R.; Roskilly, A. P.; Liu, W.; Graham, D. W., Molecular microbial ecology of stable versus failing rice straw anaerobic digesters. Microb Biotechnol 2019, 12, (5), 879-891.
+Yuan, H.; Mei, R.; Liao, J.; Liu, W. T., Nexus of Stochastic and Deterministic Processes on Microbial Community Assembly in Biological Systems. Front Microbiol 2019, 10, 1536.
+Yamamoto, K.; Hackley, K. C.; Kelly, W. R.; Panno, S. V.; Sekiguchi, Y.; Sanford, R. A.; Liu, W. T.; Kamagata, Y.; Tamaki, H., Diversity and geochemical community assembly processes of the living rare biosphere in a sand-and-gravel aquifer ecosystem in the Midwestern United States. Sci Rep 2019, 9, (1), 13484.
+Sun, H.; Mei, R.; Zhang, X. X.; Ren, H.; Liu, W. T.; Ye, L., Bacterial enrichment in highly-selective acetate-fed bioreactors and its application in rapid biofilm formation. Water Res 2019, 170, 115359.
+Mei, R.; Liu, W. T., Quantifying the contribution of microbial immigration in engineered water systems. Microbiome 2019, 7, (1), 144.
+Mei, R.; Kim, J.; Wilson, F. P.; Bocher, B. T. W.; Liu, W. T., Coupling growth kinetics modeling with machine learning reveals microbial immigration impacts and identifies key environmental parameters in a biological wastewater treatment process. Microbiome 2019, 7, (1), 65.
+Hull, N. M.; Ling, F.; Pinto, A. J.; Albertsen, M.; Jang, H. G.; Hong, P. Y.; Konstantinidis, K. T.; LeChevallier, M.; Colwell, R. R.; Liu, W. T., Drinking Water Microbiome Project: Is it Time? Trends Microbiol 2019, 27, (8), 670-677.
+Gao, H.; Mao, Y.; Zhao, X.; Liu, W. T.; Zhang, T.; Wells, G., Genome-centric metagenomics resolves microbial diversity and prevalent truncated denitrification pathways in a denitrifying PAO-enriched bioprocess. Water Res 2019, 155, 275-287.
+Shen, Y.; Huang, P. C.; Huang, C.; Sun, P.; Monroy, G. L.; Wu, W.; Lin, J.; Espinosa-Marzal, R. M.; Boppart, S. A.; Liu, W.-T., Effect of divalent ions and a polyphosphate on composition, structure, and stiffness of simulated drinking water biofilms. NPJ biofilms and microbiomes 2018, 4, (1), 15.
+Zhang, Y and Liu, W. T. The application of molecular tools to study the drinking water microbiome–Current understanding and future needs. Critical Reviews in Environmental Science and Technology. 2019. DOI: 10.1080/10643389.2019.1571351. 
+Hidalgo‐Ahumada, C. A.; Nobu, M. K.; Narihiro, T.; Tamaki, H.; Liu, W. T.; Kamagata, Y.; Stams, A. J.; Imachi, H.; Sousa, D. Z., Novel energy conservation strategies and behaviour of Pelotomaculum schinkii driving syntrophic propionate catabolism. Environmental microbiology 2018, 20 (12), 4503-4511
+Shen, Y.; Huang, P. C.; Huang, C.; Sun, P.; Monroy, G. L.; Wu, W.; Lin, J.; Espinosa-Marzal, R. M.; Boppart, S. A.; Liu, W.-T., Effect of divalent ions and a polyphosphate on composition, structure, and stiffness of simulated drinking water biofilms. NPJ biofilms and microbiomes 2018, 4, (1), 15.
+Oh, S.; Hammes, F.; Liu, W. T., Metagenomic characterization of biofilter microbial communities in a full-scale drinking water treatment plant. Water Res 2018, 128, 278-285.
+Neu, L.; Banziger, C.; Proctor, C. R.; Zhang, Y.; Liu, W. T.; Hammes, F., Ugly ducklings-the dark side of plastic materials in contact with potable water. NPJ Biofilms Microbiomes 2018, 4, 7.
+Narihiro, T.; Nobu, M. K.; Bocher, B. T.; Mei, R.; Liu, W. T., Co‐occurrence network analysis reveals thermodynamics‐driven microbial interactions in methanogenic bioreactors. Environmental microbiology reports 2018, 10, (6), 673-685.
+Mei, R.; Nobu, M. K.; Narihiro, T.; Yu, J.; Sathyagal, A.; Willman, E.; Liu, W.-T., Novel Geobacter species and diverse methanogens contribute to enhanced methane production in media-added methanogenic reactors. Water research 2018, 147, 403-412.
+Liu, G.; Zhang, Y.; van der Mark, E.; Magic-Knezev, A.; Pinto, A.; van den Bogert, B.; Liu, W.; van der Meer, W.; Medema, G., Assessing the origin of bacteria in tap water and distribution system in an unchlorinated drinking water system by SourceTracker using microbial community fingerprints. Water research 2018, 138, 86-96.
+Fang, T.; Cui, Q.; Huang, Y.; Dong, P.; Wang, H.; Liu, W. T.; Ye, Q., Distribution comparison and risk assessment of free-floating and particle-attached bacterial pathogens in urban recreational water: Implications for water quality management. Sci Total Environ 2018, 613-614, 428-438.
+Bowers, R. M.; Kyrpides, N. C.; Stepanauskas, R.; Harmon-Smith, M.; Doud, D.; Reddy, T. B. K.; Schulz, F.; Jarett, J.; Rivers, A. R.; Eloe-Fadrosh, E. A.; Tringe, S. G.; Ivanova, N. N.; Copeland, A.; Clum, A.; Becraft, E. D.; Malmstrom, R. R.; Birren, B.; Podar, M.; Bork, P.; Weinstock, G. M.; Garrity, G. M.; Dodsworth, J. A.; Yooseph, S.; Sutton, G.; Glockner, F. O.; Gilbert, J. A.; Nelson, W. C.; Hallam, S. J.; Jungbluth, S. P.; Ettema, T. J. G.; Tighe, S.; Konstantinidis, K. T.; Liu, W. T.; Baker, B. J.; Rattei, T.; Eisen, J. A.; Hedlund, B.; McMahon, K. D.; Fierer, N.; Knight, R.; Finn, R.; Cochrane, G.; Karsch-Mizrachi, I.; Tyson, G. W.; Rinke, C.; Genome Standards, C.; Lapidus, A.; Meyer, F.; Yilmaz, P.; Parks, D. H.; Eren, A. M.; Schriml, L.; Banfield, J. F.; Hugenholtz, P.; Woyke, T., Corrigendum: Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea. Nat Biotechnol 2018, 36, (2), 196.
+Ling, F., R. Whitaker; M. LeChevallier, W. T. Liu, Drinking water microbiome assembly induced by water stagnation. ISME J 2018, 12, (6), 1520.
+Fang, T.; Cui, Q.; Huang, Y.; Dong, P.; Wang, H.; Liu, W. T.; Ye, Q., Distribution comparison and risk assessment of free-floating and particle-attached bacterial pathogens in urban recreational water: Implications for water quality management. Sci Total Environ 2018, 613-614, 428-438.
+Zhang, Y.; Oh, S.; Liu, W. T., Impact of drinking water treatment and distribution on the microbiome continuum: an ecological disturbance's perspective. Environ Microbiol 2017.
+Zhang, Y.; Kitajima, M.; Whittle, A. J.; Liu, W. T., Benefits of Genomic Insights and CRISPR-Cas Signatures to Monitor Potential Pathogens across Drinking Water Production and Distribution Systems. Front Microbiol 2017, 8, 2036.
+Shen, Y.; Huang, C.; Lin, J.; Wu, W.; Ashbolt, N. J.; Liu, W. T.; Nguyen, T. H., Effect of Disinfectant Exposure on Legionella pneumophila Associated with Simulated Drinking Water Biofilms: Release, Inactivation, and Infectivity. Environ Sci Technol 2017, 51, (4), 2087-2095.
+Paez-Espino, D.; Chen, I.; Min, A.; Palaniappan, K.; Ratner, A.; Chu, K.; Szeto, E.; Pillay, M.; Huang, J.; Markowitz, V. M., IMG/VR: a database of cultured and uncultured DNA Viruses and retroviruses. Nucleic acids research 2017, 45, (D1), D457-D465.
+Oh, S.; Yap, G. C.; Hong, P. Y.; Huang, C. H.; Aw, M. M.; Shek, L. P.; Liu, W. T.; Lee, B. W., Immune-modulatory genomic properties differentiate gut microbiota of infants with and without eczema. PLoS One 2017, 12, (10), e0184955.
+Nobu, M. K.; Narihiro, T.; Liu, M.; Kuroda, K.; Mei, R.; Liu, W. T., Thermodynamically diverse syntrophic aromatic compound catabolism. Environ Microbiol 2017, 19, (11), 4576-4586.
+Mei, R.; Nobu, M. K.; Narihiro, T.; Kuroda, K.; Munoz Sierra, J.; Wu, Z.; Ye, L.; Lee, P. K. H.; Lee, P. H.; van Lier, J. B.; McInerney, M. J.; Kamagata, Y.; Liu, W. T., Operation-driven heterogeneity and overlooked feed-associated populations in global anaerobic digester microbiome. Water Res 2017, 124, 77-84.
+Liu, M.; Wang, S.; Nobu, M. K.; Bocher, B. T. W.; Kaley, S. A.; Liu, W. T., Impacts of biostimulation and bioaugmentation on the performance and microbial ecology in methanogenic reactors treating purified terephthalic acid wastewater. Water Res 2017, 122, 308-316.
+Liu, G.; Tao, Y.; Zhang, Y.; Lut, M.; Knibbe, W. J.; van der Wielen, P.; Liu, W.; Medema, G.; van der Meer, W., Hotspots for selected metal elements and microbes accumulation and the corresponding water quality deterioration potential in an unchlorinated drinking water distribution system. Water Res 2017, 124, 435-445.
+Liao, J.; Fang, C.; Yu, J.; Sathyagal, A.; Willman, E.; Liu, W. T., Direct treatment of high-strength soft drink wastewater using a down-flow hanging sponge reactor: performance and microbial community dynamics. Appl Microbiol Biotechnol 2017, 101, (14), 5925-5936.
+Li, C.; Ling, F.; Zhang, M.; Liu, W. T.; Li, Y.; Liu, W., Characterization of bacterial community dynamics in a full-scale drinking water treatment plant. J Environ Sci (China) 2017, 51, 21-30.
+Hawley, A. K.; Nobu, M. K.; Wright, J. J.; Durno, W. E.; Morgan-Lang, C.; Sage, B.; Schwientek, P.; Swan, B. K.; Rinke, C.; Torres-Beltran, M.; Mewis, K.; Liu, W. T.; Stepanauskas, R.; Woyke, T.; Hallam, S. J., Diverse Marinimicrobia bacteria may mediate coupled biogeochemical cycles along eco-thermodynamic gradients. Nat Commun 2017, 8, (1), 1507.
+Gao, H.; Liu, M.; Griffin, J. S.; Xu, L.; Xiang, D.; Scherson, Y. D.; Liu, W. T.; Wells, G. F., Complete Nutrient Removal Coupled to Nitrous Oxide Production as a Bioenergy Source by Denitrifying Polyphosphate-Accumulating Organisms. Environ Sci Technol 2017, 51, (8), 4531-4540.
+Browne, P.; Tamaki, H.; Kyrpides, N.; Woyke, T.; Goodwin, L.; Imachi, H.; Bräuer, S.; Yavitt, J. B.; Liu, W. T.; Zinder, S.; Cadillo-Quiroz, H., Genomic composition and dynamics among Methanomicrobiales predict adaptation to contrasting environments. ISME J 2017, 11, (1), 87-99.
+Bowers, R. M.; Kyrpides, N. C.; Stepanauskas, R.; Harmon-Smith, M.; Doud, D.; Reddy, T. B. K.; Schulz, F.; Jarett, J.; Rivers, A. R.; Eloe-Fadrosh, E. A.; Tringe, S. G.; Ivanova, N. N.; Copeland, A.; Clum, A.; Becraft, E. D.; Malmstrom, R. R.; Birren, B.; Podar, M.; Bork, P.; Weinstock, G. M.; Garrity, G. M.; Dodsworth, J. A.; Yooseph, S.; Sutton, G.; Glockner, F. O.; Gilbert, J. A.; Nelson, W. C.; Hallam, S. J.; Jungbluth, S. P.; Ettema, T. J. G.; Tighe, S.; Konstantinidis, K. T.; Liu, W. T.; Baker, B. J.; Rattei, T.; Eisen, J. A.; Hedlund, B.; McMahon, K. D.; Fierer, N.; Knight, R.; Finn, R.; Cochrane, G.; Karsch-Mizrachi, I.; Tyson, G. W.; Rinke, C.; Genome Standards, C.; Lapidus, A.; Meyer, F.; Yilmaz, P.; Parks, D. H.; Eren, A. M.; Schriml, L.; Banfield, J. F.; Hugenholtz, P.; Woyke, T., Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea. Nat Biotechnol 2017, 35, (8), 725-731.
+Shinzato, N.; Aoyama, H.; Saitoh, S.; Nikoh, N.; Nakano, K.; Shimoji, M.; Shinzato, M.; Satou, K.; Teruya, K.; Hirano, T.; Yamada, T.; Nobu, M. K.; Tamaki, H.; Shirai, Y.; Park, S.; Narihiro, T.; Liu, W. T.; Kamagata, Y., Complete Genome Sequence of the Intracellular Bacterial Symbiont TC1 in the Anaerobic Ciliate Trimyema compressum. Genome Announc 2016, 4, (5).
+Shen, Y.; Huang, C.; Monroy, G. L.; Janjaroen, D.; Derlon, N.; Lin, J.; Espinosa-Marzal, R.; Morgenroth, E.; Boppart, S. A.; Ashbolt, N. J.; Liu, W. T.; Nguyen, T. H., Response of Simulated Drinking Water Biofilm Mechanical and Structural Properties to Long-Term Disinfectant Exposure. Environ Sci Technol 2016, 50, (4), 1779-87.
+Oh, S.; Zhang, R.; Wu, Q. L.; Liu, W. T., Evolution and adaptation of SAR11 and Cyanobium in a saline Tibetan lake. Environ Microbiol Rep 2016.
+Oh, S.; Yoo, D.; Liu, W. T., Metagenomics Reveals a Novel Virophage Population in a Tibetan Mountain Lake. Microbes Environ 2016, 31, (2), 173-7.
+Nobu, M. K.; Narihiro, T.; Kuroda, K.; Mei, R.; Liu, W. T., Chasing the elusive Euryarchaeota class WSA2: genomes reveal a uniquely fastidious methyl-reducing methanogen. ISME J 2016, 10, (10), 2478-87.
+Narihiro, T.; Nobu, M. K.; Tamaki, H.; Kamagata, Y.; Sekiguchi, Y.; Liu, W. T., Comparative Genomics of Syntrophic Branched-Chain Fatty Acid Degrading Bacteria. Microbes Environ 2016, 31, (3), 288-92.
+Narihiro, T.; Nobu, M. K.; Tamaki, H.; Kamagata, Y.; Liu, W. T., Draft Genome Sequence of Syntrophomonas wolfei subsp. methylbutyratica Strain 4J5T (JCM 14075), a Mesophilic Butyrate- and 2-Methylbutyrate-Degrading Syntroph. Genome Announc 2016, 4, (2).
+Mei, R.; Narihiro, T.; Nobu, M. K.; Liu, W. T., Effects of heat shocks on microbial community structure and microbial activity of a methanogenic enrichment degrading benzoate. Lett Appl Microbiol 2016, 63, (5), 356-362.
+Mei, R.; Narihiro, T.; Nobu, M. K.; Kuroda, K.; Liu, W. T., Evaluating digestion efficiency in full-scale anaerobic digesters by identifying active microbial populations through the lens of microbial activity. Sci Rep 2016, 6, 34090.
+Lu, H.; Xue, Z.; Saikaly, P.; Nunes, S. P.; Bluver, T. R.; Liu, W. T., Membrane biofouling in a wastewater nitrification reactor: Microbial succession from autotrophic colonization to heterotrophic domination. Water Res 2016, 88, 337-45.
+Lu, H.; Ulanov, A. V.; Nobu, M.; Liu, W. T., Global metabolomic responses of Nitrosomonas europaea 19718 to cold stress and altered ammonia feeding patterns. Appl Microbiol Biotechnol 2016, 100, (4), 1843-52.
+Liu, Y. Q.; Zhang, X.; Zhang, R.; Liu, W. T.; Tay, J. H., Effects of hydraulic retention time on aerobic granulation and granule growth kinetics at steady state with a fast start-up strategy. Appl Microbiol Biotechnol 2016, 100, (1), 469-77.
+Liu, G.; Ling, F. Q.; van der Mark, E. J.; Zhang, X. D.; Knezev, A.; Verberk, J. Q.; van der Meer, W. G.; Medema, G. J.; Liu, W. T.; van Dijk, J. C., Comparison of Particle-Associated Bacteria from a Drinking Water Treatment Plant and Distribution Reservoirs with Different Water Sources. Sci Rep 2016, 6, 20367.
+Ling, F.; Hwang, C.; LeChevallier, M. W.; Andersen, G. L.; Liu, W. T., Core-satellite populations and seasonality of water meter biofilms in a metropolitan drinking water distribution system. ISME J 2016, 10, (3), 582-95.
+Kuroda, K.; Nobu, M. K.; Mei, R.; Narihiro, T.; Bocher, B. T.; Yamaguchi, T.; Liu, W. T., A Single-Granule-Level Approach Reveals Ecological Heterogeneity in an Upflow Anaerobic Sludge Blanket Reactor. PLoS One 2016, 11, (12), e0167788.
+Kim, N. K.; Oh, S.; Liu, W. T., Enrichment and characterization of microbial consortia degrading soluble microbial products discharged from anaerobic methanogenic bioreactors. Water Res 2016, 90, 395-404.
+Zhang, Y.; Hong, P. Y.; LeChevallier, M. W.; Liu, W. T., Phenotypic and Phylogenetic Identification of Coliform Bacteria Obtained Using 12 Coliform Methods Approved by the U.S. Environmental Protection Agency. Appl Environ Microbiol 2015, 81, (17), 6012-23.
+Tang, Y.; Werth, C. J.; Sanford, R. A.; Singh, R.; Michelson, K.; Nobu, M.; Liu, W. T.; Valocchi, A. J., Immobilization of selenite via two parallel pathways during in situ bioremediation. Environ Sci Technol 2015, 49, (7), 4543-50.
+Shen, Y.; Monroy, G. L.; Derlon, N.; Janjaroen, D.; Huang, C.; Morgenroth, E.; Boppart, S. A.; Ashbolt, N. J.; Liu, W.-T.; Nguyen, T. H., Role of Biofilm Roughness and Hydrodynamic Conditions in Legionella pneumophila Adhesion to and Detachment from Simulated Drinking Water Biofilms. Environmental Science & Technology 2015, 49, (7), 4274-4282.
+Rui, J.; Li, J.; Wang, S.; An, J.; Liu, W.-t.; Lin, Q.; Yang, Y.; He, Z.; Li, X., Responses of Bacterial Communities to Simulated Climate Changes in Alpine Meadow Soil of the Qinghai-Tibet Plateau. Applied and Environmental Microbiology 2015, 81, (17), 6070-6077.
+Nobu, M. K.; Narihiro, T.; Rinke, C.; Kamagata, Y.; Tringe, S. G.; Woyke, T.; Liu, W.-T., Microbial dark matter ecogenomics reveals complex synergistic networks in a methanogenic bioreactor. ISME Journal 2015, 9, (8), 1710-1722.
+Nobu, M. K.; Narihiro, T.; Hideyuki, T.; Qiu, Y. L.; Sekiguchi, Y.; Woyke, T.; Goodwin, L.; Davenport, K. W.; Kamagata, Y.; Liu, W. T., The genome of Syntrophorhabdus aromaticivorans strain UI provides new insights for syntrophic aromatic compound metabolism and electron flow. Environ Microbiol 2015, 17, (12), 4861-72.
+Narihiro, T.; Nobu, M. K.; Kim, N. K.; Kamagata, Y.; Liu, W. T., The nexus of syntrophy-associated microbiota in anaerobic digestion revealed by long-term enrichment and community survey. Environ Microbiol 2015, 17, (5), 1707-20.
+Narihiro, T.; Kim, N. K.; Mei, R.; Nobu, M. K.; Liu, W. T., Microbial community analysis of anaerobic reactors treating soft drink wastewater. PLoS One 2015, 10, (3), e0119131.
+Zhang, Y.; Kelly, W. R.; Panno, S. V.; Liu, W. T., Tracing fecal pollution sources in karst groundwater by Bacteroidales genetic biomarkers, bacterial indicators, and environmental variables. Sci Total Environ 2014, 490, 1082-90.
+Ye, L.; Amberg, J.; Chapman, D.; Gaikowski, M.; Liu, W.-T., Fish gut microbiota analysis differentiates physiology and behavior of invasive Asian carp and indigenous American fish. ISME Journal 2014, 8, (3), 541-551.
+Yamamoto, K.; Tamaki, H.; Cadillo-Quiroz, H.; Imachi, H.; Kyrpides, N.; Woyke, T.; Goodwin, L.; Zinder, S. H.; Kamagata, Y.; Liu, W. T., Complete Genome Sequence of Methanolinea tarda NOBI-1T, a Hydrogenotrophic Methanogen Isolated from Methanogenic Digester Sludge. Genome Announc 2014, 2, (5).
+Xue, Z.; Lu, H.; Liu, W.-T., Membrane biofouling characterization: effects of sample preparation procedures on biofilm structure and the microbial community. Biofouling 2014, 30, (7), 813-821.
+Wu, D.; Ekama, G. A.; Wang, H. G.; Wei, L.; Lu, H.; Chui, H. K.; Liu, W. T.; Brdjanovic, D.; van Loosdrecht, M. C.; Chen, G. H., Simultaneous nitrogen and phosphorus removal in the sulfur cycle-associated Enhanced Biological Phosphorus Removal (EBPR) process. Water Res 2014, 49, 251-64.
+Wang, H.; Narihiro, T.; Straub, A. P.; Pugh, C. R.; Tamaki, H.; Moor, J. F.; Bradley, I. M.; Kamagata, Y.; Liu, W. T.; Nguyen, T. H., MS2 bacteriophage reduction and microbial communities in biosand filters. Environ Sci Technol 2014, 48, (12), 6702-9.
+Oh, S.; Zhang, R.; Wu, Q. L.; Liu, W. T., Draft Genome Sequence of a Novel SAR11 Clade Species Abundant in a Tibetan Lake. Genome Announc 2014, 2, (6).
+Nobu, M. K.; Tamaki, H.; Kubota, K.; Liu, W. T., Metagenomic characterization of 'Candidatus Defluviicoccus tetraformis strain TFO71,' a tetrad-forming organism, predominant in an anaerobic-aerobic membrane bioreactor with deteriorated biological phosphorus removal. Environ Microbiol 2014.
+Nobu, M. K.; Narihiro, T.; Tamaki, H.; Qiu, Y. L.; Sekiguchi, Y.; Woyke, T.; Goodwin, L.; Davenport, K. W.; Kamagata, Y.; Liu, W. T., Draft Genome Sequence of Syntrophorhabdus aromaticivorans Strain UI, a Mesophilic Aromatic Compound-Degrading Syntroph. Genome Announc 2014, 2, (1).
+Liu, G.; Bakker, G. L.; Li, S.; Vreeburg, J. H.; Verberk, J. Q.; Medema, G. J.; Liu, W. T.; Van Dijk, J. C., Pyrosequencing reveals bacterial communities in unchlorinated drinking water distribution system: an integral study of bulk water, suspended solids, loose deposits, and pipe wall biofilm. Environ Sci Technol 2014, 48, (10), 5467-76.
+Lautenschlager, K.; Hwang, C.; Ling, F.; Liu, W. T.; Boon, N.; Köster, O.; Egli, T.; Hammes, F., Abundance and composition of indigenous bacterial communities in a multi-step biofiltration-based drinking water treatment plant. Water Res 2014, 62C, 40-52.
+Zhang, R.; Wu, Q.; Piceno, Y. M.; Desantis, T. Z.; Saunders, F. M.; Andersen, G. L.; Liu, W.-T., Diversity of bacterioplankton in contrasting Tibetan lakes revealed by high-density microarray and clone library analysis. Fems Microbiology Ecology 2013, 86, (2), 277-287.
+Yap, G. C.; Hong, P.-Y.; Liu, W.-T.; Lee, Y. K.; Ding, C. M.; Aw, M.; Shek, L. P. C.; Lee, B. W., Comparative evaluation of the bacterial gene composition of stool microbiota in infants with and without eczema preliminary findings. Allergy 2013, 68, 706.
+Wu, J.-H.; Wu, F.-Y.; Chuang, H.-P.; Chen, W.-Y.; Huang, H.-J.; Chen, S.-H.; Liuc, W.-T., Community and Proteomic Analysis of Methanogenic Consortia Degrading Terephthalate. Applied and Environmental Microbiology 2013, 79, (1), 105-112.
+Wu, D.; Ekama, G. A.; Lu, H.; Chui, H.-K.; Liu, W.-T.; Brdjanovic, D.; van Loosdrecht, M. C. M.; Chen, G.-H., A new biological phosphorus removal process in association with sulfur cycle. Water Research 2013, 47, (9), 3057-3069.
+Rinke, C.; Schwientek, P.; Sczyrba, A.; Ivanova, N. N.; Anderson, I. J.; Cheng, J.-F.; Darling, A.; Malfatti, S.; Swan, B. K.; Gies, E. A.; Dodsworth, J. A.; Hedlund, B. P.; Tsiamis, G.; Sievert, S. M.; Liu, W.-T.; Eisen, J. A.; Hallam, S. J.; Kyrpides, N. C.; Stepanauskas, R.; Rubin, E. M.; Hugenholtz, P.; Woyke, T., Insights into the phylogeny and coding potential of microbial dark matter. Nature 2013, 499, (7459), 431-437.
+Liu, G.; Ling, F. Q.; Magic-Knezev, A.; Liu, W. T.; Verberk, J. Q. J. C.; Van Dijk, J. C., Quantification and identification of particle-associated bacteria in unchlorinated drinking water from three treatment plants by cultivation-independent methods. Water Research 2013, 47, (10), 3523-3533.
+Ling, F.; Liu, W.-T., Impact of Chloramination on the Development of Laboratory-Grown Biofilms Fed with Filter-Pretreated Groundwater. Microbes and Environments 2013, 28, (1), 50-57.
+Lautenschlager, K.; Hwang, C.; Liu, W.-T.; Boon, N.; Koester, O.; Vrouwenvelder, H.; Egli, T.; Hammes, F., A microbiology-based multi-parametric approach towards assessing biological stability in drinking water distribution networks. Water Research 2013, 47, (9), 3015-3025.
+Lau, S. C. K.; Zhang, R.; Brodie, E. L.; Piceno, Y. M.; Andersen, G.; Liu, W.-T., Biogeography of bacterioplankton in the tropical seawaters of Singapore. Fems Microbiology Ecology 2013, 84, (2), 259-269.
+Janjaroen, D.; Ling, F.; Monroy, G.; Derlon, N.; Mogenroth, E.; Boppart, S. A.; Liu, W.-T.; Nguyen, T. H., Roles of ionic strength and biofilm roughness on adhesion kinetics of Escherichia coli onto groundwater biofilm grown on PVC surfaces. Water Research 2013, 47, (7), 2531-2542.
+Dong, Y.; Kumar, C. G.; Chia, N.; Kim, P. J.; Miller, P. A.; Price, N. D.; Cann, I. K.; Flynn, T. M.; Sanford, R. A.; Krapac, I. G.; Locke Ii, R. A.; Hong, P. Y.; Tamaki, H.; Liu, W. T.; Hernandez, A. G.; Wright, C. L.; Mikel, M. A.; Walker, J. L.; Sivaguru, M.; Fried, G.; Yannarell, A. C.; Mackie, R. I.; Fouke, B. W., Halomonas sulfidaeris-dominated Microbial Community Inhabits a 1.8 km-deep Subsurface Cambrian Sandstone Reservoir. Environ Microbiol 2013.
+Tamaki, H.; Zhang, R.; Angly, F. E.; Nakamura, S.; Hong, P. Y.; Yasunaga, T.; Kamagata, Y.; Liu, W. T., Metagenomic analysis of DNA viruses in a wastewater treatment plant in tropical climate. Environmental Microbiology 2012, 14, (2), 441-452.
+Hwang, C. C.; Ling, F. Q.; Andersen, G. L.; LeChevallier, M. W.; Liu, W. T., Evaluation of Methods for the Extraction of DNA from Drinking Water Distribution System Biofilms. Microbes and Environments 2012, 27, (1), 9-18.
+Hwang, C.; Ling, F.; Andersen, G. L.; Lechevallier, M. W.; Liu, W.-T., Microbial community dynamics of an urban drinking water distribution system subjected to phases of chloramination and chlorination treatments. Applied and environmental microbiology 2012, 78, (22), 7856-65.
+Tamaki, H.; Wright, C. L.; Li, X.; Lin, Q.; Hwang, C.; Wang, S.; Thimmapuram, J.; Kamagata, Y.; Liu, W.-T., Analysis of 16S rRNA Amplicon Sequencing Options on the Roche/454 Next-Generation Titanium Sequencing Platform. Plos One 2011, 6, (9).
+Lykidis, A.; Chen, C.; Tringe, S.; McHardy, A.; Copeland, A.; Kyrpides, N.; Hugenholtz, P.; Macarie, H.; Olmos, A.; Monroy, O.; Liu, W., Multiple syntrophic interactions in a terephthalate-degrading methanogenic consortium. Isme Journal 2011, 5, (1), 122-130.
+Kiss, B.; Bakos, V.; Liu, W.-T.; Jobbagy, A., Full-Scale Use of Glycogen-Accumulating Organisms for Excess Biological Carbon Removal. Water Environment Research 2011, 83, (9), 855-864.
+Fabrega, J.; Zhang, R.; Renshaw, J. C.; Liu, W.-T.; Lead, J. R., Impact of silver nanoparticles on natural marine biofilm bacteria. Chemosphere 2011, 85, (6), 961-966.
+Wu, Q.; Xing, P.; Liu, W., East Tibetan Lakes Harbour Novel Clusters of Picocyanobacteria as Inferred from the 16S-23S rRNA Internal Transcribed Spacer Sequences. Microbial Ecology 2010, 59, (3), 614-622.
+Ng, J.; Wang, W.; Liu, W.; Chong, S., Spatially addressable bead-based biosensor for rapid detection of beta-thalassemia mutations. Analytica Chimica Acta 2010, 658, (2), 193-196.
+Liu, Y.; Kong, Y.; Zhang, R.; Zhang, X.; Wong, F.; Tay, J.; Zhu, J.; Jiang, W.; Liu, W., Microbial population dynamics of granular aerobic sequencing batch reactors during start-up and steady state periods. Water Science and Technology 2010, 62, (6), 1281-1287.
+Ivanova, N.; Tringe, S.; Liolios, K.; Liu, W.; Morrison, N.; Hugenholtz, P.; Kyrpides, N., A call for standardized classification of metagenome projects. Environmental Microbiology 2010, 12, (7), 1803-1805.
+Hong, P.; Lee, B.; Aw, M.; Shek, L.; Yap, G.; Chua, K.; Liu, W., Comparative Analysis of Fecal Microbiota in Infants with and without Eczema. Plos One 2010, 5, (3).
+Hong, P.; Hwang, C.; Ling, F.; Andersen, G.; LeChevallier, M.; Liu, W., Pyrosequencing Analysis of Bacterial Biofilm Communities in Water Meters of a Drinking Water Distribution System. Applied and Environmental Microbiology 2010, 76, (16), 5631-5635.
+Wu, Q.; Liu, W., Determination of Virus abundance, diversity and distribution in a municipal wastewater treatment plant. Water Research 2009, 43, (4), 1101-1109.
+Wu, J.; Hong, P.; Liu, W., Quantitative effects of position and type of single mismatch on single base primer extension. Journal of Microbiological Methods 2009, 77, (3), 267-275.
+Narihiro, T.; Terada, T.; Ohashi, A.; Wu, J.; Liu, W.; Araki, N.; Kamagata, Y.; Nakamura, K.; Sekiguchi, Y., Quantitative detection of culturable methanogenic archaea abundance in anaerobic treatment systems using the sequence-specific rRNA cleavage method. ISME Journal 2009, 3, (5), 522-535.
+Lim, C.; Low, H.; Ng, J.; Liu, W.; Zhang, Y., Fabrication of three-dimensional hemispherical structures using photolithography. Microfluidics and Nanofluidics 2009, 7, (5), 721-726.
+Huang, C.; Chen, C.; Lin, C.; Liu, W., Quantitative fluorescent in-situ hybridization: a hypothesized competition mode between two dominant bacteria groups in hydrogen-producing anaerobic sludge processes. Water Science and Technology 2009, 59, (10), 1901-1909.
+Hong, P.; Yap, G.; Lee, B.; Chua, K.; Liu, W., Hierarchical Oligonucleotide Primer Extension as a Time- and Cost-Effective Approach for Quantitative Determination of Bifidobacterium spp. in Infant Feces. Applied and Environmental Microbiology 2009, 75, (8), 2573-2576.
+Hong, P.; Wu, J.; Liu, W., A high-throughput and quantitative hierarchical oligonucleotide primer extension (HOPE)-based approach to identify sources of faecal contamination in water bodies. Environmental Microbiology 2009, 11, (7), 1672-1681.
+Chen, C.; Wu, J.; Tseng, I.; Liang, T.; Liu, W., Characterization of Active Microbes in a Full-Scale Anaerobic Fluidized Bed Reactor Treating Phenolic Wastewater. Microbes and Environments 2009, 24, (2), 144-153.
+Yong, C.; Lao, I.; Murthy, R.; Ji, H.; Teo, C.; Lay, C.; Feng, H.; Liu, W., ENVR 232-Micrototal analysis system for monitoring waterborne pathogen. Abstracts of Papers of the American Chemical Society 2008, 235.
+Murthy, B.; Ng, J.; Selamat, E.; Balasubramanian, N.; Liu, W., Silicon nanopillar substrates for enhancing signal intensity in DNA microarrays. Biosensors & Bioelectronics 2008, 24, (4), 723-728.
+Lay, C.; Teo, C.; Zhu, L.; Peh, X.; Ji, H.; Chew, B.; Murthy, R.; Feng, H.; Liu, W., Enhanced microfiltration devices configured with hydrodynamic trapping and a rain drop bypass filtering architecture for microbial cells detection. Lab on a Chip 2008, 8, (5), 830-833.
+Hong, P.; Wu, J.; Liu, W., Relative abundance of Bacteroides spp. in stools and wastewaters as determined by hierarchical oligonucleotide primer extension. Applied and Environmental Microbiology 2008, 74, (9), 2882-2893.
+Chen, C.; Wu, J.; Liu, W., Identification of important microbial populations in the mesophilic and thermophilic phenol-degrading methanogenic consortia. Water Research 2008, 42, (8-9), 1963-1976.
+Bjerketorp, J.; Cbiang, A.; Hjort, K.; Rosenquist, M.; Liu, W.; Jansson, J., Rapid lab-on-a-chip profiling of human gut bacteria. Journal of Microbiological Methods 2008, 72, (1), 82-90.
+Zhu, L.; Peh, X.; Ji, H.; Teo, C.; Feng, H.; Liu, W., Cell loss in integrated microfluidic device. Biomedical Microdevices 2007, 9, (5), 745-750.
+Wu, J.; Liu, W., Quantitative multiplexing analysis of PCR-amplified ribosomal RNA genes by hierarchical oligonucleotide primer extension reaction. Nucleic Acids Research 2007, 35, (11).
+Wong, M.; Liu, W., Ecophysiology of Defluviicoccus-related tetrad-forming organisms in an anaerobic-aerobic activated sludge process. Environmental Microbiology 2007, 9, (6), 1485-1496.
+Starke, E.; Smoot, J.; Wu, J.; Liu, W.; Chandler, D.; Stahl, D., Saliva-based diagnostics using 16S rRNA microarrays and microfluidics. In Oral-Based Diagnostics, 2007; Vol. 1098, pp 345-361.
+Pang, C.; Liu, W., Community structure analysis of reverse osmosis membrane biofilms and the significance of Rhizobiales bacteria in biofouling. Environmental Science & Technology 2007, 41, (13), 4728-4734.
+Ng, J.; Feng, H.; Liu, W., Rapid discrimination of single-nucleotide mismatches using a microfluidic device with monolayered beads. Analytica Chimica Acta 2007, 582, (2), 295-303.
+Liu, W.; Guo, H.; Wu, J., Effects of target length on the hybridization efficiency and specificity of rRNA-based oligonucleotide microarrays. Applied and Environmental Microbiology 2007, 73, (1), 73-82.
+Lau, S.; Liu, W., Recent advances in molecular techniques for the detection of phylogenetic markers and functional genes in microbial communities. Fems Microbiology Letters 2007, 275, (2), 183-190.
+Zhang, Q.; Zhu, L.; Feng, H.; Ang, S.; Chau, F.; Liu, W., Microbial detection in microfluidic devices through dual staining of quantum dots-labeled immunoassay and RNA hybridization. Analytica Chimica Acta 2006, 556, (1), 171-177.
+Wong, M.; Liu, W., Microbial succession of glycogen accumulating organisms in an anaerobic-aerobic membrane bioreactor with no phosphorus removal. Water Science and Technology 2006, 54, (1), 29-37.
+Pang, C.; Liu, W., Biological filtration limits carbon availability and affects downstream biofilm formation and community structure. Applied and Environmental Microbiology 2006, 72, (9), 5702-5712.
+Ng, J.; Liu, W., Miniaturized platforms for the detection of single-nucleotide polymorphisms. Analytical and Bioanalytical Chemistry 2006, 386, (3), 427-434.
+Liu, W. T., Nanoparticles and their biological and environmental applications. Journal of Bioscience and Bioengineering 2006, 102, (1), 1-7.
+Jobbagy, A.; Literathy, B.; Wong, M.; Tardy, G.; Liu, W., Proliferation of glycogen accumulating organisms induced by Fe(III) dosing in a domestic wastewater treatment plant. Water Science and Technology 2006, 54, (1), 101-109.
+Wong, M.; Mino, T.; Seviour, R.; Onuki, M.; Liu, W., In situ identification and characterization of the microbial community structure of full-scale enhanced biological phosphorous removal plants in Japan. Water Research 2005, 39, (13), 2901-2914.
+Pang, C.; Hong, P.; Guo, H.; Liu, W., Biofilm formation characteristics of bacterial isolates retrieved from a reverse osmosis membrane. Environmental Science & Technology 2005, 39, (19), 7541-7550.
+Ng, J.; Liu, W., LabArray: real-time imaging and analytical tool for microarrays. Bioinformatics 2005, 21, (5), 689-690.
+Liu, W.; Zhu, L.; Qin, Q.; Zhang, Q.; Feng, H.; Ang, S., Microfluidic device as a new platform for immunofluorescent detection of viruses. Lab on a Chip 2005, 5, (11), 1327-1330.
+Liu, W.; Zhu, L., Environmental microbiology-on-a-chip and its future impacts. Trends in Biotechnology 2005, 23, (4), 174-179.
+Liu, W.; Wu, J.; Li, E.; Selamat, E., Emission characteristics of fluorescent labels with respect to temperature changes and subsequent effects on DNA microchip studies. Applied and Environmental Microbiology 2005, 71, (10), 6453-6457.
+Zhu, L.; Zhang, Q.; Feng, H.; Ang, S.; Chauc, F.; Liu, W., Filter-based microfluidic device as a platform for immunofluorescent assay of microbial cells. Lab on a Chip 2004, 4, (4), 337-341.
+Zhu, L.; Ang, S.; Liu, W., Quantum dots as a novel immunofluorescent detection system for Cryptosporidium parvum and Giardia lamblia. Applied and Environmental Microbiology 2004, 70, (1), 597-598.
+Wong, M.; Tan, F.; Ng, W.; Liu, W., Identification and occurrence of tetrad-forming Alphaproteobacteria in anaerobic-aerobic activated sludge processes. Microbiology-Sgm 2004, 150, 3741-3748.
+Sofia, A.; Liu, W.; Ong, S.; Ng, W., In-situ characterization of microbial community in an A/O submerged membrane bioreactor with nitrogen removal. Water Science and Technology 2004, 50, (8), 41-48.
+Li, E.; Ng, J.; Wu, J.; Liu, W., Evaluating single-base-pair discriminating capability of planar oligonucleotide microchips using a non-equilibrium dissociation approach. Environmental Microbiology 2004, 6, (11), 1197-1202.
+Chen, C.; Macarie, H.; Ramirez, I.; Olmos, A.; Ong, S.; Monroy, O.; Liu, W., Microbial community structure in a thermophilic anaerobic hybrid reactor degrading terephthalate. Microbiology-Sgm 2004, 150, 3429-3440.
+Chen, C.; Liu, W.; Chong, M.; Wong, M.; Ong, S.; Seah, H.; Ng, W., Community structure of microbial biofilms associated with membrane-based water purification processes as revealed using a polyphasic approach. Applied Microbiology and Biotechnology 2004, 63, (4), 466-473.
+Hu, J.; Ong, S.; Song, L.; Feng, Y.; Liu, W.; Tan, T.; Lee, L.; Ng, W., Removal of MS2 bacteriophage using membrane technologies. Water Science and Technology 2003, 47, (12), 163-168.
+Tsai, C.; Liu, W., Phylogenetic and physiological diversity of tetrad-forming organisms in deteriorated biological phosphorus removal systems. Water Science and Technology 2002, 46, (1-2), 179-184.
+Liu, W.; Huang, C.; Hu, J.; Song, L.; Ong, S.; Ng, W., Denaturing gradient gel electrophoresis polymorphism for rapid 16S rDNA clone screening and microbial diversity study. Journal of Bioscience and Bioengineering 2002, 93, (1), 101-103.
+Liu, W.; Hanada, S.; Marsh, T.; Kamagata, Y.; Nakamura, K., Kineosphaera limosa gen. nov., sp nov., a novel Gram-positive polyhydroxyalkanoate-accumulating coccus isolated from activat sludge. International Journal of Systematic and Evolutionary Microbiology 2002, 52, 1845-1849.
+Liu, W.; Chan, O.; Fang, H., Microbial community dynamics during start-up of acidogenic anaerobic reactors. Water Research 2002, 36, (13), 3203-3210.
+Liu, W.; Chan, O.; Fang, H., Characterization of microbial community in granular sludge treating brewery wastewater. Water Research 2002, 36, (7), 1767-1775.
+Kong, Y.; Ong, S.; Ng, W.; Liu, W., Diversity and distribution of a deeply branched novel proteobacterial group found in anaerobic-aerobic activated sludge processes. Environmental Microbiology 2002, 4, (11), 753-757.
+Hanada, S.; Liu, W.; Shintani, T.; Kamagata, Y.; Nakamura, K., Tetrasphaera elongata sp nov., a polyphosphate-accumulating bacterium isolated from activated sludge. International Journal of Systematic and Evolutionary Microbiology 2002, 52, 883-887.
+Wu, J. H.; Liu, W. T.; Tseng, I. C.; Cheng, S. S., Characterization of a 4-methylbenzoate-degrading methanogenic consortium as determined by small-subunit rDNA sequence analysis. Journal of Bioscience and Bioengineering 2001, 91, (5), 449-455.
+Wu, J.; Liu, W.; Tseng, I.; Cheng, S., Characterization of microbial consortia in a terephthalate-degrading anaerobic granular sludge system. Microbiology-Uk 2001, 147, 373-382.
+Liu, W.; Nielsen, A.; Wu, J.; Tsai, C.; Matsuo, Y.; Molin, S., In situ identification of polyphosphate- and polyhydroxyalkanoate-accumulating traits for microbial populations in a biological phosphorus removal process. Environmental Microbiology 2001, 3, (2), 110-122.
+Liu, W.; Mirzabekov, A.; Stahl, D., Optimization of an oligonucleotide microchip for microbial identification studies: a non-equilibrium dissociation approach. Environmental Microbiology 2001, 3, (10), 619-629.
+Forney, L.; Liu, W.; Guckert, J.; Kumagai, Y.; Namkung, E.; Nishihara, T.; Larson, R., Structure of microbial communities in activated sludge: Potential implications for assessing the biodegradability of chemicals. Ecotoxicology and Environmental Safety 2001, 49, (1), 40-53.
+Chan, O.; Liu, W.; Fang, H., Study of microbial community of brewery-treating granular sludge by denaturing gradient gel electrophoresis of 16S rRNA gene. Water Science and Technology 2001, 43, (1), 77-82.
+You, S.; Ouyang, C.; Lin, S.; Liu, W., Characterization of the microbial diversity in a biotreatment process using non-culture based methods. Water Science and Technology 2000, 42, (3-4), 143-148.
+Shintani, T.; Liu, W.; Hanada, S.; Kamagata, Y.; Miyaoka, S.; Suzuki, T.; Nakamura, K., Micropruina glycogenica gen. nov., sp, nov., a new Gram-positive glycogen-accumulating bacterium isolated from activated sludge. International Journal of Systematic and Evolutionary Microbiology 2000, 50, 201-207.
+Liu, W.; Mino, T.; Matsuo, T.; Nakamura, K., Isolation, characterization and identification of polyhydroxyalkanoate-accumulating bacteria from activated sludge. Journal of Bioscience and Bioengineering 2000, 90, (5), 494-500.
+Liu, W.; Linning, K.; Nakamura, K.; Mino, T.; Matsuo, T.; Forney, L., Microbial community changes in biological phosphate-removal systems on altering sludge phosphorus content. Microbiology-Sgm 2000, 146, 1099-1107.
+Nielsen, A.; Liu, W.; Filipe, C.; Grady, L.; Molin, S.; Stahl, D., Identification of a novel group of bacteria in sludge from a deteriorated biological phosphorus removal reactor. Applied and Environmental Microbiology 1999, 65, (3), 1251-1258.
+Smalla, K.; Wachtendorf, U.; Heuer, H.; Liu, W.; Forney, L., Analysis of BIOLOG GN substrate utilization patterns by microbial communities. Applied and Environmental Microbiology 1998, 64, (4), 1220-1225.
+Marsh, T.; Liu, W.; Forney, L.; Cheng, H., Beginning a molecular analysis of the eukaryal community in activated sludge. Water Science and Technology 1998, 37, (4-5), 455-460.
+Liu, W.; Marsh, T.; Forney, L., Determination of the microbial diversity of anaerobic-aerobic activated sludge by a novel molecular biological technique. Water Science and Technology 1998, 37, (4-5), 417-422.
+Liu, W.; Nakamura, K.; Matsuo, T.; Mino, T., Internal energy-based competition between polyphosphate- and glycogen-accumulating bacteria in biological phosphorus removal reactors - Effect of P/C feeding ratio. Water Research 1997, 31, (6), 1430-1438.
+Liu, W.; Marsh, T.; Cheng, H.; Forney, L., Characterization of microbial diversity by determining terminal restriction fragment length polymorphisms of genes encoding 16S rRNA. Applied and Environmental Microbiology 1997, 63, (11), 4516-4522.
+Liu, W.; Mino, T.; Nakamura, K.; Matsuo, T., Glycogen accumulating population and its anaerobic substrate uptake in anaerobic-aerobic activated sludge without biological phosphorus removal. Water Research 1996, 30, (1), 75-82.
+Liu, W.; Mino, T.; Matsuo, T.; Nakamura, K., Biological phosphorus removal processes - Effect of pH on anaerobic substrate metabolism. Water Science and Technology 1996, 34, (1-2), 25-32.
+Mino, T.; Liu, W.; Kurisu, F.; Matsuo, T., Modleing glycogen-storage and denitrification capability of microorganisms in enhanced biological phosphate removal processes. Water Science and Technology 1995, 31, (2), 25-34.
+Liu, W. T.; Mino, T.; Nakamura, K.; Matsuo, T., Role of glycogen in acetate uptake and polyhydroxyalkanoate synthesis in anaerobic-aerobic activated sludge with a minimized polyphosphate content. Journal of Fermentation and Bioengineering 1994, 77, (5), 535-540.
+
+Journal Editorships
+Board member of Advances in Asian Environmental Engineering, 2002 - 2008
+Editorial Board of Applied Environmental Microbiology, 2004 - 2013
+Associate editor of Microbes and Environments, 2003-2006, 2010 - 2022
+Editorial Board of Microbial Ecology, 2006 - present
+Editorial Board of the ISME journal, 2006 - 2021
+
+Professional Societies
+Member, International Water Association, 1987-present
+Member, American Water Work Association, 2009-present
+Member, American Society for Microbiology, 1995-present
+Member, Singapore Society for Environmental Engineering, 2001-2008
+Member, Association of Water Recycle and Reuse, Taiwan, 2001-present
+
+Member, International Society for Microbial Ecology, 2004-2011
+Member, American Environmental Engineering Professor Society, 2008-present
+Committee member, Asia Environmental Biotechnology Society (2007 - present).
+Secretary, IWA, Activated Sludge Population Dynamics specialist group (2005-2008).
+Committee member, Internal Water Association (IWA), Activated Sludge Population Dynamics specialist group/Microbial Ecology in Water Engineering (2001-2019)
+
+Service on Department Committees
+Chair, Environmental Engineering & Science program (May 2013- May 2015)
+Member, CEE Promotion & Tenure committee (2014-2017)
+Chair, CEE Promotion & Tenure committee (2015-2017)
+Chair and member, CEE Faculty Search Committee for 6 faculty positions (2017-2018)
+
+Service on Campus Committees
+Member, the Wilfred F. and Ruth Davison Langelier Scholarship in Sanitary/Environmental Engineering Selection Committee, University of Illinois (2013 - present)
+Member, Steering Committee, iSEE (Institute for Sustainability, Energy, and Environment), UIUC (2014-2017)
+
+Honors
+Distinguished Alumnus Award, National Taipei University of Technology
+
+ (October 2012)
+Honorary International Visiting Professorship, Department of Civil Engineering, National Taipei University of Technology (May 2012-May 2013)
+Civil and Environmental Engineering Excellence Faculty Scholar (January 2013)
+Arthur C. Nauman Endowed Professor (August 2014)
+
+Teaching Honors
+Best Master Thesis Award (2001)
+Institute of Engineering Singapore (IES) publication award  (2002)
+Best paper presentation award Bioengineering Students’ Conference (2004)
+Best undergraduate poster presentation at the ISAWWA and IWEA Water Conference (WATERCON), Springfield 2012 (2012)
+Engineering Council Advising Award, College of Engineering, University of Illinois at Urbana-Champaign
+
+ (2013)
+The 2018 Paul V. Roberts and AEESP Outstanding Doctoral Dissertation Award for Masaru Nobu.  Dissertation Title: Omics-based characterization of complex anaerobic metabolism in methanogenic wastewater treatment. Advisor: Wen-Tso Liu (2018)
+The 2020 Jacobs Engineering Group/AEESP Outstanding Doctoral Dissertation Award: Advisor to Ran Mei
+Dissertation title: Investigating the Roles of Microbial Immigration in Wastewater Treatment Processes (2020)
+
+Research Honors
+Research Award (2000)
+JSPS Visiting Scientist (2003)
+2005 Young Asian Biotechnologist Prize (2005)
+Best paper award (Diversity and localization of microbial consortium in a full-scale phenol-degrading granular activated carbon anaerobic reactor) (2007)
+Best Student Poster Award (Masaru K Nobu) (Aug 2014)
+Best Poster Award (Fangqiong Ling)
+
+ (June 2015)
+ISME-IWA Bio Cluster Award - Grand Prize (2018)
+The 2020 Walter J. Weber, Jr. AEESP Frontier in Research Award (2020)
+
+Recent Courses TaughtCEE 437 - Water Quality Engineering
+CEE 444 - Env Eng Principles, Biological
+CEE 538 - Water Quality Control Proc II
+

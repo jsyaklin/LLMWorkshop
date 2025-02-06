@@ -1,0 +1,124 @@
+
+
+
+Jonathan A Dantzig 
+
+
+
+
+
+Professor Emeritus
+
+
+
+dantzig@illinois.edu
+ 
+
+
+For More Information
+Research website
+
+Education
+Ph.D., Mechanics and Materials Science, The Johns Hopkins University, 1977
+M.S.E., Mechanics, The Johns Hopkins University, 1975
+B.S.E., Mechanics, The Johns Hopkins University, 1972
+
+Academic Positions
+Professor Emeritus, Mechanical Science and Engineering, UIUC, 2008-present
+Professor, Mechanical and Industrial Engineering, UIUC, Aug. 1996-Aug.2008
+Associate Professor, Mechanical and Industrial Engineering, UIUC, Aug. 1987-Aug. 1996
+Assistant Professor, Mechanical and Industrial Engineering, UIUC, Aug. 1982-Aug. 1987
+Adjunct Assistant Professor, University of New Haven, Sept. 1978-Sept. 1982
+
+Other Professional Employment
+Research Scientist/Senior Research Scientist, Process Metallurgy Department, Jan. 1977-Aug. 1982
+
+Research StatementProfessor Dantzig's most significant contributions in materials science and engineering research are in the area of computational modeling of solidification processes and microstructure development. He uses advanced computational methods to model the evolution of microstructure during solidification, a problem that involves multiple length and time scales. He has helped lead the use of adaptive grid methods to resolve the various length scales, and this work has led to a better understanding of dendritic growth. His most recent work in this area extends this approach to the study of phenomena that span the range of length scales from atomic to mesoscopic.He was one of the first scholars to develop mathematical models of stress, fluid flow and heat transfer to predict and control materials processing operations. He was also a leader in applying optimization techniques coupled to these analytical methods to provide models that actually improve processes.Professor Dantzig has recently taken an interest in biological systems. He and his research group model the interaction of cells with an advancing solidification front to determine the conditions that lead to successful cryopreservation of cell suspensions. They use the level set method to track the evolving interface and models for the van der Waals and drag forces on arbitrarily shaped surfaces to solve on an adaptive grid. He is also working with MechSE Professor Iowona Jasiuk to investigate the flow of fluids through bone under applied loads. This work may lead to a better understanding of the transport of nutrients and the role of microstructure in bone remodeling.
+Research Interests
+Solidification processing; mathematical modeling; phase field model.
+
+
+
+Selected Articles in Journals
+Athreya, B. P., J. A. Dantzig, S. Liu, and R. Trivedi, "On the Role of Confinement of Solidification in Pure Materials and Binary Alloys," Philosophical Magazine, 86:24, 3739-3756, 2006.
+Athreya, B. P., N. Goldenfeld, and J. A. Dantzig, "Renormalization Group Theory for the Phase Field Crystal Equation," Physical Review E, 74, 11601, 2006.
+Chen, Y., F. V. Lawrence, C. P. L. Barkan, J. A. Dantzig, "Heat Transfer Modeling of Rail Thermite Welding," Proceedings of the Institution of Mechanical Engineers, Part F, Journal of Rail and Rapid Transit, 220:3, 207-217, 2006.
+Dantzig, J. A., W. J. Boettinger, J. A. Warren, G. B. McFadden, S. R. Coriell, and R. F. Sekerka, "Numerical Modeling of Diffusion-induced Deformation," Metallurgical and Materials Transactions, 37A, 2701-2714, 2006.
+Goldenfeld, N., B. P. Athreya and J. A. Dantzig, "Renormalization Group Approach to Multiscale Modeling in Materials Science," Journal of Statistical Physics, Online DOI: 10.1007/s10955-055-9013-7, 125:5-6, 1019-1027, 2006.
+Han, B., J. H. Choi, J. A. Dantzig and J. Bischof, "A Quantitative Analysis on Latent Heat of an Aqueous Binary Mixture," Cryobiology, 52:1, 146-151, 2006.
+Hubel, A., T. B. Darr, A. Chang, and J. A. Dantzig, "Cell Partitioning during the Directional Solidification of Trehalose Solutions," Cryobiology (in press), 2006.
+Wang, K., A. Chang, L. Kale and J. A. Dantzig, "Parallelization of a Level Set Method for Simulating Dendritic Growth," J. Parallel and Distributed Computing, 66:11, 1379-1386, 2006.
+Goldenfeld, N., B. Athreya, and J. A. Dantzig, "Renormalization Group Approach to Multiscale Simulation of Polycrystalline Materials Using the Phase Field Crystal Mode," Physical Review E, 72, 20601-1-20601-4, 2005.
+Harnish, S. F., H. A. Padilla, B. E. Gore, J. A. Dantzig, A. J. Beaudoin, I. M. Robertson, and H. Weiland, "High Temperature Beharior and Hot Rolling of AA705X," Metallurgical and Materials Transactions, 36A, 357-369, 2005.
+Provatas, N., M. Greenwood, B. Athreya, N. Goldenfeld, and J. A. Dantzig, "Multiscale Modeling of Solidification: Phase-field Methods to Adaptive Mesh Refinement," International Journal Modern Physics, 19:31, 4525-4565, 2005.
+Chang, A. and J. A. Dantzig, "Improved Sand Surface Element for Residual Stress Determination," Applied Mathematical Modeling, 28:6, 533-546, 2004.
+Jeong, J-H., J. A. Dantzig, and N. Goldenfeld, "Dendritic Growth with Fluid Flow in Pure Materials," Metallurgical and Materials Transactions A, 34A, 459-466, 2003.
+Newman, M, B. Robinson, H. Sehitoglu, and J. Dantzig, "Deformation Residual Stress and Constitutive Relations for Quenched W319 Aluminum," Metallurgical Transactions, 34A:7, 1483-1491, 2003.
+Jeong, J-H., N. Goldenfeld, and J. A. Dantzig, "Phase Field Model for Three-Dimensional Dendritic Growth with Fluid Flow," Physical Review E (041602-1 to 041602-14), 64, 2001.
+Metzger, D., K. J. New, and J. A. Dantzig, "A Sand Surface Element for Efficient Modeling of Residual Stress in Castings," Applied Mathematical Modeling, 25, 825-842, 2001.
+Roplekar, J. K. and J. A. Dantzig, "A Study of Solidification With a Rotating Magnetic Field," International Journal of Cast Metals Research, 14, 79-95, 2001.
+Dantzig, J. A, "Solidification Modeling: Status and Outlook," The Journal of The Minerals, Metals & Materials Society, 52:12, 18-21, 2000.
+Kim, Y.-T., N. Goldenfeld, and J. A. Dantzig, "Computation of Dendritic Microstructures Using a Level Set Method," Physical Review E, 62:2, 2471-2474, 2000.
+Dantzig, J. A, "Modeling Solidification Processes using FIDAP," Cryst. Research Technology, 34:4, 417-424, 1999.
+Kim, Y.-T., N. Provatas, N. Goldenfeld, and J. Dantzig, "Universal Dynamics of Phase-Field Models for Dendritic Growth," Physical Review E, 59:3, 2546-2549, 1999.
+Michaleris, P., J. A. Dantzig, and D. A. Tortorelli, "Minimization of Welding Residual Stress and Distortion in Large Structures," Welding Journal (361s-366s), 78:11, 1999.
+Provatas, N., N. Goldenfeld, and J. Dantzig, "Adaptive Mesh Refinement Computation of Solidification Microstructures Using Dynamic Data Structures," Journal of Computational Physics, 148, 265-290, 1999.
+Provatas, N., N. Goldenfeld, J. Dantzig, J. LaCombe, A. Lupulescu, M. Koss, M. Glicksman, and R. Almgren, "Crossover Scaling in Dendritic Evolution at Low Undercooling," Physical Review Letters, 82:22, 4496-4499, 1999.
+McDavid, R. M. and J. A. Dantzig, "Design Sensitivity and Finite Element Analysis of Free Surface Flows with Application to Optimal Design of Casting Rigging Systems," International Journal for Numerical Methods in Fluids, 28, 419-442, 1998.
+McDavid, R. M. and J. A. Dantzig, "Fluid Flow in Casting Rigging Systems: Modeling, Validation, and Optimal Design," Metallurgical and Materials Transactions B (29B), 679-690, 1998.
+Provatas, N., N. Goldenfeld, and J. A. Dantzig, "Efficient Computation of Dendritic Microstructures Using Adaptive Mesh Refinement," Physical Review Letters, 80:15, 3308-3311, 1998.
+Ebrahimi, S. A., D. A. Tortorelli, and J. A. Dantzig, "Sensitivity Analysis and Nonlinear Programming Applied to Investment Casting Design," Applied Mathematical Modeling, 21:2, 113-123, 1997.
+Byrne, P. E., D. A. Tortorelli, and J. A. Dantzig, "Solidification Control by Numerical Optimization," Video Journal of Engineering Research (CD track 2), 1996.
+Palle, N. and J. A. Dantzig, "An Adaptive Mesh Refinement Scheme for Solidification Problems," Metallurgical and Materials Transactions A (27A), 707-717, 1996.
+Tiller, M. M. and J. A. Dantzig, "Implementation of Design Sensitivity Analysis and Numerical Optimization in Engineering Analysis," Applied Mathematical Modeling, 20:11, 792-799, 1996.
+Wang, Z.-X., D. A. Tortorelli, and J. A. Dantzig, "Sensitivity Analysis and Optimization of Coupled Thermal and Flow Problems with Applications to Contraction Design," Journal for Numerical Methods in Fluids, 23, 991-1020, 1996.
+Jones, A. M., M. L. Osowski, R. M. Lammert, J. A. Dantzig, and J. J. Coleman, "Growth Characterization and Modeling of Ternary In Ga As-Ga As Quantum Wells by Selective-Area MOCVD," Journal of Electronic Materials, 24, 1631-1636, 1995.
+Morthland, T. E., P. E. Byrne, D. A. Tortorelli, and J. A. Dantzig, "Optimal Riser Design for Metal Castings," Metallurgical and Materials Transactions, 26B, 871-885, 1995.
+Cockerill, T. M., D. V. Forbes, H. Han, B. A. Turkot, J. A. Dantzig, I.M. Robertson, and J. J. Coleman, "Wavelength Tuning in Strained Layer In Ga As-Ga As-Al Ga As Quantum Well Lasers by Selective Area MOCVD," Journal of Electronic Materials, 23:2, 115-119, 1994.
+Cockerill, T. M., D. V. Forbes, J. A. Dantzig, and J. J. Coleman, "Strained Layer In Ga As-Ga As-Al Ga As Buried Heterostructure Quantum Well Lasers by Three-Step Selective Area Metalorganic Chemical Vapor Deposition," IEEE Journal of Quantum Electronics, 30:2, 441-445, 1994.
+Goettsch, D. D. and J. A. Dantzig, "Modeling Microstructure Development in Gray Cast Irons," Metallurgical and Materials Transactions, 25A:5, 1063-1080, 1994.
+OConnor, T. G. and J. A. Dantzig, "Modeling the Thin Slab Continuous Casting Mold," Metallurgical and Materials Transactions (25B:3), 443-457, 1994.
+Tortorelli, D. A., J. A. Tomasko, T. E. Morthland, and J. A. Dantzig, "Optimal Design of Nonlinear Parabolic Systems. Part II: Variable Spatial Domain with Applications to Process Optimization," Computer Methods in Applied Mechanics and Engineering, 113:1-2, 157-172, 1994.
+Tortorelli, D. A., M. M. Tiller, and J. A. Dantzig, "Optimal Design of Nonlinear Parabolic Systems. Part I: Fixed Spatial Domain with Application to Process Optimization," Computer Methods in Applied Mechanics and Engineering, 113:1-2, 141-155, 1994.
+Walling, R. A. and J. A. Dantzig, "Mechanisms of Mold Filling in the Expendable Pattern Casting Process," AFS Transactions, 102, 849-854, 1994.
+Tortorelli, D. A, "A Geometric Representation Scheme Suitable for Shape Optimization," Mechanics of Structures and Machines, 21:1, 95-121, 1993.
+Wiese, J. W. and J. A. Dantzig, "Modeling Stress Development during the Solidification of Gray Iron Castings," Metallurgical Transactions (21A:2), 489-497, 1990.
+Dantzig, J. A, "Modeling of Liquid-Solid Phase Changes with Melt Convection," International Journal of Numerical Methods in Engineering, 28, 1769-1785, 1989.
+Dantzig, J. A, "Thermal Stress Development in Metal Casting Processes," Metallurgical Science and Technology, 7:3, 133-178, 1989.
+Dantzig, J. A. and J. W. Wiese, "SPIDER and the Boundary Curvature Method: Simulating the Solidification of Foundry Castings," Applied Mathematical Modeling, 12:4, 213-220, 1988.
+Kelly, J. E., K. P. Michalek, T. P. O'Connor, B. G. Thomas, and J. A. Dantzig, "Initial Development of Thermal and Stress Fields in Continuously Cast Steel Billets," Metallurgical Transactions (19A:10), 2589-2592, 1988.
+Dantzig, J. A, "Mathematical Modeling of Solidification Processes," Technology for Premium Quality Castings (PA), 1987.
+Dantzig, J. A. and L. S. Chao, "Cellular Growth into a Shearing Flow," Solidification Processing (ed.), 502, 1987.
+Dantzig, J. A. and J. W. Wiese, "Modeling the Solidification of Foundry Castings," Advanced Manufacturing Processes, 1:3-4, 437-454, 1986.
+Dantzig, J. A, "Improved Transient Response of Thermocouple Sensors," Review of Scientific Instruments, 56:5, 723-725, 1985.
+Dantzig, J. A. and J. W. Wiese, "Modeling of Heat Flow in Sand Castings Part II--Applications of the Boundary Curvature Method," Metallurgical Transactions (16B:2), 203-209, 1985.
+Dantzig, J. A. and S. C. Lu, "Modeling of Heat Flow in Sand Castings Part I--The Boundary Curvature Method," Metallurgical Transactions (16B:2), 195-202, 1985.
+Dantzig, J. A., J. A. Clumpner, and D. E. Tyler, "Degassing of Static Melts by Insoluble Purge Gases," Metallurgical Transactions, 11B:3, 433-438, 1980.
+Dantzig, J. A. and S. H. Davis, "Analysis for Prediction of Non-Equilibrium Phase Formation in Rapid Conduction Cooling," Materials Science and Engineering, 32, 199-209, 1978.
+Dantzig, J. A. and R. E. Green, Jr, "Flash X-ray Diffraction Systems," Advances in X-Ray Analysis, 16, 229-241, 1972.
+
+Honors
+TMS Educator Award, 2009
+Bruce Chalmers Award, TMS, 2005
+College of Engineering Teaching Excellence Award, UIUC, 2005
+Honorable Mention, Campus Award for Excellence in Undergraduate Teaching (Faculty), UIUC, 2005
+W. Grafton and Lillian B. Wilkins Professor, Mechanical and Industrial Engineering, UIUC
+Best Poster, NSF-OPAAL Program Review, 1999
+Fellow, American Society for Metals (ASM) International, 1998
+Best Paper (Poster Division), 8th Engineering Foundation Conference on Modeling of Casting, Welding, and Advanced Solidification Processes, 1998
+Best Paper (Oral), 5th Engineering Foundation Conference on Modeling of Casting and Advanced Solidification, 1990
+Union Oil Young Faculty Award, 1985-88
+Arnold O. Beckman Award, University Research Board, UIUC, 1982
+
+Other Honors
+Sigma Xi
+American Foundrymen's Society
+American Institute of Mining, Metallurgical and Petroleum Engineers (AIME)
+Chalmers Award Committee, AIME, Member, 1998-01
+Chalmers Award Committee, AIME, Chair, 2000-01
+International Affairs Committee, AIME, 2000-2002
+Information Technology Committee, AIME, 2002-date
+Solidification Committee, AIME
+SCAMP Committee, AIME
+American Society for Metals
+

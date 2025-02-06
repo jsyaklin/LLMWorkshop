@@ -1,0 +1,54 @@
+
+
+
+Sean Kearney 
+
+
+
+
+
+PROF
+
+
+
+skearney@illinois.edu
+ 
+
+
+Education
+Ph.D., Mechanical Engineering, University of Illinois Urbana-Champaign, 1999
+M.S., Mechanical Engineering, University of Illinois Urbana-Champaign, 1995
+B.S., Mechanical Engineering, Clarkson University, 1992
+
+Academic Positions
+Professor, Department of Aerospace Engineering, University of Illinois at Urbana-Champaign, October 2024-Present
+
+
+Professional Highlights
+Distinguished Member of Technical Staff, Sandia National Laboratories, 2018 - 2024
+Technical Director, Spectral Energies, LLC, 2017 - 2018
+Distinguished Member of Technical Staff, Sandia National Laboratories,  1999 - 2017
+
+Research Interests
+Laser-based diagnostics, spectroscopy, and quantitative imaging
+Incompressible flows and convective heat transfer
+Hypersonics and compressible fluid mechanics
+Reacting flows
+
+
+
+Selected Articles in Journals
+Danehy, P.M., R.A. Burns, D.T. Reese, J.E. Retter, and S.P. Kearney, “FLEET velocimetry for aerodynamics,” Annual Review of Fluid Mechanics 54, 525-553, 2022.
+Jans, E.R. D.J. Armstrong, A.V. Smith, and S.P. Kearney, "Noncolinear optical parametric oscillator for broadband nanosecond pulse-burst CARS diagnostics in gases," Optics Letters 47, 1839-1842, 2022.
+Retter, J.E., M. Koll, D.R. Richardson, and S.P. Kearney, “Time-domain self-broadened and air-broadened nitrogen S-branch Raman linewidths at 80–200 K in an underexpanded jet,” Journal of Chemical Physics 156, 194201, 2022.
+Retter, J.E., M. Koll, C.E. Dedic, P.M. Danehy, D.R. Richardson, and S.P. Kearney, “Hybrid time-frequency domain dual-probe coherent anti-Stokes Raman scattering for simultaneous temperature and pressure measurements in compressible flows via spectral fitting,” Applied Optics 62, 50-62, 2022.
+Lynch, K.P., T.W. Grasser, R.W. Spillers, C.R. Downing, K.A. Daniel, E.R. Jans, S.P. Kearney, B.J. Morreale, R. Wagnild, and J.L. Wagner, “Design and characterization of the Sandia free-piston reflected shock tunnel,” Shock Waves, https://doi.org/10.1007/s00193-023-01127-4, 2023.
+Marsh, A.W., A.X. Zheng, G.T. Wang, M.L. Hobbs, S.P. Kearney, and Y. Chen-Mazumdar, “Evolution of titanium particle combustion in potassium perchlorate and air,” Combustion and Flame 253, 112787, 2023.
+Fries, D., S.T. Stark, J.S. Murray, R. Bhakta, E.R. Jans, N.T. Clemens, P.L. Varghese, and S.P.  Kearney, “Nitrogen thermometry in an inductively coupled plasma torch using broadband nanosecond coherent anti-Stokes Raman scattering,” Applied Optics 62, 7560-7570, 2023.
+Kearney, S.P., D.K. Lauriola, H.U. Stauffer, P. Hsu, N. Jiang, V. Athmanathan, T.R. Meyer, and S. Roy, “Analysis of picosecond coherent anti-Stokes Raman spectra for gas-phase diagnostics,” Journal of the Optical Society of America B 40, 1611-1624, 2023. (featured as Editor’s Pick)
+Webb, A.M., C.Q. Crabtree, V. Athmanathan, T.R. Meyer, S.P. Kearney, and M.N. Slipchenko, “High-efficiency narrow-bandwidth KTP optical parametric oscillator for kHz-MHz planar laser induced fluorescence,  Optics Letters 49, 1473-1476, 2023.
+Kearney, S.P., K.A. Daniel, C.R. Downing, D.K. Lauriola, J. Leicht, M. Slipchenko, K.P. Lynch, and J.L. Wagner, “100-kHz coherent Raman thermometry in a free-piston shock tube,” Journal of Thermophysics and Heat Transfer 38, 452-458, 2024. doi.org/10.2514/1.T6947
+Wang, R.B., A.M. Webb, V. Athmanathan, M.N. Slipchenko, S.P. Kearney, H.D. Perkins, S. Roy, C.A. Fugger, T.R. Meyer, “500-kHz OH PLIF and OH* chemiluminescence imaging of deflagration and rotating detonation in CH4-O2 and H2-air mixtures,” Proceedings of the Combustion Institute 40, 105770 (2024). doi.org/10.1016/j.proci.2024.105770 
+
+Recent Courses TaughtAE 312 - Compressible Flow
+

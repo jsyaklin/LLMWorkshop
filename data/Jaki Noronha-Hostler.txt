@@ -1,0 +1,98 @@
+
+
+
+ Jaki Noronha-Hostler she/her/hers
+
+
+
+
+
+Associate Professor
+
+
+
+jnorhos@illinois.edu
+427 Loomis Laboratory
+
+
+For More Information
+Website for Prof. Jacquelyn Noronha-Hostler
+
+Education
+University of Frankfurt 2010 - PhD in Theoretical Physics
+Berea College 2004 - BA with Physics and Mathemtic Majors, Minor German
+
+BiographyDr. Jacquelyn Noronha-Hostler finished her PhD in Theoretical Physics at the Goethe University in Frankfurt in 2010, during this time she was also a visiting student at Columbia University from 2008-2009 and she received funding from FIAS, GRADED, and the ITP in Frankfurt.  For her undergraduate degree she graduated Magma cum Laude from Berea College with a double major in Physics and Mathematics with a minor in German for which she was awarded the Waldemar Noll Scholarship in Physics, the Senior Mathematics Award, and travel funds from the DAAD, NSF, and the Benjamin A. Gilman International Scholarship.  Following her PhD,  she obtained a FAPESP postdoctoral fellowship at the University of Sao Paulo, followed by an Associate Research position at Columbia University, and a postdoctoral fellowship at the University of Houston.  From 2017-2019 she was an Assistant Professor in the Physics and Astronomy Department at Rutgers University where she received the 2018 Alfred P Sloan Fellowship and the 2018 Department of Energy Early Career Award.  In 2019 she joined the faculty at the University of Illinois Urbana Champaign as an Assistant Professor. She is currently on the executive committee for the American Physical Society's Division of Nuclear Physics and is a member of the BEST collaboration.   She recently finished a 4 year term on the RHIC & AGS User's Executive Committee Pronouns: she/her
+Academic Positions
+2023-present Associate Professor at the University of Illinois Urbana Champaign
+2019-2023 Assistant Professor at the University of Illinois Urbana Champaign
+2017-2019 Assistant Professor at Rutgers University
+2015-2017 Postdoctoral Fellow at the University of Houston
+2014-2015 Associate Research Scientist at Columbia University
+2011-2014 Postdoctoral Fellow at the University of Sao Paulo
+2008-2009 Visiting Student Columbia University
+
+Documents
+Hard Probes 2016
+
+Research StatementThe questions that I seek to understand are:
+
+What are the smallest building blocks of matter and how do they interact?
+What are the properties of the primordial fluid (Quark-Gluon Plasma) that existed microseconds after the Big Bang and can now be produced in the laboratory (heavy-ion collisions)?
+What type of matter exists at the core of a neutron star? How can we connect its properties to nuclear experiments on Earth?
+
+Smallest building blocks of matter: quarks and gluons
+At the very smallest scales of matter exist quarks and gluons that strongly interact and can be described by the fundamental theory of nature: Quantum Chromodynamics (QCD).  While one can right down the Lagrangian of QCD but solving it numerical can only be done by placing quarks and gluons on a  discretized four-dimensional grid and is only possible in very specific regimes of densities and temperatures. The quarks sit on the lattice sites, while the gluons are the links between them. Lattice QCD has been enormously successful in computing the thermodynamic properties of the QGP at zero baryon density. Lattice calculations predict a crossover phase transition between the hadron gas phase and the QGP.  Current Lattice QCD calculations have two limitations: dynamical (real time) calculations and large baryon densities, which are the primary focus of my research.
+
+Lattice QCD calculations have been able to determine the phases of matter at large temperatures and low baryon densities (small µβ).  In regimes beyond what is currently possible with Lattice QCD, effective models are used such as holography, chiral models, or a hadron resonance gas.  My group is interested in mapping out the different possible phases of matter of QCD – known as the QCD phase diagram.
+Dynamics of the Quark Gluon Plasma
+My research focuses on extracting the fundamental properties of the Quark-Gluon Plasma (QGP), the phase of strongly interacting matter that existed microseconds after the Big Bang. To recreate the QGP in the laboratory heavy nuclei are smashed together at nearly the speed of light to reach extremely high temperatures. At this point, quarks and gluons are no longer bound together in hadrons but create a strongly interacting, dense quark gluon “soup” that flows like a nearly frictionless liquid. Here, a frictionless liquid implies that the shear viscosity (friction between shear layers) over entropy density, η/s, is an order of magnitude smaller than the one found in water
+The QGP created in the laboratory is the hottest, smallest, and densest fluid known to mankind so a well-established dynamical description is necessary to interpret experimental results. Effective models such as relativistic viscous hydrodynamics use the Lattice QCD Equation of State to serve as a bridge between first principle calculations and experimental observables that describe the collective motion of the QGP. 
+ 
+
+Here is an example of a simulation of the QGP using relativistic viscous hydrodynamics.  The energy density profiles are shown at different time steps. My group performs large scale simulations of the QGP on high-performance computers. Additionally, we study how jets and heavy quarks lose energy as they are bumped around by this strongly interacting fluid
+ 
+Neutron Stars
+A central mystery in nuclear astrophysics is if there are quarks within the core of a neutron star. If there are quarks in the core they may be in new and exotic states of matter that have never been seen on Earth.  In the era of multi-messenger astrophysics with data from LIGO/Virgo and astrophysical observations from NICER it may be possible to answer this question.  Additionally, low energy heavy-ion collisions can help scientists to better understand the high temperatures reached within neutron star mergers. My group creates models to study the interior of neutron stars, which helps us to predict the mass-radius relation and tidal deformability of neutron stars. We look for exotic states of matter in the core of a neutron star and make comparisons to laboratory experiments.
+
+Computer simulation of a neutron star (left) and tracks produced from a shower of particles from a heavy-ion collisions (right). Courtesy: Lukas R Weih and Luciano Rezzolla/Goethe Univ
+Graduate Research OpportunitiesCurrently seeking graduate students on a wide range of topics in nuclear theory
+Research Interests
+Nuclear theory: Relativistic heavy-ion collisions, relativistic fluids (viscous), Lattice Quantum Chromodynamics, Neutron Stars, Phase Transitions, Hadronic Interactions, Computational Physics, Nuclear astrophysics, Neutron Stars
+
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+Nuclear Physics (theoretical)
+
+
+Selected Articles in Journals
+J. Noronha-Hostler, J. Noronha and C. Greiner, Transport Coefficients of Hadronic Matter near T(c), Phys. Rev. Lett. 103, 172302 (2009)
+J. Noronha-Hostler, G. S. Denicol, J. Noronha, R. P. G. Andrade and F. Grassi, Bulk Viscosity Effects in Event-by-Event Relativistic Hydrodynamics, Phys. Rev. C 88, 044916 (2013)
+J. Noronha-Hostler, J. Noronha and F. Grassi, Bulk viscosity-driven suppression of shear viscosity effects on the flow harmonics at RHIC, Phys. Rev. C 90, 034907 (2014).
+J. Noronha-Hostler, L. Yan, F. G. Gardim and J. Y. Ollitrault, Linear and cubic response to the initial eccentricity in heavy-ion collisions, Phys. Rev. C 93, no. 1, 014909 (2016).
+J. Noronha-Hostler, B. Betz, J. Noronha and M. Gyulassy,  Event-by-event hydrodynamics + jet energy loss: A solution to the RAA - v2 puzzle,  Phys. Rev. Lett. 116, no. 25, 252301 (2016)
+Paolo Alba, Rene Bellwied, Szabolcs Borsanyi, Zoltan Fodor, Jana Guenther, Sandor D. Katz, Valentina Mantovani Sarti, Jacquelyn Noronha-Hostler, Paolo Parotto, Attila Pasztor Israel Portillo Vazquez, Claudia Ratti,  Constraining the hadronic spectrum through QCD thermodynamics on the lattice, Phys. Rev. D 96, no. 3, 034517 (2017).
+R. Critelli, J. Noronha, J. Noronha-Hostler, I. Portillo, C. Ratti and R. Rougemont, Critical point in the phase diagram of primordial quark-gluon matter from black hole physics, Phys. Rev. D 96, no. 9, 096026 (2017).
+G. Giacalone, J. Noronha-Hostler, M. Luzum and J. Y. Ollitrault, Hydrodynamic predictions for 5.44 TeV Xe+Xe collisions, Phys. Rev. C 97, no. 3, 034904 (2018).
+M. D. Sievert and J. Noronha-Hostler, CERN Large Hadron Collider system size scan predictions for PbPb, XeXe, ArAr, and OO with relativistic hydrodynamics, Phys. Rev. C 100, no. 2, 024904 (2019).
+Paolo Parotto, Marcus Bluhm, Debora Mroczek, Marlene Nahrgang, Jacquelyn Noronha-Hostler, Krishna Rajagopal, Claudia Ratti, Thomas Schaefer, Mikhail Stephanov, QCD equation of state matched to lattice data and exhibiting a critical point singularity, Phys. Rev. C 101, no. 3, 034901 (2020).
+P. Carzon, S. Rao, M. Luzum, M. Sievert and J. Noronha-Hostler, “Possible octupole deformation of 208Pb and the ultracentral v2 to v3 puzzle,” Phys. Rev. C 102, no.5, 054905 (2020)
+ T. Dore, E. McLaughlin and J. Noronha-Hostler, “Far-from-equilibrium search for the QCD critical point,” Phys. Rev. D 102, no.7, 074017 (2020)
+H. Tan, J. Noronha-Hostler and N. Yunes, “Neutron Star Equation of State in light of GW190814,” Phys. Rev. Lett. 125, 261104 (2020)
+N.  Summerfield,  B.  N.  Lu,  C.  Plumberg,  D.  Lee,  J.  Noronha-Hostler  and A. Timmins, “16O16O at RHIC and the LHC comparing alpha clustering vs sub-structure,” Phys.Rev.C 104 (2021) 4, L041901
+H. Tan, T. Dore, V. Dexheimer, J. Noronha-Hostler and N. Yunes, “ExtremeMatter  meets  Extreme  Gravity:  Ultra-heavy  neutron  stars  with  crossovers and first-order phase transitions,” Phys. Rev. D 105 (2022) 2, 023018
+
+Professional Societies
+RHIC & AGS User's Executive Committee at Brookhaven National Laboratory- faculty elected members 2017-2021
+American Physical Society's Division of Nuclear Physics Executive Committee 2020-2022
+
+Research Honors
+DOE Early Career Award (9/15/18)
+Alfred P. Sloan Fellowship (9/15/18)
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 470 (PHYS 570) - Subatomic Physics
+PHYS 576 - Particle Physics II
+PHYS 598 NST - Special Topics in Physics
+

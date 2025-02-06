@@ -1,0 +1,58 @@
+
+
+
+Ling Ren 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 244-0761
+renling@illinois.edu
+4312 Siebel Center for Comp Sci
+
+
+For More Information
+Ling Ren's homepage
+Ling Ren's Google Scholar
+
+Education
+Ph.D., Computer Science, Massachusetts Institute of Technology, 2018
+
+Academic Positions
+Assistant Professor, University of Illinois Urbana-Champaign, Department of Computer Science, August 2019 -- present
+
+Research Interests
+Security and Privacy
+Secure Distributed Algorithms
+
+Cryptography
+
+
+
+Research Areas
+Security and Privacy
+Systems and Networking
+Theory and Algorithms
+
+
+Research Honors
+Test-of-Time Award at CCS (2023)
+Chaincode Lab Bitcoin Research Prize (2023)
+Google Research Scholar Award (2023)
+NSF Faculty Early Career Development Program (CAREER) (2022)
+Best Paper Runner-up at CCS (2021)
+Top Picks in Hardware and Embedded Security at ICCAD (2018)
+Best Student Paper Award at CCS
+ (2013
+)
+
+Recent Courses TaughtCS 461 (ECE 422) - Computer Security I
+CS 591 SP - Security and Privacy
+CS 598 CAL (CS 598 LR) - Consensus Algorithms
+CS 598 FTD - Fault-Tolerant Dist Algorithms
+ECE 526 (CS 539) - Distributed Algorithms
+

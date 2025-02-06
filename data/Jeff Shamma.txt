@@ -1,0 +1,65 @@
+
+
+
+Jeff Shamma 
+
+
+
+
+
+Professor and Jerry S. Dobrovolny Chair in ISE
+
+
+(217) 265-6210
+jshamma@illinois.edu
+117 Transportation Building
+
+
+For More Information
+Research website
+
+Education
+Doctor of Philosophy in Systems Science and Engineering, Massachusetts Institute of Technology, 1988.
+Bachelor of Science in Mechanical Engineering, Georgia Institute of Technology, 1983.
+
+BiographyJeff S. Shamma is with the University of Illinois at Urbana-Champaign where he is the Department Head of Industrial and Enterprise Systems Engineering (ISE) and Jerry S. Dobrovolny Chair. His prior academic appointments include faculty positions at the King Abdullah University of Science and Technology (KAUST) and the Georgia Institute of Technology, where he was the Julian T. Hightower Chair in Systems and Controls. Jeff received a PhD in Systems Science and Engineering from MIT in 1988. He is a Fellow of IEEE and IFAC; a recipient of the IFAC High Impact Paper Award, AACC Donald P. Eckman Award, and NSF Young Investigator Award; and a past Distinguished Lecturer of the IEEE Control Systems Society. He has been a plenary or semi-plenary speaker at several conferences, including NeurIPS, World Congress of the Game Theory Society, IEEE Conference on Decision and Control, and the American Control Conference. Jeff was the Editor-in-Chief for the IEEE Transactions on Control of Network Systems from 2020-2024. His research focuses on decision and control, game theory, and multi-agent systems.
+Academic Positions
+Department Head and Professor, Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, 2020-present.
+
+Jerry S. Dobrovolny Chair, December University of Illinois at Urbana-Champaign, 2020-present.
+
+Professor of Aerospace Engineering, by courtesy, University of Illinois Urbana-Champaign, 2020-present.
+Professor of Mechanical Science and Engineering, by courtesy, University of Illinois Urbana-Champaign, 2023-present.
+
+
+Research Areas
+Decision and Control Systems
+
+
+Journal Editorships
+Editor-in-Chief, IEEE Transactions on Control of Network Systems, 2020-2024. 
+Editorial Board, Annual Reviews in Control, 2020-Present.
+Associate Editor, IEEE Transactions on Robotics, 2019-2020.
+
+Honors
+Keynote Speaker, 34th Conference on Neural Information Processing Systems (NeurIPS) (virtual). (2020)
+Semi-Plenary Speaker, Fifth World Congress of the Game Theory Society (GAMES2016), Maastricht, The
+Netherlands. (2016)
+Plenary Speaker, 52nd IEEE Conference on Decision and Control (CDC), Florence, Italy.
+ (2013)
+Plenary Speaker, American Control Conference (ACC), Philadelphia, PA, USA. (1998)
+
+Research Honors
+ IFAC High Impact Paper Award (2020)
+Fellow, IFAC, “for contributions to linear parameter varying systems, multiagent systems, game theory, and
+robust control”
+ (2016)
+Mohammed Dahleh Distinguished Lecture Award (2013)
+Fellow, IEEE, “for contributions to feedback control and systems theory” (2006)
+American Automatic Control Council Donald P. Eckman Award (1996)
+NSF Young Investigator Award (NYI) (1992)
+
+Recent Courses TaughtSE 100 - Introduction to ISE
+SE 424 - State Space Design for Control
+SE 498 DP (SE 498 DS) - Dynamic Prog Reinforce Learn
+

@@ -1,0 +1,528 @@
+
+
+
+Davide Curreli 
+
+
+
+
+
+Professor and Donald Biggar Willett Faculty Scholar
+
+
+(217) 300-1787
+dcurreli@illinois.edu
+111J Talbot Laboratory
+
+
+Education
+University of Padua, Italy, Ph.D., Sciences, Technologies and Measures for Space, 2011
+University of Padua, Italy, M.S., Aerospace Engineering, 2007
+University of Padua, Italy, B.S., Aerospace Engineering, 2004
+
+Academic Positions
+2024-Present, Professor, Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana Champaign (100% FTE)
+2019-2024, Associate Professor, Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana Champaign (100% FTE)
+2013-2019, Assistant Professor, Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana Champaign (100% FTE)
+2024-Present, Professor, National Center for Supercomputing Applications, University of Illinois at Urbana Champaign  (0% FTE)
+2019-2024, Associate Professor, National Center for Supercomputing Applications, University of Illinois at Urbana Champaign (0% FTE)
+2015-2019, Assistant Professor, National Center for Supercomputing Applications, University of Illinois at Urbana Champaign (0% FTE)
+ 2014-present, Affiliated Professor, Computational Science and Engineering, University of Illinois at Urbana Champaign
+
+Other Professional Employment
+2/2012-8/2013, Postdoctoral Researcher, University of Illinois, USA
+4/2011-2/2012, Postdoctoral Researcher, University of Padua, Italy
+
+Resident Instruction
+NPRE 523, Plasma Waves, Fall 2023
+NPRE 526, Plasma-Material Interactions, Spring 2023
+NPRE 522, Controlled Fusion Systems, Spring 2023
+NPRE 598, Computational Plasma Physics, Fall 2022
+NPRE 421, Plasma and Fusion Science, Spring 2022
+NPRE 523, Plasma Waves, Fall 2021
+NPRE 522, Controlled Fusion Systems, Spring 2021 (online)
+NPRE 598, Computational Plasma Physics, Fall 2020 (online)
+NPRE 421, Plasma and Fusion Science, Spring 2020 (half online)
+NPRE 523, Plasma Waves, Fall 2019
+NPRE 421, Plasma and Fusion Science, Spring 2019
+NPRE 522, Controlled Fusion Systems, Fall 2018
+NPRE 421, Plasma and Fusion Science, Spring 2018
+NPRE 598, Plasma Waves and Heating Technologies, Fall 2017
+NPRE 421, Plasma and Fusion Science, Spring 2017
+NPRE 498, Numerical Methods for Plasma Physics, Fall 2016
+NPRE 421, Plasma and Fusion Science, Spring 2016
+NPRE 522, Controlled Fusion Systems, Fall 2015
+NPRE 498, Numerical Methods for Plasma Physics, Spring 2015
+NPRE 598, Plasma Waves and Heating Technologies, Fall 2014
+NPRE 522, Controlled Fusion Systems, Spring 2014
+
+Course Development
+NPRE 522, Controlled Fusion Systems, Spring 2014 (modified course material)
+NPRE 598, Plasma Waves and Heating Technologies, Fall 2014 (new course)
+NPRE 498, Numerical Methods for Plasma Physics, Spring 2015 (new course)
+
+Research Interests
+Plasma-material interactions
+Plasma modeling using fluid and kinetic models
+Transport phenomena in plasmas
+Plasma physics and plasma code development for industrial and nuclear application
+
+
+Research Areas
+Plasma Edge and PMI Modeling
+Plasma Physics and Fusion
+
+
+Selected Articles in Journals
+A. Jayanarasimhan, R. Pierrard, S.M. Peyres, S. Yatom, D. Curreli, R.M. Sankaran, Insights into sustainable nitrogen fixation by gas-phase spectroscopic measurements and global modeling of reaction intermediates in humid nitrogen plasma, ACS Sustainable Chemistry & Engineering 2025 13 (1), 140-150 (2025)
+A. Lasa, S. Blondel, D. Curreli, J. Drobny, W.A. Garcia, J. Gunn, A. Hayes, J.D. Lore, A. Renganathan, E. Tsitrone, E. Unterberg and B.D. Wirth, Multi-physics modeling of tungsten collector probe samples during the WEST C4 He campaign, Nucl. Fusion 64, 106012 (2024)
+
+A. Lasa, J.-S. Park, J. Lore, S. Blondel, D.E. Bernholdt, J.M. Canik, M. Cianciosa, J. Coburn, D. Curreli, W. Elwasif, J. Guterl, J. Hoffman, J.M. Park, G. Sinclair and B.D. Wirth, Exploring the effect of ELM and code-coupling frequencies on plasma and material modeling of dynamic recycling in divertors, Nuclear Fusion 64, 076006 (2024)
+
+J. B. O. Caughman, K. Butler, D. Curreli, D. Donovan, D. C. Easley, A. Gonzalez-Galvan, C. A. Johnson, L. Meredith, E. A. Unterberg, Investigation of Materials for Radio Frequency Antenna Plasma Facing Components, IEEE Transactions on Plasma Science, PP(99):1-6 (2024)
+
+J. Drobny, D. Curreli, Enabling Attractive-Repulsive Potentials in Binary-Collision-Approximation Monte-Carlo Codes for Ion-Surface Interactions, Mater. Res. Express 10, 126513 (2023)
+M. Rezazadeh, J. Myra, D. Curreli, Resonance in radiofrequency sheath admittance and enhanced impurity emission near the ion cyclotron frequency, Nuclear Fusion, 63, 126024, (2023)
+
+C. DeChant, C. Icenhour, S. Keniley, G. Gall, A. Lindsay, D. Curreli, S. Shannon, Verification and validation of the open-source plasma fluid code: Zapdos, Computer Physics Communications, Volume 291, 108837 (2023)
+
+M. Finko, B. Koroglu, K. E. Rodriguez, T. P. Rose, J. C. Crowhurst, D. Curreli, H. B. Radousky, K.B. Knight, Stochastic Optimization of a Uranium Oxide Reaction Mechanism Using Plasma Flow Reactor Measurements, Nature Scientific Reports, 13, 9293 (2023)
+C. DeChant, C. Icenhour, S. Keniley, A. Lindsay, G. Gall, K. Clein Hizon, D. Curreli, S. Shannon, Verification methods for drift–diffusion reaction models for plasma simulations, Plasma Sources Science and Technology, Volume 32, Number 4, (2023)
+
+L. Meredith, M. Rezazadeh, H. Fazlul, V. Srinivasaragavan, O. Sanhni, D. Curreli, hPIC2: a hardware-accelerated, hybrid particle-in-cell code for dynamic plasma-material interactions, Computer Physics Communications, Volume 283, 108569, (2023)
+
+A. Tanveer, S. G. Kapoor, S. Mujumdar, D. Curreli, One-Dimensional Plasma Model of Electrical Discharge Machining in Deionized Water for Prediction of Plasma Characteristics Along the Interelectrode Gap, Journal of Manufacturing Science and Engineering, 145 (1), 011012 (2023)
+C. C. Klepper, E. A. Unterberg, Y. Marandet, D. Curreli, A. Grosjean, J. H. Harris, C. A. Johnson, A. Gallo, M. Goniche, Ch. Guillemaut, J. P. Gunn, M. Raghunathan, E. Tsitrone, G. Ciraolo, L. Colas, D. Donovan, A. Ekedahl, D. Easley, G. Urbanczyk, and the WEST  Team, Characterizing W sources in the all-W wall, all-RF WEST tokamak environment, Plasma Physics and Controlled Fusion, 64, 104008 (2022)
+M. Finko, J. C. Crowhurst, W. J. Keller, A. C. Rousso, S. S. Ly, D. G. Weisz, D. Curreli, H. B. Radousky, and K. B. Knight, Investigating Laser Ablated Plume Dynamics of Carbon and Aluminum Targets, Physics of Plasmas 29 (8), 083506 (2022) (Selected as Editor's Pick)
+
+S. Keniley, Necip B. Uner, Elizabeth Perez, R. Mohan Sankaran, Davide Curreli, Multiphase Modeling of the Plasma-Water Interface: Application to Hydrogen Peroxide Generation with Experimental Validation, Plasma Sources Science and Technology, 31 (7), 075001 (2022)
+
+P. Seleson, M. Mustafa, D. Curreli, C. D. Hauck, M. Stoyanov, D. Bernholdt, Data-driven surrogate modeling of hPIC ion energy-angle distributions for high-dimensional sensitivity analysis of plasma parameters' uncertainty, Computer Physics Communications, 279, 108436 (2022)
+
+J. D. Lore, M. S. Islam, C. E. Kessel, D. Curreli, R. Maingi, M. Rezazadeh, S. Smolentsev, Simulation of Liquid Lithium Divertor Geometry using SOLPS-ITER, IEEE Transactions on Plasma Science, Volume: 50, Issue 11, 4199-4205 (2022)
+B. Koroglu, M. Finko, C. Saggese, S. Wagnon, S. Foster, D. McGuffin, T. P. Rose, J. C. Crowhurst, D. G. Weisz, H. B. Radousky, D. Curreli, K. B. Knight, The influence of cooling rate on condensation of iron, aluminum, and uranium oxide nanoparticles, Journal of Aerosol Science, Volume 162, 105959, (2022)
+
+M. E. Fenstermacher, J. Abbate, S. Abe, T. Abrams, M. Adams, B. Adamson, N. Aiba, T. Akiyama, P. Aleynikov, E. Allen, S. Allen, H. Anand, J. Anderson, Y. Andrew, T. Andrews, D. Appelt, R. Arbon, N. Ashikawa, A. Ashourvan, M. Aslin, Y. Asnis, M. Austin, D. Ayala, J. Bak, I. Bandyopadhyay, S. Banerjee, K. Barada, L. Bardoczi, J. Barr, E. Bass, D. Battaglia, A. Battey, W. Baumgartner, L. Baylor, J. Beckers, M. Beidler, E. Belli, J. Berkery, T. Bernard, N. Bertelli, M. Beurskens, R. Bielajew, S. Bilgili, B. Biswas, S. Blondel, J. Boedo, I. Bogatu, R. Boivin, T. Bolzonella, M. Bongard, X. Bonnin, P. Bonoli, M. Bonotto, A. Bortolon, S. Bose, N. Bosviel, S. Bouwmans, M. Boyer, W. Boyes, L. Bradley, R. Brambila, D. Brennan, S. Bringuier, L. Brodsky, M. Brookman, J. Brooks, D. Brower, G. Brown, W. Brown, M. Burke, K. Burrell, K. Butler, R. Buttery, I .Bykov, P. Byrne, A. Cacheris, K. Callahan, J. Callen, G. Campbell, J. Candy, J. Canik, P. Cano-Megias, N. Cao, L. Carayannopoulos, T. Carlstrom, W. Carrig, T. Carter, W. Cary, L. Casali, M. Cengher, G. Cespedes Paz, R. Chaban, V. Chan, B. Chapman, I. Char, A. Chattopadhyay, R. Chen, J. Chen, X. Chen, M. Chen, Z. Chen, M. Choi, W. Choi, G. Choi, L. Chousal, C. Chrobak, C. Chrystal, Y. Chung, R. Churchill, M. Cianciosa, J. Clark, M. Clement, S. Coda, A. Cole, C. Collins, W .Conlin, A. Cooper, J. Cordell, B. Coriton, T. Cote, J. Cothran, A. Creely, N. Crocker, C. Crowe, B. Crowley, T. Crowley, D. Cruz-Zabala, D. Cummings, M. Curie, D. Curreli, A. Dal Molin, B. Dannels, A. Dautt-Silva, K. Davda, G. De Tommasi, P. De Vries, G Degrandchamp, J. Degrassie, D. Demers, S. Denk, S. Depasquale, E. Deshazer, A. Diallo, S. Diem, A .Dimits, R. Ding, S. Ding, W. Ding, T. Do, J. Doane,  DIII-D research advancing the physics basis for optimizing the tokamak approach to fusion energy, Nuclear Fusion 62 (4), 042024 (2022)
+T. Younkin, K. Sargsyan, T. Casey, H. Najm, J. Canik, D. Green, R. Doerner, D. Nishijima, M. Baldwin, J. Drobny, D. Curreli, B. Wirth, Quantification of the Effect of Uncertainty on Impurity Migration in PISCES-A Simulated with GITR, Nuclear Fusion, 62, 056007 (2022)
+
+E.J. Kautz, E.N. Weerakkody, M.S. Finko, D. Curreli, B. Koroglu, T.P. Rose, D.G. Weisz, J.C. Crowhurst, H.B. Radousky, M. DeMagistris, N. Sinha, D.A. Levin, E.L. Dreizin, M.C. Phillips, N.G. Glumac, S.S. Harilal, Optical spectroscopy and modeling of uranium gas-phase oxidation: Progress and perspectives, Spectrochimica Acta Part B: Atomic Spectroscopy, 185, 106283 (2021)
+
+J. Drobny, D. Curreli, RustBCA: A High-Performance Binary-Collision-Approximation Code for Ion-Material Interactions, Journal of Open Source Software, 6 (64), 3298, (2021)
+
+A. Lasa, S. Blondel, D. Bernholdt, J. Canik, M. Cianciosa, W. Elwasif, D. Green, P. Roth, T. Younkin, D. Curreli, J. Drobny, B. Wirth, Integrated model predictions on the impact of substrate damage on gas dynamics during ITER burning-plasma operations, Nuclear Fusion, Volume 61, Number 11, (2021)
+
+M. Elias, D. Curreli, J. Myra, Energy-Angle Distribution of the Ions in the RF sheath of ICRH antennas, Physics of Plasmas, 28 (5), 052106 (2021)
+
+J. Drobny, S. Cohen, D. Curreli, P. Lubin, M. Pelizzo, M. Umanski, Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation, The Astrophysical Journal, 908 (2), 248, (2021)
+Maria G. Pelizzo, Alain J. Corso, Giovanni Santi, René Hübner, Denis Garoli, Dominic Doyle, Philip Lubin, Alexander N. Cohen, Jacob Erlikhman, Giulio Favaro, Marco Bazzan, Jon Drobny, Davide Curreli & Maxim Umansky, Dependence of the damage in optical metal/dielectric coatings on the energy of ions in irradiation experiments for space qualification, Nature Scientific Reports, 11, 3429 (2021)
+
+D. S. Thompson, R. Khaziev, M. F. Henriquez, S. Keniley, E. E. Scime, D. Curreli, Three-dimensional cross-field flows at the plasma-material interface in an oblique magnetic field, Physics of Plasmas, 27 (7), 073511 (2020). [Selected as Featured Article in Physics of Plasmas]
+
+J. Myra, M. Elias, D. Curreli, T. Jenkins, Effect of net direct current on the properties of radio frequency sheaths: simulation and cross-code comparison, Nuclear Fusion, 61 (1), 016030 (2020)
+
+P. Luo, C. Jaramillo, A. M. Wallum, Z. Liu, R. Zhao, L. Shen, Y. Zhai, J. C. Spear, D. Curreli, J. W. Lyding, M. Gruebele, W. Wang, J. P. Allain, YZ, Coherent Atomic-Scale Ripples on Metallic Glasses Patterned by Low-Energy Ion Irradiation for Large-Area Surface Structuring, ACS Appl. Nano Mater. (2020)
+B. Koroglu, Z. Dai, M. Finko, M. Armstrong, J. Crowhurst, D. Curreli, D. Weisz, H. Radousky, K. Knight, T. Rose, Experimental Investigation of Uranium Volatility During Vapor Condensation, Analytical Chemistry, 92 (9), 6437-6445 (2020)
+
+A. Lasa, J. M. Canik, S. Blondel, T. R. Younkin, D. Curreli, J. Drobny, P. Roth, M. Cianciosa, W. Elwasif, D. L. Green and B. D. Wirth, Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces, Physica Scripta, T171, 014041 (2020)
+
+S. Keniley, D. Curreli, Density Estimation Techniques for Multiscale Coupling of Kinetic Models of the Plasma Material Interface, J. Comput. Phys., Vol. 400, 108965 (2020)
+
+M. Farahmandzadeh, S. Marcinko, C. Jaramillo, M. K. Cheng, D. Curreli, S. Abbaszadeh, Simulation and Experimental Validation of the Uniformity of Thermally Evaporated Amorphous Selenium Films for Large Area Imaging and Radiation Detection Applications, IEEE (Institute of Electrical and Electronics Engineers) Transactions on Electron Devices, devices 68 (2), 626-631 (2020)
+
+M. Elias, D. Curreli, An explicit scheme to enforce charge conservation in transient Particle-in-Cell simulations with Maxwell-Boltzmann electrons, J. Comput. Phys., Vol. 409, 109320 (2020)
+
+J. Drobny, S. Cohen, D. Curreli, P. Lubin, M. G. Pelizzo, M. Umansky, Survivability of Metallic Shields for Relativistic Spacecraft, Journal of the British Interplanetary Society, 73 (12), 446-456 (2020)
+D. Andruczyk, R. Maingi, C. Kessel, D. Curreli, E. Kolemen, J. Canik, B. Pint, D. Youchison, and S. Smolentsev, A Domestic Program for Liquid Metal PFC Research in Fusion, Journal of Fusion Energy, 39, 441-447 (2020)
+R. Rizkallah, S. Marcinko, D. Curreli, M. S. Parsons, N. Bartlett, R. Gluck, A. Shone, D. Andruczyk, Mapping of the HIDRA (Hybrid Illinois Device for Research and Applications) stellarator magnetic flux surfaces, Physics of Plasmas, Vol. 16 Is. 9, 092503 (2019)
+
+M. Elias, D. Curreli, J. Myra, T. Jenkins, J. Wright, Numerical Model of the Radio-Frequency Magnetic Presheath Including Wall Impurities, Physics of Plasmas, Vol. 26, 092508 (2019)
+
+D. G. Weisz, J. C. Crowhurst, M. S. Finko, T. P. Rose, B. Koroglu, R. Trappitsch, H. B. Radousky, W.J . Siekhaus, M. R. Armstrong, B. H. Isselhardt, M. Azer, D. Curreli, Effects of Plume Hydrodynamics and Oxidation on the Composition of a Condensing Laser-Induced Plasma, The Journal of Physical Chemistry A, Vol. 122, Is. 6, 1584-1591 (2018)
+
+R. Rizkallah, D. Andruczyk, A. Shone, D. Johnson, Z. Jeckell, S. Marcinko, Z. Song, D. Curreli, F. Bedoya, A. Kapat, J. P. Allain, M. Christenson, M. Szott, S. Stemmley, H. Sandefur, D. N. Ruzic, R. Maingi, J. Hu, G. Zuo, J. Schmitt, Latest Results From the Hybrid Illinois Device for Research and Applications (HIDRA), IEEE (Institute of Electrical and Electronics Engineers) Transactions on Plasma Science, Vol. 46, Is. 7, 2685-2690 (2018)
+S. S. Mujumdar, D. Curreli, S. G. Kapoor, Effect of dielectric conductivity on micro-electrical discharge machining plasma characteristics using optical emission spectroscopy, Journal of Micro and Nano-Manufacturing, Vol. 6, Is. 3, 031001 (2018)
+S. Marcinko, D. Curreli, Numerical Characterization of the Edge Transport Conditions and Limiter Fluxes in the HIDRA (Hybrid Illinois Device for Research and Applications) Stellarator, Physics of Plasmas, Vol. 25, Is. 2, 022507 (2018)
+
+R. Khaziev, D. Curreli, hPIC: A Scalable Electrostatic Particle-in-Cell for Plasma-Material Interactions, Computer Physics Communications, Vol. 229, 87-98 (2018)
+
+D. A. Gates, D. Anderson, S. Anderson, M. Zarnstorff, D. A. Spong, H. Weitzner, G. H. Neilson, D. Ruzic, D. Andruczyk, J. H. Harris, H. Mynick, C. C. Hegna, O. Schmitz, J. N. Talmadge, D. Curreli, D. Maurer, A. H. Boozer, S. Knowlton, J. P. Allain, D. Ennis, G. Wurden, A. Reiman, J. D. Lore, M. Landreman, J. P. Freidberg, S. R. Hudson, M. Porkolab, D. Demers, J. Terry, E. Edlund, S. A. Lazerson, N. Pablant, R. Fonck, F. Volpe, J. Canik, R. Granetz, A. Ware, J. D. Hanson, S. Kumar, C. Deng, K. Likin, A. Cerfon, A. Ram, A. Hassam, S. Prager, C. Paz-Soldan, M. J. Pueschel, I. Joseph, A. H. Glasser,  Stellarator Research Opportunities: A Report of the National Stellarator Coordinating Committee,  Journal of Fusion Energy, Vol. 37, Is. 1, 1-44, (2018)
+M. Finko, D. Curreli, Simulation of uranium plasma plume dynamics in atmospheric oxygen produced via femtosecond laser ablation, Physics of Plasmas, Vol. 25, Is. 8, 083112 (2018)
+
+E. Cazzola, D. Curreli, G. Lapenta, On magnetic reconnection as promising driver for future plasma propulsion systems, Physics of Plasmas, Vol. 25, Is. 7, 073512 (2018) (Selected as Editor's Pick)
+J. Drobny, D. Curreli, F-TRIDYN Simulations of Tungsten Self-Sputtering and Applications to Coupling Plasma and Material Codes, Computational Materials Science, Vol. 149, Is. 15, 301–306 (2018)
+D. G. Weisz, J. C. Crowhurst, W. J. Siekhaus, T. P. Rose, B. Koroglu, H. B. Radousky, J. M. Zaug, M. R. Armstrong, B. H. Isselhardt, M. R. Savina, M. Azer, M. S. Finko, D. Curreli, Formation of 238U-16O and 238U-18O observed by time-resolved emission spectroscopy subsequent to laser ablation, Applied Physics Letters, Vol. 111, Is. 3, 034101 (2017)
+
+J. Peck, P. Zonooz, D. Curreli, G. Panici, B. Jurczyk, D. N. Ruzic, High deposition rate nanocrystalline and amorphous silicon thin film production via surface wave plasma source, Surface and Coatings Technology, Vol. 325, 370-376 (2017)
+S. Keniley, D. Curreli, Dynamic Coupling of Boltzmann Plasma Model to Surface Erosion Model for Kinetic Treatment of Plasma-Material Interactions, Fusion Science and Technology, Vol. 71, N. 1, 93-102 (2017)
+
+D. A. Gates, A. H. Boozer, T. Brown, J. Breslau, D. Curreli, M. Landreman, S. A. Lazerson, J. Lore, H. Mynick, G. H. Neilson, N. Pomphrey, P. Xanthopoulos, Recent Advances in Stellarator Optimization, Nuclear Fusion, Vol. 57, N. 12, 126064 (2017)
+M. S. Finko, D. Curreli, D. G. Weisz, J. C. Crowhurst, T. P. Rose, B. Koroglu, H. B. Radousky, M. R. Armstrong, A model of early formation of uranium molecular oxides in laser-ablated plasmas, Journal of Physics: Applied Physics, Vol. 50, N. 48, 485201 (2017)
+
+J. Drobny, A. Hayes, D. Curreli, D. N. Ruzic, F-TRIDYN: A Binary Collision Approximation Code for Simulating Ion Interactions with Rough Surfaces, Journal of Nuclear Materials, Vol. 494, 278-283 (2017)
+
+S. S. Mujumdar, D. Curreli, S. Kapoor, D. Ruzic, Model-based prediction of plasma resistance, and discharge voltage and current waveforms in micro-electro discharge machining, Journal of Micro and Nano-Manufacturing, Vol. 4, Is. 1, 011003 (2016)
+E. Cazzola, D. Curreli, S. Markidis, G. Lapenta, On the ions acceleration via collisionless magnetic reconnection in laboratory plasmas, Physics of Plasmas, Vol. 23, Is. 11, 112108 (2016)
+W. Xu, P. Fiflis, M. Szott, K. Kalathiparambil, S. Jung, M. Christenson, I. Haehnlein, A. Kapat, D. Andruczyk, D. Curreli, D. N. Ruzic, Vertical flow in the Thermoelectric Liquid Metal Plasma Facing Structures (TELS) facility at Illinois, Journal of Nuclear Materials, Vol. 463, 1181-1185, (2015)
+S. S. Mujumdar, D. Curreli, S. G. Kapoor, D. N. Ruzic, Modeling of Melt-Pool Formation and Material Removal in Micro-Electro discharge Machining, Journal of Manufacturing Science and Engineering, Vol. 137, Is. 3, 031007 (2015)
+R. Khaziev, D. Curreli, Ion energy-angle distribution functions at the plasma-material interface in oblique magnetic fields, Physics of Plasmas, Vol. 22, Is. 4, 043503 (2015)
+
+P. Fiflis, T. W. Morgan, S. Brons, G. G. van Eden, M. A. van den Berg, W. Xu, D. Curreli, D. N. Ruzic, Performance of the lithium metal infused trenches in the magnum PSI (Plasma Surface Interactions ) linear plasma simulator, Nuclear Fusion, Vol. 55, N. 11, 113004 (2015)
+P. Fiflis, D. Curreli, D. N. Ruzic, Direct time-resolved observation of tungsten nanostructured growth due to helium plasma exposure, Nuclear Fusion, Vol. 55, N. 3, 033020 (2015)
+D. T. Elg, J. R. Sporre, D. Curreli, I. A. Shchelkanov, D. N. Ruzic, K. R. Umstadter, Magnetic debris mitigation system for extreme ultraviolet sources, Journal of Micro/Nanolithography, MEMS, and MOEMS, Vol. 14, Is. 1, 013506 (2015)
+D. Andruczyk, D. N. Ruzic, D. Curreli, J. P. Allain and the HIDRA (Hybrid Illinois Device for Research and Applications) Team, HIDRA: Hybrid Illinois Device for Research and Applications, Fusion Science and Technology, Vol. 68, Is. 3, 497-500 (2015)
+W. Xu, D. Curreli, D. N. Ruzic, Computational studies of thermoelectric MHD (Thermoelectric Magnetohydro- Dynamic) driven liquid lithium flow in metal trenches, Fusion Engineering and Design, Vol. 89, Is. 12, 2868-2874 (2014)
+S. S. Mujumdar, D. Curreli, S. G. Kapoor, D. N. Ruzic, A Model of Micro Electro-Discharge Machining Plasma Discharge in Deionized Water, Journal of Manufacturing Science and Engineering, Vol. 136, Is. 3, 031011 (2014)
+M. Mozetic, K. Ostrikov, D. N. Ruzic, D. Curreli, U. Cvelbar, A. Vesel, G. Primc, M. Leisch, K. Jousten, O. B. Malyshev, J. H. Hendricks, L. Kövér, A. Tagliaferro, O. Conde, A. J. Silvestre, J. Giapintzakis, M. Buljan, N. Radić, G. Dražić, S. Bernstorff, H. Biederman, O. Kylián, J. Hanuš, S. Miloševič, A. Galtayries, P. Dietrich, W. Unger, M. Lehocky, V. Sedlarik, K. Stana-Kleinschek, A. Drmota-Petrič, J. J. Pireaux, J. W. Rogers, M. Anderle, Recent advancement in Plasma Science and Applications – Review Article, Journal of Physics D: Applied Physics, Vol. 47, N. 15, 153001 (2014)
+S. Jung, M. Christenson, D. Curreli, C. Bryniarski, D. Andruczyk, D. N. Ruzic, Development of a high energy pulsed plasma simulator for the study of liquid lithium trenches, Fusion Engineering and Design, Vol. 89, Is. 12, 2822-2826 (2014)
+P. Fiflis, A. Press, W. Xu, D. Andruczyk, D. Curreli, D. N. Ruzic, Wetting properties of liquid lithium on select fusion relevant surfaces, Fusion Engineering and Design, Vol. 89, Is. 12, 2827-2832 (2014)
+D. Curreli, F. F. Chen, Cross-field diffusion in low-temperature plasma discharges of finite length, Plasma Sources Science and Technology, Vol. 23, N. 6, 064001 (2014)
+W. Xu, D. Curreli, D. Andruczyk, T. Mui, R. Switts, D. N. Ruzic, Heat transfer of TEMHD (Thermoelectric Magnetohydro- Dynamic) driven lithium flow in stainless steel trenches, Journal of Nuclear Materials, Vol. 438, S422–S425 (2013)
+P. Raman, A. Groll, P. Fiflis, D. Curreli, D. Andruczyk, D.N. Ruzic, Chemical Sputtering Studies of Lithiated ATJ graphite, Journal of Nuclear Materials, Vol. 438, S655-S658 (2013)
+P. Fiflis, L. Kirsch, D. Andruczyk, D. Curreli, D. N. Ruzic, Seebeck Coefficient Measurements on Li, Sn Ta, MO, and W, Journal of Nuclear Materials, Vol. 438, Is. 1-3, 224-227 (2013)
+P. Fiflis, D. Andruczyk, A. L. Roquemore, M. McGuire, D. Curreli, D. N. Ruzic, Lithium pellet production (LiPP): A device for the production of small spheres of lithium, Review of Scientific Instruments, Vol. 84, Is. 6, 063506 (2013)
+F. F. Chen, D. Curreli, Central peaking of magnetized gas discharges, Physics of Plasmas, Vol. 20, Is. 5, 057102 (2013) (Selected as Editor's Pick)
+J. Pelaez, M. Lara, C. Bombardelli, F. R. Lucas, M. Sanjurjo-Rivo, D. Curreli, E. C. Lorenzini, D. J. Scheeres, Periodic orbits of a Hill-tether problem originated from collinear points, Journal of Guidance, Control and Dynamics, Vol. 35, N. 1, 222-233 (2012)
+D. Melazzi, D. Curreli, M. Manente, J. Carlsson, D. Pavarin, SPIREs: A Finite-Difference Frequency-Domain electromagnetic solver for inhomogeneous magnetized plasma cylinders, Computer Physics Communications, Vol. 183, Is. 6, 1182-1191 (2012)
+M. Manzolaro, M. Manente, D. Curreli, J. Vasquez, J. Montano, A. Andrighetto, G. Meneghetti, D. Pavarin, Off-line ionization tests using the surface and the plasma ion sources of the SPES (Selective Production of Exotic Species) Project, Review of Scientific Instruments, Vol. 83, Is. 2, 02A907 (2012)
+M. Lara, J. Pelaez, C. Bombardelli, F. R. Lucas, M. Sanjurjo-Rivo, D. Curreli, E. C. Lorenzini, D.  J. Scheeres, Dynamic stabilization of L2 periodic orbits using attitude-orbit coupling effects, Journal of Aerospace Engineering, Sciences and Applications, Vol. IV, N. 1, 73-81 (2012)
+D. Zanutto, D. Curreli, E. C. Lorenzini, Stability of electrodynamic tethers in a three-body system, Journal of Guidance, Control and Dynamics, Vol. 34, N. 5, 1441-1456 (2011)
+D. Curreli, Transition from edge-localized to center-localized power deposition in Helicon discharges, The European Physical Journal Applied Physics, Vol. 56, Is. 02, 24007 (2011)
+D. Curreli, F. F. Chen, Equilibrium theory of cylindrical discharges with special application to helicons, Physics of Plasmas, Vol. 18, 113501 (2011)
+D. Curreli, E. C. Lorenzini, C. Bombardelli, M. Sanjurjo-Rivo, F. R. Lucas, J. Pelaez, D. J. Scheeres, M. Lara, Three-body dynamics and self-powering of an electrodynamic tether in a plasmasphere, Journal of Propulsion and Power, Vol. 26, N. 3, 385-393 (2010)
+
+Articles in Conference Proceedings
+B. Lee, H. Woo, A. Novak, D. Curreli, C. Lilia, J. Hea, C. Baroi, Capture and In-Situ Conversion of CO2 Using Novel Plasma Technology Under Ambient Conditions, Proceedings of the 17th Greenhouse Gas Control Technologies Conference (GHGT-17) 20-24 October 2024
+R. Maingi, D. Andruczyk, D. Curreli, J. Jun, J. D. Lore, C. E. Kessel, A. Khodak, E. Kolemen, B. A. Pint, S. Smolentsev, Z. Sun, D. L. Youchison, Progress in a US-based Liquid Metal Plasma-Facing Component Design Activity for a Fusion Nuclear Science Facility, Proceedings of the 47th European Physical Society Conference on Plasma Physics, Online Event, June 21-25, 2021
+Maryam Farahmandzadeh, Steven Marcinko, Davide Curreli, Shiva Abbaszadeh, Thickness uniformity and stability of amorphous selenium films on flexible substrates for indirect conversion x-ray detection, Proceedings Volume 11595, Medical Imaging 2021: Physics of Medical Imaging; 115953E (2021)
+
+B. Wirth, S. Blondel, W. Garcia, A. Hayes, A. Lasa, J. M. Canik, X. Hu, J. Lore, C. Parish, E. Unterberg, T. Younkin, D. Curreli, J. Drobny, E. Bernard, G. Cicarolo, J. Gunn, J. Y. Pascal, B. Pegourie, E. Tsitrone, and IRFM CEA, Measuring and modeling helium accumulation in single crystal tungsten specimens exposed to He plasma discharges in the WEST reciprocating collector probe, 28th IAEA Fusion Energy Conf. Proc. Int. Conf., P5-P3, (2021)
+Drobny, J., Curreli, D., Umansky, M., Cohen, A., Taylor, S., & Lubin, P., Effect of ISM (In-Space Manufacturing) impacts on relativistic spacecraft. Proceedings of the International Astronautical Congress, IAC-19_D4_4_7_x54355, October 2019
+S. Blondel, D. E. Bernholdt, J. M. Canik, M. R. Cianciosa, D. Curreli, R. P. Doerner, J. Drobny, W. Elwasif, D. L. Green, A. Lasa, D. Nishijima, P. C. Roth, G. Shaw, T. Younkin, B. D. Wirth; Prediction of gas bubble evolution under the surface of the ITER (International Thermonuclear Experimental Reactor) divertor with cluster dynamics, 17th International Conference on Plasma-Facing Materials and Components for Fusion Applications, Eindhoven, the Netherlands, May 21-24, 2019
+A. Lasa, S. Blondel, G. Shaw, T. Younkin, B. D. Wirth, D. Bernholdt, J. M. Canik, M. R. Cianciosa, W. Elwasif, D. L. Green, P. C. Roth, D. Curreli, J. Drobny, M. Baldwin, R. P. Doerner, D. Nishijima; Integrated, multi- physics modeling of erosion, redeposition and gas retention in the ITER (International Thermonuclear Experimental Reactor) divertor, 17th International Conference on Plasma-Facing Materials and Components for Fusion Applications, Eindhoven, the Netherlands, May 21-24, 2019
+
+J. R. Myra, D. Curreli, M.T. Elias, and T. G. Jenkins, Recent Progress in Microscale Modeling of RF (Radio-Frequency) Sheaths, AIP Conference Proceedings 2254, 050008, 2020 (presented at the 23rd Topical Conference on Radiofrequency Power in Plasmas RFPPC 2019, Hefei, China on May 14-17, 2019)
+
+D. Weisz, J. Crowhurst, H. Radousky, T. Rose, W. Siekhaus, B. Koroglu, M. Armstrong, E. Stavrou, J. Zaug, M. Azer, M. Finko, D. Curreli, Formation of metal oxide species in laser ablation plasmas, 6th Asia-Pacific Symposium on Radiochemistry, ICC Jeju, Jeju Island, Korea, September 17-22, 2017
+P. R. Fiflis, D. Curreli, D. N. Ruzic, Time-Resolved Observation of Tungsten Nanostructuring Due to Helium Plasma, IEEE (Institute of Electrical and Electronics Engineers) Pulsed Power Conference & Symposium on Fusion Engineering, SO14-4, Austin, Texas, 2015
+
+D. E. Andruczyk, D. N. Ruzic, J. P. Allain, D. Curreli, Status of the Hybrid Illinois Device for Research and Applications (HIDRA), IEEE (Institute of Electrical and Electronics Engineers) Pulsed Power Conference & Symposium on Fusion Engineering, SO22-5, Austin, Texas, 2015
+
+D. E. Andruczyk, D. N. Ruzic, J. P. Allain, D. Curreli, HIDRA and the Materials Challenges for Stellarators, IEEE (Institute of Electrical and Electronics Engineers) Pulsed Power Conference & Symposium on Fusion Engineering, SO22-5, Austin, Texas, 2015
+
+D. Curreli, R. Khaziev, A. Steinforth, Plasma Boundary Effects at the Material Wall in Oblique Magnetic Fields, Proceedings of the 41st European Physical Society Conference on Plasma Physics, Berlin, June 23-27, 2014
+
+S. Mujumdar, D. Curreli, D. Ruzic, S. K. Kapoor, Modeling of Melt-pool Formation and Material Removal in Micro Electro-discharge Machining, ASME (The American Society of Mechanical Engineers) 2014 Proceedings of the Manufacturing Science and Engineering Conference, Paper No. MSEC2014-4108, pp. V001T03A014; 14 pages, June 9-13, 2014
+
+D. Curreli, W. Xu, D. Ruzic, Computational Studies of Thermoelectric MHD (Magnetohydrodynamic) Driven Liquid Lithium Flow in Metal Trenches, International Symposium on Lithium Applications for Fusion, ENEA-Frascati, Italy, November 2013
+
+F. F. Chen, D. Curreli, A new approach to gas discharge theory with sheath boundaries, Proceedings of the 12th Asia Pacific Physics Conference, Chiba, Japan, JPS Conf. Proc., 015053(2014), July 14-19, 2013
+J. Peck, P. Zonooz, D. Curreli, M. Reilly, R. Stubbers, B. Jurczyk, D. Ruzic, Low-damage deposition of thin silicon films for solar panel production using surface-wave plasma source, AVS 59th International Symposium & Exhibition, Tampa, Florida, October 28-November 2, 2012
+D. Elg, J. Sporre, D. Curreli, D. N. Ruzic, Magnetic Mitigation of Ionic Debris from an EUV (Extreme Ultraviolet) Source, 2012 International Symposium on Extreme Ultraviolet Lithography, Brussels, Belgium, September 30-October 4, 2012
+D. N. Ruzic, W. Xu, D. Andruczyk, D. Curreli, Heat removal in fusion devices with Lithium-Metal Infused Trenches (LiMIT), TOFE-2012, ANS 20th Topical Meeting on the Technology of Fusion Energy, Nashville, Tennessee, August 27-31, 2012
+D. Curreli, W. Xu, D. Andruczyk and D. N. Ruzic, Computational Studies of Thermoelectric MHD (Magnetohydrodynamic) in molten Lithium, Plasma Facing Components Meeting, Princeton Plasma Physics Laboratory, June 20-22, 2012 
+
+D. Melazzi, D. Curreli, M. Manente, D. Pavarin, Electrical impedance of plasma filled waveguides in the MHz range, Progress In Electromagnetics Research Symposium Proceedings, pp. 289-292, Moscow, Russia, August 19-23, 2012
+
+D. Curreli, D. Melazzi, M. Manente, D. Pavarin, Equilibrium conditions of radiofrequency-heated plasma cylinders, Progress In Electromagnetics Research Symposium Proceedings, pp. 293-297, Moscow, Russia, August 19-23, 2012
+M. Manzolaro, M. Manente, D. Curreli, J. Vasquez, J. Montano, A. Andrighetto, G. Meneghetti, D. Pavarin, A. Galata, D. Scarpa, L. Biasetto, M. Lollo, A. Cavazza, L. Costa, G. Bassato, M. Giacchini, M. Poggi, L. Boscagli and G. Prete, Off-line ionization tests using the Surface and the Plasma ion sources of the SPES Project, ICIS 2011, 14th International Conference on Ion Sources, Giardini Naxos, Italy, September 12-16, 2011
+
+D. Pavarin, F. Ferri, M. Manente, D. Curreli, D. Melazzi, D. Rondini, A. Cardinali, Development of plasma codes for the design of mini-helicon thrusters, 32nd International Electric Propulsion Conference IEPC, 2011, Wiesbaden, Germany, September 11-15, 2011
+
+D. Pavarin, M. Manente, D. Curreli, D. Melazzi, D. Rondini, F. Ferri, J. Carlsson, A. Cardinali, Plasma codes for the design and simulation of advanced plasma sources, XX Congresso AIV, Padua, Italy, May 17-18, 2011
+
+M. Lara, J. Pelaez, C. Bombardelli, F. R. Lucas, M. Sanjurjo-Rivo, D. Curreli, E. C. Lorenzini, D. J. Scheeres, Dynamic stabilization of L2 periodic orbits using attitude-orbit coupling effects, 22nd International Symposium on Space Flight Dynamics, Sao Jose dos Campos, Brazil, February 28 -March 04, 2011
+D. Pavarin, F. Ferri, M. Manente, D. Rondini, D. Curreli, Y. Güçlü, D. Melazzi, S. Suman, G. Bianchini, D. Packan, P. Elias, J. Bonnet, A. Cardinali, R. Deangelis, F. Mirizzi, A. Tuccillo, O. Tudisco, E. Ahedo, Y. Protsan, A. Loyan, F. Piergentili, K. Grue, P. Van Put, A. Selmo, K. Katsonis, M. Pessana, J. Carlsson, V. Lancellotti, Helicon Plasma Hydrazine. Combined Micro Project Overview and Development Status, Space Propulsion Conference, San Sebastian, Spain, May 3-6, 2010
+
+E. C. Lorenzini, D. Curreli, D. Zanutto, Exploration of the Galilean Moons using electrodynamic tethers for propellantless maneuvers and self-powering, Proceedings IAU Symposium No. 269, International Astronomical Union, Galileo's Medicean Moons: Their Impact on 400 Years of Discovery, 2010 
+
+D. Pavarin, F. Ferri,  M. Manente, J. Carlsson, E. Ahedo, C. Bramanti, D. Curreli, Y. Güçlü, G. Markelov, D. Melazzi, D. Rondini, S. Suman, Design of 50 W helicon plasma thruster, 31st International Electric Propulsion Conference, Ann Arbor, Michigan, USA, September 20-24, 2009
+D. Pavarin, F. Ferri, M. Manente, D. Curreli, Y. Güçlü, D. Rondini, M. Mariutto, L. Tasinato, J. Carlsson, R. De Angelis, D. Pakan, K. Grue, P. Van Put, R. Tijsterman, A. Selmo, A. Loyan, K. Katsonis, Experimental Set-up to test a 50 W Helicon plasma thruster, 31st International Electric Propulsion Conference, Ann Arbor, Michigan, USA, September 20-24, 2009 
+D. Curreli, E. C. Lorenzini, C. Bombardelli, M. Sanjurjo-Rivo, F. R. Lucas, J. Pelaez, D. Scheeres, M. Lara, Exploration of the Jupiter Plasma Torus with a self-powered electrodynamic tether, Advances in the Astronautical Sciences, proceedings of the 19th AAS/AIAA (American Astronautical Society/American Institute of Aeronautics and Astronautics) Space Flight Mechanics Meeting, Vol. 134, pp. 2121-2140, 09-240, 2009
+D. Pavarin, M. Manente, Y. Güçlü, D. Curreli, C. Bettanini, M. Zaccariotto, M. Walker, D. Palmer, J. Carlsson, C. Bramanti, E. C. Lorenzini, Feasibility study of medium power helicon thruster, 44th AIAA/ASME/SAE/ASEE Joint Propulsion Conference & Exhibit, Joint Propulsion Conferences, July 2008
+
+
+Bulletins
+A. Renganathan, D. Curreli, A comparative study of tungsten erosion-redeposition in divertor sheaths versus RF sheaths on WEST, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+C.C. Klepper, E.A. Unterberg, A. Dias, C.A. Johnson, A. Kumar, Y. Marandet, M. Raghunathan, A. Grosjean, D.C. Donovan, L. Colas, D. Curreli, Recent insights into the role of light impurities in the erosion of the all-W wall surfaces in WEST, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+X.Z. Tan, D. Curreli, R. Hager, S.H. Ku, C.S. Chang, First-order elliptical corrections to the gyroaveraging operation in high E-field-shear regions in XGC, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+A. Liu, L.T. Meredith, D. Curreli, Computational Investigation of Ion Energy Angle Distribution within Trench Structures using the hPIC2 Particle-in-Cell Code, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+D.D. Nath, V.V. Srinivasaragavan, T.R. Younkin, M.F. Huq, D. Curreli, Z.J. Bergstrom, A. De, J Guterl, M.S. Shephard, O. Sahni, GITRm: A 3D Unstructured Mesh-based Particle Tracking Code for Global Impurity Transport in Fusion Devices, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+M.F. Huq, L.T. Meredith, O. Sahni, D. Curreli, An anisotropic hybrid structured-unstructured mesh approach enabling PIC simulations of the Scrape-Off-Layer, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+A. Kumar, A. Diaw, C.A. Johnson, C.K. Klepper, C.H. Lau, J. Lore, W. Tierens, T.R. Younkin, E.A. Unterberg, J.T. Drobny, D. Curreli, N. Bertelli, S. Shiraiwa, M. Ono, L. Colas, J.P. Gunn, C. Guillemaut, J. Hillairet, Development of an integrated modeling framework for plasma-material interaction and its application on tungsten erosion and transport from the RF antenna structures in the WEST tokamak, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+J.B. Caughman, C.A. Johnson, E.A. Unterberg, K. Butler, D.C. Donovan, A. Galvan, D. Curreli, Investigation of materials for radio frequency antenna plasma facing components, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+D.N. Smithe, T.G. Jenkins, J.R. Myra, M. Umansky, B. Dudson, D. Curreli, M. Rezazadeh, M.W. Brookman, Multi-Pronged Applications of RF Sheath and Ponderomotive Force Modeling with the Time-Domain Plasma Model in Vorpal/VSim, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+P.T. Bonoli, D.B. Batchelor, N. Bertelli, D. Curreli, C.D. Hauck, T. Kolev, J. Lore, D.N. Smithe, R.W. Harvey, J.R. Myra, M.S. Shephard, M. Umansky, Overview of Research Results from the SciDAC Partnership for Simulation of Fusion Relevant RF Actuators, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+T.G. Jenkins, D.N. Smithe, A. Yum, D. Curreli, M. Rezazadeh, M. Brookman, M. Garrett, Time-domain modeling of RF sheath potentials for impurity production estimates in SPARC, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+D. Curreli, M. Rezazadeh, T.G. Jenkins, D. Smithe, M. Brookman, M. Garrett, Estimates of RF induced sputtering and impurity emission from the ICRH actuators on SPARC, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+ 
+
+Alexander J Creely, John L Ball, Devon J Battaglia, Alexander F Battey, Tom Body, John C Boguski, Anson Braun, Michael W Brookman, Dan Brunner, Daniel A Burgess, Leonardo Corsaro, Davide Curreli, Thomas Eich, Jacqueline Farnsworth, Darren T Garnier, Robert S Granetz, Joshua N Hawke, Jon C Hillesheim, Nathan T Howard, Jerry W Hughes, Thomas G Jenkins, Adam Q Kuang, Yijun Lin, Nikolas C Logan, Tom Looby, Shon P Mackie, Robert T Mumgaard, Clayton E Myers, Enrico Panontin, Prasoon Raj, Cristina Rea, Matthew L Reinke, John E Rice, Pablo Rodriguez-Fernandez, Alex R Saperstein, steven D scott, Khrystyna Shvedova, Inwoo Song, Joshua D Souza, Ian G Stewart, Ryan M Sweeney, Anna A Teplukhina, Roy A Tinguely, Gregorio Luigi Trevisan, Didier Vezinet, Gregory M Wallace, Xinyan Wang, Michael Wigram, Dennis Whyte, Yiru Xiao, Overview of SPARC Progress: Construction, Manufacturing, and Operational Planning, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+L.T. Meredith, D. Curreli, Hybrid fluid-particle simulations of plasma plume evolution following photoablation events, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+S. Armstrong, D. Curreli, Novel Semi-Classical Cross Section Solver of Particle-Particle and Particle-Cluster Interactions for the inclusion of Heavy Ion Impacts and Cluster Formation in Plasma Simulations, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+M. Mustafa, L.T. Meredith, M. Rezazadeh, D. Curreli, Multi-Fidelity Machine Learning Approach for Fast Determination of Ion Impact Energy-Angle Distributions and Material Sputtering in Radio-Frequency Plasma Sheaths, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+A. Galvan, D. Curreli, C. Migliore, J.C. Wright, P.T. Bonoli, Numerical simulations of wall impurity emission from the RF limiters of the Alcator C-Mod ICRH antennas using the hPIC2 and RustBCA codes, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+
+D. Andruczyk, R. Rizkallah, D. Curreli, A. Shone, R. Maingi, F. Romano, T.W. Morgan, Lithium Vapor Shielding: Experiment and Modeling, Bull. Am. Phys. Soc. 65th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Denver, Colorado, October 30-November 3, 2023
+S. Marcinko, D. Curreli, Artificial Neural Networks for Reaction Rate Prediction in AlO and UO Plasma Chemistry, Bull. Am. Phys. Soc. 76th Annual Gaseous Electronics Conference, Ann Arbor, Michigan, October 9-13, 2023
+L. Meredith, D. Curreli, hPIC2: a performance-portable, hybrid plasma code for dynamic plasma-material interactions, Bull. Am. Phys. Soc. 76th Annual Gaseous Electronics Conference, Ann Arbor, Michigan, October 9-13, 2023
+S. Armstrong, D. Curreli, Production of a New Tool for Debris Formation Models, Bull. Am. Phys. Soc. 76th Annual Gaseous Electronics Conference, Ann Arbor, Michigan, October 9-13, 2023
+L. Meredith, D. Curreli, A predictor-corrector scheme for hybrid fluid-PIC (Particle-In-Cell)  electrostatic plasma simulation, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+
+M. Rezazadeh, J. Myra, L. Meredith, D. Curreli, Behavior of RF (Radio-Frequency) sheath admittance across Ion Cyclotron Resonance analyzed with fluid theory and large-scale Particle-in-Cell simulations, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+
+X.Z. Tan, D. Curreli, R. Hager, G. Wilkie, S. H. Ku, C. S. Chang, Elliptical corrections to the gyroaveraging operation in gyrokinetic simulations in high E-field-gradients, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+
+A. Renganathan, D. Curreli, S. Blondel, J. Drobny, W. Garcia, J. P. Gunn, A. Hayes, J. Lore, A. Lasa Esquisabel, L. Meredith, E. Tsitrone, E. A. Unterberg, B. Wirth, Assessment of the sources of uncertainty for the validation of wall erosion models in the WEST tokamak, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+M. F. Huq, V.V. Srinivasaragavan, L. Meredith, O. Sahni, D. Curreli, Enabling Multiscale Particle-in-Cell simulations using PUMI (Parallel Unstructured Mesh Infrastructure) Multi-Block Boundary Layer Meshes in hPIC2, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+
+M. Mustafa, P. Seleson, D. Curreli, C. Hauck, M. Stoyanov, D. Bernholdt, Data-driven surrogate modeling of hPIC ion energy-angle distributions for high-dimensional sensitivity analysis of plasma parameters’ uncertainty, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+
+A. Bortolon, F. Scotti, J. Drobny, G. Kramer, D. Curreli, Estimates of carbon sputtering from fast-ion losses on DIII-D QH-mode plasmas, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+
+D. Andruczyk, R. Rizkallah, D. O'Dea, A. Shone, B. Kamiyama, S. Smith, R. Maingi, C. Kessel, P. Buxton, M. Gryaznevich, D. Curreli, D. Ruzic, Update of the Latest Operational Results from HIDRA (Hybrid Illinois Device for Research and Applications) and MEME, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+A. Hayes, H. Hughes, T. Younkin, J. Guterl, G. Sinclair, Z. Bergstrom, J. Lore, J. Drobny, D. Curreli, B. Wirth, GITR (Global Impurity Transport Code) Monte Carlo Predictive Simulations of the DIII-D SAS Divertor, Bull. Am. Phys. Soc. 64th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Spokane, Washington, October 17-21, 2022
+
+C. Dechant, C. Icenhour, G. Gall, S. Keniley, A. Lindsay, D. Curreli, S. Shannon, Coupling Finite Element and Finite Volume within the Plasma Fluid Code: Zapdos, Bull. Am. Phys. Soc. 75th Annual Gaseous Electronics Conference, Sendai, Japan, October 3-7, 2022
+
+M.F. Huq, M. Mustafa, L. Meredith, D. Curreli, Effect of ion acoustic instabilities on the energy-angle distributions of the ions impacting on the wall of a finite-size plasma, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+
+M. Mustafa, D. Curreli, P. Seleson, C. Hauck, Sensitivity analysis of the particle in cell (PIC) code hPIC for near surface plasma conditions, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+L. Meredith, M. Rezazadeh, M. F. Huq, M. Mustafa, V.V. Srinivasaragavan, O. Sahni, D. Curreli, hPIC2: a GPU-accelerated, hybrid particle-in-cell code for plasma-material interactions in complex geometries, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+M. Finko, D. Curreli, J. Crowhurst, W. Keller, A. Rousso, D. Weisz, H. Radousky, K. Knight, Modeling Microsecond Timescale Molecular Formation in Laser Ablated Plasma Plumes, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+
+R. Rizkallah, A. Kapat, S. Keniley, D. Curreli, Zapdos-CRANE (Chemical ReAction NEtwork) implementation of a lithium vapor shielding model, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+
+J. Wright, C. Migliore, J. Myra, D. Curreli, D. Smithe, T. Jenkins, M. Stowell, D. Green, C. Beers, T. Younkin, S. Shiraiwa, N. Bertelli, M. Poulos, H. Kohno, and the RF-SciDAC (Radio-Frequency-Scientific Discovery through Advanced Computing) Team, Development of a non-linear RF (Radio-Frequency) sheath benchmark suite, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+D. Green, P. Bonoli, N. Bertelli, A. Dimits, T. Kolev, D. Smithe, R. Harvey, J. Myra, M. Shephard, D. Curreli, L. Mu, and the RF-SciDAC (Scientific Discovery through Advanced Computing) Team, Recent Results from the SciDAC (Scientific Discovery through Advanced Computing) Partnership for Simulation of Fusion Relevant RF (Radio-Frequency) Actuators, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+M. F. Huq, V.V. Srinivasaragavan, L. Meredith, O. Sahni, D. Curreli, Porting the PUMImbbl (Parallel Unstructured Mesh Infrastructure multi-block boundary layer) library to GPUs and integration in the hPIC2 Particle-in-Cell code, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+M. Rezazadeh, M. Elias, L. Meredith, J. Drobny, D Curreli, Particle-in-Cell study of impurity production from RF (Radio-Frequency) sheaths in front of ICRH (Ion Cyclotron Resonance Heating) actuators, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-12, 2021
+
+A. Lasa Esquisabel, S. Blondel, T. Younkin, D. Bernholdt, J. Canik, M. Cianciosa, W. Elwasif, D. Green, P. Roth, J. Drobny, D. Curreli, B. Wirth, Integrated Multi-Scale Modeling of Impurity Migration and Plasma-Facing Material Evolution in Present and Future Tokamaks, Bull. Am. Soc. 63rd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 66, Number 13, Pittsburgh, PA, November 8-21, 2021
+
+S. Keniley, E. Perez, N. Uner, M. Sankaran, Davide Curreli, Insights into hydrogen peroxide generation and reaction chemistry at a dc plasma-liquid interface by multiphysics modeling and chemical probe characterization, Bull. Am. Soc. 74th Annual Gaseous Electronics Conference, Volume 66, Number 7, Virtual GEC Platform, October 4-8, 2021
+S. Marcinko, D. Curreli, Species-Weighted Automated Network Reduction via Principle Component Analysis, Bull. Am. Soc. 74th Annual Gaseous Electronics Conference, Volume 66, Number 7, Virtual GEC Platform, October 4-8, 2021
+
+M. Finko, D. Curreli, B. Koroglu, K. Rodriguez, T. Rose, H. Radousky, K. Knight, Refined Optimization of a Uranium Oxide Reaction Mechanism Using Plasma Flow Reactor Measurements, Bull. Am. Soc. 74th Annual Gaseous Electronics Conference, Volume 66, Number 7, Virtual GEC Platform, October 4-8, 2021
+
+C. Dechant, C. Icenhour, G. Gall, S. Keniley, A. Lindsay, D. Curreli, S. Shannon, Validation and Verification Methods for the Open Source Code: Zapdos, Bull. Am. Soc. 74th Annual Gaseous Electronics Conference, Volume 66, Number 7, Virtual GEC Platform, October 4-8, 2021
+R. Rizkallah, F. Romano, G. Akkermans, P. Rindt, T. Morgan, A. de Castro Calles, D. Curreli, D. Andruczyk, Lithium Vapor Shielding in a Neutrally Seeded Environment, Bull. Am .Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+M. F. Huq, V. Vittal-Srinivasaragavan, O. Sahni, M. Shephard, D. Curreli, Improving Performance and Extending Simulation Domain of hPIC Particle-In-Cell Code by Incorporating PUMI (Parallel Unstructured Mesh Infrastructure) Based Non-uniform Mesh, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+M. Elias, D. Curreli, J. Myra, A Parametric Study using Fluid and Particle-in-Cell Modeling of the Ion Distributions in RF (Radio-Frequency) sheaths at ICRH (Ion Cyclotron Resonance Heating) antennas, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+
+S. Shannon, D. Curreli, C. Dechant, G. Gall, D. Green, C. Icenhour, S. Keniley, A. Lindsay, Open source plasma simulation in the MOOSE (Multi-Physics Object Oriented Simulation Environment) framework, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+
+J.T.Drobny, D. Curreli, High-performance PIC-BCA (Particle-in-Cell-Binary Collision Approximation) code for fusion-relevant plasma-material interactions, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+A. Lasa, S. Blondel, J. Drobny, D. Curreli, J. Lore, J. Canik, B. Wirth, Integrated model predictions of the impact of He pre-exposures on ITER (International Thermonuclear Experimental Reactor) burning-plasma conditions, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+M. Finko, D. Curreli, J. Crowhurst, W. Keller, D. Weisz, A. Rousso, B. Koroglu, T. Rose, H. Radousky, Modeling the Dependence of Laser Ablated Plume Dynamics on Target Material, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+D. Andruczyk, R. Rizkallah, D. O'Dea, D. Curreli, R. Maingi, C. Kessel, S. Smolentsev, Review of single effect experiments for the National LM PFC (Liquid Metals Plasma-Facing Components) Program, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+D. Curreli, and the RF (Radio-Frequency) SciDAC (Scientific Discovery through Advanced Computing) team, Particle-in-Cell Simulations of the Ion Energy-Angle Distributions at ICRH (Ion Cyclotron Resonance Heating) Antennas in RF (Radio-Frequency) sheaths, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+X.Z. Tan, D. Curreli, A Hybrid Particle Method for the Kinetic Treatment of Magnetized Plasma Sheaths using Full Orbit to Guiding Center Conversion, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+R. Maingi, A. Khodak, E. Kolemen, C. E. Kessel, J. Jun, J. D. Lore, B. A. Pint, D. L. Youchison, S. Smolentsev, D. Andruczyk, D. Curreli, Status and Progress of the Domestic Liquid Metal Plasma-Facing Component Design Program, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+
+P. T. Bonoli, D. L. Green, E. D'Azevedo, N. Bertelli, A. Dimits, T. Kolev, D. N. Smithe, R. W. Harvey, J. R. Myra, M. S. Shephard, D. Curreli, RF (Radio-Frequency) SciDAC (Scientific Discovery through Advanced Computing) Partnership Collaboration, Recent Results from the SciDAC (Scientific Discovery through Advanced Computing) for Simulation of Fusion Relevant RF (Radio-Frequency) Actuators, Bull. Am. Phys. Soc. 62nd Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 65, Number 11, Remote, November 9-13, 2020
+S. Keniley, D. Curreli, Modeling solvated electron penetration depth and aqueous chemistry at the humid air plasma-water interface, 73rd Annual Gaseous Electronics, Virtual Conference, Volume 65, Number 10, October 5-9, 2020
+M. Finko, D. Curreli, B. Koroglu, T. Rose, D. Weisz, J. Crowhurst, H. Radousky, Kinetic Modeling of Metal Oxide Chemistry and Particle Formation in a Plasma Flow Reactor, 73rd Annual Gaseous Electronics, Virtual Conference, Volume 65, Number 10, October 5-9, 2020
+C. Dechant, Y. Xiao, C. Icenhour, S. Keniley, A. Lindsay, D. Curreli, S. Shannon, Validations for Improvements of the Open Source Plasma Code Zapdos, Bull. Am. Soc. 73rd Annual Gaseous Electronics, Virtual Conference, Volume 65, Number 10, October 5-9, 2020
+
+S. Marcinko, D. Curreli, Semi-Classical Reaction Network Generation from Localized Molecular Orbital DFT (Density Functional Theory) for Arbitrary Network Complexities, Bull. Am. Soc. 73rd Annual Gaseous Electronics, Virtual Conference, Volume 65, Number 10, October 5-9, 2020
+S. Keniley, D. Curreli, CRANE (Chemical ReAction NEtwork): A MOOSE (Multi-Physics Object Oriented Simulation Environment)-based Open Source Tool for Plasma Chemistry Applications, arXiv preprint arXiv:1905.10004, 2019
+
+C. Dechant, S. Keniley, B. Myers, K. Stapelmann, D. Curreli, S. Shannon, Validation of the Open Source Multi-Fluid Plasma Code: Zapdos, Bull. Am. Phys. Soc. 72nd Annual Gaseous Electronics Conference, Volume 64, Number 10, College Station, Texas, October 28-November 1, 2019
+S. Marcinko, D. Curreli, Extensible Algorithmic Generation of Molecular Electron-Impact Cross-Section Data from DFT (Density Functional Theory) Information for Simple Organic Molecules, Bull. Am. Phys. Soc. 72nd Annual Gaseous Electronics Conference, Volume 64, Number 10, College Station, Texas, October 28-November 1, 2019
+M. Finko, D. Curreli, M. Azer, B. Koroglu, T. Rose, D. Weisz, J. Crowhurst, H. Radousky, Stochastic Optimization of a Uranium Reaction Mechanism Using Plasma Flow Reactor Measurements, Bull. Am. Phys. Soc. 72nd Annual Gaseous Electronics Conference, Volume 64, Number 10, College Station, Texas, October 28-November 1, 2019
+S. Keniley, D. Curreli, C. DeChant, S. Shannon, Numerical Modeling of the Plasma-Liquid Interface using the Zapdos-CRANE (Chemical ReAction NEtwork)Open-Source Package, Bull. Am. Phys. Soc. 72nd Annual Gaseous Electronics Conference, Volume 64, Number 10, College Station, Texas, October 28-November 1, 2019
+J. Drobny, D. Curreli, Particle-particle simulations of plasma-material interactions, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 64, Number 11, Fort Lauderdale, Florida, October 21-25, 2019
+
+M. Elias, D. Curreli, J. Myra, A New Numerical Scheme to enforce Charge Conservation in Particle-in-Cells with Boltzmann Electrons, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 64, Number 11, NP10.22, Fort Lauderdale, Florida, October 21-25, 2019
+
+M.F. Huq, V. Vittal-Srinivasaragavan, O. Sahni, D. Curreli, Nonuniform Mesh Based hPIC Code for Efficient Scrape-Off-Layer Computation, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 64, Number 11, NP10.21, Fort Lauderdale, Florida, October 21-25, 2019
+
+M. Finko, D. Curreli, M. Azer, B. Koroglu, T. Rose, D. Weisz, J. Crowhurst, H. Radousky, Constraining a Uranium Reaction Mechanism Using Stochastic Optimization and Plasma Flow Reactor Measurements, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 64, Number 11, Fort Lauderdale, Florida, October 21-25, 2019
+M. Mustafa, D. Curreli, P. Seleson, C. Hauck, D. Bernholdt, Verification and UQ activities of the Particle-In-Cell code hPIC for Near Surface Plasma Conditions, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, CO7.6, Fort Lauderdale, Florida, October 21-25, 2019
+
+S. Keniley, D. Curreli, C. DeChant, S. Shannon, Numerical Simulations of Electron Transport across a Plasma-Water Interface using Zapdos-CRANE (Chemical ReAction NEtwork), Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 64, Number 11, BP10.107, Fort Lauderdale, Florida, October 21-25, 2019
+S. Valaitis, D. Curreli, J. Choi, S. Klasky, M. Churchill, C. S. Chang, Integration of Full-Orbit and Gyro-Center Methods for Multi-Scale Modeling of Edge Plasmas Including Sheath Effects, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 64, Number 11, BP10.99, Fort Lauderdale, Florida, October 21-25, 2019
+
+J. R. Myra, D. Curreli, M. T. Elias, T. G. Jenkins, Generalization and Verification of RF (Radio-Frequency) Sheath Microscale Models, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 64, Number 11, Fort Lauderdale, Florida, October 21-25, 2019
+P.  T. Bonoli, D. L. Green, E. D'Azevedo, N. Bertelli, A. Dimits, T. Kolev, D. N. Smithe, R. W. Harvey, J. R. Myra, M. S. Shephard, D. Curreli, Recent Results from the SciDAC (Scientific Discovery through Advanced Computing) Center for Simulation of Fusion Relevant RF (Radio-Frequency) Actuators, Bull. Am. Phys. Soc. 61th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, UP10.75, Fort Lauderdale, Florida, October 21-25, 2019
+S. Marcinko, D. Curreli, S. Lee, S. Y. Moon, Numerical Characterization of Ar and He/N2 RF (Radio-Frequency) Atmospheric Pressure Plasma Discharges, Bull. Am. Phys. Soc. 71th Annual Gaseous Electronic Conference, Volume 63, Number 10, LW1.27, Portland, Oregon, November 5-9, 2018
+M. Finko, D. Curreli, M. Azer, D. Weisz, J. Crowhurst, T. Rose, B. Koroglu, H. Radousky, J. Zaug, M. Armstrong, Simulation of uranium plasma plume dynamics in atmospheric oxygen produced via femtosecond laser ablation, Bull. Am. Phys. Soc. 71th Annual Gaseous Electronic Conference, Volume 63, Number 10, KW3.3, Portland, Oregon, November 5-9, 2018
+
+C. DeChant, S. Keniley, D. Curreli, K. Stapelmann, S. Shannon, Multi-physics simulation of the COST APPJ in the MOOSE (Multi-Physics Object Oriented Simulation Environment) framework, Bull. Am. Phys. Soc. 71th Annual Gaseous Electronic Conference, Volume 63, Number 10, GT1.74, Portland, Oregon, November 5-9, 2018
+S. Keniley, D. Curreli, C. DeChant, S. Shannon, CRANE (Chemical ReAction NEtwork): a Novel MOOSE (Multi-Physics Object Oriented Simulation Environment)-based Open-Source tool for Plasma Chemistry Applications and Code Coupling, Bull. Am. Phys. Soc. 71th Annual Gaseous Electronic Conference, GT1.39, Portland, Oregon, November 5-9, 2018
+
+D. Curreli, Multi-scale Methods for Plasma Chemistry (invited talk), Bull. Am. Phys. Soc. 71th Annual Gaseous Electronic Conference, Volume 63, Number 10, BM4.8, Portland, Oregon, November 5-9, 2018
+C. Icenhour, S. Keniley, C. DeChant, C. Permann, A. Lindsay, R. Martineau, D. Curreli, S. Shannon, Multi-Physics Object Oriented Simulation Environment (MOOSE) Session 1, Bull. Am. Phys. Soc. 71th Annual Gaseous Electronic Conference, Volume 63, Number 10, AS2.1, Portland, Oregon, November 5-9, 2018
+
+A. Lasa, S. Blondel, G. Shaw, B. Wirth, T. Younkin, D. E. Bernholdt, J. Canik, M. R. Cianciosa, W. Elwasif, D. L. Green, P. C. Roth, D. Curreli, J. T. Drobny, M. Baldwin, R. Doerner, D. Nishijima, Integrated, multi-physics modeling of erosion, redeposition and gas retention in the ITER (International Thermonuclear Experimental Reactor) divertor, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, UO5.11, Portland, Oregon, November 5-9, 2018
+
+J. C. Wright, S. Shiraiwa, D. Curreli, M. Elias, C. H. Man Lau, J. R. Myra, B. G. P. Van Compernolle, R.J. Perkins, Predictions of ICRF (Ion-Cyclotron Range of Frequencies) induced sheaths and sputtering in the LAPD experiment, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, PM11.39, Portland, Oregon, November 5-9, 2018
+S. Blondel, D. E. Bernholdt, J. Canik, M. R. Cianciosa, D. Curreli, J. T. Drobny, W. Elwasif, D. Green, A. Lasa, P. C. Roth, T. Younkin, B. Wirth, Prediction of Near Surface Gas Bubble Evolution in the ITER (International Thermonuclear Experimental Reactor) Divertor with Cluster Dynamics, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 63, PM9.2, Portland, Oregon, November 5-9, 2018
+
+R. Pandit, D. Curreli, J. Y. Choi, R. Hager, M. Churchill, C-S. Chang, Conversion from Gyrokinetic to Full-Orbit Particles for Plasma Sheath Boundary Conditions, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, NP11.69, Portland, Oregon, November 5-9, 2018
+J.T. Drobny, D. Curreli, A. Lasa, S. Blondel, J. Canik, D. L. Green, P. Roth, T. Younkin, B. Wirth, Applied Statistical Model of Surface Morphology for Plasma-Material Interactions, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, NM9.7, Portland, Oregon, November 5-9, 2018
+
+T. Younkin, K. Sargsyan, T. Casey, H. N.Najm, R. Doerner, D. Nishijima, D. L. Green, J. Canik, A. Lasa, P. Roth, D. Curreli, J. T. Drobny, P. Forehand, B. Wirth, Quantification on the Effect of Uncertainty On Impurity Migration In PISCES (Plasma Interaction with Surface Component Experiment)-A Simulated With GITR (Global Impurity Transport Code), Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, NM9.6, Portland, Oregon, November 5-9, 2018
+D. Andruczyk, R. Rizkallah, M. Parsons, A. Shone, M. Szott, S. Stemmley, N. Bartlett, B. Holybee, Z. Koyn, A. S. Kapat, S. W. Marcinko, D. N. Ruzic, J. P. Allain, D. Curreli, R. Maingi, J. Hu, G. Zuo, Z. Sun, Overview of the latest results from HIDRA (Hybrid Illinois Device for Research and Applications), Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, JP11.107, Portland, Oregon, November 5-9, 2018
+M. Elias, D. Curreli, J. R. Myra, J. Wright, Modeling Enhanced Impurity Sputtering due to RF (Radio-Frequency) Sheaths in front of ICRH (Ion Cyclotron Resonance Heating) actuators, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, JP11.103, Portland, Oregon, November 5-9, 2018
+
+J. T. Drobny, D. Curreli, M. V. Umansky, T. D. Rognlien, R. D. Smirnov, A. Bolrtolon, R. Maingi, Simulations of divertor target material composition during tokamak plasma operation with continuous boron powder injection, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 63, JP11.94, Portland, Oregon, November 5-9, 2018
+
+R. Rizkallah, M. Parsons, A. Shone, Z. Jeckell, S. Marcinko, D. Curreli, D. Andruczyk, Mapping of the HIDRA (Hybrid Illinois Device for Research and Applications) Magnetic Flux Surfaces Through Experimental Measurements and Computational Codes, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, JP11.88, Portland, Oregon, November 5-9, 2018
+R. Khaziev, D. S. Thompson, D. Curreli, E. E. Scime, Validation simulations of the Particle-in-Cell code hPIC with the Laser-Induced Fluorescence measurements at the HELIX facility, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, GP11.3, Portland, Oregon, November 5-9, 2018
+
+D. S. Thompson, E. E. Scime, R. Khaziev, D. Curreli, Ion velocity distribution dependence on λ /ρi and ψ in a weakly magnetized plasma boundary, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 63, Num. 11, GP11.2, Portland, Oregon, November 5-9, 2018
+
+D. Curreli, J. T. Drobny, A. Lasa, S. Blondel. J. Canik. D. L. Green, T. Younkin, B. Wirth, Coupled PIC-BCA (Particle-in-Cell-Binary Collision Approximation) simulations of the near-surface plasma at the ITER (International Thermonuclear Experimental Reactor) Outer Target, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, GM9.3, Portland, Oregon, November 5-9, 2018
+J. Canik, A. Lasa, S. Blondel, M. R.Cianciosa, D. Curreli, J. T. Drobny, W. Elwasif, D. L. Green, P. C. Roth, T. Younkin, B. Wirth, R. Doerner, D. Nishijima, M. Baldwin, Status of integrated simulation of PFC surface evolution within the PSI-SciDAC project, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, GM9.2, Portland, Oregon, November 5-9, 2018
+D. Curreli, J. Drobny, R. Khaziev, Comparative Study of Explicit vs. Implicit Particle-in-Cell schemes for Plasma Sheath Simulations, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, CP11.81, Portland, Oregon, November 5-9, 2018
+S. Keniley, D. Curreli, Density Estimation Techniques for Multiscale Coupling of Kinetic Models of the Plasma Material Interface, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, CP11.79, Portland, Oregon, November 5-9, 2018
+T. Younkin, J. Canik, M. R Cianciosa, P. C Roth, A. Lasa, D. Curreli, J. T. Drobny, S. Blondel, B. Wirth, W. Elwasif, D. L. Green, Simulation of Tungsten Erosion and Migration in the ITER (International Thermonuclear Experimental Reactor) Divertor as Part of an Integrated Model for PSI, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, CP11.78, Portland, Oregon, November 5-9, 2018
+
+M. V. Umansky, A. Bortolon, D. Curreli, J. T. Drobny, R. Maingi, T. D. Rognlien, R. D. Smirnov, Modeling of sources and transport of impurity ions and their interaction with material surfaces in powder-dropping experiments, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, YP11.3, Portland, Oregon, November 5-9, 2018
+
+P. T. Bonoli, D. L. Green, E. D'Azevedo, N. Bertelli, A. Dimits, T. Kolev, D. N. Smithe, R. W. Harvey, J. R. Myra, M. S. Shephard, D. Curreli, and the RF (Radio-Frequency) SciDAC (Scientific Discovery through Advanced Computing) Team, Overview of Research in the SciDAC (Scientific Discovery through Advanced Computing) Center for Simulation of Fusion Relevant RF (Radio-Frequency) Actuators, Bull. Am. Phys. Soc. 60th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 63, Number 11, BP11.71, Portland, Oregon, November 5-9, 2018
+D. Thompson, S. Keniley, D. Curreli, M. Henriquez, D. Caron, A. Jemiolo, J. McLaughlin, M. Dufor, L. Neal, E. Scime, M. U. Siddiqui, 3D measurements and simulations of ion and neutral velocity distribution functions in a magnetized plasma boundary, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, UO4.8, Milwaukee, Wisconsin, October 23-27, 2017
+
+R. Rizkallah, D. Andruczyk, Z. Jeckell, A. Shone, D. Johnson, J. P. Allain, D. Curreli, D. Ruzic, Latest results and developments from the Hybrid Illinois Device for Research and Applications, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, TO6.7, Milwaukee, Wisconsin, October 23-27, 2017
+
+S. Marcinko, D. Curreli, Numerical Assessment of Plasma Parameters and Surface Flux Scaling in the HIDRA (Hybrid Illinois Device for Research and Applications) Stellarator, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, BP11.85, Milwaukee, Wisconsin, October 23-27, 2017
+
+A. Lasa, D. Green, J. Canik, T. Younkin, S. Blondel, B. Wirth, J. Drobny, D. Curreli, Multi-physics modeling of plasma-material interactions, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, BP11.85, Milwaukee, Wisconsin, October 23-27, 2017
+
+R. Khaziev, S. Keniley, D. Curreli, Stabilization approach for an explicit hybrid particle-in-cell method for bridging multiple time-scales, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, GP11.143, Milwaukee, Wisconsin, October 23-27, 2017
+
+S. Keniley, D. Curreli, D. Thompson, M. Henriquez, D. Caron, A. Jemiolo, J. McLaughlin, M. Dufor, L. Neal, E. Scime, M. U. Siddiqui, Validation of Boltzmann-Poisson Continuum Code with LIF measurements of Plasma Sheath in an Oblique Magnetic Field, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society)  Division of Plasma Physics, Vol. 62, N. 12, UO4.9, Milwaukee, Wisconsin, October 23-27, 2017
+
+M. Henriquez, D. Thompson, S. Keniley, D. Curreli, T. Steinberger, D. Caron, A. Jemiolo, J. McLaughlin, M. Dufor, L. Neal, E. Scime, U. Siddiqui, Direct comparison of neutral velocity distribution measurements and simulations in the vicinity of an absorbing boundary oblique to a magnetic field, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, JP11.75, Milwaukee, Wisconsin, October 23-27, 2017
+M. Finko, M. Azer, D. Weisz, J. Crowhurst, T. Rose, B. Koroglu, H. Radousky, J. Zaug, M. Armstrong, A model of early formation of uranium molecular oxides in laser-ablated plasmas, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, TO6.9, Milwaukee, Wisconsin, October 23-27, 2017
+
+J. Drobny, D. Curreli, D. Ruzic, A. Lasa, D. Green, J. Canik, T. Younkin, S. Blondel, B. Wirth, Fast Statistical Model of Surface Roughness for Ion-Solid Interaction Simulations and Efficient Code Coupling, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, UO4.3, Milwaukee, Wisconsin, October 23-27, 2017
+
+C. Dart, A. Hayes, R. Khaziev, S. Marcinko, D. Curreli, Progress on the Development of the hPIC Particle-in-Cell Code, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, CP11.25, Milwaukee, Wisconsin, October 23-27, 2017
+
+S. Blondel, T. Younkin, B. Wirth, A. Lasa, D. Green, J. Canik, J. Drobny, D. Curreli, Calculations of Helium Bubble Evolution in the PISCES (Plasma Interaction with Surface Component Experiment)Experiments with Cluster Dynamics, Bull. Am. Phys. Soc. 59th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 62, N. 12, UO4.4, Milwaukee, Wisconsin, October 23-27, 2017
+
+J. Bowman, D. Curreli, Conceptual Design of a high-performance plasma thruster using Electron Bernstein Wave (EBW) Heating and REBCO (Rare-Earth Barium Copper Oxide) Superconductors, ANS American Nuclear Society 2016 Student Conference, University of Wisconsin-Madison, March 31-April 3, 2016
+
+D. S. Thompson, S. Keniley, R. Khaziev, D. Curreli, T.N. Good, M. Henriquez, J. McIlvain, M.U. Siddiqui, E. E. Scime, 3D ion flow measurements and simulations near a boundary at oblique incidence to a magnetic field, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, UO4.14, San Jose, California, 2016
+
+T. Rose, M. Armstrong, A. Chernov, J. Crowhurst, Z. Dai, K. Knight, B. Koroglu, H. Radousky, E. Stavrou, D. Weisz, J. Zaug, M. Azer, M. Finko, D. Curreli, Why Nuclear Forensics Needs New Plasma Chemistry Data, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, UO4.14, San Jose, California, 2016
+
+H. Radousky, J. Crowhurst, T. Rose, M. Armstrong, E. Stavrou, J. Zaug, D. Weisz, M. Azer, M. Finko, D. Curreli, Experimental Investigation of Molecular Species Formation in Metal Plasmas During Laser Ablation, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, PO7.13, San Jose, California, 2016
+
+S. Marcinko, D. Curreli, Characterization of Expected Operating Conditions of the HIDRA (Hybrid Illinois Device for Research and Applications) Stellarator with EMC3-EIRENE, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, PO4.11, San Jose, California, 2016
+
+R. Khaziev, R. Mokos, D. Curreli, Performance Evaluation of the Electrostatic Particle-in-Cell Code hPIC on the Blue Waters Supercomputer, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, NO6.4, San Jose, California, 2016
+
+S. Keniley, D. Curreli, Boltzmann-BCA Analysis on the Role of Charge Exchange in Microscopic Erosion of Fusion-Relevant Plasma Facing Components, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS Division of Plasma Physics, Vol.61, N.18, TP10.85, San Jose, California, 2016
+
+M. F. Henriquez, D.S. Thompson, S. Keniley, R. Khaziev, T. N. Good, J. McIlvain, M.U. Siddiqui, D. Curreli, E. E. Scime, Comparison of 3D ion velocity distribution measurements and models in the vicinity of an absorbing boundary oriented obliquely to a magnetic field, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, TP10.84, San Jose, California, 2016
+D. Curreli, M. Finko, M. Azer, M. Armstrong, J. Crowhurst, H. Radousky, T. Rose, E. Stavrou, D. Weisz, J. Zaug, Global Modeling of Uranium Molecular Species Formation Using Laser-Ablated Plasmas, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, PO7.8, San Jose, California, 2016
+
+E. Cazzola, D. Curreli, G. Lapenta, Collisionless Magnetic Reconnection as an Ion Acceleration Mechanism of Low-Beta Laboratory Plasmas, Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, BP10.89, San Jose, California, 2016
+
+D. Andruczyk, Z. Song, N. Chopra, D. Johnson, A. Shone, D. N. Ruzic, J. P. Allain, D. Curreli, HIDRA (Hybrid Illinois Device for Research and Applications) Team, First Results and Future Plans on HIDRA (Hybrid Illinois Device for Research and Applications), Bull. Am. Phys. Soc. 58th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol.61, N.18, PP10.31, San Jose, California, 2016
+S. Marcinko, D. Curreli, Numerical Characterization of Wall Recycling Conditions of the HIDRA (Hybrid Illinois Device for Research and Applications)Stellarator using EMC3-EIRENE, Bull. Am. Phys. Soc. 57th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 60, N.19, TP12.162, Savannah, Georgia, November 16-20, 2015
+
+S. Keniley, D. Curreli, A Vlasov-BCA analysis on the wall erosion of a beryllium wall exposed to a high-density Helium plasma, Bull. Am. Phys. Soc. 57th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 60, N.19, NO6.2, Savannah, Georgia, November 16-20, 2015
+
+R. Khaziev, D. Curreli, Kinetic Characterization using hybrid Particle-in-Cells of the Impurity Release and Wall Erosion of Metal Samples Exposed to a DIII-D Divertor Plasma, Bull. Am. Phys. Soc. 57th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 60, N.19, NO6.3, Savannah, Georgia, November 16-20, 2015
+
+D. Andruczyk, P. Fiflis, J.P. Allain, D. Curreli, D. Ruzic, Status of the Hybrid Illinois Device for Research and Application (HIDRA), Bull. Am. Phys. Soc. 57th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 60, N.19, NO6.1, Savannah, Georgia, November 16-20, 2015
+D. Curreli, R. Khaziev, S. Keniley, S. Marcinko, A Vlasov-BCA method for numerical simulations of the plasma sheath structure in presence of a material releasing wall, Bull. Am. Phys. Soc. 67th Annual Gaseous Electronic Conference/9th International Conference on Reactive Plasmas/33rd Symposium on Plasma Processing, Vol. 60, N. 9, KW3.2, Honolulu, Hawaii, October 12-16, 2015
+
+D. Curreli, R. Khaziev, Ion Energy and Angular Distribution Functions at the Material Wall of a Magnetized Plasma Sheath, Bull. Am. Phys. Soc. 67th Annual Gaseous Electronic Conference, Vol.59, N.16, CT1.2, Raleigh, North Carolina, November 2-7, 2014
+
+K. Lindquist, D. Curreli, K. Kalathiparambil, D. N. Ruzic, Monte Carlo TRIM simulations, with evolving target and surface morphology, in support of plasma simulations and devices, Bull. Am. Phys. Soc. 56th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 59, N.15, BP8.67, New Orleans, October 27-31, 2014
+P. Fiflis, D. Curreli, D. N. Ruzic, Fluence Resolved Growth of Nanostructured Tungsten Fuzz, Bull. Am. Phys. Soc. 56th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 59, N.15, TO3.7, New Orleans, October 27-31, 2014 
+D. Curreli, R. Khaziev, Ion and Electron Energy-Angle Distribution Functions at the Material Wall in Magnetized Plasmas, Bull. Am. Phys. Soc. 56th Annual Meeting of the APS(American Physical Society) Division of Plasma Physics, Vol. 59, N.15, PO7.8, New Orleans, October 27-31, 2014
+
+D. Andruczyk, D. N. Ruzic, J. P. Allain, D. Curreli, HIDRA (Hybrid Illinois Device for Research and Applications): A new device for PFC and PMI development, Bull. Am. Phys. Soc. 56th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 59, N.15, TO3.13, New Orleans, October 27-31, 2014 
+P. Zonooz, J. Peck, M. Reilly, D. Curreli, R. Stubbers, B. Jurczyk, D. N. Ruzic, Thin-Film and Crystalline Properties of Silicon Deposited Using a Novel, Low-Damage, Surface Wave Plasma Source, AVS (American Vacuum Society) 60th International Symposium and Exhibition, Long Beach, California, October 27-November 1, 2013
+
+J. Peck, P. Zonooz, D. Curreli, M. Reilly, R. Stubbers, B. Jurczyk, D. N. Ruzic, High Deposition Rate and Uniformity of Silicon Thin Films Deposited Via Efficient, Low-Damage Surface Wave Plasma Source, AVS (American Vacuum Society) 60th International Symposium and Exhibition, Long Beach, California, October 27-November 1, 2013
+
+A. M. Lietz, D. Curreli, A. V. Hayes, A. Devashayam, D. N. Ruzic, Selection of materials and surface finishes for reduced particle formation upon ion beam bombardment in EUV (Extreme Ultraviolet) mask blank production devices, AVS (American Vacuum Society) 60th International Symposium and Exhibition, Long Beach, California, October 27-November 1, 2013 
+
+W. Xu, M. Christenson, P. Fiflis, D. Curreli, D. Andruczyk, D. N. Ruzic, Experimental Characterization of Thermo-electric Driven Liquid Lithium Flow in Narrow Trenches for Magnetic Confinement Fusion, Bull. Am. Phys. Soc. 55th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 58, N. 16, UP8.134, Denver, Colorado, 2013
+
+D. N. Ruzic, D. Andruczyk, D. Curreli, S. Jung, M. Christenson, K. Lindquist, P. Fiflis, W. Xu, Thermoelectric-driven Flow of Liquid Lithium in Solid Metal Trenches: a New Plasma-Facing Component for Fusion Devices, Bull. Am. Phys. Soc. 55th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 58, N. 16, JO4.15, Denver, Colorado, 2013
+
+K. Lindquist, D. Curreli, D. N. Ruzic, Fractal-TRIM and TRYDYN simulations of D-Be and Ar-W, and extrapolation to He-W, Bull. Am. Phys. Soc. 55th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 58, N. 16, NM9.9, Denver, Colorado, 2013
+
+S. Jung, M. Christenson, D. Curreli, D. Andruczyk, D. N. Ruzic, Combining a plasma gun and theta-pinch to study plasma-facing components under fusion-relevant conditions, Bull. Am. Phys. Soc. 55th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 58, Number 16, TP8.60, Denver, Colorado, 2013
+
+P. Fiflis, W. Xu, M. Christenson, D. Andruczyk, D. Curreli, D. N. Ruzic, Characterization of Liquid Lithium Wetting and Thermoelectric Properties for Nuclear Fusion Applications, Bull. Am. Phys. Soc. 55th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 58, N. 16, TO6.7, Denver, Colorado, 2013
+
+D. Curreli, K. Lindquist, D. N. Ruzic, Multiscale Coupling of Monte Carlo Binary-Collision-Approximation Codes with Particle-in-Cells for Plasma-Material Interaction, Bull. Am. Phys. Soc. 55th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 58, N. 16, NM9.1, Denver, Colorado, 2013
+
+M. Christenson, S. Jung, D. Andruczyk, D. Curreli, D.N. Ruzic, Measuring the ion energy distribution using a retarding field energy analyzer in a plasma material interaction test stand, Bull. Am. Phys. Soc. 55th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Volume 58, Number 16, BP8.54, Denver, Colorado, 2013
+
+S. Mujumdar, D. Curreli, S. G. Kapoor, D. N. Ruzic, Global modeling of micro plasma discharge in deionized water, Bull. Am. Phys. Soc. 66th Annual Gaseous Electronics Conference, Vol. 58, N. 8, CT1.59, Princeton, 2013
+
+P. Fiflis, D. Curreli, D. N. Ruzic, Characterization of a Helicon Plasma Source for Plasma Material Interactions, Bull. Am. Phys. Soc. 66th Annual Gaseous Electronics Conference, Vol. 58, N. 8, MR1.4, Princeton, 2013
+
+D. Curreli, Cross-field diffusion in low-temperature plasma discharges of finite length, Bull. Am. Phys. Soc. 66th Annual Gaseous Electronics Conference, Vol. 58, N. 8, DT1.4, Princeton, New Jersey, 2013
+
+D. Curreli, Surface Interactions for Controlled Nuclear Fusion, 4th IEA (International Energy Agency) Workshop on Plasma Material Interaction Facilities (PMIF) for Fusion Research 2013 joint with the Plasma Facing Components (PFC) 2013 Meeting, Oak Ridge, TN, 2013
+D. Ruzic, W. Xu, D. Curreli, D. Andruczyk, T. Mui, A thermo-electric-driven flowing liquid lithium limiter/divertor for magnetic confined fusion, Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, CO7.3, Providence, Rhode Island, October 29-November 2, 2012
+P. Raman, A. Groll, T. Abrams, D. Curreli, D. Andruczyk and D. N. Ruzic, Chemical Sputtering Studies of Lithiated Graphite, Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, UP8.45, Providence, Rhode Island, October 29-November 2, 2012
+K. A. Lindquist, D. Curreli, D. N. Ruzic, Numerical simulations of evolutionary surface morphology including fractal geometry and dynamic composition changes, Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, UP8.47, Providence, Rhode Island, October 29-November 2, 2012
+L. Kirsch, P. Fiflis, D. Andruczyk, D. Curreli, D. N. Ruzic, Seebeck Coefficient of Lithium and Lithium-Tin Alloys, Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, UP8.46, Providence, Rhode Island, October 29-November 2, 2012
+S. Jung, L. Kesler, H Yun, D. Curreli, D. Andruczyk, and D. N. Ruzic, A gas-puff-driven theta pinch for plasma-surface interaction studies, Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, NP8.27, Providence, Rhode Island, October 29-November 2, 2012
+
+P. Fiflis, W. Xu, D. Andruczyk, D. N. Ruzic, D. Curreli, Wetting Properties of Liquid Lithium on Stainless Steel and Enhanced Stainless Steel Surfaces, Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, BO6.2, Providence, Rhode Island, October 29-November 2, 2012
+D. Curreli, W. Xu, K. Lindquist, D. Andruczyk and D. Ruzic, Three-dimensional modeling of the thermoelectric MHD (Magnetohydrodynamic) problem of the LIMIT liquid lithium divertor for fusion devices, Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, Providence, Rhode Island, October 29-November 2, 2012
+D. Andruczyk, D. N. Ruzic, W. Xu, D. Curreli and P. Fiflis, Thermoelectric-Driven Liquid-Metal Plasma-Facing Structures (TELS), Bull. Am. Phys. Soc. 54th Annual Meeting of the APS (American Physical Society) Division of Plasma Physics, Vol. 57, N. 12, TP8.39, Providence, Rhode Island, October 29 -November 2, 2012
+D. Curreli, W. Xu, D. Andruczyk, D. Ruzic, Computational Studies of Thermoelectric MHD (Magnetohydrodynamic) in Molten Lithium, Plasma Facing Components Meeting, Princeton Plasma Physics Laboratory, June 20, 2012
+F. F. Chen, D. Curreli, A new equilibrium theory for RF (Radio-Frequency) gas discharges, Bull. Am. Phys. Soc. 64th Annual Gaseous Electronic Conference, Vol. 56, N. 15, JW3.1, Salt Lake City, Utah, November 14-18, 2011
+
+F. F. Chen, D. Curreli, Reformulation of gas discharge theory using data from ICPs (Inductively Coupled Plasmas) and helicons, ICOPS (International Conference on Plasma Science) 2011, IEEE (Institute of Electrical and Electronics Engineers) International Conference on Plasma Science, Chicago, IL, June 26-30, 2011
+D. Curreli, F. F. Chen, A novel equilibrium theory of helicon discharges, Bull. Am. Phys. Soc. 63rd Annual Gaseous Electronics Conference and 7th International Conference on Reactive Plasmas, Vol. 55, N. 7, DTP.20, Paris, France, October 4-8, 2010
+
+Reports
+S. Pablo, M. Mustafa, D. Curreli, C. D. Hauck, M. Stoyanov, and D. E. Bernholdt, Data generated from the hPIC particle-in-cell code to construct a surrogate ion energy-angle distribution (IEAD) model. United States: N. p. 10.13139/ORNLNCCS/1846780 (2022)
+
+D. Curreli, J. Drobny, S. M. Valaitis, M. Mustafa, M. F. Huq, M. T. Elias, V. V.Srinivasaragavan, O. Sahni, M. Shephard, P. Seleson, C. Hauck, D. Bernholdt, B. Wirth, PSI2-SciDAC(Scientific Discovery through Advanced Computing): Code Development and Recent Progress of the hPIC Particle-in-Cell for Plasma-Material Interactions, SciDAC-4 Principal Investigator (PI) Meeting Rockville, MD, July 16-19, 2019
+
+D. Bernholdt, S. Blondel, J. Canik, M. Cianciosa, D. Curreli, R. Doerner, J. Drobny, W. Elwasif, D. Green, A. Lasa, D. Martin, L. Owen, P. C. Roth, G. Shaw, L. Yang, T. Younkin, and B. D. Wirth, Final Report for the FY2018 Fusion Theory and Simulation Milestone on Plasma Materials Interaction (PMI), Department of Energy Theory Milestone Report
+
+D. Gates et al. Stellarator Research Opportunities: A Report of the National Stellarator Coordinating Committee, January 2018 Journal of Fusion Energy 37 (Suppl S):1-44
+C.-S. Chang, M. Greenwald, K. Riley, K. Antypas, R. Coffey, E. Dart, S. Dosanjh, R. Gerber, J. Hack, I. Monga, M. E. Papka, L. Rotman, T. Straatsma, J. Wells, R. Andre, D. Bernholdt, A. Bhattacharjee, P. Bonoli, I. Boyd, S. Bulanov, J. R. Cary, Y. Chen, D. Curreli, D. R. Ernst, S. Ethier, D. Green, R. Hager, A. Hakim, A. Hassanein, Hatch, David, Held, E. D. Howard, I. Nathan, A. Valerie, S. Jardin, T.  G. Jenkins, F. Jenko, A. Kemp, J. King, A. Kritz, P. Krstic, S. E. Kruger, R. Kurtz, Z. Lin, B. Loring, G. Nandipati, A. Y. Pankin, S. Parker, D. Perez, A. Y. Pigarov, F. Poli, M. J. Pueschel, R. T. Rafiq, S. Oliver, S. Wahyu, A. Valeryi, D. N. Smithe, C. R. Sovinec, M. Turner, M. Umansky, J.-L. Vay, J. Verboncoeur, H. Vincenti, A. Voter, W. Wang, B. Wirth, J. Wright, X. Yuan, Fusion Energy Sciences Exascale Requirements Review. An Office of Science review sponsored jointly by Advanced Scientific Computing Research and Fusion Energy Sciences, January 27-29, 2016, Gaithersburg, Maryland. United States: N. p., 2017. Web. doi:10.2172/1375639.
+J. Pelaez, M. Sanjurjo-Rivo, M. Lara, E. C. Lorenzini, D. Curreli, D. J. Sheeres, C. Bombardelli, and D. Izzo, Dynamics and Stability of Tethered Satellites at Lagrangian Points, Tech. Rep. Final Report Ariadna Study 07-4201, Advanced Concept Team ESA, November 2008, available online: http://www.esa.int/gsp/ACT/ariadna/studies.htm
+
+Honors
+Donald Biggar Willet Faculty Scholar (2020)
+NCSA Faculty Fellow, University of Illinois (2015)
+
+Teaching Honors
+Partial List of Teacher Ranked as Excellent by their Students (Spring 2023)
+Partial List of Teacher Ranked as Excellent by their Students (Fall 2022)
+Partial List of Teacher Ranked as Excellent by their Students (Spring 2022)
+Partial List of Teacher Ranked as Excellent by their Students (Fall 2020)
+NPRE Teacher of the Year, NPRE Students Award for Excellence in Undergraduate Teaching (Fall 2019)
+Partial List of Teacher Ranked as Excellent by their Students (Fall 2017)
+Partial List of Teachers Ranked as Excellent by their Students (Fall 2016)
+Partial List of Teachers Ranked as Excellent by their Students (Spring 2015)
+Partial List of Teachers Ranked as Excellent by their Students (Fall 2014)
+
+Recent Courses TaughtNPRE 421 - Plasma and Fusion Science
+NPRE 522 - Controlled Fusion Systems
+NPRE 523 - Plasma Waves
+NPRE 526 - Plasma-Material Interactions
+NPRE 595 - Student Research Seminar
+NPRE 598 CP - Computational Plasma Physics
+

@@ -1,0 +1,90 @@
+
+
+
+Siegfried Eggl 
+
+
+
+
+
+Assistant Professor
+
+
+
+eggl@illinois.edu
+ 
+
+
+For More Information
+Research Website
+
+Education
+B.S., Astrophysics, University of Vienna, 2005
+M.S., Astrophysics, University of Vienna, 2008
+M.S., Computational Physics, University of Vienna, 2009
+Ph.D., Astrophysics, University of Vienna, 2013
+
+Academic Positions
+Affiliate faculty (0%), Department of Astronomy, University of Illinois at Urbana-Champaign, 2022-today
+NCSA faculty affiliate (0%), Center for Astrophysical Surveys (CAPS), University of Illinois at Urbana-Champaign, 2021-today
+
+Assistant Professor, Department of Aerospace Engineering, University of Illinois at Urbana-Champaign, 2021-today
+Acting Assistant Professor, University of Washington, Seattle, WA, Astronomy, 2018-2021 
+Post doctoral researcher, NASA Jet Propulsion Laboratory, California Institute of Technology,  Planetary Science, Pasadena, CA, 2016-2018
+Post doctoral researcher, IMCCE/Paris Observatory, Paris, France, Astronomy, 2013-2016
+
+
+Design Teams
+Clear Constellation competition (https://www.clearconstellation.com/)
+
+Research Interests
+Astrodynamics
+Planetary Defense
+
+Celestial Navigation
+Dynamical Systems
+Space Domain Awareness
+
+
+
+Research Areas
+Astrodynamics
+
+
+Books Authored or Co-Authored (Original Editions)
+Pilat-Lohinger, E., Eggl, S., & Bazsó, Á. (2019). Planetary Habitability in Binary Systems (Vol. 4). World Scientific.
+
+Chapters in Books
+Eggl, S. & Dvorak, R. (2010). An introduction to common numerical integration codes used in dynamical astronomy. In Dynamics of small solar system bodies and exoplanets (pp. 431-480). Springer, Berlin, Heidelberg.
+
+Eggl, S. (2018). Habitability of planets in binary star systems. Handbook of Exoplanets, ISBN 978-3-319-55332-0. Springer International Publishing AG, part of Springer Nature, 2018, id.61
+
+
+Selected Articles in Journals
+Eggl, S., Farnocchia, D., Chamberlin, A. B., & Chesley, S. R. (2020), Icarus, Star catalog position and proper motion corrections in asteroid astrometry II: The Gaia era, 339, 113596.
+Makadia, R., Raducan, S. D., Fahnestock, E. G., & Eggl, S. (2022), The Planetary Science Journal, Heliocentric Effects of the DART Mission on the (65803) Didymos Binary Asteroid System, 3, 184.
+
+Cheng, A. F., Agrusa, H. F., Barbee, B. W., Meyer, A. J., Farnham, T. L., Raducan, S. D., Richardson, D. C., Dotto, E., Zinzi, A., Della Corte, V., Statler, T. S., Chesley, S., Naidu, S. P., Hirabayashi, M., Li, J.-Y., Eggl, S., et al. (2023), Nature, Momentum transfer from the DART mission kinetic impact on asteroid Dimorphos, 616, 457.
+Nandakumar, S., Eggl, S., Tregloan-Reed, J., Adam, C., Anderson-Baldwin, J., Bannister, M. T., Battle, A., Benkhaldoun, Z., Campbell, T., Colque, J. P., Damke, G., Plauchu Frayn, I., Ghachoui, M., Guillen, P. F., Kaeouach, A. E., Krantz, H. R., Langbroek, M., Rattenbury, N., Reddy, V., Ridden-Harper, R., Young, B., Unda-Sanzana, E., Watson, A. M., Walker, C. E., Barentine, J. C., Benvenuti, P., Di Vruno, F., Peel, M. W., Rawls, M. L., Bassa, C., Flores-Quintana, C., García, P., Kim, S., Longa-Peña, P., Ortiz, E., Otarola, Á., Romero-Colmenares, M., Sanhueza, P., Siringo, G., & Soto, M. (2023), Nature, The high optical brightness of the BlueWalker 3 satellite, 623, 938.
+
+Makadia, R., Chesley, S.R., Farnocchia, D., Naidu, S.P., Souami, D., Tanga, P., Tsiganis, K., Hirabayashi, M. and Eggl, S., (2024), The Planetary Science Journal, Measurability of the Heliocentric Momentum Enhancement from a Kinetic Impact: The Double Asteroid Redirection Test (DART) Mission. 5(2), p.38.
+
+Pascarella, A.,  Bommena, R., Eggl, S., Woollands, R. (2024). Mission design for space telescope servicing at Sun-Earth L2. Acta Astronautica 224, 397-414
+Georgakarakos, N., Eggl, S., Ali-Dib, M., Dobbs-Dixon, I. (2024) Empirical Stability Criteria for 3D Hierarchical Triple Systems. I. Circumbinary Planets,  
+The Astronomical Journal, Volume 168, Issue 5, id.224, 16 pp. 
+
+Honors
+LSST Architect Award for substantial contributions to the Vera C. Rubin Observatory Legacy Survey of Space and Time (08/31/2021)
+Space Foundation 2023 Space Achievement Award with DART Team (02/08/2023)
+AIAA Award for Engineering Excellence with the DART Team. (02/13/2023)
+Asteroid 2000 GT167 named "Eggl" in honor of significant contributions to the field of planetary science. (06/21/2023)
+2024 Engineering Council Outstanding Advisors (04/27/2024)
+
+Research Honors
+Best paper award at 46th Annual American Astronautical Societyâ€™s Guidance, Navigation and Control Conference, Breckenridge, CO, USA (02/08/2024)
+
+Recent Courses TaughtAE 352 - Aerospace Dynamical Systems
+AE 502 - Advanced Orbital Mechanics
+AE 554 (TAM 516) - Dynamical Systems Theory
+AE 598 PE (AE 598 PO) - Planetary Entry
+

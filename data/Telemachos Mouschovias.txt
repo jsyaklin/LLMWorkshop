@@ -1,0 +1,46 @@
+
+
+
+ Telemachos Mouschovias 
+
+
+
+
+
+Professor
+
+
+(217) 333-7827
+tchm@illinois.edu
+225  Astronomy Building
+
+
+Education
+Ph.D., Physics, University of California, Berkeley, 1975
+
+BiographyProfessor Mouschovias received his bachelor's degree in physics from Yale University in 1968, and his Ph.D. in physics from the University of California, Berkeley in 1975. He joined the University of Illinois as an assistant professor of physics and astronomy in 1977.
+The long-term goal of Professor Mouschovias's research has been to decipher the role of cosmic magnetic fields in the formation of stars. He and his graduate students have made seminal contributions in the field, including the resolution of the angular momentum problem (through magnetic braking) and of the central role of ambipolar diffusion in the fragmentation of molecular clouds and star formation, including the determination of the protostellar "initial mass function". His research group made pioneering contributions to our understanding the role of interstellar dust in star formation, not only in determining the degree of ionization in evolving molecular clouds, but also in directly (through collisions) or indirectly (through induced electric fields) coupling the magnetic field to the predominantly neutral matter.
+Research StatementStarting with his first publication in 1974 as a graduate student, TChM has been working on the formulation of a theory of star formation, specifically accounting for the role of cosmic magnetic fields in the process. This is within the realm of nonideal, multifluid magnetohydrodynamics and involves the understanding of physical processes that lead from the mean density of the interstellar medium (about 1 cm-3) to the mean density of stars, such as the Sun (about 1024 cm-3). His calculations thus far have elucidated the physics of star formation up to densities of about 1015 cm-3. The most difficult part of the task is done. What is left is, by comparison to the already completed work, is straightforward but computationally intensive. Nevertheless, at all stages of the calculations in the past, the magnetic field never ceased to spring up surprises in the form of new, unexpected physical effects. No doubt, therefore, that many more surprises will be in store by the time the calculations produce a model protostar turning on its nuclear reactions—at which stage the long-term goal of this project will have been achieved. What has been encouraging in this long journey is that dozens of TChM's predictions have been confirmed by observations and, more importantly, no observation has contradicted a single one of his predictions. By contrast, several competing ideas have come and gone.
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+
+
+Selected Articles in Journals
+A. Tritsis, G. Panopoulou, T. Ch. Mouschovias, K. Tassis and V. Pavlidou. Magnetic Field—Gas Density Relation and Observational Implications Revisited. Monthly Notices Royal Astron. Soc. 451, 4384-4396 (2015).
+T.Ch. Mouschovias, G.E. Ciolek and S.A. Morton.  Hydromagnetic Waves in Weakly-Ionized Media-I.  Basic Theory, and Application to Interstellar molecular Clouds.  Monthly Notices Royal Astron Soc., 415, 1751-1782 (2011).
+K. Tassis, D.A. Christie, A. Urban, J.L. Pineda, T.Ch. Mouschovias, H.W. Yorke, and H. Mandel.  Do Lognormal Column-Density Distributions in Molecular Clouds Imply Supersonic Turbulence?  Monthly Notices Royal Astron. Soc., 408, 1089-1094 (2010).
+M.W. Kunz and T.Ch. Mouschovias. The Nonisothermal Stage of Magnetic Star Formation. II. Results. Monthly Royal Astron. Soc., 408, 322-341 (2010).
+
+Research Honors
+Guggenheim Fellowship (1993-94)
+Alexander Von Humboldt Award 1983 for 1984-85
+Alfred P. Sloan Fellow, 1980-84
+Fellow, Center for Advanced Study, UI, Spring 1980
+Trumpler Award (HM) 1977
+
+
+Recent Courses TaughtASTR 401 - Scientific Writing for Astro
+ASTR 505 - Star Formation
+PHYS 540 (ASTR 540) - Astrophysics
+

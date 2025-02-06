@@ -1,0 +1,52 @@
+
+
+
+Gilbert Holder 
+
+
+
+
+
+Brand & Monica Fortner Endowed Chair in Theoretical Astrophysics
+
+
+(217) 300-4612
+gholder@illinois.edu
+237C Loomis Laboratory
+
+
+Education
+PhD, Astronomy and Astrophysics, University of Chicago, 2001
+MSc, Physics, Queen's University, Kingston, Ontario, Canada, 1996
+BSc, Physics, Queen's University, Kingston, Ontario, Canada, 1994
+
+BiographyGilbert Holder, the Brand and Monica Fortner Endowed Chair in Theoretical Astrophysics at the University of Illinois, is a theoretical astrophysicist and cosmologist who seeks to understand how the complex universe we see today--full of galaxy clusters, galaxies, stars, and planets--evolved from a nearly uniform state having density fluctuations of a few parts per million 300 000 years after the big bang. Professor Holder has worked on a wide range of topics--from the early universe, to the cosmic microwave background, to gravitational lensing, to black holes, to our solar system. He has developed theoretical methods and tools to investigate these astronomical objects, enabling important constraints on the properties of dark matter and dark energy.
+Professor Holder received his BSc (1994) in astrophysics and MSc (1996) in physics from Queen's University in Kingston, Ontario, before obtaining his PhD in astronomy and astrophysics from the University of Chicago in 2001. His graduate work on the possibility of discovering new galaxy clusters through their imprints in the cosmic microwave background was a key science motivation for a new generation of large mm-wave survey experiments.
+After obtaining his doctorate, Professor Holder was a Keck Fellow at the Institute for Advanced Study (Princeton, New Jersey).  Following a short stint as a senior research associate at the Canadian Institute for Theoretical Astrophysics in Toronto, Professor Holder was appointed the Canada Research Chair in Cosmological Astrophysics at McGill University in Montreal in 2005. He joined the University of Illinois at Urbana-Champaign in 2016 as a professor of Physics and of Astronomy and is a faculty affiliate at the National Center for Supercomputing Applications. He is also a senior fellow in the Cosmology and Gravity Program of the Canadian Institute for Advanced Research.
+Professor Holder is currently working on developing theoretical models of the fine-scale structure and polarization of the cosmic microwave background to inform experiments such as the South Pole Telescope, a 10-m telescope at the geographic South Pole that observes mm-wave radiation. As part of this project, he has developed techniques to map out dark matter on the largest scales, approaching the cosmic horizon, using gravitational lensing. He is also a member of a team of researchers that aims to map dark matter on the smallest resolvable scales to shed new light on the nature of dark matter; this team recently revealed the existence of a dwarf "dark galaxy" nearly 4 billion light-years from Earth.
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+
+
+Selected Articles in Journals
+C. Chatterjee, et al. Cosmology with Love: Measuring the Hubble constant using neutron star universal relations. Phys. Rev. D 104, 083528 (2021).
+
+C. L. Reichardt, et al. An Improved Measurement of the Secondary Cosmic Microwave Background Anisotropies from the SPT-SZ plus SPTpol Surveys. Astrophys. J. 908:2, 199 (2021).
+P. A. R. Ade, et al. (BicEPKeek Collaboration; SPTpol Collaboration). A demonstration of improved constraints on primordial gravitational waves with delensing. Phys. Rev. D 103:2, 022004 (2021).
+F. Bianchini, et al. Searching for anisotropic cosmic birefringence with polarization data from SPTpol. Phys. Rev. D 102:8, 083504 (2020).
+P. Adshead, G. Holder, P. Ralegankar. BBN constraints on dark radiation isocurvature. J. Cosmol. & Astropart. Phys. 9, 016 (2020).
+W. B. Everett, et al. Millimeter-wave Point Sources from the 2500 Square Degree SPT-SZ Survey: Catalog and Population Statistics. Astrophys. J. 900:1, 55 (2020).
+C. Feng and G. Holder. Polarization of the Cosmic Infrared Background Fluctuations. Astrophys. J. 897:2, 140 (2020).
+J. T. Sayre, et al. (SPTpol Collaboration). Measurements of B-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data. Phys. Rev. D 101:12, 122003 (2020).
+J. Y. Y. Lin and G. Holder. Gravitational lensing of the cosmic neutrino background. J. Cosmol. & Astropart. Phys. 4, 054 (2020).
+N. Huang, et al. Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in the SPTpol 100-square-degree Survey. Astrophys. J. 159:3, 110 (2020).
+F. Bianchini, et al. Constraints on Cosmological Parameters from the 500 deg(2) SPTPOL Lensing Power Spectrum. Astrophys. J 888:2, 119 (2020).
+
+Other Honors
+Brand and Monica Fortner Endowed Chair in Theoretical Astrophysics (2016)
+
+Recent Courses TaughtPHYS 102 - College Physics: E&M & Modern
+PHYS 212 - University Physics: Elec & Mag
+PHYS 325 - Classical Mechanics I
+

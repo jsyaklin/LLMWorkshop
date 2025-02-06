@@ -1,0 +1,88 @@
+
+
+
+Tomasz Kozlowski 
+
+
+
+
+
+Professor and Associate Head for Undergraduate Programs
+
+
+(217) 333-4096
+txk@illinois.edu
+111D Talbot Laboratory
+
+
+For More Information
+Illinois Experts profile
+Research Gate profile
+Google profile
+Web of Science profile
+Scopus profile
+Analysis of Reactor Transients and Stability
+
+Education
+Royal Institute of Technology, Docent habilitation, Nuclear Power Safety, 2011
+Purdue University, Ph.D., Nuclear Engineering, 2005
+Purdue University, M.S., Nuclear Engineering, 2004
+Purdue University, B.S., Nuclear Engineering, 2000
+
+Academic Positions
+2020-present, Associate Head for Undergraduate Programs, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering
+ 2017-present, Associate Professor, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma and Radiological Engineering
+ 2016-present, Associate Professor, National Centre for Nuclear Research (NCBJ), Poland
+ 2015, Visiting Professor, Warsaw Institute of Technology
+
+2013-present, Affiliated Professor, Computational Science and Engineering, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering
+2011-2017, Assistant Professor, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma and Radiological Engineering
+2009-2011, Assistant Professor, Royal Institute of Technology, Nuclear Power Safety, Stockholm, Sweden
+
+Research Interests
+Multi-Physics Methods and Modeling
+Reactor Design and Safety Analysis
+Reactor Physics and Thermal-Hydraulics
+Numerical Analysis and Computational Methods
+
+
+Research Areas
+Advanced Reactor Designs
+Multi-Physics Modeling and Simulation
+Reactor Analysis Methods
+Reactor Physics
+Reactor Thermal-Hydraulics
+Reactor Transient and Accident Analysis
+Verification, Validation and Uncertainty Methods
+
+
+Selected Articles in Journals
+Development of a WENO-type numerical solver for two-phase two-fluid six-equation model, Hu, G. & Kozlowski, T., Mar 2022, In: Annals of Nuclear Energy. 167, 108840.
+
+A comprehensive survey of inverse uncertainty quantification of physical model parameters in nuclear system thermal–hydraulics codes, Wu, X., Xie, Z., Alsafadi, F. & Kozlowski, T., Dec 1 2021, In: Nuclear Engineering and Design. 384, 111460.
+
+A multiscale approach to analyze the effect of radial void fraction distributions on BWR (Boiling Water Reactor) neutronic lattice parameters, Price, D. & Kozlowski, T., Mar 2021, In: Annals of Nuclear Energy. 152, 107988.
+
+Comprehensive framework for data-driven model form discovery of the closure laws in thermal-hydraulics codes, Borowiec, K., Wysocki, A. J. & Kozlowski, T., May 2021, In: International Journal of Heat and Mass Transfer. 170, 120976.
+
+Pressure buildup analysis of TRISO-coated fuel particles, Baghdasaryan, N. & Kozlowski, T., Aug 15 2021, In: Nuclear Engineering and Design. 380, 111279.
+
+Analyzing nuclear reactor simulation data and uncertainty with the group method of data handling, Radaideh, M. I. & Kozlowski, T., Feb 2020, In: Nuclear Engineering and Technology. 52, 2, p. 287-295 9 p.
+
+A possible application of catastrophe theory to boiling water reactor instability,
+Pázsit, I., Dykin, V., Konno, H. & Kozlowski, T., Jan 2020, In: Progress in Nuclear Energy. 118, 103054.
+Application of deep neural networks for high-dimensional large BWR (Boiling Water Reactor) core neutronics, Abu Saleem, R., Radaideh, M. I. & Kozlowski, T., Dec 2020, In: Nuclear Engineering and Technology. 52, 12, p. 2709-2716 8 p.
+
+Design optimization under uncertainty of hybrid fuel cell energy systems for power generation and cooling purposes, Radaideh, M. I. & Kozlowski, T., Jan 13 2020, In: International Journal of Hydrogen Energy. 45, 3, p. 2224-2243 20 p.
+
+Development and assessment of adjoint sensitivity analysis method for transient two-phase flow simulations, Hu, G. & Kozlowski, T., Nov 2020, In: Annals of Nuclear Energy. 147, 107731.
+
+
+Journal Editorships
+Associate Editor for "Nuclear Technology", since 2021
+
+Recent Courses TaughtNPRE 200 - Mathematics for NPRE
+NPRE 247 - Modeling Nuclear Energy System
+NPRE 455 - Neutron Diffusion & Transport
+NPRE 598 A - Numercl Mthd Multi-Phase Flow
+

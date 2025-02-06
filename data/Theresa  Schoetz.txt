@@ -1,0 +1,53 @@
+
+
+
+Theresa Schoetz 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-7411
+schoetz@illinois.edu
+112C Roger Adams Laboratory
+
+
+For More Information
+Research Group Website
+
+Education
+B.Eng., Brandenburgische Technische Universität (Hochschule Lausitz), Germany, 2013.
+M.Sc., Technische Universität Ilmenau, Germany, 2016.
+Ph.D., University of Southampton, UK, 2019.
+Postdoctoral Research Fellow, Zepler Institute, University of Southampton, UK, 2019-2020.
+Research Associate, The City College of New York, CUNY, 2020-2023.
+
+
+Academic Positions
+Assistant Professor, Chemical and Biomolecular Engineering.
+
+Research StatementThe research in our group focuses on the development of electrochemical materials and interfaces for next-generation batteries and supercapacitors that can be integrated in modern electronics shaping today’s societies by making our world more connected, safer, and cleaner. Our scientific philosophy is to identify, understand, and control the molecular-level phenomena that govern macroscopic material properties, charge storage mechanisms, mass transport processes and device performance using a variety of electrochemical, spectroscopy and microscopy methods. Our distinct expertise lies in the advanced application and analysis of electrochemical methods, e.g., variable-rate cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS), chronoamperometry and in-operando techniques such as electrogravimetry (EQCM) and electrochemical atomic force microscopy (EC-AFM). Reconfigurable shape-morphing batteries that take electrochemical interfaces in energy storage systems far beyond their current state-of-the-art design space are of particular interest. Our fundamental electrochemical background and experience allow us to transfer and connect knowledge across different research areas ranging from energy storage and conversion, (bio)sensors, photoelectronics, and AI hardware.
+Research Interests
+Energy Storage
+Electrochemistry
+
+
+
+Selected Articles in Journals
+P. Ghasemiahangarani, G. Farhan, D. del Mundo, T. Schoetz, Charge Storage Mechanisms in Batteries and Capacitors: A Perspective of the Electrochemical Interface. Adv. Energy Mater. 2025, 2404704. 
+O.M. Leung, L.W. Gordon, R.J. Messinger, T. Prodromakis, J.A. Wharton, C. Ponce de Leon, T. Schoetz; Solid Polymer Electrolytes with Enhanced Electrochemical Stability for High-Capacity Aluminum Batteries; Advanced Energy Materials 14 (2024) 2303285.
+
+T.Schoetz, L. Robinson, L.W. Gordon, S. Stariha, C. Harris, H.L. Seong, J.-P. Jones, E. Brandon, R.J. Messinger; Elucidating the Role of Electrochemically Formed LiF on Discharge and Aging in Li-CFx Batteries; ACS Applied Materials & Interfaces 16 (2024) 18722–18733.
+
+J.H. Xu, T. Schoetz, J.R. McManus, V.R. Subramanian, P.W. Fields, R.J. Messinger; Tunable Pseudocapacitive Intercalation of Chloroaluminate Anions into Graphite Electrodes for Rechargeable Aluminum Batteries; Journal of The Electrochemical Society 168 (2021) 060514.
+T. Schoetz, L.W. Gordon, S, Ivanov, A. Bund, D. Mandler, R.J. Messinger; Disentangling Faradaic, Pseudocapacitive, and Capacitive Charge Storage: A Tutorial for the Characterization of Batteries, Supercapacitors, and Hybrid Systems; Electrochimica Acta 412 (2022) 140072.
+
+Research Honors
+POLiS Award of Excellence (May 2024)
+
+Recent Courses TaughtCHBE 422 - Mass Transfer Operations
+CHBE 594 (CHBE 453) - Electrochemical Engineering
+

@@ -1,0 +1,113 @@
+
+
+
+Yongjoo Park 
+
+
+
+
+
+Assistant Professor
+
+
+
+yongjoo@illinois.edu
+2114 Siebel Center for Comp Sci
+
+
+For More Information
+Yongjoo's personal website
+
+Education
+Ph.D. in Computer Science and Engineering, University of Michigan, Ann Arbor, 2017
+M.S. in Computer Science, University of Michigan, Ann Arbor, 2013
+B.S. in Electrical Engineering, Seoul National University, 2009
+
+BiographyYongjoo Park is an Assistant Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. At UIUC, he is part of Data and Information Systems (DAIS) Research Lab. Also, Yongjoo is a co-founder and Chief Scientist of Keebo, Inc., a start-up company he co-founded based on his Ph.D. research. Yongjoo's research interest is in building intelligent data-intensive systems using statistical and Artificial Intelligence techniques. Yongjoo obtained a Ph.D. in Computer Science and Engineering from the University of Michigan, Ann Arbor in 2017. His dissertation received the 2018 SIGMOD Jim Gray Dissertation runner-up award.
+Academic Positions
+Assistant Professor, Department of Computer Science, University of Illinois at Urbana–Champaign, Jan. 2021 - Present
+
+Other Professional Employment
+Chief Scientist, Keebo, Inc., Sep. 2022 - Present
+Co-founder and CTO, Keebo, Inc., Aug. 2019 - Aug. 2022
+
+
+Research Interests
+Systems for analytics and machine learning
+A.I. Data-intensive Systems
+
+
+Research Areas
+Data and Information Systems
+Systems and Networking
+
+
+Articles in Conference Proceedings
+Zhaoheng Li, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, and Yongjoo Park “ElasticNotebook:
+Enabling Live Migration for Computational Notebooks.” VLDB’24: 50th International Conference on
+Very Large Data Bases, 2024. (2024 Acceptance Rate Unavailable, Average Rate: 18.6%)
+Supawit Chockchowwat, Wenjie Liu, and Yongjoo Park. “AirIndex: Versatile Index Tuning Through
+Data and Storage.” SIGMOD’24: Proceedings of the ACM on Management of Data, Santiago, Chile,
+2024. (2024 Acceptance Rate Unavailable; Average Rate: 20%)
+Ipoom Jeong, Jiaqi Lou, Yongseok Son, Yongjoo Park, Yifan Yuan, and Nam Sung Kim. “LADIO:
+Leakage-Aware Direct I/O for I/O-IntensiveWorkloads.” CAL’23: IEEE Computer Architecture Letters,
+2023. (short) (Average Acceptance Rate: 20%)
+Supawit Chockchowwat, Zhaoheng Li, and Yongjoo Park. “Transactional Python for Durable Machine
+Learning: Vision, Challenges, and Feasibility.” DEEM’23: In Proceedings of the Seventh Workshop
+on Data Management for End-to-End Machine Learning, Seattle, USA, 2023 (Acceptance Rate: N/A)
+Barzan Mozafari, Radu Alexandru Burcuta, Alan Cabrera, Andrei Constantin, Derek Francis, David
+Grömling, Alekh Jindal, Maciej Konkolowicz, Valentin Marian Spac, Yongjoo Park, Russell Razo
+Carranzo, Nicholas Richardson, Abhishek Roy, Aayushi Srivastava, Isha Tarte, Brian Westphal, and
+Chi Zhang. “Making Data Clouds Smarter at Keebo: Automated Warehouse Optimization using Data
+Learning.” SIGMOD’23: In Companion of the 2023 International Conference on Management of Data,
+2023. (industry track) (Acceptance Rate: N/A)
+Zhaoheng Li, Xinyu Pi, Yongjoo Park. S/C: Speeding Up Data Materialization with Bounded Memory. ICDE 2023 (research): 39th International Conference on Data Engineering, Anaheim, CA, USA, 2023. (Acceptance Rate: 30.6%)
+
+Nikhil Sheoran, Supawit Chockchowwat, Arav Chheda, Suwen Wang, Riya Verma, Yongjoo Park. A Step Toward Deep Online Aggregation. SIGMOD 2023 (research): Proceedings of the ACM on Management of Data, Seattle, USA, 2023. (Acceptance Rate: 27.2%) Awarded “Artifacts Available”, “Artifacts Evaluated”, and “Results Reproduced” badges
+Supawit Chockchowwat, Wenjie Liu, Yongjoo Park. Automatically Finding Optimal Index Structure. AIDB Workshop at VLDB 2022 (research): 4th International Workshop on Applied AI for Database Systems and Applications, Sydney, Australia, 2022. (Acceptance Rate: N/A)
+
+Sophia Yang, Yongjoo Park, and Abdussalam Alawini. The Effects of Teaching Modality on Collaborative Learning: A Controlled Study. FIE 2022 (research): The Frontiers in Education, Uppsala, Sweden, 2022. (Acceptance Rate: 55%)
+Supawit Chockchowwat, Chaitanya Sood, Yongjoo Park. Airphant: Cloud-oriented Document Indexing. ICDE 2022 (research): 38th International Conference on Data Engineering, Kuala Lumpur, Malaysia, 2022. (Acceptance Rate: 27%)
+
+Johes Bater, Yongjoo Park, Xi He, Xiao Wang, Jennie Rogers. SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations. PVLDB 2020 (research): 46th International Conference on Very Large Data Bases. Tokyo, Japan (Online due to COVID-19), 2020. (Acceptance Rate: 24.8%)
+Yongjoo Park, Shucheng Zhang, Barzan Mozafari. QuickSel: Quick Selectivity Learning with Mixture Models. SIGMOD’20 (research): ACM SIGMOD/PODS International Conference on Management of Data. Portland, OR, USA, 2020. (Acceptance Rate: 26.9%)
+Yongjoo Park, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari. BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees. SIGMOD’19 (research): ACM SIGMOD/PODS International Conference on Management of Data. Amsterdam, The Netherlands, 2019. (Acceptance Rate: 20.5%)
+Yongjoo Park, Barzan Mozafari, Joseph Sorenson, Junhao Wang. VerdictDB: Universalizing Approximate Query Processing. SIGMOD’18 (research): ACM SIGMOD/PODS International Conference on Management of Data. Houston, TX, USA, 2018. (Acceptance Rate: 19.5%)
+Wen He, Yongjoo Park, Idris Hanafi, Jacob Yatvitskiy, Barzan Mozafari. Demonstration of VerdictDB, the Platform-Independent AQP System. SIGMOD’18 (demo): ACM SIGMOD/PODS International Conference on Management of Data. Houston, TX, USA, 2018. (Acceptance Rate: N/A)
+Yongjoo Park, Amhad Shahab Tajik, Michael Cafarella, Barzan Mozafari. Database Learning: Toward a Database System that Becomes Smarter Over Time. SIGMOD’17 (research): ACM SIGMOD/PODS International Conference on Management of Data. Chicago, IL, USA, 2017. SIGMOD Travel Award. ( Acceptance Rate: 19.6%)
+Yongjoo Park. Active Database Learning. CIDR’17 (abstract): The biennial Conference on Innovative Data Systems Research. Chaminade, CA, USA, 2017. (Acceptance Rate: N/A)
+Yongjoo Park, Michael Cafarella, Barzan Mozafari. Visualization-Aware Sampling for Very Large Databases. ICDE’16 (research): IEEE 32nd International Conference on Data Engineering. Helsinki, Finland, 2016. (2016 Acceptance Rate Unavailable; Average Rate: 19.1%)
+Yongjoo Park, Michael Cafarella, Barzan Mozafari. Neighbor-Sensitive Hashing. PVLDB’15 (research) for VLDB’16: 42nd International Conference on Very Large Data Bases. New Delhi, India, 2016. (Acceptance Rate: 35.5%)
+Michael Anderson, Dolan Antenucci, Victor Bittorf, Matthew Burgess, Michael Cafarella, Arun Kumar, Feng Niu, Yongjoo Park, Christopher Ré, Ce Zhang. Brainwash: A Data System for Feature Engineering. CIDR’13 (vision): The biennial Conference on Innovative Data Systems Research. Asilomar, CA, USA, 2013.  (Acceptance Rate: N/A)
+
+Patents
+Alekh Jindal, Barzan Mozafari, Yongjoo Park, David Wolfgang Grömling, Brian Westphal, and Alan
+D Cabrera. “Managed tuning for data clouds.” (US Patent 11,693,857, 2023)" 
+
+Alekh Jindal, Barzan Mozafari, Yongjoo Park, Brian Westphal, Shi Qiao, Matthew Larson, Advait Abhay Dixit. Platform Agnostic Query Acceleration (United States Patent 11567936)
+
+Conferences Organized or Chaired
+Publicity Chair, 39th IEEE International Conference on Data Engineering (ICDE 2023)
+Co-chair, SIGMOD 2022 Student Research Competition
+Co-chair, SIGMOD 2021 Student Research Competition
+Publicity Chair, ACAIA workshop 2017 (http://dbgroup.eecs.umich.edu/acaia/)
+
+Teaching Honors
+Teaching Excellence, Fall 2023 (2024)
+Teaching Excellence, Fall 2022 (2023)
+
+Research Honors
+UIUC Engineering Council Outstanding Advising Award.  (2021)
+2018 ACM SIGMOD Jim Gray Dissertation Award Runner-up (2018)
+ACM SIGMOD Student Travel Award.  (2017)
+
+Other Honors
+2021 Engineering Council Outstanding Advising Award
+ (February 2021
+)
+
+Recent Courses TaughtCS 411 - Database Systems
+CS 511 - Advanced Data Management
+CS 598 YP - Hot Topics in Data Management
+CS 598 YP - ML and Data Systems
+

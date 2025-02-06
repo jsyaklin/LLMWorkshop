@@ -1,0 +1,33 @@
+
+
+
+Jose Meseguer 
+
+
+
+
+
+Professor
+
+
+(217) 333-6733
+meseguer@illinois.edu
+2108 Siebel Center for Comp Sci
+
+
+For More Information
+The Maude System
+
+Education
+Ph.D. in Mathematics, University of Zaragoza, 1975 ("Cum Laude")
+
+
+Research Areas
+Programming Languages / Formal Methods / Software Engineering
+
+
+Recent Courses TaughtCS 476 - Program Verification
+CS 524 - Concurrent Progrmg Languages
+CS 576 - Topics in Automated Deduction
+CS 591 JM - Advanced Seminar
+

@@ -1,0 +1,47 @@
+
+
+
+Bin Hu 
+
+
+
+
+
+Assistant Professor
+
+
+
+binhu7@illinois.edu
+145 Coordinated Science Lab
+
+
+For More Information
+ Bin Hu's Home Page
+
+Education
+Ph.D. in Aerospace Engineering and Mechanics, University of Minnesota, 2016
+
+Research Interests
+Machine Learning
+Control
+
+
+Research Areas
+Control
+Machine learning
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Data/Information Science and Systems
+
+Recent Courses TaughtECE 310 - Digital Signal Processing
+ECE 486 - Control Systems
+ECE 490 (CSE 441) - Introduction to Optimization
+ECE 498 BH3 (ECE 498 BH4) - LLM Reasoning for Engineering
+ECE 553 - Optimum Control Systems
+ECE 586 BH - Interplay Between Control & ML
+ECE 586 RL - MDPs, Reinforcement Learning
+ECE 598 ICM - Interplay-Ctlr & Mchn Learning
+ECE 598 ICM - Interplay-Ctrl & Mchn Learning
+

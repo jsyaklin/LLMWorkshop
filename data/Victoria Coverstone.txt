@@ -1,0 +1,212 @@
+
+
+
+Victoria Coverstone she/her/hers
+
+
+
+
+
+Emeritus Professor
+
+
+
+vcc@illinois.edu
+ 
+
+
+For More Information
+Victoria Coverstone's home page
+
+Education
+Ph.D., Aeronautical & Astronautical Engineering, University of Illinois at Urbana-Champaign, 1992	
+M.S., Aeronautical & Astronautical Engineering, University of Illinois at Urbana-Champaign, 1986	
+B.S., Aeronautical & Astronautical Engineering, University of Illinois at Urbana-Champaign, 1985
+
+Academic Positions
+Associate Dean of Graduate and Professional Programs, University of Illinois, 49% time , 2008-present
+Interim Associate Dean of Graduate and Professional Programs, University of Illinois, 50% time, 2008
+Professor, Information Trust Institute, University of Illinois, 0% time, 2007-present
+Associate Head, Aerospace Engineering,University of Illinois, 2006-2008
+Professor, Aerospace Engineering, University of Illinois, 2005-present
+Associate Professor, Aeronautical & Astronautical Engineering, University of Illinois, 1998-2005
+Assistant Professor, Aeronautical & Astronautical Engineering, University of Illinois, 1992-1998
+Teaching Assistant, Aeronautical & Astronautical Engineering,University of Illinois, 1988-1991
+Research Assistant, Aeronautical & Astronautical Engineering,University of Illinois, 1985-1986
+
+Major Consulting Activities
+KinetX, Inc.,  Tempe, AZ, 2007
+Jet Propulsion Laboratory, Pasadena, CA, 2004
+Spectrum Astro Inc., Gilbert, AZ, 2001
+TRW, Redondo Beach, CA., 2001
+CU Aerospace, Urbana, IL., 1999-present
+Abrams, Teller, and Madson, Inc., Chicago, IL., 1996 
+
+Professional Highlights
+Dean's Seminar on Teaching Improvement, 1996,1998
+University of Illinois Proposal Development Institute, 1993
+
+Research Interests
+Attitude control
+Optimal spacecraft trajectories
+Space mission design
+Computing Optimal Low-Thrust Spacecraft Trajectories For Advanced Propulsion Concepts (Solar Sail, Solar Electric Propulsion, Nuclear Electric Propulsion)
+Space Mission Analysis and Design
+
+
+
+Chapters in Books
+P.Thakker, D. Ames, L. Arber, M. Dabrowski, A. Dufrene, A. Pukniel, A. Rein, V. Coverstone, and G. Swenson, “Overview of ION-1 as applied to atmospheric research and technology testing problems,” in Applying Pico/Nano Satellites to Education, Research and Real World Problems, AIAA Progress Series, to be published.
+
+Selected Articles in Journals
+Woo, B., Ertmer, K., Coverstone, V.,Burton, R., Benavides, G., and Carroll, D., “Deployment Experiment for Ultralarge Solar Sail System (UltraSail)”, Journal of Spacecraft and Rockets, Vol. 48, No. 5, 2011, pp. 874-880.
+Pukniel, A., Coverstone, V., Burton, R., and Carroll, D., "The Dynamics and Control of the CubeSail mission:  A solar Sailing demonstration", Advances in Space Research, Vol. 48, Issue 11, 2011,  pp. 1902-1911.
+Kang, J., and Coverstone, V., “Further Study on Attitude Acquisition of a Satellite with a Partially-Filled Liquid Tank,” Journal of Guidance, Control and Dynamics, Vol. 33, No. 3, 2010, pp. 991-994.
+Jamison, B., and Coverstone, V., “Improved Orbit Transfer Switching Function Analysis By An Extended Frequency Study”, Journal of Guidance, Control and Dynamics,Vol. 33, No. 1, 2010, pp. 235-245.
+Jackson, K., and Coverstone, V., “Optimal Trajectories From The Moon To Sun/Earth-Moon L1 Point With Ballistic Launch”, Journal of Guidance, Control and Dynamics, Volume 31, Number 3, 2008, pp. 712-719
+Botter, T., Coverstone, V., and Burton, R., “Structural Dynamics of Spin-Stablized Solar Sails with Applications to UltraSail”,Journal of Guidance, Control and Dynamics, March- April, 2008, pp. 402-413.
+Woo, B., Coverstone, V. and Cupples, M., “Application of Solar Electric Propulsion to a Comet Surface Sample Return Mission”, Journal of Spacecraft and Rockets, Vol. 43, No. 6, 2006, pp. 1225-1230. 
+Cupples, M., Green, S., and Coverstone, V.”Solar Electric and Chemical Propulsion For a Titan Mission”,Journal of Spacecraft and Rockets, Vol.43, No. 5, 2006, pp.1077-1083.
+Donahue, B., Green, S. and Coverstone, V., “Chemical and Solar-Electric Propulsion Systems For Mars Sample Return Missions”,Journal of Spacecraft and Rockets, Vol.43, No. 1, 2006, pp.170-177.
+Woo, B., Coverstone, V. and Cupples, M., “Low-Thrust Trajectory Optimization Procedure for Gravity-Assist, Outer-Planet Missions”,Journal of Spacecraft and Rockets, Vol. 43, No. 1, 2006, pp.121-129.
+Woo, B., Coverstone, V.,Hartmann, J. and Cupples, M.”Trajectory and System Analysis For Outer-Planet Solar-Electric Propulsion Missions”, The Journal of Spacecraft and Rockets, Vol. 42, No. 3, 2005, pp. 510-516.
+Trask, A. and Coverstone, V., “Optimal Low Thrust Trajectories Combined with an Aeroassist Maneuver”, The Journal of Spacecraft and Rockets, Vol. 41, No. 4, 2004, pp.629-634.
+Cerven, W., Bullo, F. and Coverstone, V., “Vehicle Motion Planning with Time-Varying Constraints”, Journal of Guidance, Control and Dynamics, Vol. 27, No. 3, 2004, pp.506-509.
+Trask, A., Mason, W. and Coverstone, V., “Optimal Interplanetary Trajectories Utilizing Constant Radial Thrust and Gravitational Assists”, The Journal of Guidance, Control and Dynamics. Vol. 27, No. 3, 2004, pp.503-506.
+Woo, B. and Coverstone V.,”Orbit Transfers to Lower Altitude Orbits Using Aerobraking”, The Journal of Astronautical Sciences, Vol. 51, Issue #3, 2003, pp. 307-317. 
+Coverstone-Carroll, V. and Prussing, J.E., “A Technique for Earth Escape Using a Solar Sail”, The Journal of Guidance, Control, and Dynamics. Vol. 26, No. 4, 2003, pp.  628-634.
+Powers, B., and Coverstone-Carroll, V. “Optimal Solar Sail Orbit Transfers to Synchronous Orbits”, The Journal of The Astronautical Sciences, Vol. 49, Issue #2, 2001, pp.  269-281.
+Cerven, W. T. and Coverstone-Carroll, V., ”Optimal Reorientation of a Multibody Spacecraft through Joint Motion Using Averaging Theory”,The Journal of Guidance, Control, and Dynamics, Vol. 24, No. 4, 2001, pp. 788-795.
+Coverstone-Carroll, V., Hartmann, J.W., and Mason, W. M., “Optimal Multi-Objective Low-Thrust Spacecraft Trajectories”, Computer Methods in Applied Mechanics and Engineering, 186, 2000, pp.387-402. 
+Williams, S., and V. Coverstone-Carroll, ”Mars Missions Using Solar Electric Propulsion,” The Journal of Spacecraft and Rockets, Vol. 37, No. 1, 2000, pp.71-77. 
+Hartmann, J.W, Coverstone-Carroll, V., and Williams, S. N., “Optimal Spacecraft Interplanetary Trajectories via a Pareto Genetic Algorithm”, The Journal of the Astronautical Sciences, Vol. 46, No. 3, 1998, pp. 267-282. 
+Lee, K., and Coverstone-Carroll, V., ”Control Algorithms to Stabilize Underactuated Robots”, Journal  of Robotic Systems, Vol. 15, No. 12, 1998, pp.681-697.
+Prussing, J.E., and Coverstone-Carroll, V., “Constant Radial Thrust Acceleration Redux”, Journal of Guidance, Control, and Dynamics, Vol. 21, No. 3, 1998, pp. 516-518. 
+Williams, S., and V. Coverstone-Carroll, ”Benefits of Solar Electric Propulsion for the Next Generation of Planetary Exploration Missions,” The Journal of the Astronautical Sciences, Vol. 45, No. 2, April-June, 1997, pp. 143-159. 
+Lee, K., S. Coates, and V. Coverstone-Carroll, "Variable Structure Control Applied to Underactuated Robots," Robotica, Vol. 15, Part 3, May 1997, pp. 313-318. 
+Coverstone-Carroll, V.,"Near-Optimal Low-Thrust Trajectories Via Micro-Genetic Algorithms", Journal of Guidance, Control, and Dynamics, Vol. 20, No. 1, 1997, pp. 196-198. 
+Rauwolf, G., and V. Coverstone-Carroll, "Low-Thrust Orbit Transfers Generated by a Genetic Algorithm,"  Journal of Spacecraft and Rockets, Vol.33, No. 6, November-December, 1996, pp. 859-862. 
+Coverstone-Carroll, V.,"Detumbling and Reorienting an Underactuated Rigid Spacecraft", Journal  of Guidance, Control, and Dynamics, Vol. 19, No. 3, 1996, pp. 708-710. 
+Selig, M.S. and Coverstone-Carroll, V., "Genetic Algorithms with a Novel Constraint Technique Applied to Wind Turbine Design," ASME Journal of Energy Resources Technology, Vol. 118, March, 1996, pp. 22-28. 
+Coverstone-Carroll, V., and N. M. Wilkey, "Optimal Control of a Satellite-Robot System Using Direct  Collocation with Nonlinear Programming," Acta Astronautica, Vol. 36, No. 3, 1995, pp. 149-162. 
+Coverstone-Carroll, V., and J. E. Prussing, "Optimal Cooperative Power-Limited Rendezvous with Propellant Constraints," The Journal of the  Astronautical Sciences, Vol. 43, No. 3, July-September, 1995, pp. 289-305. 
+Taur, D.-R., Coverstone-Carroll, V., and J. E. Prussing, "Optimal Impulsive Time-Fixed Orbital Rendezvous and Interception with Path Constraints", Journal of Guidance, Control, and Dynamics, Vol. 18, No. 1, Jan.-Feb. 1995, pp. 54-60. 
+Coverstone-Carroll, V., and S. N. Williams, "Optimal Low Thrust Trajectories Using Differential Inclusion Concepts," The Journal of the Astronautical Sciences, Vol. 42, No. 4, Oct-Dec. 1994, pp. 379-393. 
+Coverstone-Carroll, V., and Prussing, J.E.,"Optimal Cooperative Power-Limited Rendezvous Between Coplanar Circular Orbits," Journal of Guidance, Control, and Dynamics , Sept.-Oct. 1994, pp. 1096-1102. 
+Coverstone-Carroll, V., and Prussing, J.E.,"Optimal Cooperative Power-Limited Rendezvous  Between Neighboring Circular Orbits,"  Journal of  Guidance, Control, and Dynamics, Vol. 16, No. 6, Nov.-Dec. 1993, pp. 1045-1054. 
+
+Articles in Conference Proceedings
+Schlapkohl,T., Kang, J. and Coverstone, V., “Analytical Control Law for Spacecraft Reorientation via Lyapunov Theory Control”, Paper No. AIAA – 2010 - 7894, Guidance, Navigation and Control Conference, Toronto, Canada, August 2010.
+Pukniel, A., Coverstone, V., Burton, R., and Carroll, D., “Attitude Control of the Cubesail Solar Sailing Spacecraft in Low Earth Orbit”, International Symposium on Solar Sailing, New York, NY, July 2010.
+Burton, R., Coverstone, V., “Initial Development of the CubeSail/UltraSail Spacecraft”, Paper No. JANNAF-1388, JANNAF Conference, Colorado Springs, CO, May 2010.
+Ghosh, A., and Coverstone, V., “A Study of Low-Thrust Trajectories for Low Orbit Multiple Cubesat Missions”, Paper No. AAS 10-xxx, 20th AAS/AIAA Space Flight Mechanics Meeting, San Diego, California, February 2010.
+Pukniel, A., Kang, J. and Coverstone, V., “Determination of Acquisition Time and Wheel Control for Spacecraft Using a Momentum Transfer Technique”, Paper No. AIAA – 2009 - 6110, Guidance, Navigation and Control Conference, Chicago, Illinois, August 2009.
+Pukniel, A., Coverstone, V., Burton, R. and Warner, J., “A Preliminary Study of the Dynamics and Control of the Cubesail Spacecraft” ,Paper No. AAS 09-417, AAS/AIAA Astrodynamics Specialist Conference, Pittsburg, Pennsylvania, August 2009.
+Kang, J., and Coverstone, V., “Further Study on Attitude acquisition of a Satellite with Partially Filled Liquid Tank”,Paper No. AAS 09-204, 19th AAS/AIAA Space Flight Mechanics Meeting, Savannah, Georgia, February 2009.
+Jamison, B., and Coverstone, V., “Improved Orbit Transfer Switching Function Analysis By An Extended Frequency Study” ,Paper No. AAS 07-416, AAS/AIAA Astrodynamics Specialist Conference, Mackinac Island, Michigan, August 2007.
+Swenson, G., Thakker, P., Kamalabadi, F., Frank, M. , Coverstone, V and H. Voss, “Optical sensing atmospheric emissions from Cubesats and Nanosats”, in SPIE Sensors and Systems for Space Applications, 2007, vol. 6555, p. 655506.
+Hargens-Rysanek, J., Coverstone, V. and Burton, R., “Orbital Precession Via Cyclic Pitch For The UltraSail System”,Paper No. AAS 07-166, AAS/AIAA Space Flight Mechanics Meeting, Sedona, Arizona, January 2007.
+Jackson, K., and Coverstone, V., “Optimal Trajectories From The Moon To Sun/Earth-Moon L1 Point With Ballistic Launch”,Paper No. AAS 07-231, AAS/AIAA Space Flight Mechanics Meeting, Sedona, Arizona, January 2007.
+Botter, T., Coverstone, V., and Burton, R., “Structural Dynamics of a Spin-Stabilized, Mast-free SolarSail Design”,Paper No. AAS 06-224, AAS/AIAA Space Flight Mechanics Meeting, Tampa, FL, January 2006.
+Dachwald, B., Baturkin, V., Coverstone, V., et al., ”Potential Effects of Optical Solar Sail Degradation on Trajectory Design”, Paper No. AAS 05-413, AAS/AIAA Astrodynamics Specialists Conference, Lake Tahoe, CA, Aug. 2005.
+Burton, R. L., Coverstone, V. L., Hargens-Rysanek, J., Ertmer, K. M., Botter, T., Benavides, G., Woo, B., Carroll, D. L., Gierow, P., Farmer, G., and Cardin, J., "UltraSail, Ultra-Lightweight Solar Sail Concept," AIAA No. 2005-4117, 2005.
+Cupples, M., Green, S., Coverstone, V. and Hartmann, J.,”Solar Electric Propulsion System Sensitivity to Thruster Isp Variation”, Paper No. AIAA-2004-xxxx, AIAA/AAS Astrodynamics Specialist Conference, Providence, RI, Aug. 2004.
+Woo, B., Coverstone, V., Hartmann, J. and Cupples, M., “Effects of Gravity-Assist Timing on Outer-Planet Missions Using Solar Electric Propulsion”, Paper No. AIAA-2004-5397, AIAA/AAS Astrodynamics Specialist Conference, Providence, RI, Aug, 2004.
+Donahue, B., Green, S., Coverstone, V., and Woo, B., “Chemical and Solar Electric Propulsion Systems Analyses for Mars Sample Return Missions”, Paper No. AIAA-2004-3807, 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit, Fort Lauderdale, FL, July 2004.
+Cupples, M., Coverstone, V. and Woo, B.. “Application of Solar Electric Propulsion to a Comet Surface Sample Return Mission”, Paper No. AIAA-2004-3804, 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit, Fort Lauderdale, FL, July 2004. 
+Hartmann, J., Coverstone, V. and Prussing, J., “Optimal Counter-Intuitive Solar Sail Escape Trajectories”, Paper No. AAS 04-279, AAS/AIAA Space Flight Mechanics Meeting, Maui, Hawaii, February, 2004.
+Cupples, M., Green, S., Donahue, B., and Coverstone, V.,”Solar Electric and Chemical Propulsion for a Titan Mission”, 39th Joint Propulsion Conference, AIAA 2003-4728, Huntsville, Alabama, July, 2003.
+Trask, A. and Coverstone, V., “Autonomous Artificial Neural Network Star Tracker for Spacecraft Attitude Determination”, Paper No. AAS-2003-192, AAS/AIAA Space Flight Mechanics Meeting, Ponce, Puerto Rico, February, 2003.
+Cupples, M., Green, S. and Coverstone, V.,”Systems Analysis for Outer Planet Mission Using Solar-Electric Ion Propulsion”, Paper No. AAS-2003-123, AAS/AIAA Space Flight Mechanics Meeting, Ponce, Puerto Rico, February, 2003.
+Woo, B., Coverstone, V., Hartmann, J. and Cupples, M., “Factors Influencing Solar Electric Propulsion Vehicle Payload Delivery For Outer Planet Missions”, Paper No. AAS-2003-242, AAS/AIAA Space Flight Mechanics Meeting, Ponce, Puerto Rico, February, 2003.
+George, J., Hoffman, S., Rachocki, K., Edgett, L., Dow, S., Herman, A and Coverstone, V., “A Near-Term Mars Sample Return Spacecraft Design Utilizing Solar Electric Propulsion”, Paper No. IAC-02-Q.3.3.05, 53rd International Astronautical Congress, The World Space Congress – 2002, Houston, TX, Oct., 2002.
+Trask, A., Mason, W. and Coverstone, V.,”Optimal Interplanetary Trajectories Utilizing Constant Radial Thrust and Gravitational Assists”, Paper No. AIAA-2002-4731, AIAA/AAS Astrodynamics Specialist Conference, Monterey, CA, Aug, 2002.
+Hargens, J. and Coverstone, V., “Low-Thrust Interplanetary Mission Design Using Differential Inclusion”, Paper No. AIAA-2002-4730, AIAA/AAS Astrodynamics Specialist Conference, Monterey, CA, Aug, 2002.
+Woo, B. and Coverstone, V.,”Orbit Transfers to Lower Altitude Orbits Using Aerobraking”, Paper No. AAS 02-113, AAS/AIAA Space Flight Mechanics Conference, San Antonio, TX, Jan, 2002.
+Trask, A. and Coverstone, V., “Optimal Low Thrust Trajectories Combined with an Aeroassist Maneuver About Mars”, Paper No. AAS 01-212, AAS/AIAA Space Flight Mechanics Meeting, Santa Barbara, CA, February, 2001.
+Lakso, J. and Coverstone-Carroll, V., ”Optimal Tether Deployment/Retrieval Trajectories Using Direct Collocation”, Paper No. AIAA 2000-4349, AIAA /AAS Astrodynamics Specialist Conference, Denver, CO,  August, 2000.
+Cerven, W. T. and Coverstone-Carroll, V., ”Optimal Reorientation of a Multibody Spacecraft through Joint Motion Using Averaging Theory”, Paper No. AAS 00-203, AAS/AIAA Spaceflight Mechanics Meeting, Clearwater, Florida,  January, 2000.
+Coverstone-Carroll, V. and Prussing, J.E., “A Technique for Earth Escape Using a Solar Sail”, Paper No. AAS 99-333, AAS/AIAA Astrodynamics Specialist Conference, Girdwood, Alaska,  August, 1999.
+Powers, B., Coverstone-Carroll, V. and Prussing, J.E., “Solar Sail Optimal Orbit Transfers to Synchronous Stable Orbits”, Paper No. AAS 99-334, AAS/AIAA Astrodynamics Specialist Conference, Girdwood, Alaska, August 1999.
+Coverstone-Carroll, V., Hartman, C., Herman, A. and Spencer, D., “Optimal Spacecraft Trajectories Via Higher Order Differential Inclusion”, Paper No. AAS 99-128, 9th AAS/AIAA Spaceflight Mechanics Conference, Breckenridge, CO. February 1999.
+Prussing, J.E. and  Coverstone-Carroll, V., “Constant Radial Thrust Acceleration Redux ”, Paper No. 98-4545 AIAA/AAS Astrodynamics Specialist Conference, Boston, MA, August 1998. 
+Mason, W., Coverstone-Carroll, V., and Hartmann, J.W., “Optimal Earth Orbiting Satellite Constellations Via A Pareto Genetic Algorithm”, Paper No. 98-4381 AIAA/AAS Astrodynamics Specialist Conference, Boston, MA, August 1998. 
+Hartmann, J.W, Coverstone-Carroll, V., and Williams, S. N.. “Generation of Optimal Spacecraft Trajectories via a Pareto Genetic Algorithm”, Paper No. AAS 98-202, 8th AAS/AIAA Space Flight  Mechanics Meeting, Monterey, CA, February 1998. 
+Deal, S., and V. Coverstone-Carroll, "A Simplified Use of Quality Function Deployment as a System Tool for Designing-to-Cost," AIAA/USU Conference on Small Satellites, Logan, Utah, Sept. 16-19, 1996. 
+Deal, S., and V. Coverstone-Carroll, "A Low-Cost Wireless Power Transmission Experiment," AIAA/USU Conference on Small Satellites, Logan, Utah, Sept. 16-19, 1996. 
+Rauwolf, G., and V. Coverstone-Carroll, "Near-Optimal Low-Thrust Orbit Transfers Generated by a Genetic Algorithm," SECTAM XVIII Developments in Theoretical and Applied Mechanics Conference, Tuscaloosa, AL, April 14-16, 1996; also in Developments in Theoretical and Applied Mechanics, Vol. XVIII, The University of Alabama, Tuscaloosa, pp. 431-442. 
+Biggs, M. and Coverstone-Carroll, V., "Low Cost Launch System For Competitive Near-Term Return on Investment:  Preliminary Results," Space Technology and Applications International Forum, Albuquerque, NM, January, 1996; also in American Institute of Physics Conference Proceedings #361, Part Two, Woodbury, New York, pp.589 - 600. 
+Coverstone-Carroll, V.,"Detumbling and Reorienting an Underactuated Rigid Spacecraft", Paper No. AAS 95-413 AAS/AIAA Astrodynamics Conference, August 14-17, 1995, Halifax, Nova Scotia, Canada; also in Advances in the Astronautical Sciences, , Volume 90, Part I, pp. 1001-1015, Eds. K. Terry Alfriend, et.al., AAS Publications Office, San Diego, CA. 
+Selig, M.S. and Coverstone-Carroll, V., "Genetic Algorithms with a Novel Constraint Technique Applied to Wind Turbine Design," 14th ASME Wind Energy Symposium, Houston, TX, Jan.-Feb., 1995. 
+Coverstone-Carroll, V. and Williams, S.N., "Optimal Low Thrust Trajectories Using Differential Inclusion Concepts", Paper No. AAS 94-173 AIAA /AAS Space Flight Mechanics Meeting , Cocoa Beach, FL, February 1994; also in Advances in the Astronautical Sciences, Volume 87, Eds. J. E. Cochran, Jr.,AAS Publications Office, San Diego, CA. 
+Coverstone-Carroll, V. and Prussing, J. E., "Optimal Cooperative Power-Limited Rendezvous With Propellant Constraints," Paper No. AAS 92-4508, Proceedings of the 1992 AAS/AIAA Astrodynamics Conference, Hilton Head, SC, August 1992, pp. 246-255. 
+Coverstone-Carroll, V. and Prussing, J. E., "Optimal Cooperative Power-Limited Rendezvous," Paper No. AAS 91-444, AAS/AIAA Astrodynamics Conference, Durango, CO, August 1991; also in Advances in the Astronautical Sciences, Vol. 76, Part III, pp. 1989-2009, Eds. B. Kaufman et al., AAS Publications Office, San Diego, CA. 
+Taur, D-R, Prussing, J. E., and Coverstone-Carroll, V., "Optimal Impulsive Time-Fixed Orbital Rendezvous and Interception with Path Constraints," Preprint AIAA 90-2972, AIAA/AAS Astrodynamics Conference, Portland, OR, pp. 899-906. 
+
+Journal Editorships
+Associate Editor of the AIAA Journal of Guidance, Control and Dynamics (2001-2004)
+
+Professional Societies
+Mechanics Research Communications, Basic and Applied
+Journal of Robotic Systems
+Journal of Guidance, Control and Dynamics, AIAA
+IEEE Transactions on Automatic Control
+Optimal Control Applications & Methods
+IEEE Robotics and Automation Society
+IEEE Transactions on Systems, Man and Cybernetics
+IEEE Transactions on Control Systems Technology 
+Acta Astronautica
+Journal of Spacecraft and Rockets, AIAA 
+Journal of Dynamic Systems, Measurement, and Control
+Illinois State Academy of Science
+The Order of the Engineer
+Tau Beta Pi Honorary Society
+Phi Kappa Phi Honorary Society
+The Planetary Society
+American Society for Engineering Education
+American Astronautical Society (Senior Member)
+American Institute of Aeronautics and Astronautics (Fellow)
+Mechanics and Control of Flight Award Selection Committee, AIAA, 1995, 1997
+Astrodynamics Technical Committee, AIAA, 1994-1997
+AAS Conference Administration Subcommittee (2007-2010)
+Space Flight Mechanics Technical Committee, American Astronautical Society (AAS), 1996-2000, 2006-2010
+
+Teaching Honors
+Faculty advisor;  First place winner, Undergraduate Team Space Design Competition (2007/2008 )
+Faculty advisor;  Third place winner, Undergraduate Team Space Design Competition (2006/2007 )
+Faculty advisor;  Second place winner, Undergraduate Team Space Design Competition (2005/2006 )
+Faculty advisor;  Third place winner, Undergraduate Team Space Design Competition (2004/2005 )
+Faculty advisor;  First place winner, Undergraduate Team Space Design Competition (2003/2004 )
+Faculty advisor;  First place winner, Undergraduate Team Space Design Competition (2002/2003 )
+Faculty advisor;  First place winner, Undergraduate Team Space Design Competition (2000/2001)
+Faculty advisor;  First place winner, Undergraduate Team Space Design Competition, 1999/2000 AIAA National (1999/2000 )
+Faculty advisor; First place winner, Undergraduate Team Space Design Competition (1994/95)
+College of Engineering Award for Excellence in Advising (1993, 1994, 1996, 1997,1999, 2003, 2006, 2007, 2008, 2009, 2011, 2012)
+Campus Award for Excellence in Undergraduate Teaching, Honorable Mention (2001)
+College of Engineering Stanley H. Pierce Award (2008)
+College of Engineering Teaching Excellence Award (2001)
+An Incomplete List of Teachers Ranked as Excellent by Their Students (Fall 1994, Spring 1995, Fall 1995, Spring 1996, Fall 1996, Spring 1997, Spring 1998, Spring 2000, Fall 2000, Spring 2005)
+Teacher of the Year, AAE Department (1995, 1997, 2001)
+Everitt Award for Teaching Excellence (1995)
+
+Research Honors
+Visiting Investigators Partnership at the Marshall Space Flight Center (2012-2013)
+2010 UK-US Collaboration Development Award Programme  (2010)
+NSF Womens International Research Engineering Summit (2009)
+NASA Space Act Award for technical innovation “Ultra-Large Solar Sail Technology” (MFS-32524-1) (2008)
+National Academy of Engineering Organizing Committee/Session Chair for the German-American Frontiers of Engineering Symposium (2005)
+Department of Navy Best Paper Award, 37th Annual Alan Berman Research Publications Award (2004)
+National Academy of Engineering Seventh German-American Frontiers of Engineering Symposium Academies’ (2004)
+National Academy of Engineering Gallery of Women Engineers Website (2002)
+National Academy of Engineering Symposium on Frontiers of Engineering Academies’ (2002)
+NASA/ASEE Summer Faculty Fellowship (1993)
+
+Public Service Honors
+University Space Research
+ Association (USRA) National Organization (2012-2014)
+ University Space Research Association (USRA)National Organization (2011-2012
+)
+AIAA GNC/AFM/MST/ASC/ASE Joint Conference General Chair (2010)
+Strategic Forces Subcommittee of the House Armed Services Committee (2004)
+NASA Astronaut/Mission Specialist (1994)
+

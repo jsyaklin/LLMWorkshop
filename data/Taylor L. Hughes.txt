@@ -1,0 +1,89 @@
+
+
+
+Taylor L Hughes 
+
+
+
+
+
+ProfessorDonald Biggar Willett Faculty Scholar
+
+
+(217) 333-1195
+hughest@illinois.edu
+2115 Engineering Sciences Building
+
+
+For More Information
+Personal Website
+
+BiographyProfessor Taylor Hughes received his bachelor's degrees in physics and mathematics from the University of Florida in 2003, graduating summa cum laude. He subsequently worked as a software engineer for a year as a department of defense contractor. He went on to obtain a Ph.D. from Stanford University in 2009, working in the condensed matter theory group of Professor Shou-Cheng Zhang. His research covered a broad range of subjects from spintronics, to graphene/graphite, to topological insulators. His two primary research contributions as a graduate student are the collaborations which  predicted of the existence of a quantum spin Hall state in HgTe/CdTe quantum wells, and secondly constructed the topological response theory of 3D time-reversal invariant topological insulators. 
+
+Professor Hughes then moved to the University of Illinois at Urbana-Champaign as a postdoc under Professor Eduardo Fradkin. During these two years he began developing methods to characterize states of matter using quantum entanglement, most notably, disordered fermionic systems and topological insulator/ordered systems. Additionally he began working on the theory of the topological visco-elastic response in topological insulators.
+
+Professor Hughes joined the faculty at the University of Illinois in the Fall of 2011.
+Research StatementMy research interests are focused in three main areas:1. Topological insulators/Superconductors2. Using quantum information/entanglement techniques to characterize quantum condensed matter systems.3. Mesoscopic transport in low-dimensional materials or heterostructuresOther interests include topological order, quantum Hall effect, spin-orbit coupled electronic systems, connections between high-energy physics, gravity, and condensed matter. Some of my recent work has been on connections between torsion, gravity, and viscosity in topological insulators, characterizing disordered topological insulators using the entanglement spectrum, and transport calculations in graphene/superconductor junctions. Interested students should contact me via email and be willing to work on a broad range of topics. Before contacting me please look at some of my selected publications below, or on the arxiv to get an idea of which subjects are of the most interest to you.I have several opportunities for research projects/reading courses for undergraduates who are highly-motivated and can program or proficiently use either Matlab, Mathematica, or C/C++/FORTRAN.
+Post-Doctoral Research OpportunitiesI do not have any (funded) post-doctoral research opportunities at this time.
+Graduate Research OpportunitiesI have graduate student positions open for one, or possibly two students. 
+Undergraduate Research OpportunitiesProfessor Hughes has several opportunities for research projects/reading courses for undergraduates who are highly-motivated and can program or proficiently use either Matlab, Mathematica, or C/C++. Students must have had at least PHY485 or PHY 486. 
+
+Research Areas
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+Quantized Electric Multipole Insulators, Wladimir A. Benalcazar, B. Andrei Bernevig, Taylor L. Hughes, Science, 357, 61 (2017).
+Topological Defects in Symmetry Protected Topological Phases, Jeffrey C. Y. Teo and Taylor L. Hughes,  Annual Reviews of Condensed Matter Physics, 8,  211-237 (2017).
+Bulk Topological Proximity Effect, Timothy H. Hsieh, Hiroaki Ishizuka, Leon Balents, Taylor L. Hughes,  Phys. Rev. Lett. 116, 086802 (2016).
+Disclination Classes, Fractional Excitations, and the Melting of Quantum Liquid Crystals, Sarang Gopalakrishnan, Jeffrey C. Y. Teo, and Taylor L. Hughes, Phys. Rev. Lett. 111, 025304 (2013). 
+Torsional Anomalies, Hall Viscosity, and Bulk-boundary Correspondence in Topological States, Taylor L. Hughes, Robert G. Leigh, and Onkar Parrikar, Phys. Rev. D 88, 025040 (2013).
+Majorana Fermions and Disclinations in Topological Crystalline Superconductors
+Jeffrey C.Y. Teo and Taylor L. Hughes, Phys. Rev. Lett., 111, 047006 (2013). 
+Torsional Response and Dissipationless Viscosity in Topological Insulators, Taylor L. Hughes, Robert G. Leigh, and Eduardo Fradkin, Phys. Rev. Lett. 107,075502 (2011).
+Transport through Andreev bound states in a graphene quantum dot, Travis Dirks, Taylor L. Hughes, Siddhartha Lal, Bruno Uchoa, Yung-Fu Chen, Cesar Chialvo, Paul M. Goldbart, Nadya Mason, Nature Physics 7, 386-390 (2011). 
+Inversion Symmetric Topological Insulators
+Taylor L. Hughes, Emil Prodan, and B. Andrei Bernevig, Phys. Rev. B 83, 245132(2011). 
+Chiral Topological Superconductor From the Quantum Hall State
+Xiao-Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang Phys. Rev. B 82, 184516
+(2010)
+Entanglement Spectrum of a Disordered Topological Chern Insulator
+Emil Prodan, Taylor L. Hughes, and B. Andrei Bernevig, Phys. Rev. Lett. 105,
+115501 (2010)
+Topological invariants for the Fermi surface of a time-reversal-invariant superconductor
+Xiao-Liang Qi, Taylor L. Hughes, and Shou-Cheng Zhang, Phys. Rev. B 81, 134508
+(2010)
+Observation of a one-dimensional spinorbit gap in a quantum wire
+C. H. L. Quay, Taylor L. Hughes, J. A. Sulpizio, L. N. Pfeier, K. W. Baldwin, K.
+W. West, D. Goldhaber-Gordon, and R. de Picciotto, Nat. Phys 6, 336-339 (2010).
+Time-Reversal-Invariant Topological Superconductors and
+Superfluids in Two and
+Three Dimensions
+Xiao-Liang Qi, Taylor L. Hughes, Srinivas Raghu, Shou-Cheng Zhang, Phys. Rev.
+Lett. 102, 187001 (2009).
+Topological Field Theory of Time-Reversal Invariant Insulators
+Xiao-Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang, Phys. Rev. B 78, 195424
+(2008).
+Quantum Spin Hall Effect in Inverted Type II Semiconductors
+Chaoxing Liu, Taylor L. Hughes, Xiao-Liang Qi, Kang Wang, Shou-Cheng Zhang,
+Phys. Rev. Lett., 100, 236601 (2008).
+Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells
+B. Andrei Bernevig, Taylor L. Hughes, Shou-Cheng Zhang, Science, 314, 1757-1761
+(2006).
+
+Teaching Honors
+Donald Biggar Willett Faculty Scholar (April 2020, May 2022)
+
+Research Honors
+ONR Young Investigator Award (May 2015)
+University of Illinois Center for Advanced Study Fellowship (November 2014)
+NSF CAREER Award (February 2014)
+Dean's Award for Excellence in Research for an Assistant Professor (February 2014)
+Alfred P. Sloan Foundation Research Fellow (April 2013)
+
+Recent Courses TaughtPHYS 496 - Communicating in Physics
+PHYS 496 - Intro to Physics Research
+PHYS 560 - Condensed Matter Physics I
+PHYS 598 CMX - Special Topics in Physics
+

@@ -1,0 +1,55 @@
+
+
+
+Michael T Heath 
+
+
+
+
+
+Professor and Fulton Watson Copp Chair Emeritus
+
+
+
+heath@illinois.edu
+ 
+
+
+For More Information
+Prof. Heath's home page
+
+Education
+Ph.D. Computer Science Stanford University 1978
+
+BiographyMichael T. Heath is Professor and Fulton Watson Copp Chair Emeritus in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He received his PhD in Computer Science from Stanford University in 1978. His research interests are in scientific computing, particularly numerical linear algebra and optimization, and in parallel computing. He is an ACM Fellow, a SIAM Fellow, an Associate Fellow of the AIAA, and a member of the European Academy of Sciences.  He served as Director of the Computational Science and Engineering Program 1996-2012, Director of the Center for Simulation of Advanced Rockets 1997-2010, and Interim Head of the Department of Computer Science 2007-2009.  Heath has been lead investigator on more than $52M in research funding from federal and corporate grants and contracts at the University of Illinois.
+Teaching StatementProf. Heath teaches courses in scientific computing, particularly CS 450 (Numerical Analysis) and CS 554 (Parallel Numerical Algorithms).  He has also developed an extensive set of online interactive educational modules in scientific computing (see http://www.cs.illinois.edu/~heath/iem/). He has won numerous teaching awards, including the William L. Everitt Award for Teaching Excellence (1998), the Campus Award for Excellence in Graduate and Professional Teaching (2002), and the Taylor L. Booth Education Award from the IEEE Computer Society (2009).
+Research StatementProf. Heath's research interests are in scientific computing, particularly numerical linear algebra and optimization, and in parallel computing.
+Research Interests
+Professor Heath's general areas of research are in large-scale scientific computing, numerical analysis,
+and parallel computing. His primary research interests are in numerical linear algebra, particularly sparse matrix computations. He also has significant research interests
+in parallel performance visualization, parallel programming environments, numerical optimization,
+and mathematical software.
+
+
+Research Areas
+Scientific Computing
+
+
+Books Authored or Co-Authored (Revisions)
+Heath, M. T., Scientific Computing: An Introductory Survey, Second Edition, McGraw-Hill, New York, 2002.
+
+Teaching Honors
+Taylor L. Booth Education Award, IEEE Computer Society (2009)
+Campus Award for Excellence in Graduate and Professional Teaching, University of Illinois at Urbana-Champaign (2002)
+William L. Everitt Award for Teaching Excellence, College of Engineering, University of Illinois at Urbana-Champaign (1998)
+
+Research Honors
+Associate Fellow, American Institute of Aeronautics and Astronautics (2010)
+SIAM Fellow, Society for Industrial and Applied Mathematics (2010)
+Apple Award for Innovation in Science (2007)
+Member, European Academy of Sciences (2002)
+ACM Fellow, Association for Computing Machinery (2000)
+
+Recent Courses TaughtCS 450 - Numerical Analysis
+CS 591 MH - Advanced Seminar
+

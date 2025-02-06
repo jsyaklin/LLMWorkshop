@@ -1,0 +1,102 @@
+
+
+
+Benjamin Hooberman 
+
+
+
+
+
+Associate Professor
+
+
+(217) 318-1881
+benhoob@illinois.edu
+413 Loomis Laboratory
+
+
+For More Information
+University of Illinois ATLAS Group
+
+Education
+BA in Physics, Columbia University, 2005
+MSc in Physics, University of California at Berkeley, 2007
+PhD in Physics, University of California at Berkeley, 2009
+
+BiographyProfessor Hooberman is an experimental high energy particle physicist who uses data from colliders to investigate what the universe is made of. He is particularly interested in understanding the nature of dark matter. Since 2014 he has been a member of the ATLAS collaboration at the Large Hadron Collider, where he led an international team of 250 physicists as Convener of the Supersymmetry Group. He is a recipient of the Department of Energy Early Career Research Program award recognizing outstanding scientists early in their careers. As a member of the CMS collaboration employed by Fermilab, he contributed to the discovery of the Higgs boson that led to the 2013 Nobel Prize in Physics. He received his PhD in physics from the University of California at Berkeley in 2009 and his Bachelor's degree from Columbia University in 2005. He is also a musician , poker enthusiast, and cat person.
+Academic Positions
+Associate Professor, University of Illinois Urbana-Champaign, 2020-present
+Affiliate Professor, Illinois Center for Advanced Studies of the Universe (ICASU), University of Illinois Urbana-Champaign, 2020-present
+Assistant Professor, University of Illinois Urbana-Champaign, 2014-2020
+Research Associate, Fermi National Accelerator Laboratory, 2009-2014
+Graduate Student Research Assistant, University of California at Berkeley, 2005-2009
+Undergraduate Researcher, Columbia University, 2003-2005
+
+Research StatementParticle physicists seek to answer Big Questions that date back at least as far as the ancient Greeks. What is the universe made of? What are the fundamental laws of nature? How did the universe begin and evolve to its present state? Modern scientific methods including particle accelerators allow us to address these questions empirically. A great deal has been learned over the past century but there is still much that we do not know. We do not understand the nature of dark matter, a mysterious substance that pervades our universe. Our current understanding of the elementary particles and forces also predicts that matter and anti-matter should have annihilated with each other into pure energy in the early universe, making the very existence of the universe a mystery to us.Prof. Hooberman's research focuses on using data from the ATLAS experiment at the Large Hadron Collider to address these questions. He has 14 years of experience searching for supersymmetry and other exotics physics phenomena that could explain the nature of dark matter and the predominance of matter over anti-matter in the universe. His group recently played a leadership role in publishing the first ATLAS new physics search at its highest-ever collision energy of 13.6 trillion electron-volts. They implemented novel triggers employing Large Radius Tracking to enhance the discovery reach for displaced leptons. They are currently working on similar upgrades to the Phase 2 ATLAS trigger system that will enable similar searches in the order-of-magnitude larger dataset that will be collected over the next decade. They have developed machine learning techniques to improve particle identification and measurement and are currently collaborating with Prof. Kahn's group on a project supported by a Department of Energy Artificial Intelligence grant aimed at understanding the uncertainties intrinsic to neural networks. They have also recently started a new effort to use particle physics detectors and analysis techniques to image cosmic ray muons and help find metals for the electric vehicle battery revolution. Prof. Hooberman is currently accepting applications for PhD students to work on ATLAS and cosmic ray muon imaging. All physics PhD students at Illinois are admitted centrally by the department. If you are interested in working with him, please apply here to our PhD program by Jan 15, 2025.
+Research Interests
+Searching for physics beyond the standard model at the Large Hadron Collider
+
+Leveraging machine learning techniques to enable scientific discoveries
+Supersymmetry and dark matter
+Cosmic ray muon imaging ("muography") and detector development
+Phase 2 ATLAS track trigger upgrades
+
+
+Research Areas
+High Energy Physics (experimental)
+
+
+Selected Articles in Journals
+ATLAS Collaboration, "Search for displaced leptons in 13 TeV and 13.6 TeV pp collisions with the ATLAS detector," arXiv:2410.16835 [hep-ex], submitted to Phys. Rev. D
+ATLAS Collaboration, "Prospects for a search for direct pair production of top squarks at the high-luminosity LHC with the ATLAS detector," ATL-PHYS-PUB-2024-001
+ATLAS Collaboration, "The ATLAS Trigger System for LHC Run 3 and Trigger performance in 2022," JINST 19 P06029
+ATLAS Collaboration, "The ATLAS Inner Detector Trigger performance in pp collisions at 900 GeV and 13.6 TeV for LHC Run 3 operation during 2022," ATL-DAQ-PUB-2023-002
+ATLAS Collaboration, "Searches for new phenomena in events with two leptons, jets, and missing transverse momentum in 139 fb−1 of sqrt(s)=13 TeV pp collisions with the ATLAS detector", Eur. Phys. J. C 83 515, 2023
+ATLAS Collaboration, "The ATLAS Fast TracKer System," JINST 16 P07006, 2021
+D. Belayneh, F. Carminati, A. Farbin, B. Hooberman et al., "Calorimetry with deep learning: particle simulation and reconstruction for collider physics," Eur. Phys. J. C 80, 688, 2020
+ATLAS Collaboration, "Search for chargino-neutralino production using recursive jigsaw reconstruction in final states with two or three charged leptons in proton-proton collisions at sqrt(s)=13 TeV with the ATLAS detector," Phys. Rev., D98(9):092012, 2018
+ATLAS Collaboration, "Search for new phenomena using the invariant mass distribution of same-flavour opposite-sign dilepton pairs in events with missing transverse momentum in sqrt(s)=13 TeV pp collisions with the ATLAS detector", Eur. Phys. J., C78(8):625, 2018
+ATLAS Collaboration, "Search for electroweak production of supersymmetric particles in the two and three lepton final state at sqrt(s)=13 TeV with the ATLAS detector ", Eur. Phys. J., C78(12):995, 2018
+ATLAS Collaboration, "Search for new phenomena in events containing a same-flavour opposite-sign dilepton pair, jets, and large missing transverse momentum in sqrt(s)=13 TeV pp collisions with the ATLAS detector", Eur. Phys. J., C77(3):144, 2017
+ATLAS Collaboration, "ATLAS Phase-II Upgrade Scoping Document", CERN-LHCC-2015-020, LHCC-G-166, 2015
+ATLAS Collaboration, "Search for supersymmetry in events containing a same-flavour opposite-sign dilepton pair, jets, and large missing transverse momentum in 8 TeV pp collisions with the ATLAS detector", Eur. Phys. J., C75(7):318, 2015
+CMS Collaboration, "Search for physics beyond the standard model in events with two leptons, jets, and missing transverse momentum in pp collisions at 8 TeV", Journal of High Energy Physics, 04:124, 2015
+CMS Collaboration, "Searches for electroweak neutralino and chargino production in channels with Higgs, Z, and W bosons in pp collisions at 8 TeV", Phys. Rev., D90(9):092007, 2014 
+CMS Collaboration, "Search for electroweak production of charginos, neutralinos, and sleptons using leptonic final states in pp collisions at sqrt(s) = 8 TeV",  Eur. Phys. J., C74(9):3036, 2014
+CMS Collaboration, "Search for top-squark pair production in the single-lepton final state in pp collisions at sqrt(s) = 8 TeV", Eur. Phys. J, C73(12):2677, 2013
+CMS Collaboration, "Search for new physics in events with opposite-sign leptons, jets, and missing transverse energy in pp collisions at sqrt(s)= 7 TeV", Phys. Lett., B718:815-840, 2013 
+CMS Collaboration, "Search for electroweak production of charginos and neutralinos using leptonic final states in pp collisions at sqrt(s)=7 TEV", Journal of High Energy Physics, 11:147, 2012
+CMS Collaboration, "Search for physics beyond the standard model in events with a Z boson, jets, and missing transverse energy in pp collisions at sqrt(s) = 7 TeV", Phys. Lett., B716:260-284, 2012 
+CMS Collaboration, "Search for Physics Beyond the Standard Model in Opposite-sign Dilepton Events at sqrt(s) = 7 TeV", Journal of High Energy Physics, 06:026, 2011
+CMS Collaboration, "Missing Transverse Energy Performance of the CMS Detector", J. Instrum., 6:P09001, 2011
+BABAR Collaboration, "Search for Charged Lepton Flavor Violation in Narrow Upsilon Decays", Phys. Rev. Lett., 104:151802, 2010  
+M. Battaglia, B. Hooberman, N. Kelley, "A Study of e+e- -> H0A0 Production and the Constraint on Dark Matter Density", Phys. Rev., D78:015021, 2008
+
+B. Hooberman with M. Battaglia et al., "Tracking and Vertexing with a Thin CMOS Pixel Beam Telescope", Nucl. Instrum. Meth., A593:292, 2008
+B. Hooberman with M. Battaglia et al., "A Study of monolithic CMOS pixel sensors back-thinning and their application for a pixel beam telescope", Nucl. Instrum. Meth., A579:675, 2007
+
+Articles in Conference Proceedings
+B. Hooberman (on behalf of the ATLAS collaboration), "Supersymmetry searches and combinations," ATL-PHYS-PROC-2022-030, Proceedings of the 56th Rencontres de Moriond on Electroweak Interactions and Unified Theories, La Thuile, Italy, 12 - 19 Mar 2022
+B. Hooberman (on behalf of the ATLAS collaboration), "First tracking performance results from the ATLAS Fast TracKer", Proceedings of the 2019 Connecting the Dots and Workshop on Intelligent Trackers, arXiv:1911.07962 [physics.ins-det]
+B. Hooberman, A. Farbin, G. Khattak, V. Pacela, M. Pierini, J.-R. Vlimant, M. Spiropulu, W. Wei, M. Zhang and S. Vallecorsa, "Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics", Deep Learning for Physical Sciences Workshop at the 31st Conference on Neural Information Processing Systems (NIPS), 2017
+B. Hooberman, for the CMS Collaboration, "Searches for Top and Bottom Squarks in pp collisions at 8 TeV", proceedings of the 2012 Hadron Collider Physics Symposium (HCP2012), European Physical Journal Web of Conferences 49:15012, 2013
+B. Hooberman, for the BABAR Collaboration, "Searches for Exotic Decays of the Upsilon(3S) at BABAR", proceedings of the 2009 Lake Louise Winter Institute, arXiv:0906.0354 [hep-ex], 2009
+ P. Kangaslahti, T. Gaier, M. Seiffert, S. Weinreb, D. Harding, D. Dawson, M. Soria, C. Lawrence, B. Hooberman, A. Miller, "Planar polarimetry receivers for Large Imaging Experiments at Q-band", Microwave Symposium Digest, IEEE MTT-S International, 89-92, 2006
+
+Other Publications
+ATLAS Physics Briefing, "ATLAS probes uncharted territory with improved trigger", 2024
+University of Illinois Press Briefing, "DOE seeds first-principles study of AI and deep learning, part of $4.3 million national initiative", 2022
+University of Illinois Press Briefing, "Hooberman, Shelton selected for DOE Early Career Awards", 2017
+ATLAS Physics Briefing, "ATLAS releases new results in search for weakly-interacting supersymmetric particles", 2017
+
+Research Honors
+University of Illinois Center for Advanced Study (CAS) Associate (2022)
+Department of Energy Early Career Research Award (2017)
+CMS Fellowship Award (2013)
+
+Recent Courses TaughtPHYS 212 - University Physics: Elec & Mag
+PHYS 225 - Relativity & Math Applications
+PHYS 398 DAP - Soph/Junr Special Topics Phys
+PHYS 435 - Electromagnetic Fields I
+PHYS 496 - Communicating in Physics
+

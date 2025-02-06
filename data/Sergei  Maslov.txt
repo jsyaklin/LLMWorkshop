@@ -1,0 +1,123 @@
+
+
+
+Sergei Maslov 
+
+
+
+
+
+Professor and Bliss Faculty Scholar
+
+
+(217) 265-5705
+maslov@illinois.edu
+3146C Everitt Laboratory
+
+
+For More Information
+Sergei Maslov's group webpage
+
+Education
+Stony Brook University	PhD	1996	Theoretical statistical physics
+
+Academic Positions
+2015- Full Professor and Bliss Faculty Scholar at the Department of Bioengineering, University of Illinois at Urbana-Champaign (100%)
+2015- Full Professor and Bliss Faculty Scholar at the Department of Physics, University of Illinois at Urbana-Champaign (0%)
+
+
+Research Areas
+Big Data
+Bioinformatics
+Biological Physics (theoretical)
+Biomolecular modeling
+Cancer biology
+Cancer genomics
+Complex system modeling
+Computational biology and biomedicine
+Computational evolutionary and systems biology
+Dynamics of complex biomolecular networks
+Gene regulation
+Gene regulatory networks in bacteria
+Genomics of bacteria and their communities
+Metagenomics
+Neural modeling
+Noise biology
+Polymer mechanics
+Quantitative biology
+Statistical learning
+Systems biology
+Theoretical biological physics
+
+
+Research Topics
+Computational and Systems Biology
+
+Chapters in Books
+Maslov, S., Sneppen, K., and Alon, U. (2003). Correlation Profiles and Circuit Motifs in Complex Networks, an invited book chapter in  the "Handbook of Graphs and Networks", S. Bornholdt, and H.-G. Schuster, (eds.), Wiley-VCH, Weinheim.
+
+Selected Articles in Journals
+A Nambiar, JM Forsyth, S Liu, S Maslov, DR-BERT: A Protein Language Model to Annotate Disordered regions. bioRxiv, 2023.02. 22.529574 2023. https://doi.org/10.1101/2023.02.22.529574
+Tarun Mahajan, Sergei Maslov, Coarse-Grained Model of Serial Dilution Dynamics in Synthetic Human Gut Microbiome; bioRxiv 2024.01.23.576928; doi: https://doi.org/10.1101/2024.01.23.576928
+Wang, Z., Goyal, A. & Maslov, S. The ecological consequences of microbial metabolic strategies in fluctuating environments. bioRxiv, 2023.2007.2024.550395, doi:10.1101/2023.07.24.550395 (2023).
+George A.B., Wang T., Maslov S. (2023) Functional universality in slow-growing microbial communities arises from thermodynamic constraints. ISME J. 2023 Sep;17(9):1482-1494. PubMed Central PMCID: PMC10432562.
+Fridman Y., Wang Z., Maslov S., Goyal A. (2022) Fine-scale diversity of microbial communities due to satellite niches in boom and bust environments, PLoS Comp Bio 18(12): e1010244. https://doi.org/10.1371/journal.pcbi.1010244
+Wang T, Wang X-W, Lee-Sarwar KA, Litonjua AA, Weiss ST, Sun Y, Maslov S,  Liu YY. Predicting metabolomic profiles from microbial composition through neural ordinary differential equations. Nat Mach Intell. 2023; 1–10. https://doi.org/10.1038/s42256-023-00627-3
+Nambiar A, Dubinkina V, Liu S, Maslov S. FUN-PROSE: A deep learning approach to predict condition-specific gene expression in fungi. PLoS Comput Biol 19(11): e1011563 (2023) https://doi.org/10.1371/journal.pcbi.1011563
+Nambiar A, Liu S, Heflin M, Forsyth JM, Maslov S, Hopkins M, Ritz A. Transformer Neural Networks for Protein Family and Interaction Prediction Tasks. J Comput Biol. 2022. https://doi.org/10.1089/cmb.2022.0132
+Tkachenko, A. V. & Maslov, S. Emergence of catalytic function in prebiotic information-coding polymers. eLife 12, RP91397, doi:10.7554/elife.91397.1 (2023).
+Wang Z, Goyal A, Dubinkina V, George A, Wang T, Fridman Y, Maslov S. Complementary resource preferences spontaneously emerge in diauxic microbial communities. Nature Communications 2021 12, 6661:6661-6612,  DOI:10.1038/s41467-021-27023-y (2021).
+
+Tkachenko AV, Maslov S, Wang T, Elbanna A, Wong GN, Goldenfeld N. [co-first and co-corresponding author] (2021). Elife 10, e68341, doi:10.7554/eLife.68341 (2021). 
+
+
+ 
+
+
+Tkachenko AV, Maslov S, Elbanna A, Wong GN, Weiner ZJ, Goldenfeld N. Persistent heterogeneity not short-term overdispersion determines herd immunity to COVID-19. PNAS, 118 (17) e2015972118; 
+
+Kudella PW, Tkachenko AV, Salditt A, Maslov S, Braun D. Structured sequences emerge from random pool when replicated by templated ligation. Proceedings of the National Academy of Sciences. 2021 Feb 23;118(8).  https://doi.org/10.1073/pnas.2018830118
+Goyal, A., Wang, T., Dubinkina, V. , Maslov S. Ecology-guided prediction of cross-feeding interactions in the human gut microbiome. Nat Commun 12, 1335 (2021). https://doi.org/10.1038/s41467-021-21586-6
+Wong GN, Weiner ZJ, Tkachenko AV, Elbanna A, Maslov S, Goldenfeld N. Modeling COVID-19 dynamics in Illinois under nonpharmaceutical interventions. Physical Review X. 2020 Nov 16;10(4):041033
+Ping D, Wang T, Fraebel DT, Maslov S, Sneppen K and Kuehn S (2020) [co-corresponding author] Hitchhiking, collapse and contingency in phage infections of migrating bacterial populations. ISME Journal, May 1 2020, pp. 1-12 
+Wang T, Goyal A, Dubinkina V, Maslov S (2019) [corresponding author] Evidence for a multi-level trophic organization of the human gut microbiome. PLoS Comp Biol 15(12): e1007524.  Selected for PLoS Comp Bio press release. 
+Dubinkina V, Fridman Y, Pandey PP, Maslov S (2019) [corresponding author] Multistability and regime shifts in microbial communities explained by competition for essential nutrients. eLife 8:e49720; Selected for eLife digest cover article. 
+Maslov S, Sneppen K (2019) Regime Shifts in a Phage-Bacterium Ecosystem and Strategies for Its Control. mSystems 4, e00470-19. Editor’s pick.
+Goyal A, Dubinkina V, Maslov S (2018) Microbial community structure predicted by the stable marriage problem. ISME Journal 12: 2823–2834. 
+Goyal A, Maslov S (2018) Diversity, stability, and reproducibility in stochastically assembled microbial ecosystem, Phys. Rev. Lett., 120, 158102.
+Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S, et al. (2018) The DOE Systems Biology Knowledgebase (KBase). Nature Biotechnology 36: 566–569; 
+Tkachenko AV, Maslov S. Onset of natural selection in auto-catalytic heteropolymers (2018) J Chem Phys. 149, 134901
+Tkachenko AV & Maslov S (2015) Spontaneous emergence of autocatalytic information-coding polymers. J Chem Phys 143(4):045102.
+Maslov S & Sneppen K (2015) Well-temperate phage: optimal bet-hedging against local environmental collapses. Sci Rep 5:10523.
+Maslov S & Sneppen K (2015) Diversity Waves in Collapse-Driven Population Dynamics. PLoS Comput Biol 11(9):e1004440.
+Dixit PD, Pang TY, Studier FW, & Maslov S (2015) Recombinant transfer in the basic genome of Escherichia coli. Proc Natl Acad Sci U S A 112(29):9070-9075.
+Pang TY & Maslov S (2013) Universal distribution of component frequencies in biological and technological systems. Proc. Natl. Acad. Sci. U. S. A. 110(15):6235-6239.
+Dixit PD & Maslov S (2013) Evolutionary Capacitance and Control of Protein Stability in Protein-Protein Interaction Networks. PLoS Computational Biology 9(4).
+Grilli J, Bassetti B, Maslov S, & Lagomarsino MC (2012) Joint scaling laws in functional and evolutionary categories in prokaryotic genomes. Nucleic Acids Res. 40(2):530-540.
+Heo M, Maslov S, & Shakhnovich E (2011) Topology of protein interaction network shapes protein abundances and strengths of their functional and nonspecific interactions. Proc. Natl. Acad. Sci. U. S. A.:4258-4263.
+Studier FW, Daegelen P, Lenski RE, Maslov S, & Kim JF (2009) Understanding the differences between genome sequences of Escherichia coli B strains REL606 and BL21(DE3) and comparison of the E. coli B and K-12 genomes. Journal of molecular biology 394(4):653-680.
+Maslov S, Krishna S, Pang TY, & Sneppen K (2009) Toolbox model of evolution of prokaryotic metabolic networks and their regulation. Proc Natl Acad Sci U S A 106(24):9743-9748.
+Maslov S & Sneppen K (2002) Specificity and stability in topology of protein networks. Science 296(5569):910-913.
+
+Journal Editorships
+Associate Editor,  PLoS Computational Biology, 9/2019-present    
+Editorial board member of Biology Direct Journal, 10/2005-present   
+
+Other Scholarly Activities
+One of two founding members of the COVID-19 modeling team at the University of Illinois at Urbana-Champaign. The team developed an agent-based model of COVID-19 epidemics on the UIUC campus. This model was used to advise the university leadership on testing frequency, scheduling, and mitigation measures such as, e.g., a temporary ban on student parties.
+One of two founding members of the COVID-19 modeling team for the office of the Governor of Illinois. Between April 2020 and July 2021, the modeling team provided weekly modeling predictions such as the likelihood to exceed hospital capacity in each of the 11 regions of the state.
+
+
+Service on Campus Committees
+Math Bio Faculty Search Committee. Department of Mathematics, 2022
+
+Honors
+University of Illinois Presidential Award and Medallion (2021)
+American Institute for Medical and Biological Engineering (AIMBE) fellow (2021)
+American Physical Society Fellow (2020)
+Bliss Faculty Scholar at University of Illinois at Urbana-Champaign (2014)
+Presidential Early Career Award for Scientists & Engineers (PECASE) (2002)
+
+Recent Courses TaughtBIOE 310 - Comp Tools Bio Data
+BIOE 505 (CSE 505) - Computational Bioengineering
+

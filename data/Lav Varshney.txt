@@ -1,0 +1,58 @@
+
+
+
+Lav Varshney 
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-8042
+varshney@illinois.edu
+314 Coordinated Science Lab
+
+
+For More Information
+Personal Webpage
+
+Research StatementMy research focuses on the science and engineering of informational systems involving humans and machines.  It is driven by a desire to improve individual and collective intelligence in modern environments.
+
+Research Areas
+Coding theory and applications
+Communications
+Fault tolerance and reliability
+Image, video, and multimedia processing and compression
+Information theory
+Machine learning and pattern recognition
+Nanotechnology
+Signal detection and estimation
+Signal Processing
+VLSI in communications
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Cognitive computing
+Cyberphysical systems and internet of things
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Distributed computing and storage systems
+Electric transportation
+Human computer interactions
+Machine learning
+Network science and engineering
+Neuro-engineering
+Sensing systems
+Smart infrastructures
+Socio-technical systems and networking
+Speech, language, and audio processing
+
+Recent Courses TaughtECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 563 - Information Theory
+ECE 598 LV - Generative AI Models
+ECE 598 LV2 - Representation of Information
+

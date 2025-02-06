@@ -1,0 +1,117 @@
+
+
+
+Peter Abbamonte 
+
+
+
+
+
+Fox Family Professor in Engineering
+
+
+(217) 244-4861
+abbamont@illinois.edu
+1004 Seitz Materials Research Lab
+
+
+For More Information
+Abbamonte Group
+
+BiographyPeter Abbamonte received his Ph.D. in Physics from the University of Illinois at Urbana-Champaign in 1999, having done his research with Eric Isaacs and Phil Platzman in the Materials Physics Department at Bell Laboratories. He then went to the University of Groningen in The Netherlands on an International Research Fellowship from the National Science Foundation to work with George Sawatzky, and returned to the U.S. as a postdoc in biophysics in Sol Gruner’s group at Cornell University, where he studied photosynthesis in rhodobacter sphaeroides. He joined the scientific staff at Brookhaven National Laboratory in 2003, and was recruited to the University of Illinois in 2005, where he is currently the Fox Family Professor of Engineering in the Department of Physics and an affiliate of the Seitz Materials Research Laboratory.
+Professor Abbamonte is one of the originators of the technique of resonant soft x-ray scattering with which he discovered the existence of a Wigner crystal in doped, quasi-1D spin ladders, and showed that stripes in copper-oxide superconductors are charged (among other achievements). This technique is now in use at every major synchrotron facility in the world. He is also known for his solution to the phase problem for inelastic x-ray scattering, which allows real-time imaging of electron motion in with attosecond time resolution. He has used this approach, for example, to image the formation of excitons in insulators, and to measure the effective fine structure constant of graphene.
+Since 2011 Abbamonte has been focused on what he believes will be viewed as his crowning achievement: the development of a fully momentum-resolved, inelastic electron scattering (M-EELS) instrument that achieves an energy resolution of ~ 1 meV. This instrument is the only one in the world capable of studying the dynamic charge susceptibility, chi(q,omega), with full momentum resolution, and has already led to several major discoveries most notably the existence of a Bose condensate of excitons in TiSe2—widely covered in the popular press as the “discovery of excitonium” (see https://www.youtube.com/watch?v=17Kvxe6v5Ms ).
+Abbamonte is the founder of Inprentus ( www.inprentus.com ), a premium manufacturer of XUV diffraction gratings. Inprentus was founded in 2012 at EnterpriseWorks, the startup incubator in the University of Illinois Research Park, and relocated to a dedicated facility in 2017. Inprentus has received Phase II SBIR funding from the NSF as well as significant Venture Capital investment, and has delivered high-resolution diffraction gratings to clients across the U.S., Europe, and Asia.
+Academic Positions
+Fox Family Professor in Engineering, 2019-present 
+Professor, Univ. of Illinois-Urbana, 2013-present
+
+Research StatementSee group-maintained web page
+Research Interests
+Development of new experimental methodologies. Ultrahigh vacuum manipulators, electrostatic lenses, x-ray optics, time-of-flight techniques, cryogenics, energy-resolving charged particle detectors. 
+Broken symmetries, e.g., charge density waves, magnetic order, superconductivity, and intertwined phases. 
+Experimental tests of holographic theories of strongly correlated matter
+Collective, many-body phenomena in quantum materials
+X-ray scattering and spectroscopy
+Momentum-resolved inelastic electron scattering
+
+
+Research Areas
+Condensed Matter Physics (experimental)
+Quantum Information Science
+
+
+Selected Articles in Journals
+P. Abbamonte, D. Baxter, Y. Kahn, G. Krnjaic, N. Kurinsky, B. Mandava, L.K. Wagner. Revisiting the dark matter interpretation of excess rates in semiconductors. Phys. Rev. D 105, 123002 (2022).
+
+J. Won, S. Kim, M. Gutierrez-Amigo, S. Bettler, B. Lee, J. Son, T.W. Noh, I. Errea, M.G. Vergniory, P. Abbamonte, F. Mahmood, D.P. Shoemaker. Transport and optical properties of the chiral semiconductor Ag3AuSe2. Z. Anorg. Allg. Chem. 648:15, e202200055 (2022).
+
+S.J. Lee, E.W. Huang, T.A. Johnson, X.F. Guo, A.A. Husain, M. Mitrano, K.N. Lu, A.V. Zakrzewski, G.A. de la Pena, Y.Y. Peng, H. Huang, S.J. Lee, H. Jang, J.S. Lee, Y.I. Joe, W.B. Doriese, P. Szypryt, D.S. Swetz, X.S. Chi, A.A. Aczel, G.J. MacDougall, S.A. Kivelson, E. Fradkin, P. Abbamonte. Generic character of charge and spin density waves in superconducting cuprates. Proc. Natl. Acad. Sci. 119, e2119429119 (2022).
+
+F. Mahmood, T. P. Devereaux, P. Abbamonte, D. K. Morr. Distinguishing finite-momentum superconducting pairing states with two-electron photoemission spectroscopy. Phys. Rev. B 105, 064515 (2022).
+
+S. Lee, J. Collini, S.X.L. Sun, M. Mitrano, X.F. Guo, C. Eckberg, J.P. Paglione, E. Fradkin, P. Abbamonte. Multiple Charge Density Waves and Superconductivity Nucleation at Antiphase Domain Walls in the Nematic Pnictide Ba1-xSrxNi2As2. Phys. Rev. Lett. 127, 027602 (2021).
+
+Y.I. Joe, Y.Z. Fang, S. Lee, S.X-L. Sun, G. de la Pena, W.B. Doriese, K.M. Morgan, J.W. Fowler, L.R. Vale, F. Rodolakis, J.L. McChesney, J.N. Ullom, D.S. Swetz, P. Abbamonte. Resonant Soft X-Ray Scattering from Stripe-Ordered La2-xBaxCuO4 Detected by a Transition-Edge Sensor Array Detector. Phys. Rev. Appl. 13, 034026 (2020).
+
+M. Mitrano, S. Lee, AA. Husain, L. Delacretaz, MH. Zhu, GD. Munoz, SXL. Sun, YI. Joe, AH. Reid, SF. Wandel, G. Coslovich, W. Schlotter, Driel. van, Schneeloch. T, Gu. J, Hartnoll, N. Goldenfeld, P, Abbamonte. Ultrafast time-resolved x-ray scattering reveals diffusive charge order dynamics in La2-xBaxCuO4. Sci. Adv. 5:8, eaax3346 (2019).
+
+A.A. Husain, M. Mitrano, M.S. Rak, S. Rubeck, B. Uchoa, K. March, C. Dwyer, J. Schneeloch, R.D. Zhong, G.D. Gu, P. Abbamonte. Crossover of Charge Fluctuations across the Strange Metal Phase Diagram. Phys. Rev. X 9, 041062 (2019).
+
+S. Lee, G. A. de la Pena, S. X.-L. Sun, M. Mitrano, Y. Fang, H. Jang, J.-S. Lee, C. Eckberg, D. Campbell, J. Collini, JP. Paglione, F. M. F. de Groot, P. Abbamonte. Unconventional charge density wave order in the pnictide superconductor Ba(Ni1-xCOx)2As2. Phys. Rev. Lett. 122, 147601 (2019).
+
+M. Mitrano, A. A. Husain, S. Vig, A. Kogar, M. S. Rak, S. I. Rubeck, J. Schmalian, B. Uchoa, J. Schneeloch, R. Zhong, G. D. Gu, and P. Abbamonte. Anomalous density fluctuations in a strange metal, Proc. Natl. Acad. Sci. 115:21, 5392-5396 (2018).
+
+A. Kogar, M. S. Rak, S. Vig, A. A. Husain, F. Flicker, Y. I. Joe, L. Venema, G. J. MacDougall, T. C. Chiang, E. Fradkin, J. van Wezel, P. Abbamonte. Signatures of exciton condensation in a transition metal dichalcogenide. Science 358, 1314 (2017).
+S. Vig, A. Kogar, M. Mitrano, A. A. Husain, L. Venema, M. S. Rak, V. Mishra, P. D. Johnson, G. D. Gu, E. Fradkin, M. R. Norman, P. Abbamonte. Measurement of the dynamic charge response of materials using low-energy, momentum-resolved electron energy-loss spectroscopy (M-EELS). SciPost Phys. 3, 026 (2017).
+Y.I. Joe, X. M. Chen, P. Ghaemi, D. D. Finkelstein, G. A. de la Pena, Y. Gan, J.C.T. Lee, S. Yuan, J. Geck, G. J. McDougall, T. C. Chiang, S.L. Cooper, E. Fradkin, P. Abbamonte. Emergence of Charge Density wave domain walls above the superconducting dome in 1T-TiSe2. Nature Physics 10, 421 (2014).
+Y. Gan, A. Kogar, P. Abbamonte. Crystallographic refinement of collective excitations using standing wave inelastic X-ray scattering. Chem. Phys. 414, 160 (2013).
+P. Abbamonte, E. Demler, J. C. Davis, J. C. Campuzano. Resonant soft X-ray scattering, stripe order, and the electron spectral function in cuprates. Physica C: Superconductivity and its Applications 481, 15-22 (2012).
+J. P. Reed, B. Uchoa, Y. I. Joe, Y. Gan, D. Casa, E. Fradkin, P. Abbamonte. The effective fine structure constant of freestanding graphene measured in graphite. Science 330, 805 (2010).
+
+P. Abbamonte, G. C. L. Wong, D. Cahill, J. P. Reed, R. H. Coridan, N. W. Schmidt, G. H. Lai, Y. I. Joe, D. Casa. Ultrafast Imaging and the Phase Problem for Inelastic X-Ray Scattering. Advanced Materials 22, 1141 (2010).
+
+R. H. Coridan, N. W. Schmidt, G. H. Lai, R. Godawat, M. Krisch, S. Garde, P. Abbamonte, G. C. L. Wong. Hydration dynamics at femtosecond timescales and Angstrom lengthscales from inelastic x-ray scattering. Phys. Rev. Lett. 103, 237402 (2009).
+S. Smadici, J. C. T. Lee, S. Wang, P. Abbamonte, A. Gozar, G. Logvenov, C. D. Cavellin, I. Bozovic, Superconducting transition at 38 K in insulating-overdoped La2CuO4-La1.64Sr0.36CuO4 superlattices: Evidence for interface electronic redistribution from resonant soft x-ray scattering. Phys. Rev. Lett. 102, 107004 (2009).
+S. Smadici, P. Abbamonte, A. Bhattacharya, X. Zhai, B. Jiang, A. Rusydi, J. N. Eckstein, S. D. Bader, J. M. Zuo, Electronic reconstruction of LaMnO3-SrMnO3 superlattice interfaces. Phys. Rev. Lett. 99, 196404 (2007).
+P. Abbamonte, A. Rusydi, S. Smadici, G. D. Gu, G. A. Swawatzky, and D. L. Feng. Spatially modulated "Mottness" in La2-xBaxCuO4. Nature Physics 1, 155-158 (2005).
+P. Abbamonte, G. Blumberg, A. Rusydi, A. Gozar, P.G. Evans, T.S. Siegrist, L. Venema, H. Eisaki, E.D. Isaacs, and G.A. Sawatzky. Crystallization of charge holes in the spin ladder of Sr14Cu24O41. Nature 431, 1078-1081 (2004).
+P. Abbamonte, K. D. Finkelstein, M. D. Collins, and S. M. Gruner. Imaging density disturbances in water with a 41.3-attosecond time resolution. Phys. Rev. Lett. 92, 237401 (2004).
+P. Abbamonte, L. Venema, A. Rusydi, I. Bozovic, and G. A. Sawatzky. A structural probe of the doped holes in cuprate superconductors. Science 297, 581-584 (2002).
+Full publication list
+
+Articles in Conference Proceedings
+S. Gleason, J. Manton, J. Sheung, T. Byrum, C. Jensen, L. Y. Jiang, J. Dvorak, I. Jarrige, P. Abbamonte, Intrinsic resolving power of XUV diffraction gratings measured with Fizeau interferometry (Advances in Metrology for X-Ray and EUV Optics VII, Aug. 6-10, 2017, San Diego, CA), Proc. SPIE 10105, UNSP 1038506 (2017)
+
+Teaching Honors
+List of Teachers Ranked as Excellent, Spring 2023 (Spring 2023)
+List of Teachers Ranked as Excellent, Spring 2022 (Spring 2022)
+List of Teachers Ranked as Excellent, Fall 2021 (Fall 2021)
+List of Teachers Ranked as Excellent, Spring 2021 (Spring 2021)
+List of Teachers Ranked as Excellent, Spring 2020 (Spring 2020)
+List of Teachers Ranked as Excellent, Fall 2018 (Fall 2018)
+List of Teachers Ranked as Excellent, Spring 2017 (Spring 2017)
+List of Teachers Ranked as Excellent, Spring 2016 (Spring 2016)
+List of Teachers Ranked as Excellent, Spring 2012 (Spring 2012)
+List of Teachers Ranked as Excellent, Spring 2011 (Spring 2011)
+List of Teachers Ranked as Excellent, Fall 2010 (Fall 2010)
+List of Teachers Ranked as Excellent, Spring 2010 (Spring 2010)
+List of Teachers Ranked as Excellent, Spring 2009 (Spring 2009)
+List of Teachers Ranked as Excellent, Spring 2007 (Spring 2007)
+
+Research Honors
+Moore Foundation EPiQS Investigator, 2020-2025 (2020)
+Fox Family Professor in Engineering, 2019-pres. (2019)
+Moore Foundation EPiQS Investigator, 2014-2019 (2014)
+Fellow of the American Physical Society (2014)
+University Scholar (2014)
+Xerox Award for Faculty Research (2010)
+Arnold O. Beckman Fellow, Center for Advanced Study (2008)
+NSF Intl. Research Fellowship, 2000-2001
+
+Recent Courses TaughtPHYS 212 - University Physics: Elec & Mag
+PHYS 402 - Light
+PHYS 435 - Electromagnetic Fields I
+PHYS 436 - Electromagnetic Fields II
+PHYS 505 - Classical Electromagnetism
+

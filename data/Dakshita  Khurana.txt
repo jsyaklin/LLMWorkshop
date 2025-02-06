@@ -1,0 +1,61 @@
+
+
+
+Dakshita Khurana 
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-0658
+dakshita@illinois.edu
+4308 Siebel Center for Comp Sci
+
+
+For More Information
+Dakshita Khurana's homepage.
+
+
+BiographyDakshita Khurana is an Associate Professor of Computer Science at the University of Illinois, Urbana-Champaign. Her research focuses on cryptography and its interactions with quantum information. She has made several contributions to secure protocol design, including to succinct and zero-knowledge proof systems, non-malleable protocols and secure computation. Her work has also utilized cryptographic hardness to improve our understanding of other aspects of theoretical computer science, e.g., by establishing the hardness of finding Nash equilibria under standard lattice assumptions. Her research enabling secure computation from weak cryptographic structure in the quantum regime was invited as one of the (long) plenary talks at QIP. Her research has also been recognized via invitations to the SIAM Journal on Computing, awarded to selected papers at STOC and FOCS.
+ Dakshita is a recipient of the NSF CAREER award, Google Research Scholar award, Visa Research faculty award, and a Graduate of Last Decade (GOLD) Alumni award from IIT-Delhi. In addition, her work has been funded through grants and gifts from the NSF, AFOSR, DARPA, C3AI and Jump Arches. She was named to Forbes List of 30 under 30 in Science and awarded a Google Research Fellowship at the Simons Institute, Berkeley. Her thesis work was previously recognized with a UCLA Dissertation Year Fellowship, a UCLA CS Outstanding PhD Student Award and Outstanding Graduate Awards from Symantec and CISCO.
+Graduate Research OpportunitiesI am looking for motivated students. Please apply and email me if you are interested in working with me.
+Research Interests
+Security and Privacy
+Theory and Algorithms
+Cryptography
+
+
+Research Areas
+Security and Privacy
+Theory and Algorithms
+
+
+Teaching Honors
+On the list of Teachers Ranked as Excellent for Spring 2023 at UIUC
+ (2023
+)
+On the list of Teachers Ranked as Excellent for Fall 2022 at UIUC
+ (2022
+)
+On the List of Teachers Ranked as Excellent for Spring 2021 at UIUC (2021)
+On the List of Teachers Ranked as Excellent for Fall 2019 at UIUC (2019)
+
+Research Honors
+Google Research Scholar Award (2024)
+NSF CAREER Award: Cryptographic Proofs, Outside the Black-Box (2023)
+IIT Delhi Graduate of Last Decade (GOLD) Alumni Award (2022)
+Visa Faculty Research Award (2021)
+ On the list of Forbes 30 under 30 in Science (2020)
+UCLA CS Outstanding Graduating PhD Student Award (2018 )
+
+Recent Courses TaughtCS 374 AL1 (CS 374 AL2, ECE 374 AL1, ECE 374 AL2) - Intro to Algs & Models of Comp
+CS 498 QC3 (CS 498 QCG, CS 498 QCU) - Intro to Quantum Computing
+CS 507 - Topics in Cryptography
+CS 598 CTO - Quantum Cryptography
+CS 598 DK - Special Topics in Cryptography
+ECE 407 (CS 598 DK, CS 407) - Cryptography
+ECE 498 AC3 (ECE 498 AC4, CS 498 AC3, CS 498 AC4) - Applied Cryptography
+

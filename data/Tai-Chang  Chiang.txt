@@ -1,0 +1,67 @@
+
+
+
+Tai-Chang Chiang 
+
+
+
+
+
+Research Professor
+
+
+(217) 333-2593
+tcchiang@illinois.edu
+170 Seitz Materials Research Lab
+
+
+For More Information
+Chiang's Vita and Publications List
+Chiang Research Group
+
+Education
+Ph.D., Physics, University of California-Berkeley, Dec., 1978
+
+BiographyAfter receiving a B.S. in physics from the National Taiwan University in 1971, Professor Chiang received his Ph.D. in physics from the University of California, Berkeley in 1978. He joined the Department of Physics at the University of Illinois in 1980 after working as a postdoctoral fellow at the IBM T.J. Watson Research Center in Yorktown Heights, NY.
+Professor Chiang has done seminal research on the electronic properties, lattice structure, and dynamic behavior of surfaces, interfaces, and ultrathin films. He employs molecular beam epitaxy techniques to create thin films and composite systems made of metals, semiconductors, topological insulators, superconductors, and charge-density-wave compounds, where functionality and novel properties may emerge from quantum confinement and coherent coupling among the components of the composite.
+While his work focuses on basic scientific principles, many of the systems under investigation have strong potential for applications. He is credited for being the first one to create atomically uniform films of thicknesses ranging from a single layer to well over a hundred layers. Such films function as miniature electron interferometers in which electrons bounce back and forth between the two boundaries to form standing waves, also known as quantum well states. These effects allow precise measurements of the electronic wavelength and the kinetics of electron motion. Professor Chiang is an outstanding theorist who is able to develop theoretical models for his experimental results.
+Early in his career, Professor Chiang did pioneering work on the application of angle-resolved and core-level photoemission to surface, thin film, and superlattice research. He was one of the first to demonstrate that atoms of single-crystal surfaces have core level binding energies different from the bulk atoms; this work led to the development of quantitative methods for surface structure analysis. He developed systematic methods for three-dimensional band structure mapping, clarified the photoemission processes in terms of bulk and surface effects, and was the first to report surface change density oscillations near defects using scanning tunneling microscopy. His research on x-ray thermal diffuse scattering for phonon mapping is now a topic in textbooks.
+Prof. Chiang has conducted his research using synchrotron radiation facilities including the Synchrotron Radiation Center in Stoughton, Wisconsin, the Advanced Light Source in Berkeley, California, the Advanced Photon Source at the Argonne National Laboratory, and several international facilities. He also conducts research at the free electron laser facility LCLS in Stanford, California.
+Research StatementElectronic, Spin, and Lattice Structures and Dynamics of Nanoscale Systems 
+Professor Chiang's current research focuses on the physics of surfaces, interfaces, and tailored thin film structures that are promising for a wide range of scientific and technological advances in the quantum and nanoscale regimes. Measurements, modeling, and computation are performed to determine and to understand the electronic, spintronic, and atomistic behavior of selected surface-based nanoscale systems prepared by deposition, self-assembly, and artificial layering.
+Electrons confined in such systems form discrete states, or quantum well states, that are sensitive to the physical dimensions, boundary conditions, and spin-orbit coupling at the interface. As a result, the electronic wave functions, total energy, charge distribution, spin texture, and density of states can exhibit substantial quantum variations as a function of system size and environment. The system's lattice responds to these changes via an electron-lattice coupling, possibly resulting in distortions and new structural phases having different symmetry types.
+These effects can be pronounced at the nanoscale because of quantum coherence, interference, entanglement, and the relative ease of atomic movement at surfaces. The resulting collective behavior involving coupled electronic, spin, and lattice degrees of freedom can deviate substantially from the bulk limit, thus giving rise to ample opportunities for creating useful and emergent properties.
+Professor Chiang's research is directed mainly at four areas:
+
+surfaces, interfaces, and ultrathin films of nontrivial materials including topological insulators, charge density wave compounds, and other functional materials, with an emphasis upon the interplay of quantum confinement, reduced dimensions, spin texture, topological order, etc. as the film's thickness is increased from a single layer, to a double layer,...and to the thick film limit.
+studies of dichroic and spin polarization effects associated with angle-resolved photoemission spectroscopy using linearly and circularly polarized light, which will shed light on the spin degrees of freedom that have received increasing attention because of the strong potential for spintronic applications.
+artificially stacked materials involving different quantum phases where the interaction between topological order, superconducting pair formation, charge order, etc. in tailored structures can lead to novel behavior relevant to a fundamental understanding of complexity and emergent phenomena.
+the physics of excitation, relaxation, and driven behavior at time scales down to the femtosecond regime, which represents an exciting frontier for condensed-matter research.
+
+Research Areas
+Condensed Matter Physics (experimental)
+
+
+Selected Articles in Journals
+Guang Bian, Z. F. Wang, Xiaoxiong Wang, Caizhi Xu, Su-Yang Xu, T. Miller, M. Zahid Hasan, Feng Liu, and T.-C. Chiang. Engineering electronic structure of a 2D topological insulator Bi(111) bilayer on Sb nanofilms by quantum confinement effect. ACS Nano, 10, 3859 (2016). 
+C.-Z. Xu, Y. Liu, R. Yukawa, L.-X. Zhang, I. Matsuda, T. Miller, and T.-C. Chiang. Photoemission circular dichroism and spin polarization of the topological surface states in ultrathin Bi2Te3 films. Phys. Rev. Lett. 115, 016801 (2015). Chosen as an Editors' Suggestion.
+P. Chen, Y.-H. Chan, X.-Y. Fang, Y. Zhang, M. Y. Chou, S.-K. Mo, Z. Hussain, A.-V. Fedorov, and T.-C. Chiang. Charge density wave transition in single-layer TiSe2. Nature Commun. 6, 8943 (2015).
+Y. Liu, G. Bian, T. Miller, and T.-C. Chiang. Visualizing electronic chirality and Berry phases in graphene systems using photoemission with circularly polarized light. Phys. Rev. Lett. 107, 166803 (2011). Chosen as a PRL Editors' Suggestion and highlighted in a viewpoint article: Thomas Pichler, "Unraveling electron chirality in graphene," Physics 4, 79 (2011).
+G. Bian, T. Miller, and T.-C. Chiang. Passage from spin-polarized surface states to unpolarized quantum well states in topologically nontrivial Sb films. Phys. Rev. Lett. 107, 036802 (2011). Selected for cover image of Phys. Rev. Lett. Vol. 107, Issue 3 (July 15, 2011).
+T. Miller, M. Y. Chou, and T.-Chiang. Phase relations associated with one-dimensional shell effects in thin metal films Phys. Rev. Lett. 102, 236803 (2009).
+N. J. Speer, S.-J. Tang, T. Miller, and T.-C. Chiang. Coherent electronic fringe structure in incommensurate silver-silicon quantum wells. Science 314, 804 (2006). See Research/Researchers news article "Quantum coherence possible in incommensurate electronic systems," MRS Bulletin, 31, 969 (2006). See Perspective article "Beyond the particle in the box," by Lars Wallden, Science 314, 769 (2006).
+T.-C. Chiang. Physics--Superconductivity in thin films. Science 306, 1900-1901 (2004).
+D. H. Luh, T. Miller, J. J. Paggel, M. Y. Chou, and T.-C. Chiang. Quantum electronic stability of atomically uniform films. Science 292, 1131-1133 (2001).  See This Week in Science "Turning Up the Heat on Uniform Thin Films," Science 292 1017 (2001).
+J. J. Paggel, T. Miller, and T.-C. Chiang. Quantum-well states as Fabry-Perot modes in a thin-film electron interferometer. Science 283, 1709-1711 (1999). See "Perspectives" article, "Mirrors of Electrons" by F.J. Himpsel, Science 283,1655 (1999). 
+M. Holt, Z. Wu, H. W. Hong, P. Zschack, P. Jemian, J. Tischler, H. Chen, and T.-C. Chiang. Determination of phonon dispersions from X-ray transmission scattering: The example of silicon. Phys. Rev. Lett. 83, 3317-3319 (1999).
+
+Research Honors
+Arthur H. Compton Award, Advanced Photon Source, Argonne National Laboratory (2019)
+Academician, Academia Sinica, Taiwan, elected 2016 (2016)
+Davisson-Germer Prize, American Physical Society, 2015 (2015)
+Outstanding Referee, inaugural group, American Physical Society, 2008 (2008)
+Fellow, American Physical Society, 1986-present
+Xerox Award for Faculty Research, 1985
+NSF Presidential Young Investigator Award, 1984-89
+IBM Faculty Development Award, 1984-85
+

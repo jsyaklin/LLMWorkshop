@@ -1,0 +1,91 @@
+
+
+
+Bumsoo Han he/him/his
+
+
+
+
+
+Professor
+
+
+(217) 300-0516
+bumsooh@illinois.edu
+3050 Mechanical Engineering Bldg
+
+
+For More Information
+Han Research Group
+
+Education
+PhD, Mechanical Engineering, University of Minneosta, 2001
+
+MS, Mechanical Engineering, Seoul National University, 1996
+
+BS, Mechanical Engineering, Seoul National University, 1993
+
+
+BiographyBumsoo Han is a Professor of Mechanical Science and Engineering and Materials Research Laboratory, and Phil & Ann Sharp Scholar in Cancer Research. Prior to joining the University of Illinois, he has been a Professor or Mechanical Engineering and Biomedical engineering at Purdue University. He was also a Program Leader of the Drug Delivery and Molecular Sensing Program of the NCI-designated Purdue Institute for Cancer Research. He received his PhD in Mechanical Engineering from the University of Minnesota and his MS and BS from Seoul National University in Korea. After his PhD, he was a Postdoc Fellow in Mechanical and Biomedical Engineering at the University of Minnesota. He received US DOD Postdoctoral Award for Breast Cancer Research, NSF CAREER Award, US AFOSR Faculty Fellowship (Predictive Toxicology), and Richard Skalak Best Paper Award from the ASME Journal of Biomechanical Engineering. In addition, he is a Fellow of ASME and B.S.F. Schaefer Outstanding Young Faculty Scholar of Purdue. He also receives the Faculty of Excellence Early Career Research Award from Purdue and the Brain Pool Korea Fellowship from the National Research Foundation of Korea. 
+Academic Positions
+Professor, University of Illinois Urbana-Champaign, Mechanical Science and Engineering, 2024-present
+Professor, University of Illinois Urbana-Champaign, Materials Research Laboratory, 2024-present
+
+Phil & Ann Sharp Scholar in Cancer Research, University of Illinois Urbana-Champaign, Cancer Center in Illinois, 2024-present
+
+Professor, Purdue University, Mechanical Engineering and Biomedical Engineering, 2016-2024
+
+
+Other Professional Employment
+Visting Scientist, Korea Institute of Industrial Technology, Micro/Nano Processing Group, 2015
+Faculty Fellow, US Air Force Research Laboratory, Predictive Toxicology Program, 2013
+
+
+Research StatementBumsoo Han's broad research interests are in biotransport phenomena for cancer research and tissue engineering. His current research is focused on drug transport at the tumor microenvironment, engineered microphysiological disease models, and cell-matrix interaction in the stroma tissue. In addition, his group has been developing quantitative microscopy techniques to measure transport and biophysical interactions in the cellular microenvironment. His research contributes to drug discovery and cell/tissue engineering for cancer treatment and prevention. 
+
+Research Areas
+Applied Physics
+Health and Bio
+Manufacturing
+Solid Mechanics and Materials
+Thermo and Heat Transfer
+
+
+Selected Articles in Journals
+C. Cheng, N. Deneke, H. Moon, S.R. Choi, N. Osipina-Munoz, B.D. Elzey, C.S. Davis, G. T-C Chiu, and B. Han, 2023, "Inkjet-printed morphogenesis of tumor-stroma interface using bi-cellular bioinks of collagen-poly(N-isopropyl acrylamide-co-methyl methacrylate) mixture," Materials Today Advances, vol. 19, 100408.
+
+Y. Shen, S. Yuk, S. Kwon, H. Tamam, Y. Yeo and B. Han, 2023, "A time-scale guided microfluidic synthesis of tannic acid-FeIII network nanocapsules of hydrophobic drugs," Journal of Controlled Release, vol. 357, pp. 484-497.
+
+H. Moon, S. Saha, A. Mugler and B. Han, 2023, "Cells function as a ternary logic gate to decide migration direction under integrated chemical and fluidic cues," Lab on a Chip, vol. 23, pp. 631-644. (Selected as Lab on a Chip HOT Article)
+
+H. Moon*, A. Ozcelikkale*, Y. Yang, B.E. Elzey, S.F. Konieczny, and B. Han, 2020, "An engineered pancreatic cancer model with intra-tumoral heterogeneity of driver mutations," Lab on a Chip, vol. 20, pp.3720 - 3732. (* equal contribution) (Selected as Back Cover Article)
+
+M.J. Bradney, S.M. Venis, Y. Yang, S.F. Konieczny, and B. Han, 2020, "A biomimetic model of heterogeneous invasion in pancreatic ductal adenocarcinoma," Small, 1905500.
+
+J. Varennes, S. Fancher, B. Han, and A. Mugler, 2017, "Emergent versus individual-based multicellular chemotaxis," Physical Review Letters, vol. 119, 188101.
+
+A. Ozcelikkale, K. Shin, V. Noe-Kim, B.E. Elzey, Z. Dong, J-T Zhang, K. Kim, I.C. Kwon, K. Park, and B. Han, 2017,"Differential response to doxorubicin in breast cancer subtypes simulated by a microfluidic tumor model," Journal of Controlled Release, vol. 9, pp. 129-139.
+
+A. Ozcelikkale, H. Moon, M. Linnes, and B. Han, 2017, "In vitro models of tumor microenvironment to screen transport of drug and nanoparticles," WIREs Nanomedicine and Nanobiotechnolgy, Vol. 9, e1460. (Selected for Cover Image, and Top 20 Most Downloaded Papers)
+
+B. Kwak, A. Ozcelikkale, C. S. Shin, K. Park, and B. Han, 2014, "Simulation of complex transport of nanoparticles around a tumor using tumor-microenvironment-on-chip,” Journal of Controlled Release, vol. 194, pp.157-167.
+
+A. Ozcelikkale, S. Ghosh, and B. Han, 2013, "Multifaceted transport characteristics of nanomedicine: Needs for characterization in dynamic environment," Molecular Pharmaceutics, vol. 10, pp. 2111-2126.
+
+C.S. Shin, B. Kwak, B. Han, and K. Park, 2013, "Development of an in vitro 3D tumor model to study therapeutic efficiency of an anticancer drug," Molecular Pharmaceutics, vol. 10, pp. 2167- 2175.
+
+K.Y. Teo, T.O. DeHoyos, J.C. Dutton, F. Grinnell, and B. Han, 2011, "Effects of freezing-induced cell-fluid-matrix interactions on the cells and extracellular matrix of engineered tissues," Biomaterials, vol. 32, pp.5380-5390.
+
+B. Han, J.D. Miller, and J.K. Jung, 2009, "Freezing-induced fluid-matrix interaction in poroelastic material," Journal of Biomechanical Engineering, vol. 131, 021002: 1-8. (Selected for Richard Skalak Best Paper Award)
+
+
+Honors
+Purdue University Faculty of Excellence Early Career Research Award, 2015
+ASME NEMB Outstanding Paper Award, 2013
+ASME Richard Skalak Best Paper Award, 2010
+NSF Faculty Early Career Development (CAREER) Award, 2008
+US DOD Postdoctoral Traineeship Award, Congressionally Directed Medical Research Program, 2003
+
+Recent Courses TaughtME 420 - Intermediate Heat Transfer
+ME 483 - Mechanobiology
+

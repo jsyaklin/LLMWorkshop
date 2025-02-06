@@ -1,0 +1,98 @@
+
+
+
+Xin Ning he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+xning@illinois.edu
+ 
+
+
+Education
+Ph.D. in Aeronautics, California Institute of Technology, 2015
+
+M.S. in Aeronautics, California Institute of Technology, 2010
+
+
+Academic Positions
+Assistant Professor, Department of Aerospace Engineering, University of Illinois at Urbana-Champaign, August 2023 to Present
+Assistant Professor, Materials Research Laboratory (0%), University of Illinois at Urbana-Champaign, August 2023 to Present
+Assistant Professor, Department of Aerospace Engineering, Pennsylvania State University, August 2018 to August 2023
+Postdoctoral Research Associate, Department of Materials Science and Engineering, University of Illinois at Urbana-Champaign, August 2015 to June 2018
+Postdoctoral Scholar, Department of Aerospace Engineering, California Institute of Technology, June 2015 to August 2015
+
+Research Interests
+Soft electronics for aerospace engineering
+Bio-inspired aerospace structures
+In-space manufacturing and assembly
+Multifunctional space structures
+
+
+Research Areas
+Aerospace Materials
+Aerospace Structures
+Space Systems 
+Structural Mechanics/Structural Dynamics Design
+
+
+Selected Articles in Journals
+Sepideh Ebad Sichani and Xin Ning. 2025. "Load-Bearing Wing Structures Inspired by Natural Cellular Materials". Journal of Applied Mechanics. 
+
+Yao Yao, Guanghui Li, Xin Ning. 2024. "Origami electronic membranes as highly shape-morphable mechanical and environmental sensing systems," Extreme Mechanics Letters, Volume 73, 102264.
+
+Yao Yao, Juan M. Fernandez, Sven G. Bilen, Xin Ning. 2024. "Multifunctional bistable ultrathin composite booms with flexible electronics, Extreme Mechanics Letters, Volume 72, 102247.
+
+Mitansh Doshi and Xin Ning. "Instability of Metamaterial-Based Thin Cylindrical Shells Under Axial Compression." Journal of Applied Mechanics. March 2024; 91(3): 031009.
+
+Yao Yao and Xin Ning. "Soft electronic skin for self-deployable tape-spring hinges." Communications Engineering 3, 16 (2024).
+
+Zhiyuan Chen, Khanh Nguyen, Grant Kowalik, Xinyu Shi, Jinbi Tian, Mitansh Doshi, Bridget R Alber, Xun Guan, Xitong Liu, Xin Ning, Matthew W Kay, Luyao Lu. "Transparent and Stretchable AuAg Nanowire Recording Microelectrode Arrays." Advanced Materials Technologies, 2201716, 2023.
+
+Guanghui Li, Yao Yao (co-first author), Nikhil Ashok, Xin Ning. 2021. "Ultra-flexible Visible-blind Optoelectronics for Wired and Wireless Ultraviolet Sensing in Harsh Environments," Advanced Materials Technologies: 6, 2001125. Front Cover Highlight
+
+Mitansh Doshi and Xin Ning. 2021. "A Data-Driven Framework for Buckling Analysis of Near-Spherical Composite Shells under External Pressure," Journal of Applied Mechanics: 88(8), 081007.
+
+Samuel Schulman and Xin Ning. 2021. "A Geometry-based Framework for Modeling the Complexity of Origami Folding," Theoretical and Applied Mechanics Letters: 11, 100241.
+
+Hangbo Zhao, Yongdeok Kim, Heling Wang, Xin Ning (co-first author), Chenkai Xu, Judy Suh, Mengdi Han, Gelson J. Pagan-Diaz, Wei Lu, Haibo Li, Wubin Bai, Onur Aydin, Yoonseok Park, Yao Yao, Yishan He, Taher Saif, Yonggang Huang, Rashid Bashir, and John A. Rogers. 2021. "Compliant 3D Frameworks Instrumented with Strain Sensors for Characterization of Millimeter-Scale Engineered Muscle Tissues," Proceedings of the National Academy of Sciences: 118 (19), e2100077118.
+
+Kewang Nan, Heling Wang, Xin Ning(co-first author), Kali A. Miller, Chen Wei, Yunpeng Liu, Haibo Li, Yeguang Xue, Zhaoqian Xie, Haiwen Luan, Yihui Zhang, Yonggang Huang, John A. Rogers, and Paul V. Braun. 2019. "Soft 3D Microscale Vibratory Platforms for Characterization of Nano-Thin Polymer Films." ACS Nano, 13: 449−457.
+
+Xin Ning, Xinge Yu, Heling Wang, Rujie Sun, Rebecca Corman, Haibo Li, Chan Mi Lee, Yeguang Xue, Aditya Chempakasseril, Yao Yao, Ziqi Zhang, Haiwen Luan, Zizheng Wang, Wei Xia, Xue Feng, Randy H. Ewoldt, Yonggang Huang, Yihui Zhang, and John A. Rogers. 2018. "Mechanically Active Materials in Three-dimensional Mesostructures," Science Advances, 4 (9): eaat8313.
+
+Xin Ning and Sergio Pellegrino. 2018. "Searching for Imperfection Insensitive Externally Pressurized Near-spherical Thin Shells." Journal of the Mechanics and Physics of Solids, 120: 49-67.
+
+Xinge Yu, Heling Wang, Xin Ning (co-first author), Rujie Sun, Marcela Salomao, Hassan Albadawi, Alvin C. Silva, Yang Yu, Limei Tian, Ahyeon Koh, Chan Mi Lee, Aditya Chempakasseril, Peilin Tian, Matt Pharr, Jianghong Yuan, Yonggang Huang, Rahmi Oklu, and John A. Rogers. 2018. "Needle-shaped Ultrathin Piezoelectric Microsystem for Guided Tissue Targeting via Mechanical Sensing." Nature Biomedical Engineering, 2: 165-172.
+
+Xin Ning, Xueju Wang, Yi Zhang, Xinge Yu, Dongwhi Choi, Ning Zheng, Dong Sung Kim, Yong- gang Huang, Yihui Zhang, and John A. Rogers. 2018. "Assembly of Advanced Materials into Three-Dimensional Functional Structures by Methods Inspired by Origami and Kirigami: A Review." Advanced Materials Interfaces, 5: 1800284.
+
+Xin Ning and Sergio Pellegrino. 2017. "Experiments on Imperfection Insensitive Axially Loaded Cylindrical Shells." International Journal of Solids and Structures, 115-116: 73-86.
+
+Xin Ning, Heling Wang, Xinge Yu, Julio A.N.T. Soares, Zheng Yan, Kewang Nan, Gabriel Velarde, Yeguang Xue, Rujie Sun, Qiyi Dong, Haiwen Luan, Chan Mi Lee, Aditya Chempakasseril, Yiqi Wang, Luming Li, Yonggang Huang, Yihui Zhang, and John A. Rogers. 2017. "3D Tunable, Multiscale, and Multistable Vibrational Micro-Platforms Assembled by Compressive Buckling." Advanced Functional Materials, 27: 1605914.
+
+Xin Ning and Sergio Pellegrino. 2016. "Bloch Wave Buckling Analysis of Axially Loaded Periodic Cylindrical Shells." Computers and Structures, 177: 114-125.
+
+Xin Ning and Sergio Pellegrino. 2015. "Imperfection-Insensitive Axially Loaded Thin Cylindrical Shells,"  International Journal of Solids and Structures, 62: 39-51.
+
+
+Honors
+Young Investigator Award, Office of Naval Research  (2022)
+Haythornthwaite Foundation Research Initiation Award, American Society of Mechanical Engineers (2019)
+Illinois Scholars Undergraduate Research Program Mentor Award, University of Illinois at Urbana-Champaign (2016)
+William F. Ballhaus Prize, California Institute of Technology (2015)
+Dow-Resnick Fellowship, Resnick Sustainability Institute at Caltech (2012)
+Charles D. Babcock Memorial Award, California Institute of Technology (2012)
+Rolf D. Buhler Memorial Award, California Institute of Technology
+ (2010
+)
+
+Recent Courses TaughtAE 323 - Applied Aerospace Structures
+AE 498 SS (AE 498 SSO) - Space Structures
+

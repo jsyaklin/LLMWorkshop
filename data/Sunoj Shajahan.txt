@@ -1,0 +1,97 @@
+
+
+
+Sunoj Shajahan he/him/his
+
+
+
+
+
+Assistant Professor 
+
+
+(217) 300-9958
+sunoj@illinois.edu
+332 C Agricultural Engr Sciences Bld
+
+
+For More Information
+Personal website
+
+Education
+Ph.D., Agricultural and Biosystems Engineering, North Dakota State University, USA, 2019
+M. Tech., Agricultural Processing and Food Process Engineering, Tamil Nadu Agricultural University, India, 2014
+B. Tech., Food Process Engineering, Tamil Nadu Agricultural University, India, 2012
+
+Academic Positions
+Assistant Professor, Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, (2023-present)
+Research Associate, Nutrient Management Spear Program, Cornell University, Ithaca, NY, (2022-2023)
+Postdoctoral Associate, Nutrient Management Spear Program, Cornell University, Ithaca, NY, (2019-2022)
+Graduate Research Assistant, Agricultural and Biosystems Engineering, North Dakota State University, (2015-2019)
+
+Short Courses
+AI Foundry for Agricultural Applications - Summer 2024
+
+Research Interests
+Computer vision: Traditional image analysis and application of deep learning techniques.
+Remote sensing: Algorithm development with optical and microwave satellite imagery and UAV imagery.
+Geospatial computation: Regional-scale analysis to evaluate the trends of agriculture.
+Precision agriculture: Sensor systems for machine performance evaluations.
+
+
+
+Chapters in Books
+Subhashree, S. N.,  Sunoj, S. , Hassanijalilian, O., & Igathinathane, C. (2020). Decoding common machine learning methods: agricultural application case studies using open source software. In Applied Intelligent Decision Making in Machine Learning (pp. 21-52). CRC Press.
+
+Selected Articles in Journals
+Sunoj, S. , Polson, B., Vaish, I., Marcaida III, M., Longchamps, L., van Aardt, J., & Ketterings, Q. M. (2024). Corn grain and silage yield class prediction for zone delineation using high-resolution satellite imagery. Agricultural Systems, 218, 104009.
+ Sunoj, S. , Yeh, B., Marcaida III, M., Longchamps, L., van Aardt, J., and Ketterings, Q.M. 2023. Maize grain and silage yield prediction of commercial fields using high-resolution UAS imagery. Biosystems Engineering, 235: 137-149.
+Burglewski, N.M., Ketterings, Q.M.,  Sunoj, S. , and van Aardt, J. 2023. A comparison of traditional and machine learning corn yield models using hyperspectral UAS and Landsat imagery. Algorithms, Technologies, and Applications for Multispectral and Hyperspectral Imaging XXIX, 12519: 80-88. 
+ Sunoj, S. , Cho, J., Guinness, J., van Aardt, J., Czymmek, K., and Ketterings, Q.M. 2021. Corn grain yield prediction and mapping from unmanned aerial system (UAS) multispectral imagery. Remote Sensing, 13: 3948.
+Berlingeri, J.M., Lawrence, J.R.,  Sunoj, S. , Czymmek, K.J., and Ketterings, Q.M. 2021. Nitrogen and phosphorus balances vary at the whole-farm, field, and within-field scales. Frontiers in Sustainability, section Sustainable Supply Chain Management, 2: 747883.
+Sunoj, S., Hammed, A., Igathinathane, C., Eshkhabilov, S., and Simsek, H. 2021. Identification, quantification, and growth profiling of eight different microalgae species using image analysis. Algal Research., 60: 102487.
+ Sunoj, S. , McRoberts, K.C., Benson, M., and Ketterings, Q.M. 2021. Digital image analysis estimates of biomass, carbon, and nitrogen uptake of winter cereal cover crops. Computers and Electronics in Agriculture, 184: 106093.
+Cho, J., Guinness, J., Kharel, T.P.,  Sunoj, S. , Kharel, D., Oware, E., Aardt, J.V., and Ketterings, Q.M. 2021. Spatial estimation methods for mapping corn yield monitor data. Precision Agriculture, 1-20.
+ Sunoj, S. , Kharel, D., Kharel, T.P.., Cho, J., Czymmek, K., and Ketterings, Q.M. 2021. Impact of headland area on whole field and farm corn silage and grain yield. Agronomy Journal, 113: 147-158.
+Ajayi-Banji, A. A.,  Sunoj, S. , Igathinathane, C., & Rahman, S. (2021). Kinetic studies of alkaline-pretreated corn stover co-digested with upset dairy manure under solid-state. Renewable Energy, 163, 2198-2207.
+Ajayi-Banji, A. A., Rahman, S.,  Sunoj, S. , & Igathinathane, C. (2020). Impact of corn stover particle size and C/N ratio on reactor performance in solid-state anaerobic co-digestion with dairy manure. Journal of the Air & Waste Management Association, 70(4), 436-454.
+ Sunoj, S. , Kharel, D., Kharel, T., Cho, J., Czymmek, K. J., & Ketterings, Q. M. (2021). Impact of headland area on whole field and farm corn silage and grain yield. Agronomy Journal, 113(1), 147-158.
+Pandiselvam, R., Manikantan, M. R., Sunoj, S. , Sreejith, S., & Beegum, S. (2019). Modeling of coconut milk residue incorporated riceâ€corn extrudates properties using multiple linear regression and artificial neural network. Journal of Food Process Engineering, 42(2), e12981.
+Sunoj, S. , Igathinathane, C., Saliendra, N., Hendrickson, J., & Archer, D. (2018). Color calibration of digital images for agriculture and other applications. ISPRS journal of photogrammetry and remote sensing, 146, 221-234.
+Sunoj, S., Subhashree, S. N., Dharani, S., Igathinathane, C., Franco, J. G., Mallinger, R. E., ... & Archer, D. (2018). Sunflower floral dimension measurements using digital image processing. Computers and electronics in agriculture, 151, 403-415.
+ Sunoj, S. , Igathinathane, C., & Jenicka, S. (2018). Cashews whole and splits classification using a novel machine vision approach. Postharvest Biology and Technology, 138, 19-30.
+Subhashree, S. N., Sunoj, S., Xue, J., & Bora, G. C. (2017). Quantification of browning in apples using colour and textural features by image analysis. Food Quality and Safety, 1(3), 221-226.
+Pandiselvam, R., Sunoj, S., Manikantan, M. R., Kothakota, A., & Hebbar, K. B. (2017). Application and kinetics of ozone in food preservation. Ozone: Science & Engineering, 39(2), 115-126.
+Sunoj, S., Igathinathane, C., & Visvanathan, R. (2016). Nondestructive determination of cocoa bean quality using FT-NIR spectroscopy. Computers and Electronics in Agriculture, 124, 234-242.
+
+Articles in Conference Proceedings
+Shajahan, S. , Srinivasagan, S. N., Babu, D. S., Cannayen, I., Franco, J. G., Mallinger, R. E., ... & Archer, D. (2018). Sunflower head, disc, and ray florets dimensions measurement using image processing. In 2018 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers.
+ Shajahan, S., Cannayen, I., & Hendrickson, J. (2017). Phenocam color image calibration using image analysis. In 2017 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers.
+Shajahan, S. , Cannayen, I., & Jenicka, S. (2017). Identification of split and whole cashew nuts based on machine vision. In 2017 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers.
+Shajahan, S., Cannayen, I., & Hendrickson, J. (2016). Monitoring plant phenology using phenocam: A review. In 2016 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers.
+ Shajahan, S. , Cannayen, I., & Rangaraju, V. (2016). Quantification of fermentation levels in cocoa beans using FT-NIR spectroscopy. In 2016 ASABE Annual International Meeting (p. 1). American Society of Agricultural and Biological Engineers.
+
+Magazine Articles
+Single-Strip Spatial Evaluation Approach for Easier, More Meaningful On-Farm Research
+Technology makes on-farm research easier: Single-strip spatial evaluation approach (SSEA)
+Remote sensing to estimate the yield of field crops. The Manager.
+
+Professional Societies
+American Society of Agricultural and Biological Engineering
+American Society of Agronomy, Crop Science Society of America, and Soil Science Society of America
+International Society of Precision Agriculture
+Indian Society of Agricultural Engineers
+
+Honors
+ASABE Graduate Student Research Award (2016)
+Superior Paper Award, ASABE (2017)
+ASABE Graduate Student Research Award (2017)
+
+Improvement Activities
+Research Academy, College of ACES, University of Illinois Urbana-Champaign, 2024
+Collins Scholar, The Grainger College of Eng., University of Illinois Urbana-Champaign, 2023-2024.
+Grainger Engineers Accelerating Research (GEAR) Scholar, The Grainger College of Engineering, Univ. of Illinois Urbana-Champaign, 2023-2024.
+
+Recent Courses TaughtABE 498 RBH - Precision Agriculture Engineer
+ETMA 467 - Precision Agric Technology
+

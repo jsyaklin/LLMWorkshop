@@ -1,0 +1,110 @@
+
+
+
+Mariana E. Kersh she/her/hers
+
+
+
+
+
+Associate Professor
+
+
+(217) 300-0495
+mkersh@illinois.edu
+4043 Beckman Institute
+
+
+For More Information
+Tissue Biomechanics Lab Homepage
+
+Education
+PhD Materials Science, University of Wisconsin - Madison, 2010
+MS Mechanical Engineering, University of Wisconsin - Madison, 2008
+BS Mechanical Engineering, University of Wisconsin - Madison, 2005
+BA English, University of Texas - Austin, 1999
+
+BiographyDr. Mariana Kersh is an Associate Professor in the Department of Mechanical Science and Engineering and Health Innovation Professor in the Carle Illinois College of Medicine at The University of Illinois at Urbana-Champaign.  She is Director of the Tissue Biomechanics Laboratory.  Her research focuses on the use of experimental methods to evaluate macro-level mechanical and structural properties of bone, cartilage, and connective tissues, such as ligaments, in order to include them into finite element simulations of these tissues under physiological loads.  She first received a Bachelor of Arts in English at The University of Texas-Austin, then went on to receive a Bachelors and Masters in Mechanical Engineering, and PhD in Materials Science Engineering at The University of Wisconsin – Madison as a National Science Foundation Pre-Doctoral Fellow. She was a post-doctoral research fellow in the Department of Mechanical Engineering at the University of Melbourne.  
+Academic Positions
+Co-Theme Leader, Integrative Imaging, Beckman Institute of Advanced Science and
+Technology, 2022 - present
+Health Innovation Professor, Carle-Illinois College of Medicine, 2021 - present (33%)
+Associate Professor, University of Illinois, Department of Mechanical Science and Engineering, 2021 - present (67%)
+Full-time Faculty, University of Illinois, Beckman Institute for Advanced Science and Technology, 2023 - present (0%) 
+
+Research Interests
+Primary interest: Mechanical properties of musculoskeletal tissues, joint movement, imaging, structure-function relationships.
+
+Bone and joint diseases such as osteoporosis and osteoarthritis significantly impact the quality of life of those afflicted, and impose a personal and societal financial burden.  Relating the structural and mechanical properties of musculoskeletal tissues to their function can help increase our understanding and therefore the treatment of bone and joint diseases.  We explore the structure and organization of biological materials using clinical-level medical images.  By doing so, we can link architecture to functional outcomes – such as survivability and strength derived from novel experimental techniques.  We also use the  finite-element method to answer those questions that are difficult to do so experimentally.
+
+
+Research Areas
+Computation and Applied Math
+Health and Bio
+Solid Mechanics and Materials
+
+
+Selected Articles in Journals
+Hoojimans MR, Lockard CA, Zhou X, Coolbaugh C, Guzman RP, Kersh ME, Damon BM.  A registration strategy to characterize DTI-observed changes in skeletal muscle architecture due to passive shortening. PlosOne, in press, 2024.
+Pre-print: https://doi.org/10.1101/2024.04.11.589123.
+Sipes GC, Halloran KM, Rice I, Kersh ME. Kinematics-based predictions of external loads during handcycling Sensors, 24(16), 5297, 2024.  Pre-print: https://doi.org/10.31224/3796, 2024.
+Minton DM, Ailiani AR, Focht MDK, Kersh ME, Marolf AJ, Santangelo KS, Salmon AB, Konopka A. The common marmoset as a translational model of age-related osteoarthritis. GeroScience, 1-21, 2024.
+Pineda Guzman RA, Naughton N, Majumdar S, Damon B, Kersh ME. Assessment of Mechanically Induced Changes in Helical Fiber Microstructure Using Diffusion Tensor Imaging. Ann Biomed Eng. 2023 Dec 27. 
+Peters J, Halloran K, Teague AJ, Abou L, Erlenbach E, Kersh ME, Rice I. Perceptions of high
+intensity interval training among people with spinal cord injury: A mixed-methods analysis.
+Adapted Physical Activity Quarterly, 2023.
+Halloran K, Focht MDK, Teague AJ, Peters J, Rice I, Kersh ME. Moving forward: A review of
+continuous kinetics and kinematics during handcycling propulsion. Journal of Biomechanics, 159,
+111779, 2023.
+Halloran K, Peters J, Focht MDK, Rice I, Kersh ME. Propulsion kinetics of recumbent
+handcycling during high and moderate intensity exercise. Journal of Biomechanics, 156, 111672,
+2023.
+Moshage SG, McCoy AM, Kersh ME. Elastic modulus and its relation to apparent mineral density
+in juvenile equine bones of the lower limb. Journal of Biomechanical Engineering, 145(8), 1-13,
+2023.
+Dailey HL, Kersh ME, Collins CJ, Troy KL. Mechanical biomarkers in bone using image-based
+finite element analysis. Current Osteoporosis Reports, 1-12, 2023. Invited.
+Manandhar S, Song H, Moshage S, Craggette J, Polk J, Kersh ME. Spatial Variation in young ovine
+cortical bone properties, Journal of Biomechanical Engineering, 2023 
+Yan C, Bice RJ, Frame JW, Warden S, Kersh ME. Multi-directional basketball activities load
+different regions of the tibia: A subject-specific muscle-driven finite element study. Bone, 116392,
+2022.
+Alzate-Sanchez DM, Cencer MM, Rogalski M, Kersh ME, Sottos N, Moore JS.  Anisotropic foams via frontal polymerization.  Advanced Materials, 2105821, 2022.
+Fuchs RK, Carballido-Gamio J, Keyak JH, Kersh ME, Warden SJ. Physical activity induced adaptation can increase proximal femur strength under loading from a fall onto the greater trochanter.  Bone, 153, 116090, 2021.
+Yan C, Song H, Pfister J, Andersen TL, Warden S, Bhargava R, Kersh ME.  Effect of fatigue loading and rest on impact strength of rat ulna. Journal of Biomechanics, 123, 110449, 2021.
+Pineda Guzman RA, Kersh ME.  Replication of the tensile behavior of knee ligaments using architected acrylic yarn. Journal of the Mechanical Behavior of Biomedical Materials, 118, 104339, 2021. 
+Yan C, Moshage SG, Kersh ME.  Play when young: Bone adaptation to sports during growth. Current Osteoporosis Reports, 18, 684-695, 2020. Invited.
+Kersh ME.  Resolving nanoscale strains in whole joints.  Nature Biomedical Engineering 4, 257-258, 2020. Invited article.
+Moshage SG, McCoy AM, Polk JD, Kersh ME. Temporal and spatial changes in bone accrual, density and strain energy density in growing foals. Journal of the Mechanical Behavior of Biomedical Materials, 103, 103568, 2020.
+
+Articles in Conference Proceedings
+Harris H, Radecka A, Malik R, Pineda Guzman RA, Santoso J, Bradhsaw A, McCain M, Kersh M, Golecki H. Development and characterization of biostable hydrogel robotic actuators for implantable devices: tendon actuated gelatin. Proceedings of the 2022 Design of Medical Devices Conference, 2022.
+Kersh ME, Song H, Polk J. Small changes in structure and mineral density after exercise can have profound effects on mechanical strength. Journal of Bone and Mineral Research, 35, 39-40, 2020.
+ Polk JD, Song H, Kersh ME. Subchondral and Trabecular Bone Respond Differently to Exercise in Juvenile Sheep. The FASEB Journal 34 (S1), 1-1, 2020.
+Song H, Polk JD, Kersh ME. Exercise and postural effects on trabecular and subchondral bone properties in the medial femoral condyle. American Journal of Physical Anthropology, 171, 270-270, 2020.
+Moshage S, McCoy A, Polk JD, Kersh ME.  Structural changes in equine proximal phalanx during growth.  Journal of Equine Veterinary Science, 76: 52-53, 2019.
+Song H, Kersh ME.  Gait and scaling effect on bone growth in rat tibia.  Journal of Bone and Mineral Research, 33, 151-152, 2018.
+
+Presentations
+Halloran K, Peters J, Focht M, Rice I, Kersh ME.  Kinetics of high intensity interval training during handcycling. North American Congress on Biomechanics, 2022.
+Moshage SG, McCoy AM, Kersh ME.  Elastic strength and it’s relation to mineral density in juvenile equine bones of the lower limb. Summer Biomechanics, Bioengineering, and Biotransport Conference, 2022. PhD Competition: 1st place.
+Halloran K, Peters J, Kersh ME. Rice I.  Feasibility and safety of a high intensity interval training based handcycling activity in people with SCI. Paralyzed Veterans of America Healthcare Summit, 2022.  Selected for platform presentation
+Pineda Guzman RA, Naughton N, Sutton B, Kersh ME. Effect of mechanical loading on the microstructure and diffusion imaging properties of ligament-mimicking fibers. Summer Biomechanics, Bioengineering, and Biotransport Conference, 2022.
+Moshage SG, Sipes GC, McCoy AM, Kersh ME.  Development of a density-modulus relationship for juvenile equine bone. Orthopedic Research Society, 2022.
+
+Professional Societies
+2015 - present: American Society of Biomechanics, member
+2014 - present: American Society of Bone and Mineral Research, member
+2014 - present: American Society of Mechanical Engineers, member
+
+Research Honors
+Spotlight New Investigator (2017)
+Alice L. Jee Young Investigator Award (2017)
+Early Career Researcher Award (2013)
+
+Recent Courses TaughtME 481 (BIOE 481) - Whole-Body Musculoskel Biomech
+ME 482 (BIOE 482) - Musculoskel Tissue Mechanics
+TAM 210 - Introduction to Statics
+TAM 211 - Statics
+TAM 598 MK (TAM 598 MKO, ME 598 MK) - Orthopedic Biomechanics
+
