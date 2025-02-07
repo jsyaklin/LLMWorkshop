@@ -1,0 +1,123 @@
+
+
+
+Chrysafis Vogiatzis 
+
+
+
+
+
+Teaching Associate Professor
+
+
+(217) 300-6210
+chrys@illinois.edu
+201A Transportation Building
+
+
+For More Information
+University Design for Learning (UDL) and Accessibility Group
+Webpage
+
+Education
+Ph.D., Industrial and Systems Engineering, University of Florida, 2014
+M.S., Industrial and Systems Engineering, University of Florida, 2012
+Dipl. Eng., Electrical and Computer Engineering, Aristotle University of Thessaloniki, 2009
+ 
+
+Academic Positions
+Teaching Associate Professor, University of Illinois Urbana-Champaign, 2023-present
+Teaching Assistant Professor, University of Illinois Urbana-Champaign, 2019-2023
+Assistant Professor, North Carolina A&T State University, 2018-2019
+Assistant Professor, North Dakota State University, 2015-2018
+
+Course Development
+Analysis of Data (IE 300, flipped classroom materials developed)
+Simulation with Applications (IE 371, new course)
+Analysis of Network Data (IE 532)
+
+Student Organizations
+Faculty advisor for the Institute of Industrial and Systems Engineers (IISE)
+
+Design Teams
+ISE Simulation Team 2024
+
+Research StatementMy current research interests lie in network optimization and combinatorial optimization, along with their vast applications in modern socio-technical and biological systems. One of the main axes of my research is focusing on the study of centrality metrics in biological, social, and infrastructure networks, in order to identify groups and persons of interest. More specifically, my research interests are in operations research (broadly defined) and include:
+
+Network analysis and optimization
+Combinatorial optimization
+Decomposition techniques
+Evacuation and disaster management
+
+Research Interests
+Operations research
+Optimization
+Network analysis and optimization
+
+
+Research Areas
+Operations Research
+
+
+Selected Articles in Journals
+Anzoom, R., Nagi, R., and Vogiatzis, C., Uncovering illicit supply networks and
+their interfaces to licit counterparts. IISE Transactions, 2024.
+Vogiatzis, C. and Kontou, E., Racial bias in automated traffic law enforcement and
+the price of unjustness. INFORMS Transactions on Education, accepted, 2024.
+Camur, M.C., Sharkey, T., and Vogiatzis, C., The stochastic pseudo-star degree
+centrality problem. European Journal of Operational Research, 2023.
+
+Journal Editorships
+Operations Research Forum, editorial board, 2022--
+Operations Research Forum, guest editor for special issue on Dynamics of Disasters
+
+Other Scholarly Activities
+Educational Justice Project: Workshop in Statistical Modeling with R
+Graduate Research Identity Development (GRID) program at North Carolina A&T State University.
+
+Professional Societies
+INFORMS Diversity, Equity, and Inclusion Committee, Vice Chair 2021--2023
+INFORMS Diversity, Equity, and Inclusion Committee, Member 2020--
+INFORMS Junior Faculty Interest Group (JFIG) leadership committee, 2017--2019.
+
+Service on Department Committees
+Undergraduate Programs Committee
+
+
+Service on College Committees
+Diversity, Equity, and Inclusion Committee
+
+Teaching Honors
+2023 INFORMS Case Competition Runner up for "Racial bias in automated traffic law enforcement and the price of unjustness" (with E. Kontou) (10/2023)
+2023 ASEE IL/IN Teacher of the Year (04/2023)
+2019-2020 James Franklin Outstanding Teaching Award in Industrial Engineering (06/2020)
+Teachers Ranked as Outstanding (Fall 2019, Fall 2020, Spring 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023)
+Teachers Ranked as Excellent
+ (Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023
+)
+Undergraduate Teacher of the Year 2019, Department of Industrial and Systems Engineering, North Carolina A&T State University (04/16/2019)
+Graduate Teacher of the Year 2019, Department of Industrial and Systems Engineering, North Carolina A&T State University (04/16/2019)
+
+Research Honors
+First place at INFORMS 2020 OR/MS Tomorrow mini-poster competition for "Evacuation planning for alternative fuel vehicles" (12/2020)
+2 x INFORMS Student Poster Competition Finalist (11/2022)
+European Intelligence and Security Informatics Conference 2018 Best Paper Award (10/25/2018)
+
+Public Service Honors
+IISE Outstanding Faculty Advisor (U.S. North Central Region) (05/2023)
+IISE Outstanding Faculty Advisor (U.S. North Central Region) (06/2020)
+
+Other Honors
+2024 MLK Jr. Champion (2024)
+Trusted CI Open Science Cybersecurity Fellowship 2019--2020 (2019)
+
+Improvement Activities
+INCLU1x: The Inclusive STEM Teaching Project (2023)
+INFORMS 2018 JFIG Next Step Career Panel Sessions
+
+Recent Courses TaughtIE 300 BD1 (IE 300 BD2, IE 300 BD3, IE 300 BD4, IE 300 BL1, IE 300 BO) - Analysis of Data
+IE 371 - Simulation Modeling for IE
+IE 398 CV - Simulation
+IE 523 - Financial Computing
+IE 532 - Analysis of Network Data
+

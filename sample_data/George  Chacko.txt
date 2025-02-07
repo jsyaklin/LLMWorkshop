@@ -1,0 +1,75 @@
+
+
+
+George Chacko 
+
+
+
+
+
+Research Associate Professor
+
+
+
+chackoge@illinois.edu
+2130 Siebel Center for Comp Sci
+
+
+For More Information
+The ERNIE Project
+
+Resident Instruction
+CS 598: Computational Scientometrics
+
+Research StatementMy scientific interests are presently centered around community finding techniques that inform understanding the structure of research communities that form around scientific questions. These interests are linked to novelty in science, knowledge diffusion, and peer review. A related interest is the social interactions that drive scientific recognition and achievement. Over the last four years, I have retreated from a pronounced  scientometric focus to a more nuanced view that involves greater effort on method development. Accordingly, emphasis in my work is placed on discovery and evaluation in the background of the need for improved and more scalable methods. I do not have an interest in commonplace global metrics such as the h-index and its well documented limitations.  My research interests are complemented by my responsibilities in research analytics at the Grainger College of Engineering. Other (more informal) descriptions of my interests and outlook on research can be found here and here. 
+The techniques used in my studies build upon work in prior work in scientometrics, computer science, and the history of science among other disciplines. 
+CS 597 offerings: I am willing to offer CS 597 courses for current PhD or MS students at UIUC who are looking for potential thesis topics. The research I can advise on is presently focused on clustering, community detection. community search with application to the real world problems of science mapping, research evaluation, and scientometrics. A key part of the group experience is developing the ability to critically interpret the literature relevant to our interests. Students are expected to develop their verbal and written communication skills.
+ 
+
+Research Areas
+Data and Information Systems
+
+
+Selected Articles in Journals
+Well-Connectedness and Community Detection (2024) Park, Minhyuk, Tabatabaee, Yasamin, Ramavarapu, Vikram,  Liu, Baqiao, Pailodi, Vidya, Korobskiy, Dmitriy,  Ayres,  Fabio,  Ramachandran,  Rajiv, George, Chacko,  & Warnow, Tandy (2024) PLOS Complex Systems 10.1371/journal.pcsy.0000009
+CM++ - A Meta-method for Well-Connected Community Detection (2024) Vikram Ramavarapu, Fábio Jose Ayres, Minhyuk Park, Vidya Kamath Pailodi, João Alfredo Cardoso Lamy, Tandy Warnow, and George Chacko Journal of Open Source Software
+Well-Connected Communities in Real-World Networks (2023) Minhyuk Park, Yasamin Tabatabaee, Baqiao Liu, Vidya Kamath Pailodi, Vikram Ramavarapu, Rajiv Ramachandran, Dmitriy Korobskiy, Fabio Ayres, George Chacko, Tandy Warnow. Complex Networks & Their Applications XII (2024)
+Jakatdar, A., Liu, B., Warnow, T., and Chacko, G. (2022) AOC; Assembling Overlapping Communities. Quantitative Science Studies 3 (4): 1079–1096
+Wedell, E., Park, M., Korobskiy, D., Warnow, T., and Chacko, G.  Center-Periphery Structure in Research Communities (2022) Quantitative Science Studies 3 (1): 289–314
+
+Chandrasekharan, S., Zaka, M., Gallo, S., Zhao, W., Korobskiy, D., Warnow, T., & Chacko, G. Finding Scientific Communities in Citation Graphs : Articles and Authors. (2021)  Quantitative Science Studies. doi:10.1162/qss_a_00095
+Bradley, J., Devarakonda, S., Davey, A., Korobskiy, D., Liu, S., Lakhdar-Hamina, D., Warnow, T., & Chacko, G. (2020). Co-citations in context: Disciplinary heterogeneity is relevant. Quantitative Science Studies, 1, 1-13. doi:10.1162/qss a 00007
+Bornmann, L., Devarakonda, S., Tekles, A., & Chacko, G. (2020). Disruptive papers published in Scientometrics: meaningful results by using an improved variant of the disruption index originally proposed by Wu, Wang, and Evans (2019). Scientometrics. doi:10.1007/s11192-020-03406-8.
+Bornmann, L., Devarakonda, S., Tekles, A., & Chacko, G. (2020). Are disruption index indicators convergently valid? The comparison of several indicator variants with assessments by peers. Quantitative Science Studies. doi:10.1162/qss a 00068.
+Devarakonda, S., Bradley, J., Korobskiy, D., Warnow, T., & Chacko, G. (2020). Frequently co-cited publications: Features and kinetics. Quantitative Science Studies. doi: 10.1162/qss a 00075.
+Devarakonda, S., Korobskiy, D., Warnow, T., & Chacko, G. (2020). Viewing Computer Science through Citation Analysis Salton and Bergmark Redux. Scientometrics. doi:10.1007/s11192-020-03624-0.
+Zhao, W., Korobskiy, D., Chandrasekharan, S., Merz, K., & Chacko, G. (2020). Converging interests- chemoinformatics, history, and bibliometrics. Journal of Chemical Information  and Modeling. doi:10.1021/acs.jcim.0c01098 
+
+
+
+
+Zhao, W., Korobskiy, D., & Chacko, G. Delayed Recognition; A Co-citation Perspective (2020) Frontiers in Research Metrics and Analytics doi:10.3389/frma.2020.577131
+Keserci, S., Livingston, E., Wan, L., Pico, A.R., and Chacko, G. (2017) Heliyon doi: 10.1016/j.heliyon.2017.e00442
+Boyack, K.W., Chen, M-C, & Chacko, G. (2014) Characterization of the Peer Review Network at the Center for Scientific Review, National Institutes of Health. PLOS One 
+doi: 10.1371/journal.pone.0104244
+
+Articles in Conference Proceedings
+Park et al. (2024) Improved Community Detection Using Stochastic Block Models (XIII Complex Networks and Applications 2024) [in Press]
+Anne et al. (2024) Synthetic Networks That Preserve Edge Connectivity (XIII Complex Networks and Applications 2024) [in Press]
+Park et al. (2024) Identifying Well-Connected Communities in Real-World and Synthetic Networks. In: Cherifi, H., Rocha, L.M., Cherifi, C., Donduran, M. (eds) Complex Networks & Their Applications XII. COMPLEX NETWORKS 2023. Studies in Computational Intelligence, vol 1142. Springer, Cham. https://doi.org/10.1007/978-3-031-53499-7_1
+
+Pending Articles
+Anne et al. (2025) Synthetic Networks That Preserve Edge-Connectivity (Invited: Advances in Complex Systems)
+Park et al. (2025) Improved Community Detection using Stochastic Block Models (Invited: PLOS Complex Systems)
+
+Invited Lectures
+Communities and Detection, CSR, NIH (2024)
+Detecting Research Communities From The Scientific Literature
+
+Other Scholarly Activities
+Program Committee, International Conference on Complex Networks and Applications (2024)
+Program Committee, International Society for Scientometrics and Informetrics (ISSI) 2023
+
+Recent Courses TaughtCS 598 GCK - Methods & Applic in Net Analys
+CS 598 GGC - Computational Scientometrics
+

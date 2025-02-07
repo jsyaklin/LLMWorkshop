@@ -1,0 +1,86 @@
+
+
+
+Fahad Mahmood 
+
+
+
+
+
+Assistant ProfessorCompton Faculty Fellow
+
+
+(217) 300-9217
+fahad@illinois.edu
+202 Seitz Materials Research Lab
+
+
+For More Information
+Fahad Mahmood Research Group
+
+BiographyProfessor Fahad Mahmood is an experimentalist in condensed matter physics. He started his research lab on the femtosecond manipulation of quantum materials at the University of Illinois in August 2019. He received his B.S. from Stanford University in 2010, majoring in Physics and Aero/Astro Engineering. He went on to receive his PhD in Physics from the Massachusetts Institute of Technology in 2016, working in the group of Nuh Gedik. There, he developed ultrafast optical and photoemission techniques to study and control emergent phenomena in a variety of quantum materials. From 2016 to 2019, Professor Mahmood was a postdoctoral research fellow in the group of Peter Armitage at Johns Hopkins University. His research used THz range spectroscopies to probe complex interactions in high-temperature and unconventional superconductors, and frustrated quantum magnets at their natural energy scales.
+Research StatementProfessor Fahad Mahmood's research lab at the University of Illinois will develop and apply non-linear optical and time-resolved photoemission spectroscopies to solve problems at the intersection of strongly correlated quantum materials and non-equilibrium phenomena. One of the principal goals is to use laser light to engineer electronic interactions in materials, probe their spatial and temporal correlations, and realize model Hamiltonians and novel phases of matter.Typical experiments will use a laser pulse to perturb a particular material in different ways, e.g., by coupling to charge or spin degrees of freedom, exciting specific collective modes or modifying the local energy landscape over short (femtosecond) timescales. Custom-built spectroscopic tools such as time-resolved ARPES and time-domain THz spectroscopy will then be used to examine the resulting evolution of electronic states, measure changes in low-energy electrodynamics and disentangle coupled excitations. Projects and materials will be varied but will likely include unconventional superconductors, topological systems and frustrated magnets.
+
+Research Areas
+Condensed Matter Physics (experimental)
+Quantum Information Science
+
+
+Selected Articles in Journals
+Revealing the hidden Dirac gap in a topological antiferromagnet using Floquet-Bloch manipulation. Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L Hughes, Fahad Mahmood. arXiv:2405.16432 (2024)
+
+Measuring the Debye Energy in Superconductors via two Electron Photoemission Spectroscopy. Ka Ho Wong, Jack Zwettler, Henry Amir, Peter Abbamonte, Fahad Mahmood, Dirk K Morr. arXiv:2404.15994 (2024)
+
+Ultrafast THz emission spectroscopy of spin currents in the metamagnet FeRh. Yinchuan Lv, Soho Shim, Jonathan Gibbons, Axel Hoffmann, Nadya Mason, Fahad Mahmood. APL Mater. 12, 041121 (2024)
+
+Characterization of a LaB6 tip as a thermionically enhanced photoemitter. Xuefei Guo, Dipanjan Chaudhuri, Nina Bielinski, Jin Chen, Soyeun Kim, Tai C. Chiang, Fahad Mahmood, Julio A. N. T. Soares, Siddharth Karkare, Peter Abbamonte. Appl. Phys. Lett. 124, 014103 (2024)
+
+Disorder and diffuse scattering in single-chirality (TaSe4)2⁢I crystals. Jacob A. Christensen, Simon Bettler, Kejian Qu, Jeffrey Huang, Soyeun Kim, Yinchuan Lv, Chengxi Zhao, Jin Chen, Matthew J. Krogstad, Toby J. Woods, Fahad Mahmood, Pinshane Y. Huang, Peter Abbamonte, Daniel P. Shoemaker. Physical Review Materials 8, 034202 (2024)
+
+Two-electron photoemission spectroscopy in Topological Superconductors. Ka Wong, A. Patwardhan, P. Abbamonte, Fahad Mahmood, Dirk Morr. Physical Review B 109, 094503 (2024)
+
+Charge Conservation beyond Uniformity: Spatially Inhomogeneous Electromagnetic Response in Periodic Solids. Robert C. McKay, Fahad Mahmood, Barry Bradlyn. Physical Review X 14, 011058 (2024)
+Spin-Resolved Topology and Partial Axion Angles in Three-Dimensional Insulators.
+Kuan-Sen Lin, Giandomenico Palumbo, Zhaopeng Guo, Jeremy Blackburn, Daniel P. Shoemaker,
+Fahad Mahmood, Zhijun Wang, Gregory A. Fiete, Benjamin J. Wieder, Barry Bradlyn.
+Nature Communications 15, 550 (2024)
+An extreme ultraviolet 2e-ARPES setup based on dual time-of-flight analyzers. Jack Zwettler, Henry Amir, Faren H Marashi, Nina Bielinski, Sahaj Patel, Pranav Mahaadev, Yijing Huang, Dipanjan Chaudhuri, Xuefei Guo, Tai Chang Chiang, Dirk K Morr, Peter Abbamonte, Fahad Mahmood. Journal of Electron Spectroscopy and Related Phenomena 270, 147417 (2024)
+
+Energy Relaxation and dynamics in the correlated metal Sr2RuO4 via THz two-dimensional coherent spectroscopy. David Barbalas, Ralph Romero III, Dipanjan Chaudhuri, Fahad Mahmood, Hari P Nair, Nathaniel J Schreiber, Darrel G Schlom, KM Shen, NP Armitage. arXiv:2312.13502 (2023)
+Non-RPA behavior of the valence plasmon in SrTi(1-x)Nb(x)O3. Caitlin S Kengle, Samantha I Rubeck, Melinda Rak, Jin Chen, Faren Hoveyda, Simon Bettler, Ali Husain, Matteo Mitrano, Alexander Edelman, Peter Littlewood, Tai-Chang Chiang, Fahad Mahmood, Peter Abbamonte. Physical Review B 108, 205102 (2023)
+Angle-resolved pair photoemission theory for correlated electrons. Thomas P Devereaux, Martin Claassen, Xu-Xin Huang, Michael Zaletel, Joel E Moore, Dirk Morr, Fahad Mahmood, Peter Abbamonte, Zhi-Xun Shen. Physical Review B 108, 165134 (2023)
+Ultrafast X-Ray Scattering Reveals Composite Amplitude Collective Mode in the Weyl Charge Density Wave Material (TaSe4)2I. Quynh L Nguyen, Ryan A Duncan, Gal Orenstein, Yijing Huang, Viktor Krapivin, Gilberto De La Peña, Chance Ornelas-Skarin, David A Reis, Peter Abbamonte, Simon Bettler, Matthieu Chollet, Matthias C Hoffmann, Matthew Hurley, Soyeun Kim, Patrick S Kirchmann, Yuya Kubota, Fahad Mahmood, Alexander Miller, Taito Osaka, Kejian Qu, Takahiro Sato, Daniel P Shoemaker, Nicholas Sirica, Sanghoon Song, Jade Stanton, Samuel W Teitelbaum, Sean E Tilton, Tadashi Togashi, Diling Zhu, Mariano Trigo. Physical Review Letters 131, 076901 (2023)
+Observation of a massive phason in a charge-density-wave insulator. Soyeun Kim, Yinchuan Lv, Xiao-Qi Sun, Chengxi Zhao, Nina Bielinski, Azel Murzabekova, Kejian Qu, Ryan A Duncan, Quynh LD Nguyen, Mariano Trigo, Daniel P Shoemaker, Barry Bradlyn, Fahad Mahmood. Nature Materials 22, 429–433 (2023)
+
+Understanding the Anomalous Hall effect in Co(1/3)NbS2 from crystal and magnetic structures. K Lu, A Murzabekova, S Shim, J Park, S Kim, L Kish, Y Wu, L DeBeer-Schmitt, AA Aczel, A Schleife, N Mason, F Mahmood, GJ MacDougall. arXiv:2212.14762 (2022)
+
+Comprehensive study of band structure driven thermoelectric response of ZrTe5. Junbo Zhu, Changmin Lee, Fahad Mahmood, Takehito Suzuki, Shiang Fang, Nuh Gedik, Joseph G Checkelsky. Physical Review B 106, 115105 (2022)
+Anomalous high-temperature THz nonlinearity in superconductors near the metal insulator
+transition. Dipanjan Chaudhuri, David Barbalas, Ralph Romero III, Fahad Mahmood,
+Jiahao Liang, John Jesudasan, Pratap Raychaudhuri, N. P. Armitage. arXiv:2204.04203 (2022)
+Transport and optical properties of the chiral semiconductor Ag3AuSe2. Juyeon Won, Soyeun Kim, Martin Gutierrez-Amigo, Simon Bettler, Bumjoo Lee, Jaeseok Son, Tae Won Noh, Ion Errea, Maia G. Vergniory, Peter Abbamonte, Fahad Mahmood, Daniel P. Shoemaker. Z. Anorg. Allg. Chem. (2022) 
+Effect of radiation-induced defects on the superfluid density and optical conductivity of overdoped La2−xSrxCuO. Fahad Mahmood, David Ingram, Xi He, J. A. Clayhold, Ivan Bozovic, N.P. Armitage. Physics Review B 105, 174501 (2022)
+Distinguishing finite momentum superconducting pairing states with two-electron photoemission spectroscopy. Fahad Mahmood, Thomas Devereaux, Peter Abbamonte, and Dirk K. Morr. Physics Review B 105, 064515 (2022) 
+BCS d-wave behavior in the terahertz electrodynamic response of electron-doped cuprate superconductors. Zhenisbek Tagay, Fahad Mahmood, Anaelle Legros, Tarapada Sarkar, Richard L. Greene, and N. P. Armitage. Physics Review B 104, 064501 (2021)
+Kramers-Weyl fermions in the chiral charge density wave material (TaSe4)2I. Soyeun Kim, Robert C. McKay, Nina Bielinski, Chengxi Zhao, Meng-Kai Lin, Joseph A. Hlevyack, Xuefei Guo, Sung-Kwan Mo, Peter Abbamonte, T.-C. Chiang, Andrè Schleife, Daniel P. Shoemaker, Barry Bradlyn, and Fahad Mahmood. arXiv:2108.10874 (2021)
+
+Observation of a marginal Fermi glass. Fahad Mahmood, Dipanjan Chaudhuri, Sarang Gopalakrishnan, Rahul Nandkishore, N. P. Armitage. Nature Physics 17, 627-631 (2021) 
+Tunable Magnon Interactions in a Ferromagnetic Spin-1 Chain. Prashant Chauhan, Fahad Mahmood, Hitesh J. Changlani, Seyed M. Koohpayeh, N. P. Armitage. Physical review letters 124 (3), 037203 (2020)
+Nodeless bulk superconductivity in the time-reversal symmetry breaking Bi/Ni bilayer system. Prashant Chauhan, Fahad Mahmood, Di Yue, Peng-Chao Xu, Xiaofeng Jin, and N. P. Armitage. Physical Review Letters 122, 017002 (2019)
+Locating the missing superconducting electrons in the overdoped cuprates La2-xSrxCuO4. Fahad Mahmood, Xi He, Ivan Bozovic and N.P. Armitage. Physical Review Letters 122, 027003 (2019)
+Hierarchy of exchange interactions in the triangular-lattice spin-liquid YbMgGaO4. Xinshu Zhang, Fahad Mahmood, Marcus Daum, Zhiling Dun, J. A. M. Paddison, N. J. Laurita, Tao Hong, Haidong Zhou, N. P. Armitage and Martin Mourigal. Physical Review X 8, 031001 (2018)
+Observation of exciton-exciton interaction mediated valley depolarization in monolayer MoSe2. Fahad Mahmood, Zhanybek Alpichshev, Yi-Hsien Lee, Jing Kong and Nuh Gedik. Nano Letters 18, 223 (2018)
+The origin of exciton mass in a frustrated Mott insulator Na2IrO3. Zhanybek Alpichshev, Edbert J. Sie, Fahad Mahmood, Gang Cao and Nuh Gedik. Physical Review B 96, 235141 (2017) 
+Ultrafast dynamics in the presence of antiferromagnetic correlations in electrondoped cuprate La2âˆ’xCexCuO4Â±Î´. Inna M. Vishik, Fahad Mahmood, Zhanybek Alpichshev, Nuh Gedik, J. Higgins and R. L. Greene. Physical Review B 95, 115125 (2017)
+The rate of quasiparticle recombination probes the onset of coherence in cuprate superconductors. J. P. Hinton, E. Thewalt, Z. Alpichshev, Fahad Mahmood, J. D. Koralek, M. K. Chan, M. J. Veit, C. J. Dorow, N. Barisic, A. F. Kemper, D. A. Bonn, W. N. Hardy, R. Liang, N. Gedik, M. Greven, A. Lanzara, J. Orenstein. Scientific Reports 6, 23610 (2016)
+Selective scattering between Floquet-Bloch and Volkov states in a topological insulator. Fahad Mahmood, Ching-Kit Chan, Dillon R. Gardner, Young S. Lee, Patrick Lee and Nuh Gedik. Nature Physics 12, 306310 (2016)
+Confinement-deconfinement transition as an indication of spin-liquid-type behavior in Na2IrO3. Zhanybek Alpichshev, Fahad Mahmood, Gang Cao and Nuh Gedik. Physical Review Letters 114, 017203 (2014)
+Â Electrostatic Coupling between Two Surfaces of a Topological Insulator Nanodevice.Â Valla Fatemi, Benjamin Hunt, Hadar Steinberg, Stephen L Eltinge, Fahad Mahmood, Nicholas P Butch, Kenji Watanabe, Takashi Taniguchi, Nuh Gedik, Raymond C Ashoori and Pablo Jarillo-Herrero.Â Physical Review Letters 113, 206801 (2014)
+Fluctuating charge density waves in a cuprate superconductor. Darius Torchinsky*, Fahad Mahmood*, Anthony T. Bollinger, Ivan Boovic, and Nuh Gedik. Nature Materials 12, 387-391 (2013)
+Observation of a metal-to-insulator transition with both Mott-Hubbard and Slater characteristics in Sr2IrO4 from time-resolved photocarrier dynamics. David Hsieh, Fahad Mahmood, Darius Torchinsky, Gang Cao and Nuh Gedik. Physical Review B 86, 035128 (2012)
+Selective probing of photoinduced charge and spin dynamics in the bulk and surface of a topological insulator. David Hsieh, Fahad Mahmood, James W. McIver, D. R. Gardner, Y. S. Lee, and Nuh Gedik. Physical Review Letters 107, 077401 (2011)
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 212 - University Physics: Elec & Mag
+PHYS 460 - Condensed Matter Physics
+

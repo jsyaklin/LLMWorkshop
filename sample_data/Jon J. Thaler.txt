@@ -1,0 +1,48 @@
+
+
+
+Jon J Thaler 
+
+
+
+
+
+Professor Emeritus
+
+
+(217) 333-8174
+jjt@illinois.edu
+427 Loomis Laboratory
+
+
+Education
+Ph.D., Physics, Columbia University, 1972
+
+BiographyProfessor Jon Thaler received his Ph.D. in physics from Columbia University in 1972. After serving as an instructor and assistant professor at Princeton University (1972-1977), he joined the physics faculty at Illinois in 1977. For many years, professor Thaler's research activities were focused on experimental high energy physics and particle physics, determining the properties of quarks, both in their role as constituents of nuclear matter and as isolated elementary particles. He is an expert on the construction of fast trigger systems—the electronics that determines when data should be recorded—for high energy physics detectors. His contributions to the development of hardware and software systems for large collider detectors were recognized by his elevation to Fellow of the American Physical Society.
+In 2003, Professor Thaler changed his research focus to astrophysics, motivated by the increasingly close connection between paricle physics ("inner space) and cosmology ("outer space). He no longer works at particle accelerators; instead, he measures particle properties using astronomical methods. He is a member of both the Dark Energy Survey (DES) and Large Synoptic Survey Telescope (LSST) collaborations.  Both plan to use gigapixel-scale digital cameras on 4- and 8-meter telescopes, respectively, to survey the evolution of the universe over the last 12 billion years.  This study will increase our knowledge of the dark matter and dark energy, which together make up 96% of the content of the universe.
+Professor Thaler is also a concerned and gifted teacher. He created a new course, Physics 100, which is designed to address the dual problems of inadequate secondary-school preparation for some freshman students and the recruitment and retention of underrepresented groups in science, engineering, and mathematics curricula. Professor Thaler's primary objective in developing Physics 100 was to provide underprepared and underrepresented students with the skills and self-confidence needed for success in the physical sciences and engineering by integrating state-of-the-art educational technologies with innovative pedagogy and by providing core knowledge in traditional physics topics. Corollary objectives were to provide student opportunities for leadership in collaborative projects, to create a culture of intellectual enquiry by providing a range of experiences that promote critical and analytical thinking, and to disseminate our curriculum to physics teachers in secondary schools, community colleges, and peer universities.
+More recently, professor Thaler chaired a committee that reorganized the undergraduate Physics major's curriculum.  The two goals were:  1) to expose Physics majors to interesting and challenging material (e.g., special relativity) early in their career, both to increase their motivation and to ease the transition to the advanced coursework; and 2) to make room for fluids and continuous media in the intermediate mechanics course.  Continuous media (e.g., fluids) are not only important in their own right, but also provide a conceptual framework in which to think about field theory in general, from classical electrodynamics to quantum mechanics.
+Major Consulting Activities
+Rustaveli Foundation (Georgia, FSU) reviewer, 2011 (no travel)
+
+Research StatementDark Energy Survey (DES)
+This project built a new 500-megapixel CCD camera for the 4-m Blanco telesctop at CTIO in Chile. We will use it to study supernovas and the time development of large scale structure (the distribution of galaxies and clusters of galaxies). These measurements will begin to constrain the properties of the dark energy, possibly testing whether or not it is Einstein's cosmological constant. We wil begin collecting data in 2013. 
+
+Large Synoptic Survey Telescope (LSST)
+We will build a new 8.4-m telescope optimized for cosmological studies. Beginning in about 2019, we will survey half of the sky, mapping the time development of structure formation during the past 12 billion years. We will also observe more than a million supernovas. This enormous data set will yield precise measurements of the properties of dark matter and dark energy and may also allow us to make the first measurement of the mass of the neutrino.
+
+Research Areas
+Astrophysics / Relativity / Cosmology
+High Energy Physics (experimental)
+
+
+Selected Articles in Journals
+Z. Ivezic, et al. Large Synoptic Survey Telescope: from Science Drivers to Reference Design. Serb. Astron. J. 166, 1-4 (2008).
+M. Artuso, et al. Photon transitions in Υ2S and Υ3S decays. Phys. Rev. Lett. 94, 032001-1-5 (2005).
+N. E. Adams, et al. Observation of 1–0– final states from ψ(2S) decays and e+e– annihilation. Phys. Rev. Lett. 94, 012005-1-5 (2005).
+G. S. Adams, et al. Measurement of the muonic branching fractions of the narrow Upsilon resonances. Phys. Rev. Lett. 94, 012001-1-5 (2005).
+T. E. Coan, et al. Weiss-Zumino current and the structure of the decay    τ- →Κ-πΚ+vt. Phys. Rev. Lett. 92, 232001-1-5 (2005).
+
+Honors
+Fellow of the American Physical Society, 1998 (1998)
+

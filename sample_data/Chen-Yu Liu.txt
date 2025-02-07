@@ -1,0 +1,89 @@
+
+
+
+Chen-Yu Liu 
+
+
+
+
+
+Professor
+
+
+
+chenyliu@illinois.edu
+ 
+
+
+For More Information
+Prof. Liu's Research Website
+Prof. Liu's CV
+
+Education
+2002 Ph.D., Physics, Princeton University, Princeton, NJ
+
+1997 B.S., Physics, National Taiwan University, Taipei, Taiwan
+
+
+BiographyChen-Yu Liu, PhD {she/her/hers}, is a Full Professor in the Physics Department and the Nuclear Physics Laboratory at University of Illinois at Urbana-Champaign (UIUC). Dr. Liu completed her doctoral research in Experimental Nuclear Physics at Princeton University, followed by a postdoctoral fellowship at the Los Alamos Neutron Science Center as a Director’s Funded Post-Doctoral Fellow. She is an alumna of National Taiwan University. She was a Sloan Research Fellow (2007-2008), a Rosen Scholar (2016-2017), and an APS fellow since 2018. She taught at Indiana University from 2005-2022 and was named the James H. Rudy Professor of Physics. In 2022, she was recruited to join UIUC through the U of I Distinguished Faculty Recruitment Program.
+Prof. Liu's research focuses on symmetry tests and fundamental neutron physic to understand matter creation and nucleosynthesis in the early Universe. She specializes in experimental tools using Ultra-Cold Neutrons (UCN). In her dissertation work, she solved the critical issue of excessive loss of UCN due to upscattering by para-D2 molecules in solid D2 and made the world's first working solid deuterium source for UCN production. This breakthrough prompted the investments of several multi-million dollar UCN facilities around the world, including the Los Alamos National Laboratory, the PULSTAR reactor at the North Carolina State University, the TRIGA reactor at Mainz University in Germany, and the Paul Scherrer Institut in Switzerland. She studied the magnetic excitations in cryogenic oxygen solids for UCN production in the Lujan Center of Neutron Scattering. In 2011--2016, she led the UCNtau experiment, as a co-spokesperson; the experiment now holds the record of the most precise measurement of the neutron lifetime. In 2018, Liu won an NSF Major Research Instrumentation grant to construct a room-temperature apparatus for improving the measurement of the neutron electric dipole moment.
+Academic Positions
+ Professor of Physics, University of Illinois, 2022-present.    
+James H. Rudy Professor of Physics, Indiana University, 2019–present.    
+Professor, Indiana University, 2017–2019.         
+Associate Professor, Indiana University, 2012–2017.       
+Assistant Professor, Indiana University, 2005–2012.        
+Director’s Funded Post-Doctoral Fellow, Los Alamos National Laboratory, 2002–2005.         
+
+
+Research Areas
+Nuclear Physics (experimental)
+
+
+Selected Articles in Journals
+“Improved Neutron Lifetime Measurement with UCNtau,” F. M. Gonzalez et al. (UCNtau Collaboration). Phys. Rev. Lett. 127, 162501 (2021).
+“Incoherent approximation for neutron up-scattering cross sections and its corrections for slow neutrons and low crystal temperatures,” S. Döge, C.-Y. Liu, A. Young, and C. Morkel. Phys. Rev. C 103, 054606 (2021).
+
+“Projection imaging with ultracold neutrons,” Zhehui (Jeph) Wang et al., Nucl. Instrum. Meth. A 1003, 165306 (2021).
+
+“Ultracold neutron properties of the Eljen-299-02D deuterated scintillator,” Z. Tang et al., Rev. Sci. Instrum. 92, 023305 (2021).
+
+“Improved limits on Fierz interference using asymmetry measurements from the Ultracold Neutron Asymmetry (UCNA) experiment,” X. Sun, et al. (UCNA Collaboration) Phys. Rev. C 101, 035503 (2020).
+“A new cryogenic apparatus to search for the neutron electric dipole moment,” M.W. Ahmed, et al. JINST, 14, No. 11, 11017 (2019) 
+“Monte Carlo simulations of trapped ultracold neutrons in the UCNτ experiment,” N. Callahan, C.-Y. Liu, et al. Phys. Rev. C 100, 015501 (2019).
+“Search for the neutron decay n →χ+ γ where χ is a dark matter particle,” Z. Tang et al., Phys. Rev. Lett. 121, 022505 (2018).
+“Search for dark matter decay of the free neutron from the UCNA experiment: n →χ + e+e−,” X. Sun, et al. Phys. Rev. C 97, 052501(R) (2018).
+
+“A modern measurement of the neutron lifetime using an asymmetric magneto gravitational trap and in-situ detection,” R. W. Pattie Jr.,  et al. Science 360(6389):627-632 (2018).
+
+“Performance of the upgraded ultracold neutron source at Los Alamos National Laboratory and its implication for a possible neutron electric dipole moment experiment,” T. M. Ito et al., Phys. Rev. C 97, 012501(R)(2018).
+"New result for the neutron β-asymmetry parameter A0 from UCNA,” M. A.-P. Brown et al., Phys. Rev. C 97, 035505 (2018).
+“First direct constraints on Fierz interference in free neutron β decay,” K. P. Hickerson et al., Phys. Rev. C 96, 042501(R) (2017).
+“A new method for measuring the neutron lifetime using an in situ neutron detector,” Christopher Morris et al., Rev. Sci. Instrum. 88, 053508 (2017)
+“Evaluation of commercial nickel-phosphorus coating for ultracold neutron guides using a pinhole bottling method,” R.W. Pattie Jr et al., Nucl. Instrum. Meth. A 872, 64-73 (2017).
+“Detection system for neutron β decay correlations in the UCNB and Nab experiments,” L.J. Broussard et al. (UCNA Collaboration), Nucl. Instrum. Meth. A 849, 83 (2017).
+“Total cross sections for ultracold neutrons scattered from gases,” S. J. Seestrom et al. (UCNτ Collaboration), Phys. Rev. C 95, 015501 (2017).
+“Neutron-Antineutron Oscillations: Theoretical Status and Experimental Prospects,” D. G. Phillips II et al. Phys. Rept. 612, 1-45 (2016).
+“Upscattering of Ultracold Neutrons from Gases,” S. J. Seestrom, et al. (UCNτ Collaboration). Phys. Rev. C 92, 065501 (2015).
+
+Articles in Conference Proceedings
+"The neutron electric dipole moment experiment at the Spallation Neutron Source,” K.K.H. Leung, et al., International Workshop on Particle Physics at Neutron Sources (PPNS 2018), EPJ Web of Conferences 219, 02005 (2019).
+
+Teaching Honors
+Outstanding Contributions to Teaching, Indiana University (2009)
+Trustees Teaching Excellence Recognition Award, Indiana University (2008)
+Joseph and Sophia Konopinski Prize, Indiana University (2008)
+
+Research Honors
+James H. Rudy Professor of Physics, Indiana University (2019)
+Fellow, American Physics Society (2018)
+Rosen Scholar, Los Alamos Neutron Science Center (2016)
+Awardee, NIST Precision Measurement Grant (2015)
+Sloan Research Fellow, Alfred P. Sloan Foundation (2007)
+Ralph E. Powe Junior Faculty Enhancement Award, Oak Ridge Associated Universities (2006)
+19th Louis Rosen Prize, outstanding thesis completed at LANSCE, Los Alamos Neutron Science Center (LANSCE) User Group (2003)
+
+Recent Courses TaughtPHYS 101 - College Physics: Mech & Heat
+PHYS 404 - Electronic Circuits
+PHYS 524 - Survey Instr Lab Techniques
+

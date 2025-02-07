@@ -1,0 +1,61 @@
+
+
+
+Diwakar Shukla 
+
+
+
+
+
+Associate Professor
+
+
+(217) 300-0021
+diwakar@illinois.edu
+203 Roger Adams Laboratory
+
+
+For More Information
+Research Synopsis
+
+Research Group Website
+
+Education
+Postdoctoral Fellow, Chemistry, Stanford University, 2011-2014 
+Ph.D., Chemical Engineering, Massachusetts Institute of Technology, 2006-2011 
+M.S., Chemical Engineering Practice, Massachusetts Institute of Technology, 2009
+M.Tech., Chemical Engineering, Indian Institute of Technology Bombay, 2006
+B.Tech., Chemical Engineering, Indian Institute of Technology, Bombay, 2006
+
+BiographyDiwakar Shukla is an associate professor in the Department of Chemical and Biomolecular Engineering at University of Illinois at Urbana-Champaign. He is also an affiliate faculty in the Center for Biophysics and Quantitative biology, National Center for Supercomputing Applications, Department of Plant Biology and Department of Bioengineering. His research work is focused on understanding the complex biological processes using novel physics-based models and techniques. He started his research career at the Indian Institute of Technology (IIT) Bombay, India, where he received B. Tech and M. Tech. degrees in chemical engineering. He then joined Massachusetts Institute of Technology where he received M.S. and Ph.D. degrees in chemical engineering for his work on solution biochemistry with Prof. Bernhardt Trout. Before joining Illinois, he worked with Prof. Vijay Pande at Stanford University on developing distributed computing approaches for understanding protein dynamics. Shukla has received numerous early-career faculty awards from the American Chemical Society, American Institute of Chemical Engineers, Foundation for Food & Agriculture Research, Alfred P. Sloan Foundation, National Institutes of Health and the National Science Foundation. At Illinois, Shukla has been recognized for his research and teaching: he has been awarded the Dean’s Award for excellence in research (2020, 2024); named a Lincoln Excellence for Assistant Professors (LEAP) scholar; and earned the School of Chemical Sciences’ Teaching Excellence Award.
+Research Interests
+Molecular Engineering; Molecular Modeling and Simulations; Biophysics
+
+
+Research Areas
+Biomolecular modeling
+
+
+Selected Articles in Journals
+B. Selvam, Z. Shamsi and D. Shukla. Universality of Sodium Ion Binding Mechanism in G-Protein-Coupled Receptors. Angew. Chem. Int. Ed., 57, 12, 3048-3053, 2018.
+Balaji Selvam, Shriyaa Mittal and Diwakar Shukla. Free energy landscape of the complete transport cycle in a key bacterial transporter.  ACS Central Science, Vol. 4, 9,  1146–1154, 2018.
+
+Honors
+Engineering Council Outstanding Advising Award, University of Illinois at Urbana-Champaign (2015)
+List of Excellent Teachers, University of Illinois at Urbana-Champaign (2016-2020)
+New Innovator Award in Food & Agriculture Research, Foundation for Food & Agriculture Research (2017)
+NSF Early Career Award, National Science Foundation (2018)
+OpenEye Outstanding Junior Faculty in Computational Chemistry, American Chemical Society (2018)
+CoMSEF Young Investigator Award, American Institute of Chemical Engineers (2018)
+Sloan Research Fellowship, Alfred P. Sloan Foundation (2019)
+Pivot Fellowship, Simons Foundation (2022)
+
+Teaching Honors
+Outstanding Graduate Teaching Assistant Award (2010)
+
+Recent Courses TaughtCHBE 413 (CHEM 590, CHBE 594, CHEM 452) - Data Science for Chem & Eng
+CHBE 440 - Process Control and Dynamics
+CHBE 494 (CHBE 594) - Chemical Data Science & Engrg
+CHBE 523 - Heat and Mass Transfer
+CHEM 492 - Chemical Data Science & Eng.
+

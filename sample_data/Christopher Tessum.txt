@@ -1,0 +1,66 @@
+
+
+
+ Christopher Tessum 
+
+
+
+
+
+Assistant Professor
+
+
+
+ctessum@illinois.edu
+3213 Newmark Civil Engineering Bldg
+
+
+For More Information
+Research group website
+
+Education
+B.M.E., Mechanical Engineering, University of Minnesota, 2006
+M.S., Civil, Environmental, and Geo- Engineering (Public Health Minor), University of Minnesota, 2012
+Ph.D., Civil, Environmental, and Geo- Engineering (Public Health Minor), University of Minnesota, 2014
+
+BiographyDr. Christopher Tessum joined the CEE department as an Assistant Professor in January 2020. His research focuses on modeling air pollution and its health impacts, quantifying inequities in the distribution of those impacts, and proposing and testing solutions. He studies the relationships between emissions, the human activities that cause them, and the resulting health impacts, and he develops modeling capabilities to enable these types of analyses. Before joining UIUC, Dr. Tessum was a research scientist in the Department of Civil and Environmental Engineering at the University of Washington in Seattle and a postdoctoral researcher in the Department of Bioproducts and Biosystems Engineering at the University of Minnesota. He received a Ph.D. (2014) in Civil, Environmental and Geo- Engineering, and a B.M.E. in Mechanical Engineering (2006), from the University of Minnesota.
+Academic Positions
+Assistant Professor, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering (January 2020 - present)
+Research Scientist, University of Washington, Department of Civil and Environmental Engineering (March 2016 - May 2019)
+Postdoctoral Researcher, University of Minnesota, Department of Bioproducts and Biosystems Engineering (January 2015 - March 2016)
+
+Research StatementAmbient air pollution causes ~4% of total deaths in the United States, more than three times the number caused by motor vehicle crashes. Tessum's research assesses air pollution-related effects of human activity, focusing on mechanistic modeling of outdoor air pollution and its health impacts, quantifying inequities in the distribution of those impacts, and proposing and testing solutions. He studies the relationships between emissions, human activities that cause them, and the resulting health impacts, and he develops modeling capabilities to enable these types of analyses.
+Research Interests
+Sources and causes of air pollution health impacts and environmental inequity
+
+Policy-relevant strategies to reduce air pollution health burdens and health disparities
+
+Development of mechanistic and machine learning models of air pollution and its health effects
+
+
+
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+
+
+Selected Articles in Journals
+Tessum, C.W., D.A. Paolella, S.E. Chambliss, J.S. Apte, J.D. Hill, and J.D. Marshall (2021) PM2.5 polluters disproportionately and systemically affect people of color in the United States. Science Adv. 7:18 eabf4491. doi: 10.1126/sciadv.abf4491. (Contribution: First and Corresponding author.)
+
+Kelp, M.M., D.J. Jacob, J.N. Kutz, J.D. Marshall, and C.W. Tessum (2020) Toward stable, general machine-learned models of the atmospheric chemical system. J. Geophys. Res. Atmos. 125 e2020JD032759. dio:10.1029/2020JD032759. (Contribution: Corresponding author, informal supervisor of first author.)
+
+Goodkind, A.L., C.W. Tessum, J.S. Coggins, J.D. Hill, and J.D. Marshall (2019) Fine-scale damage estimates of particulate matter air pollution reveal opportunities for location-specific mitigation of emissions. Proc. Natl. Acad. Sci. U.S.A. 116:18 8775-8780. doi: 10.1073/pnas.1816102116. (Contribution: Generated dataset enabling the analysis and performed some of the analysis.)
+
+Tessum, C.W., J.S. Apte, A.L. Goodkind, N.Z. Muller, K.A. Mullins, D.A. Paolella, S. Polasky, N.P. Springer, S.K. Thakrar, J.D. Marshall, and J.D. Hill (2019) Inequity in consumption of goods and services adds to racial-ethnic disparities in air pollution exposure. Proc. Natl. Acad. Sci. U.S.A. 116:13 6001–6006 (featured article). doi: 10.1073/pnas.181885911. (Contribution: Developed model, performed analysis, framed research question and wrote text.)
+
+Tessum, C.W., J.D. Hill, and J.D. Marshall (2017) InMAP: A model for air pollution interventions. PLoS ONE. 12:4 e0176131. doi: 10.1371/journal.pone.0176131
+Tessum, C.W., J.D. Hill, and J.D. Marshall (2014) Life cycle air quality impacts of conventional and alternative light-duty transportation in the United States. Proc. Natl. Acad. Sci. U.S.A. 111:52 18490–18495. doi:10.1073/pnas.1406853111
+Tessum, C.W., J.D. Marshall, and J.D. Hill (2012) A spatially and temporally explicit life cycle inventory of air pollutants from gasoline and ethanol in the United States. Environ. Sci. Technol. 46:20 11408–11417. doi:10.1021/es3010514
+
+Other Scholarly Activities
+Journal article adapted as a lesson plan for middle- and high-schoolers: https://www.sciencejournalforkids.org/articles/how-does-air-pollution-affect-people-differently/
+
+Recent Courses TaughtCEE 202 - Engineering Risk & Uncertainty
+CEE 492 (CEE 498 DO3, CEE 498 DO4, CEE 498 DS3, CEE 498 DS4) - Data Science for CEE
+CEE 595 AG - Adv Environmental Engr Seminar
+

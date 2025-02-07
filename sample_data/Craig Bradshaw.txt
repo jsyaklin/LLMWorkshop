@@ -1,0 +1,82 @@
+
+
+
+Craig Bradshaw 
+
+
+
+
+
+Associate Professor; Executive Director, ACRC
+
+
+(217) 300-0909
+crbrad@illinois.edu
+2117 Mechanical Engineering Lab
+
+
+For More Information
+Air Conditioning and Refrigeration Center
+
+Education
+PhD, Mechanical Engineering, Purdue University, 2012
+BS, Mechanical Engineering, Purdue University, 2007
+
+Academic Positions
+Executive Director, Air Conditioning and Refrigeration Center, University of Illinois Urbana-Champaign, August 2024-present
+Associate Professor, University of Illinois Urbana-Champaign, August 2024-present
+Associate Professor, Oklahoma State University, July 2022- August 2024
+Founding Director, Center for Integrated Building Systems, Oklahoma State University, October 2020- August 2024
+Assistant Professor, Oklahoma State University, August 2016-August 2022
+Postdoctoral Researcher, Purdue University,  May - August, 2012
+
+Other Professional Employment
+Manager of Research and Development, Torad Engineering, August 2012- August 2016
+
+Research Interests
+Compressors
+Heat pumps and air-conditioners
+Model development 
+Thermophysical properties of fluids
+Decarbonization and energy utilization
+Waste-heat recovery
+
+
+Research Areas
+Energy
+Environment
+Manufacturing
+Thermo and Heat Transfer
+Transportation
+
+
+Selected Articles in Journals
+Khan, A., Bradshaw, C.R., 2024. A Novel Characterization Methodology for Vapor-Injection Compressors: A Comparative Analysis with Existing Black Box Models. International Journal of Refrigeration. 169, pp.254-266.
+
+Yousaf, S., Bradshaw, C.R. Kamalapurkar, R., San, O., 2024. A Gray-Box Model for Unitary Air Conditioners Developed with Symbolic Regression. International Journal of Refrigeration. 168, pp.696-707.
+
+Lee, A., Bach, C.K., Bradshaw, C.R., 2024. An Experimental Data-Driven Charge Model for Round-Tube-Plate-Fine Heat Exchanges using Low-GWP Refrigerants. International Journal of Refrigeration. 158, pp.405-421.
+
+Tanveer, M., Bradshaw, C.R., Orosz, J., Kemp, G., 2024. Pseudo-Optimum Geometries for 1-100 Ton Spool Compressors with Low-GWP Refrigerants. International Journal of Refrigeration. 157, pp.12-22.
+
+Yousaf, S., Bradshaw, C.R., Kamalapurkar, R., San, O., 2023. Investigating Critical Features for Development of a Semi-Empirical Reduced Order Model for Unitary Air Conditioning Equipment. Energy and Buildings. 284, 112823.
+
+Islam, M., Nicholas, J., Bradshaw, C.R., 2023. Development and Experimental Validation of a Mechanistic Chamber Model of a Novel Peristaltic Compressor. International Journal of Refrigeration. 146,Â pp.430-441. (Nicholas was an undergraduate assistant)
+
+Gabel, K., Bradshaw, C.R., 2023. Evaluation and Quantification of Semi-Empirical Compressor Model Predictive Capabilities under Modulation and Extrapolation Scenarios. International Journal of Refrigeration. 149, pp.1-10.
+
+Yarborough, S., Bradshaw, C.R., Orosz, J., Kemp, G. 2021. "Empirical Indicated Loss Analysis of a Semi-hermetic Light-Commercial Spool Compressor." International Journal of Refrigeration. 131, pp.1029-1037.
+
+Tanveer, M., Bradshaw, C.R. 2021. "Performance Evaluation of Low-GWP Refrigerants in 1-100 ton scroll compressors." International Journal of Refrigeration. 129, pp.317-331.
+
+Sarfraz, O., Bach, C.K., Bradshaw, C.R. 2019. Reduced order modeling for multi-circuit fin-and-tube heat exchangers with multiple identical circuit types. International Journal of Refrigeration. 106, pp. 236-247.
+
+
+Honors
+Distinguished Service Award, ASHRAE (June 2024)
+Excellent Faculty Award, College of Engineering, Architecture and Technology, Oklahoma State University (April 2022)
+Carl M. Leonard Faculty Fellowship (January 2022)
+Golden Torch Award for Best Faculty, Mortar Board Chapter at Oklahoma State University (December 2018)
+
+Recent Courses TaughtME 200 AL2 - Thermodynamics
+

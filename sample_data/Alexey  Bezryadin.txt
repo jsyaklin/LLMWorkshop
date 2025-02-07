@@ -1,0 +1,79 @@
+
+
+
+Alexey Bezryadin 
+
+
+
+
+
+Professor
+
+
+(217) 333-9580
+bezryadi@illinois.edu
+1016 Superconductivity Center
+
+
+For More Information
+Bezryadin Research Group Web Site
+
+Education
+Ph.D. Physics, Joseph Fourier University and The CNRS Low-Temperature Research Center, Grenoble, France, 1995
+
+BiographyProfessor Bezryadin received his Ph.D. in physics from Joseph Fourier University (France) in 1995. His thesis research was on nanotechnology and superconductivity. Prior to joining the faculty of the Department of Physics at Illinois in the year 2000, Professor Bezryadin held postdoctoral research appointments at the Delft University of Technology (Netherlands) and at Harvard University (1997-2000).
+Professor Bezryadin is a remarkable experimentalist who explores physics at the nanoscale. He is developing innovative nanofabrication techniques to enable novel investigations of the properties of superconducting systems with dimensions approaching 5 nm, which is a virtually unexplored size scale at which macroscopic quantum effects have a strong impact on superconducting devices. His research group has fabricated and studied some of the world's tiniest nanowires, DNA-templated superconducting quantum interference , qubits, and memory elements. The current research is focused on superconducting qubits, topological insulators, magnetic molecular devices, and Majorana fermions.
+Research StatementGraduate students are invited to conduct research within the following projects: 
+
+
+ 
+(1)  Zero energy modes in superconducting vortices, qubit-assisted spectroscopy and Majorana carousel braiding. 
+Description:  Recently, a great number of theoretical models have been suggested in which Majorana zero modes (MZMs) play a key role for topologically protected quantum computation schemes. MZMs are expected to occur in the cores of vortices in topological superconductors. These particles are promising as stable, error-proof qubits for quantum computing.  The prospective graduate student will develop a new family of nanoscale electronic devices, where vortices carry discrete states, and these discrete states can be detected using transport measurements. Such devices will exhibit MZM signatures and will demonstrate the predicted parity state associated with MZMs. This parity will be used to store quantum information in the topologically protected MZM states. Finally, braiding of multiple MZMs will be pursued using microwave pulses through the Lorentz force and following the theoretically developed Majorana carousel concept. 
+
+ 
+(2) Chiral molecular spintronics. 
+Description:
+The goal of this proposal is to develop a new family of advanced molecular spintronics devices which will lead to quantum sensors, information storage systems, and secure communications. We propose a novel direction of research, termed 'chiral molecular spintronics', in which the next generation molecular-scale, spin-selective and spin-sensitive devices will be developed. The difference with respect to the previous reported spintronics devices is that our new proposed devices will be based on individual single molecules, such as chiral DNA molecules and carbon nanotubes (CNTs). There are published examples where chiral properties of molecules are used to control magnetic systems, but only at the macroscopic level. Here we propose to advance this field to achieve nanoscale devices based on single molecules. The list of advantages of such devices includes their compact nanoscale dimensions, precise structural control, and the ability to self-assemble with high precision. At the conclusion of this project, we will create hybrid systems in which the spin selectivity and the spin torque will be induced through the chirality of the DNA as well as carbon nanotube molecules. Antiferromagnetic nanowires and nanoparticles will be formed by depositing a few atomic monolayers of the desired material over suspended molecules.
+
+Undergraduate Research OpportunitiesUndergraduate students in my group work on experimental projects related to superconductivity, nanotechnology, and low temperature physics. Examples of recent research activities includes transferring and measuring graphene, studying carbon nanotube yarns under high currents, and developments and testing of superconducting microwave resonators.
+Research Interests
+Experimental condensed matter, nanometer scale mesoscopic physics, molecular electronics, quantum phase transitions in one-dimensional superconductors, DNA electronics, quantum information, qubits, topological insulators.
+
+
+Research Areas
+Atomic, Molecular, and Optical Physics
+Condensed Matter Physics (experimental)
+Quantum Information Science
+
+
+Books Authored or Co-Authored (Original Editions)
+ A. Bezryadin, "Superconductivity in Nanowires:Fabrication and Quantum Transport" (Wiley-VCH, 2012) 
+
+Monographs
+Alexey Bezryadin, "Superconductivity in Nanowires: Fabrication and Quantum Transport" ISBN-13: 978-3-527-40832-0 - Wiley-VCH, Berlin
+
+Selected Articles in Journals
+A. Bezryadin, C. N. Lau, and Tinkham. Quantum suppression of superconductivity in ultrathin nanowires. Nature 404, 971-974 (2000).
+U. C. Coskun, T. C. Wei, S. Vishveshwara, P. M. Goldbart, and A. Bezryadin. h/e magnetic flux modulation of the energy gap in nanotube quantum dots. Science 304, 1132-1134 (2004).
+D. S. Hopkins, D. Pekker, P. M. Goldbart, and A. Bezryadin. Quantum interference device made by DNA templating of superconducting nanowires. Science 308, 1762-1765 (2005).
+A.Bezryadin. Quantum suppression of superconductivity in nanowires.  J. Phys. Cond. Matt. 20, 043202 1-19 (2008). 
+U. Coskun, M. Brenner, T. Hymel, V. Vakaryuk, A. Levchenko, A. Bezryadin. Distribution of supercurrent switching in graphene under the proximity effect.  Phys. Rev. Lett.  108, 097003 (2012). 
+A. Bezryadin. Quantum physics: Tunnelling across a nanowire. Nature, 484:7394, 324-325 (2012).
+A. Murphy, P. Weinberg, T. Aref, U. Coskun, V. Vakaryuk, A. Levchenko, A. Bezryadin.  Universal features of counting statistics  of thermal and quantum phase slips in nanosize superconducting circuits.  Phys. Rev. Lett. 110, 247001 (2013).
+A. Belkin, M. Belkin, V. Vakaryuk, S. Khlebnikov, A. Bezryadin. Formation of Quantum Phase Slip Pairs in Superconducting Nanowires. Phys. Rev. X. 5, 021023 1-9 (2015).
+A. Belkin, E. Ilin, I. Burkova, A. Bezryadin, Reversed Photoeffect in Transparent Graphene Nanocapacitors. ACS Applied Electronic Materials 1, 2671-2677 (2019).
+E. Ilin, I. Burkova, T. Draher, EV. Colla, A. Hubler, A. Bezryadin. Coulomb barrier creation by means of electronic field emission in nanolayer capacitors. Nanoscale 12, 18761-18770 (2020).
+
+Research Honors
+Fellow, American Physical Society, 2014 (2014)
+Fellow, Center for Advanced Study, University of Illinois, 2004
+Xerox Junior Faculty Research Award, College of Engineering, 2004
+National Science Foundation CAREER Award, 2002
+Alfred P. Sloan Research Fellowship, 2002
+
+Recent Courses TaughtNPRE 445 (NPRE 521) - Interact of Radiation w/Matter
+PHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 402 - Light
+PHYS 403 - Modern Experimental Physics
+

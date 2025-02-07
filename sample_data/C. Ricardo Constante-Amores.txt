@@ -1,0 +1,74 @@
+
+
+
+C. Ricardo Constante-Amores he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+crconsta@illinois.edu
+2025 Mechanical Engineering Bldg
+
+
+For More Information
+Website
+
+Education
+PhD & DIC, Chemical Engineering, Imperial College London, Feb 2021
+
+MSc & DIC, Chemical Engineering, Imperial College London, Oct 2016
+
+BS, Chemical Engineering, Complutense University of Madrid,  Sep 2014
+
+
+Academic Positions
+Assistant Professor, University of Illinois at Urbana-Champaign, Mechanical Science and Engineering, Aug. 2024 - present
+Adjunct Assistant Professor, University of Illinois at Urbana-Champaign, Mechanical Science and Engineering,  Apr. 2024 - Aug. 2024
+Postdoctoral Researcher, University of Wisconsin-Madison,Chemical & Biological Engineering Department , Jan 2022-Jul 2024 
+
+Postdoctoral Researcher, University of Oxford, Mathematical Institute and the Department of Engineering Science, Jan 2021-Dec 2021
+
+
+
+
+Selected Articles in Journals
+C. R. Constante-Amores, M. D. Graham. Data-driven state-space and Koopman operator models of coherent state dynamics on invariant manifolds. J. Fluid Mech 984, R9. (2024)
+
+C. R. Constante-Amores, A. Linot, M. D. Graham. Enhancing Predictive Capabilities in Data-Driven Dynamical Modeling with Automatic Differentiation: A Koopman and Neural ODE Approach. Chaos 34, 043119. (2024)
+ A. J. Fox, C. R. Constante-Amores, M. D. Graham Predicting extreme events in a data-driven model of turbulent shear flow using an atlas of charts. Phys. Rev. Fluids 8, 094401 (2023)
+ C. R. Constante-Amores, L. Kahouadji, S. Shin, J. Chergui, D. Juric, R. Castrejon-Pita, O. K. Matar, A. Castrejon-Pita. Impact of Droplets on Liquid Films in the Presence of Surfactant. J. Fluid Mech 961, A8. (2023)
+ C. R. Constante-Amores, L. Kahouadji, J. G. Williams, D. E. Moulton, B. W. Turney, S. Shin, J. Chergui, D. Juric, S. L. Waters. Role of kidney stones in renal pelvis flow. J. Biomech Eng. 145(5): 051007 (2023)
+C. R. Constante-Amores, T. Abadie, L. Kahouadji, S. Shin, J. Chergui, D. Juric, A. Castrejon-Pita and O. K. Matar. Direct numerical simulations of turbulent jets: vortex-interface-surfactant interactions. J. Fluid Mech 955, A42. (2023)
+ C. R. Constante-Amores, J. Chergui, S. Shin, D. Juric, R. Castrejon-Pita. A. Castrejon-Pita. Role of surfactant- induced Marangoni stresses in retracting liquid sheets. J. Fluid Mech 949, A32 (2022)
+ C. R. Constante-Amores, L. Kahouadji, A. Batchvarov, S. Shin, J. Chergui, D. Juric and O. K. Matar. Role of Marangoni stresses in drop-interface coalescence. J. Fluid Mech 925, A15. (2021)
+ C. R. Constante-Amores, L. Kahouadji, A. Batchvarov, S. Shin, J. Chergui, D. Juric and O. K. Matar. Direct Numerical Simulations of transient turbulent jets: vortex-interface interaction. J. Fluid Mech 922, A6. (2021)
+C. R. Constante-Amores, L. Kahouadji, A. Batchvarov, S. Shin, J. Chergui, D. Juric and O. K. Matar. Dynamics of a surfactant-laden bubble bursting through an interface. J. Fluid Mech 911, A57. (2021)
+ A. Batchvarov, L. Kahouadji, C. R. Constante-Amores, G. F. N. Gon ̧calves, S. Shin, J. Chergui, D. Juric, R. Craster, O. K. Matar . Three-dimensional dynamics of falling films in the presence of insoluble surfactants. J. Fluid Mech, 906, A16. (2021)
+C. R. Constante-Amores, L. Kahouadji, A. Batchvarov, S. Shin, J. Chergui, D. Juric and O. K. Matar. Rico and the lets: Direct numerical simulations of turbulent jets. Phys. Rev. Fluids 5, 110501 (2020)
+ A. Batchvarov, M. Magnini, L. Kahouadji, C. R. Constante-Amores, S. Shin, J. Chergui, D. Juric, R. Craster, O. K. Matar. Effect of surfactant on elongated bubbles in capillary tubes at high Reynolds number. Phys. Rev. Fluids 5, 093605 (2020)
+C. R. Constante-Amores, L. Kahouadji, A. Batchvarov, S. Shin, J. Chergui, D. Juric and O. K. Matar. Dynamics of retracting surfactant-laden ligaments at intermediate Ohnesorge number, Phys. Rev. Fluids 5 , 084007 (2020)
+
+Honors
+Emerging Scholar by Journal of Fluid Mechanics (Honourable mention)
+ (Nov 2024)
+Rising Star in Aerospace Engineering  (May 2022)
+ERCOFTAC da Vinci Medal  (Oct 2021)
+Dudley Newitt Prize for Theoretical/Computational Excellence 
+Virtual Mobility Grant in Mathematical Institute at University of Oxford
+LIFD (Leeds Institute for Fluid Dynamics)  - Prize Fellow Scheme
+
+UK Fluids Network Thesis Prize (runner-up)
+ERCOFTAC Osborne Reynolds Prize 
+Milton van Dyke Award from the American Physical Society
+
+PhD Scholarship from Centre for Doctoral Training on Theory and Simulation of Materials
+PhD Scholarship from BP-International Centre for Advanced Materials
+Scholarship from Government of Spain-Ministry of Education 
+
+Recent Courses TaughtTAM 335 AE2 (TAM 335 AL1, TAM 335 ZJ2) - Introductory Fluid Mechanics
+

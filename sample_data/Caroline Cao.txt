@@ -1,0 +1,588 @@
+
+
+
+Caroline Cao she/her/hers
+
+
+
+
+
+Professor
+
+
+
+ccao01@illinois.edu
+111 Transportation Building
+
+
+Education
+Post-Bac Diploma, Occupational Science, Simon Fraser University, Burnaby, Canada 1994
+MS, Kinesiology (motor control), Simon Fraser University, Burnaby, Canada 1996
+PhD, Mechanical & Industrial Engineering University of Toronto, Toronto, Canada  2002
+
+Certificate, Strategic Management of Technology in a Global Environment Politecnico di Milano, Milan, Italy  1999
+
+Certificate, Strategic Management of Telecommunications Institute of Strategy and International Business, Helsinki University of Technology, Helsinki, Finland  1999
+
+ BS, Biochemistry (major), Kinesiology (minor) Simon Fraser University, Burnaby, Canada    1991
+
+
+Academic Positions
+2023 - present Professor, University of Illinois Urbana Champaign, Urbana, IL, USA
+2021 - present adjunct Professor, University of South Australia, Adelaide, Australia
+2021 - 2023 Professor, and Chair for Industry of the Future IMT Atlanique, Brest, France
+2012 - 2022 Professor, Wright State University, Dayton, OH, USA 
+2001-2011 Associate / Assistant Professor, Tufts University, Medford, MA, USA
+
+Documents
+research image small
+
+Professional Highlights
+Director of Ergonomics in Remote Environments Laboratory (EREL), 2001-present. Successfully mentored 36 graduate students, 27 postdocs (including surgical residents) and research associates, directed 5 undergrad honors theses, and supervised 43 special undergrad and grad research projects. Published 52 peer-reviewed journal articles, 94 conference proceedings, 73 abstracts and posters, 3 book chapters, 2 patents, 12 technical reports, and delivered 88 invited talks including 5 keynote addresses.
+
+International Chair for Industry of the Future, University of South Australia and Region Bretagne, France, 2021-2023. Responsibilities: • Provide vision and strategic plan for a joint research program in Industry of the Future between IMT Atlantique and University of South Australia • Provide leadership and mentorship to researchers and students at both universities and labs • Build relationships and collaborative projects with industry partners • Design academic program in Industry 4.0 • Develop cotutelle (dual PhD) programs and exchange programs between France and Australian universities • Coordinate research proposals and contracts • Conduct research and develop tools for Industry 4.0 and Industry 5.0 • Manage 460k € industry contracts from ANR, Airbus, Captronic, and InterCarnot.
+
+Ohio Research Scholar (endowed), Ohio Imaging Research and Innovation Network (OIRAIN) 01/2012-12/2015. The Ohio Imaging Research and Innovation Network is a consortium of three universities in the State of Ohio (Wright State University, Case Western Reserve University, and the Ohio State University) for the creation of intellectual property, commercialization, and jobs in Ohio in the field of medical imaging through research and education. Research Responsibilities: • Invent patentable technology • Launched a technology start-up in medical devices • Fundraise • Manage day-to-day operations • Supervise researchers, grad students • Negotiate vendor contracts • Project management • Manage budget of $330,000
+
+Associate Editor, Human Factors, 2017-present; Associate Editor, Journal of Advances in Human-Computer Interaction, 2007-present. Responsibilities: • Manage review of manuscript submissions • Recruit reviewers • Evaluate papers for fit, scope, length, merit, etc. • Communicate with authors and provide guidance where needed
+
+Founder and CEO of ENDO GUIDANCE TECHNOLOGIES LLC, 2006-present. Endo Guidance Technologies is a Dayton-based company that offers sensing and display technology for navigation in non-rigid environments. Our mission is to enable image guidance without the use of x-rays. Responsibilities: • Provide leadership for technical and business development • Engage with industry partners, manufacturers, and regulatory agencies • Engage with customers (OEM, physicians, and purchasers in hospitals and clinics) • Engage with Board of Advisors and investors • Recruit technical and business talent • Fundraising (over $515,000)
+
+Director of the Jump Simulation Center Urbana (a high fidelity simulation center for medical education and training), 2013-present. Responsibilities: • Provide vision and strategic plan for simulation and medical education • Provide leadership and mentorship to staff, researchers and medical students • Develop new programs for internal and external learners • Engage with industry technology providers to innovate and translate simulation-based products • Partner with Academic Affairs, Advancement, Corporate Relations, Innovation and Entrepreneurship to advance R&D • Develop budget and allocate resources • Recruit and hire staff and students • Direct research and innovation
+
+
+Research Interests
+Human Factors Engineering of medical systems
+VR/AR/XR simulation for medical skills and communication training
+Haptics and sensory augmentation for remote manipulation
+Shape sensing  for remote visualization and navigation
+
+
+
+Chapters in Books
+Cao, C.G.L. & O'Leary, J. (2003). Prosthesis project. In Science Explorer: Human Biology and Health Series D. Prentice Hall, Needham, MA.
+
+Rogers, G. & Cao, C.G.L. (2004). Coupling surgeons with technology: The next generation of surgical robots. In: Primer of Robotic and Telerobotic Surgery, Edited by Garth Ballantyne. Lippincott, Williams & Wilkins Pub.
+
+Cao, C.G.L. & Rogers, G. (2007). Robotics in Healthcare. In: Handbook of Human Factors and Ergonomics in Healthcare and Patient Safety, Edited by Pascale Carayon. Lawrence Erlbaum Ass.
+
+
+Selected Articles in Journals
+MacKenzie, C.L., Cao, C.G.L., Ibbotson, J.A., Lomax, A.J. (2001). Hierarchical decomposition of laparoscopic surgery: A human factors approach to investigating the operating room environment. Journal of Minimally Invasive Therapy and Allied Technologies (MITAT), Vol. 10 (3), 121-127.
+
+Goodell, K., Cao, C.G.L., Schwaitzberg, S. (2006). The effects of cognitive distraction on performance of laparoscopic surgical tasks. Journal of Laparoendoscopic & Advanced Surgical Techniques, 16(2), 94-98.
+
+Webster, J. & Cao, C.G.L. (2006). Lowering communication barriers in operating room technology. Human Factors, 48(4), 747-758.
+
+O’Connor, A., Schwaitzberg, S.D., Cao, C.G.L. (2007). How much feedback is necessary for learning to suture? Surgical Endoscopy, 22(7), 1614-1619.
+
+Cao, C.G.L., Weinger, M., Slagle, J., Zhou, C., et al. (2008). Differences in Day and Night Shift Clinical Performance in Anesthesiology. Human Factors, 50(2), 276-290.
+
+Barrios, L., Tsuda, S., Derevianko, A., Barnett, S., Moorman, D., Cao, C.G.L., Karavas, A.N., Jones, D.B. (2009). Framing family conversation after early diagnosis of iatrogenic injury and incidental findings. Surgical Endoscopy, 23(11), 2535-2542.
+
+Conrad, C., Konuk, Y., Werner, P., Cao, C.G.L., Warshaw, A., Rattner, D., Jones, D.B., Gee, D. (2010). The effect of defined auditory conditions versus mental loading on the laparoscopic motor skill performance of experts. Surgical Endoscopy, 24, 1347-1352.
+
+Conrad, C., Konuk, Y., Werner, P., Cao, C.G.L., Warshaw, A., Rattner, D., Jones, D.B., Gee, D. (2012). A quality improvement study on avoidable stressors and countermeasures affecting surgical motor performance and learning. Annals of Surgery, 255(6), 1190.
+
+Perez, R.S., Skinner, A., Weyrauch, P., Niehaus, J., Lathan, C., Schwaitzberg, S.D., Cao, C.G.L. (2013). Prevention of surgical skill decay. Military Medicine, Special Issue on Designing and Using Computer Simulations in Medical Education and Training, 178, 76-86.
+
+Olasky, J., Chellali, A, Zhang, L., Sankaranarayanan, G., Cao, C.G.L. (2014). Effects of sleep hours and fatigue on performance in laparoscopic surgery simulators. Surgical Endoscopy, 28(9), 2564-2568.
+
+45. Chellali, A., Schwaitzberg, S., Jones, D, Romanelli, J., Miller, A., Rattner, D., Roberts, K., Cao, C.G.L. (2014). Towards scar-free surgery: An analysis of the increasing complexity from laparoscopic surgery to NOTES. Surgical Endoscopy, 28(11), 3119-3133.
+
+Mentis, H., Chellali, A., Manser, K., Schwaitzberg, S., Cao, C.G.L. (2015). A systematic review of the effect of distraction on surgeon performance: Directions for operating room policy and surgical training. Surgical Endoscopy, 30(5), 1713-1724.
+
+Flinn, J., Miller, A., Pyatka, N., Brewer, J., Schneider, T., Cao, C.G.L. (2016). The effect of stress on learning in surgical skill acquisition. Medical Teacher, 38(9), 897-903.
+
+Cao, C.G.L. & Rogers, G. (2004). Robot-assisted minimally invasive surgery: The importance of human factors analysis and design. Surgical Technology International, Vol. 12, 73-86.
+
+Cunningham, S., Chellali, A., Classe, J., Jaffre, I., Cao, C.G.L. (2013). Effects of experience and cultural differences in human-robot team interaction in robotic surgery. International Journal of Social Robotics, 5(1), 75-88.
+
+Maddah, M., Dumas, C., Gauthier, O., Fuselier, M., Cao, C.G.L. (2020). Measuring organ shift and deformation for port placement in robot-assisted minimally invasive surgery. Laparoscopic, Endoscopic and Robotic Surgery, 3(4), 99-106. https://doi.org/10.1016/j.lers.2020.09.002
+
+Maddah, M., Classe, J-M., Jaffre, I., Watson, K., Lin, K., Chablat, D., Dumas, C., Cao, C.G.L. (2023). A decision aid for the problem of port placement in robotic hysterectomy. Laparoscopic, Endoscopic and Robotic Surgery. 6(2), 43-56. https://doi.org/10.1016/j.lers.2023.05.002
+
+Cao, C.G.L. (2007). Guiding navigation in colonoscopy. Surgical Endoscopy: New Technology, 21, 480-484.
+
+Cao, C.G.L. & Milgram, P. (2007). Direction and location are not sufficient for navigating in non-rigid environments â€“ an empirical study in augmented reality. Presence: Teleoperators and Virtual Environments, 16(6), 584-602.
+
+Shimotsu, R. & Cao, C.G.L. (2007). The effect of color-contrasting shadows on a dynamic 3D laparoscopic surgical task. IEEE Transactions on Systems, Man, and Cybernetics, Part A: Systems and Humans, 37(6), 1047-1053.
+
+Eisenstein, J.A., Wong, P.Y., Cao, C.G.L. (2010). Evaluation of techniques to model bend loss in multimode fibers. Applied Optics, 49(12), 2220-2231. (Also published in the Virtual Journal for Biomedical Optics, 5(9) http://www.opticsinfobase.org/VJBO/abstract.cfm?URI=ao-49-12-2220)
+
+Gavalis, R.M., Wong, P.Y., Eisenstein, J.A., Lilge, L., Cao, C.G.L. (2010). Localized active-cladding optical fiber bend sensor. Optical Engineering, 49(6), 064401
+
+Kesner, J.E., Gavalis, R., Wong, P.Y., Cao, C.G.L. (2011). Multi-fiber optical bend sensor to aid colonoscope navigation. Optical Engineering, 50(12), 124402.
+
+Rinehart, B., Cao, C.G.L. (2016). Concentration and size dependence of peak wavelength shift on quantum dots in colloidal suspension. Optical Engineering, 55(8), 087106.
+Perreault, J. & Cao, C.G.L. (2006). Effects of vision and friction on haptic perception. Human Factors, 48(3), 574-586.
+
+Cao, C.G.L., Zhou, M.G., Jones, D.B., Schwaitzberg, S.D. (2007). Can surgeons think and operate with haptics at the same time? Journal of Gastrointestinal Surgery, 11(11), 1564-1569.
+
+Zhou, M., Perreault, J., Schwaitzberg, S.D., Cao, C.G.L. (2007). Effect of experience on force perception threshold in minimally invasive surgery. Surgical Endoscopy, 22(2), 510-515.
+
+Zhou, M., Tse, S., Derevianko, A., Jones, D.B., Schwaitzberg, S.D., Cao, C.G.L. (2011). Effect of haptic feedback in laparoscopic surgery skill acquisition. Surgical Endoscopy, 26(4), 1128-1134
+
+Greenwald, D., Cao, C.G.L, Bushnell, E. W. (2012). Haptic detection of artificial tumors by hand and with a tool in a MIS environment. IEEE Transactions on Haptics, 5(2), 131-138.
+
+Wang, J., Chellali, A., Cao, C.G.L. (2015). Haptic communication in collaborative virtual environments. Human Factors, 58(3), 496-508.
+
+Hoskins, R., Wang, J., Cao, C.G.L. (2016). Use of stochastic resonance methods for improving laparoscopic surgery performance. Surgical Endoscopy, 30(10), 4214-4219
+
+Avgerinos, D., Goodell, K., Waxberg, S., Cao, C.G.L., Schwaitzberg, S. (2005). Comparison of the sensitivity of physical and virtual laparoscopic training simulators to the user’s level of experience. Surgical Endoscopy, 19(9), 1211-1215. 24. Avgerinos, D., Goodell, K., Waxberg, S., Cao, C.G.L., Schwaitzberg, S. (2005). Comparison of the sensitivity of physical and virtual laparoscopic training simulators to the user’s level of experience. Surgical Endoscopy, 19(9), 1211-1215.
+
+Bell, A., Saide, M., Johanas, J., Leisk, G.G., Schwaitzberg, S.D., Cao, C.G.L. Innovative dynamic minimally invasive training environment (DynaMITE) (2007). Journal of Surgical Innovation, 14(3), 2007, 217-224.
+
+Bell, A., Zhou, M., Schwaitzberg, S.D., Cao, C.G. L. (2009). Using a Dynamic Training Environment to Acquire Laparoscopic Surgery Skill. Surgical Endoscopy, 23(10), 2356-2363.
+
+Sankaranarayanan, G., Lin, H., Arikatla, V.S., Mulcare, M., Zhang, L., Derevianko, A., Lim, R., Fobert, D., Cao, C.G.L., Schwaitzberg, S.D., Jones, D.B., De, S. (2010). Preliminary face and construct validation study of a virtual basic laparoscopic skill trainer. Journal of Laparoendoscopic & Advanced Surgical Techniques, 20(2), 153-157.
+
+Zhang, L., Grosdemouge, C., Sankaranarayanan, G., Anh, W., Sreekanth, A.V., De, S., Jones, D., Schwartzberg, S., Cao, C.G.L. (2012). Added value of virtual reality technology and force feedback for surgical training simulators. Work: A Journal of Prevention, Assessment and Rehabilitation, 41(0), 2288-92.
+
+Zhang, L. & Cao, C.G.L. (2012). Effect of automatic image realignment on visuomotor coordination in laparoscopic surgery. Applied Ergonomics, 43(6), 993-1001.
+
+ Arikatla, V.S., Sankaranarayanan, G., Ahn, W., Chellali, A., De, S., Cao, C.G.L., Hwabejire, J., DeMoya, M., Schwaitzberg, S., Jones, D.B. (2013). Face and construct validation of a virtual peg transfer simulator. Surgical Endoscopy, 27(5), 1721-1729.
+
+Zhang, L., Sankaranarayanan, G., Arikatla, V., Ahn, W., Grosdemouge, C., Rideout, J., Epstein, S., De, S., Schwaitzberg, S., Jones, D., Cao, C.G.L. (2013). Characterizing the learning curve of the VBLaST (Virtual Basic Laparoscopic Skill Trainer). Surgical Endoscopy, 27(10), 3603-3615.
+
+Chellali, A., Zhang, L., Sankaranarayanan, G., Cao, C.G.L. (2014). Validation of the VBLaST peg transfer task: A first step towards an alternate training standard. Surgical Endoscopy, 28(10), 2856-2862. 
+Chellali, A., Ahn, W., Sankaranarayanan, G., Flinn, J.T., Schwaitzberg, S.D., Jones, D.B., De, S., Cao, C.G.L. (2014). Preliminary evaluation of the pattern cutting and the ligating loop virtual laparoscopic trainers. Surgical Endoscopy, 29(4), 815-821.
+
+Olasky, J., Sankaranarayanan, G., Seymour, N.E., Magee, J.H., Enquobahrie, A., Lin, M.C., Aggarwal, R., Brunt, L.M., Schwaitzberg, S.D., Cao, C.G.L., De, S., Jones, D.B. (2015). Identifying Opportunities for Virtual Reality Simulation in Surgical Education; A Review of the Proceedings from the Innovation, Design, and Emerging Alliances in Surgery (IDEAS) Conference: VR Surgery, Nov 23, 2013. Surgical Innovation, 22(5), 514-521
+
+ Sankaranarayanan, G. Li, B., Manser, K. Jones, S.B., Jones, D.B., Schwaitzberg, S., Cao, C.G.L., De, S. (2016). Face and Construct Validation of a Next Generation Virtual Reality (Gen2-VR©) Surgical Simulator. Surgical Endoscopy, 30(3), 979-985.
+
+Awtrey, C.S., Chellali, A., Schwaitzberg, S.D., De, S., Jones, D.B., Cao, C.G.L. (2015). Validation of the VBLaST: A virtual peg transfer task in gynecologic surgeons. The Journal of Minimally Invasive Gynecology, 22(7), 1271-1277.
+
+ Demirel, D., Butler, K.L., Halic, T., Sankaranarayanan, G., Spindler, D., Cao, C.G.L., Petrusa, E., Molina, M., Jones, D., De, S. DeMoya, M. (2015). A hierarchical task analysis of cricothyroidotomy procedure for a virtual airway skills trainer (VAST) simulator. American Journal of Surgery, 212(3), 475-484.
+
+ Dorozhkin, D., Nemani, A., Roberts, K., Ahn, W., Halic, T., Dargar, S., Wang, J., Cao, C.G.L., Sankaranarayanan, G., De, S. (2016). Face and content validation of a Virtual Translumenal Endoscopic Surgery Trainer (VTEST). Surgical Endoscopy. DOI: 10.1007/s00464-016-4917-7
+
+ Chellali, A., Mentis, H., Miller, A., Ahn, W., Arikatla, V., Sankaranarayanan, G., De, S., Schwaitzberg, S., Cao, C.G.L. (2016). Achieving interface and environmental fidelity in the virtual basic laparoscopic surgical trainer. International Journal of Human-Computer Studies, 96, 22-37.
+
+Dorozhkin, D., Olasky, J., Jones, D.B., Schwaitzberg, S.D., Jones, S.B., Cao, C.G.L., Molina, M., Henriques, S., Wang, J., Flinn, J., De, S., and the SAGES FUSE Committee (2017). OR fire virtual training simulator: design and face validity. Surgical Endoscopy, 31(9), 3527-3533.
+
+Maddah, M. & Cao, C.G.L. (2017). Application of the alpha method to visualize and analyze surgical motion. Surgical Science, 8(11), 464-480.
+
+Linsk, A., Monden, K., Sankaranarayanan, G., Ahn, W., Jones, D., De, S., Schwaitzberg, S., Cao, C.G.L. (2018). Validation of the VBLaST pattern cutting task: a learning curve study. Surgical Endoscopy, 32(4), 1990-2002. DOI: 10.1007/s00464-017-5895-0
+
+Dombek, M., Courant, R. Lungarini, A., Santos, N., Schwaitzberg, S., Cao, C.G.L., Jones, D., De, Suvranu, Olasky, J. (20198). FUSE certification enhances performance on a virtual computer-based simulator for dispersive electrode placement. Surgical Endoscopy, 32(8), 3640-3645. DOI: 10.1007/s00464-018-6095-2
+
+Allemang--Trivalle, A., Donjat, J., Bechu, G., Coppin, G., Chollet, M., Klaproth, O.W., Mitschke, A., Schirrmann, A., Cao, C.G.L. (2024). Modelling fatigue in maual and robot-assisted work for Operator 5.0. IISE Transactions on Occupational Ergonomics and Human Factors, Special Issue Human-Robot Collaboration in Occupational Settings. DOI: 10.1080/24725838.2024.2321460
+
+
+Abstracts (in print or accepted)
+Cao, C.G.L. & Hair, M.L. (1989). Measurement of charge on sterically stabilised polyacrylic acid polystyrene particles. Pacific Chemical Congress. Honolulu, Hawaii, December 16-22, 1989. 73. Cao, C.G.L. & Hair, M.L. (1989). Measurement of charge on sterically stabilised polyacrylic acid polystyrene particles. Pacific Chemical Congress. Honolulu, Hawaii, December 16-22, 1989.
+
+ Cao, C.G.L., & MacKenzie, C.L (1995). Effect of fatigue on grip force in a precision grip. J. Sport and Exercise Psychology, Volume 17 Supplement, 36.
+
+ Cao, C.G.L., MacKenzie, C.L., & Payandeh, S. (1995). Remote manipulation in endoscopic surgery: A task analysis approach. Abstract SCAPPS Annual Conference. Vancouver, B.C., October 1995, 62.
+
+Cao, C.G.L., MacKenzie, C.L., & Payandeh, S. (1996). Precision and safety constraints in laparoscopic surgery. J. of Sport and Exercise Psychology, Volume 18 Supplement, 19.
+
+Cao, C.G.L., MacKenzie, C.L., & Payandeh, S. (1995). Task analysis of laparoscopic surgery: Determination of requirements for endoscopic tool design. Abstracts 5th Annual IRIS/PRECARN Conference, Vancouver, Canada, June 1995.
+
+MacKenzie, C.L., Cao, C.G.L., Turner, L.J., Blair, N.P., & Nagy, A.G. (1997). Endoscopic viewing technologies on surgeons' performance. The 50th Annual Spring Meeting of the BC Surgical Society. Victoria, BC, April 30-May 3, 1997.
+
+Cao, C.G.L. & MacKenzie, C.L. (1997). Direct, 2-D vs. 3-D endoscopic viewing & surgical task performance. A Symposium on Evolving Technologies: Surgeons' Performance of Surgical Tasks. J. Sport and Exercise Psychology, 19, NASPSPA/ACSM Meeting. Denver, Colorado, May 28-June 1, 1997.
+
+MacKenzie, C.L., Cao, C.G.L., Nagy, A.G., Turner, L.J., & Lomax, A.J. (1997). Quantifying surgeons' performance. The International College of Surgeons XXXV North American Federation Congress: Enabling Technologies of the Minimal Access Revolution. Vancouver, BC, July 24-26, 1997.
+
+Milgram, P. & Cao, C.G.L. (1999). Mixed reality in the OR. Abstracts of the 9th Annual Institute for Robotics and Intelligent Systems/PRECARN Conference, Toronto, Canada, June 7-9, 1999.
+
+Cao, C.G.L. & Milgram, P. (2000). Augmented reality displays for endoscopic orientation and navigation. Abstracts of the 31st International Symposium on Robotics/ 9th Annual Institute for Robotics and Intelligent Systems/PRECARN Conference. Montreal, Quebec, May 14-17, 2000.
+
+MacKenzie, C.L., Ibbotson, J.A., Cao, C.G.L., Lomax, A.J. (2000). Hierarchical decomposition of goal-directed activity: a valuable research and investigative tool for minimally invasive surgery. Poster presented at the 7th World Congress of Endoscopic Surgery. Singapore, May 28-June 5, 2000, 409.
+
+Cao, C.G.L., Schwaitzberg, S., Rogers, G. (2003). Visuomotor constraints in laparoscopic surgery: a human factors engineering perspective. Surgical Endoscopy, 17 (Supplement), S218-314.
+
+Cao, C.G.L. (2004). Hand-eye co-ordination in simulated laparoscopic surgery. Journal of Sport & Exercise Psychology, 26: S47.
+
+Cao, C.G.L., Waxberg, S., Park, B., Schwaitzberg, S. (2004). Comparison of real versus virtual surgical training models. Surgical Endoscopy, 18 (5), 725-878.
+
+Cao, C.G.L. & Schwaitzberg, S. (2004). An alternative to haptics in robotic surgery. Surgical Endoscopy, 18 (5), 725-878.
+
+Goodell, K., Avgerinos, D., Cao, C.G.L., Schwaitzberg, S. (2004). The effects of distraction on performance of laparoscopic surgical tasks. Presented at the New England Surgical Society. Montreal, Canada, September 30, 2004.
+
+Avgerinos, D., Rivera, C., Schwaitzberg, S., Cao, C.G.L. (2004). Visual and force feedback in laparoscopic robotic manipulation. Presented at the New England Surgical Society. Montreal, Canada, September 30, 2004.
+
+Rivera, C. & Cao, C.G.L. (2005). The effect of tool angle on force perception in a simulated laparoscopic environment. Presented at the New England Surgical Society Annual Meeting, Boston, MA, May 27, 2005.
+
+Nguyen, T., Schwaitzberg, S., Cao, C.G.L. (2006). Effect of friction and vision on simulated laparoscopic surgery performance. Surgical Endoscopy, 20 (Supplement 1), S254-282.
+
+Vuong, L., Schwaitzberg, S., Cao, C.G.L. (2006). What can motion derivatives tell us about skill performance. Surgical Endoscopy, 20 (Supplement 1), S254-282.
+
+Bell, A., Johanas, J., Cao, C.G.L. & Schwaitzberg, S. (2007). Dynamite skill assessment system: initial evaluation. Surgical Endoscopy, 21 (supplement 1), S344. POSTER OF DISTINCTION AWARD
+
+O'Connor, A., Cao, C.G.L. & Schwaitzberg, S. (2007). Impact of knowledge of results in surgical skills training. Surgical Endoscopy, 21 (supplement 1), S312.
+
+Cao, C.G.L., Zhou, M.G., Jones, D.B., Schwaitzberg, S.D. (2007). Can surgeons think and operate with haptics at the same time? Presented at the Society of Surgery of the Alimentary Tract 48th Annual Meeting, Washington, DC, May 19-23, 2007. POSTER OF DISCTINCTION AWARD
+
+Dezube, R., Dale, C., Weinger, M., Muldoon, R, Ayers, G. D., Zhong, S., Cao, C.G.L. (2007). Procedural learning in simulated colonoscopy. Presented at the NASPGHAN Annual meeting, Salt Lake City, UT, October 25 -27, 2007.
+
+Barrios, L., Tsuda, S., Derevianko, A., Barnett, S., Moorman, D., Cao, C.G.L., Karavas, A.N., Jones, D.B. (2007). Framing family conversation after early diagnosis of iatrogenic injury and incidental findings. Presented at the 54th Annual Meeting of the Massachusetts Chapter of the American College of Surgeons, Boston, MA, December 8, 2007.
+
+Dezube, R., Dale, C., Weinger, M., Muldoon, R, Ayers, G. D., Zhong, S., Cao, C.G.L. (2008). Procedural learning in simulated colonoscopy. Presented at the 2008 International Meeting on Simulation in Healthcare, San Diego, CA, January 13-16, 2008.
+
+Barrios, L., Tsuda, S., Derevianko, A., Barnett, S., Moorman, D., Cao, C.G.L., Jones, D.B. (2008). Framing family conversation after early diagnosis of iatrogenic injury and incidental findings. Presented at the 2008 meeting of the Society of American Gastrointestinal and Endoscopic Surgeons, Philadelphia, PA, April 9-12, 2008.
+
+Bell, A., Mandelupe, E., Schwaitzberg, S.D., Cao, C.G.L. (2008). Speed-Accuracy Trade-off in VR Simulator with Haptic Feedback. Presented at the 2008 meeting of the Society of American Gastrointestinal and Endoscopic Surgeons, Philadelphia, PA, April 9-12, 2008.
+
+Bell, A., Saide, M., Johanas, J., Leisk, G., Schwaitzberg, S.D., Cao, C.G.L. (2008). Using a Dynamic Training Environment to Assess Laparoscopic Skill. Presented at the 2008 Meeting of the Society of American Gastrointestinal and Endoscopic Surgeons, Philadelphia, PA, April 9-12, 2008.
+
+Zhou, M., Tse, S., Derevianko, A., Jones, D.B., Schwaitzberg, S.D., Cao, C.G.L. (2008). Learning Curve in Laparoscopic Suturing With Haptic Feedback. Presented at the 2008 meeting of the Society of American Gastrointestinal and Endoscopic Surgeons, Philadelphia, PA, April 9-12, 2008.
+
+Gavalis, R., Xing, H., Wong, P.Y., Lilge, L., Cao, C.G.L. (2008). Design of a real-time guidance system for colonoscopy. Presented at the 2008 Design of Medical Devices Conference, Minneapolis, Minnesota, April 15-17, 2008.
+
+Gavalis, R.M., Xing, H., Wong, P.Y., Lilge, L., Cao, C.G.L. (2008). Design of a navigational aid for colonoscopy. Presented at the 3rd Frontiers in Biomedical Devices Conference, Proceedings of BioMed2008, Irvine, CA, June 18-20, 2008. Journal of Medical Devices, 2(2), 027523. http://link.aip.org/link/?MED/2/027523 BEST POSTER AWARD -- 2ND PLACE
+
+Lin, H., Sankaranarayanan, G., Jones, D.B., Sreekanth, A.V., Mulcare, M., Zhang, L., Derevianko, A., Lim, R., Fobert, D., Cao, C.G.L., Schwaitzberg, S.D., De, S. (2009). Steps toward virtual reality FLS: Virtual Basic Laparoscopic Skill Trainer (VBLAST) preliminary face and construct validity study. Presented at the 2009 Meeting of the Society of American Gastrointestinal and Endoscopic Surgeons, April 22-25, 2009, Phoenix, Arizona.
+
+Bell, A., Schwaitzberg, SD, Cao, C.G.L. (2009).  Using vibration to provide force information during surgery.  Presented at the 2009 Meeting of the Society of American Gastrointestinal and Endoscopic Surgeons, April 22-25, 2009, Phoenix, Arizona.  BEST  POSTER AWARD
+
+Cao, C.G.L., Wong, P.Y., Eisenstein, J. (2011). Development of a shape tracker for colonoscopy navigation. The Annual Meeting of the Society of Gastrointestinal and Endoscopic Surgeons (SAGES), Emergent Technology. San Antonio, TX, March 30-April 2, 2011.
+
+Cao, C.G.L., Matthews, G., Malek, D., Neville, K., Ryan, J., Schneider, M. (2013). Panel: Human factors in robotics safety: From individual to organisation. 2013 Safety Across High Consequence Industries (SAHI) Conference, St. Louis, March 12-13, 2013.
+
+Chellali, A., Sankaranarayanan, G., Zhang, L., Cao, C.G.L., De, S., Jones, D.B., Schneider, B. (2013). Effects of sleep hours and fatigue on performance in laparoscopic surgery simulators. Presented at The Annual Meeting of the Society of Gastrointestinal and Endoscopic Surgeons (SAGES), Baltimore, MD, April 17-20, 2013.
+
+Olasky, J., Eskander, M., Ahn, W., Sankaranarayanan, G., De, S., Chellali, A., Cao, G. L., Feldman, L.S., Schwaitzberg, S., Jones, D. B. (2013). The Impact of Simulator Based Electrosurgical Training on Resident Education. Presented at The Annual Meeting of the Society of Gastrointestinal and Endoscopic Surgeons (SAGES), Baltimore, MD, April 17-20, 2013.
+
+Sankaranarayanan, G., Zhang, L., De, S., Jones, D. B., Schwaitzberg, S., Cao, C.G.L. (2013). The learning plateau and the learning rate for the VBLaST-PT compared to the FLS simulator. Presented at the 2013 Association For Surgical Education (ASE) Annual Meeting, Orlando, FL.
+
+Flinn, J., Wood, D., Cao, C.G.L. (2013). Technology-based procedure for automatic and objective error measurement in FLS pattern cutting task. Presented at The Annual Meeting of the Society of Gastrointestinal and Endoscopic Surgeons (SAGES), Baltimore, MD, April 17-20, 2013.
+
+ Abtahi, K., Flinn, J., Yaklic, J., Cao, C.G.L., Galloway, M. (2014). Smart phones and intraoperative assessment of obstetric and gynecologic residents: The future is here! The 2014 CREOG and APGO Annual Meeting, Atlanta, GA. Feb. 26-Mar. 1, 2014.
+
+Chellali, A., Ahn, W., Sankaranarayanan, Flinn, J., G., Schwaitzberg, S., Jones, D., Cao, C.G.L. (2014). Preliminary evaluation of the pattern cutting and the ligating loop virtual laparoscopic trainers. Presented at the 2014 SAGES Annual Meeting, Salt Lake City, UT, April 2-5, 2014.
+
+Baichun, L., Sankaranarayanan, G., Jones, S. Jones, D.B., Schwaitzberg, S., De, S., Cao, C.G.L. (2014). Preliminary validation of a novel VR2C (VR within VR) simulator for surgical education. Presented at the 2014 Surgical Education Week of the Annual Meeting of the Associate for Surgical Education, Chicago, IL, April 8-12, 2014.
+
+Sankaranarayanan, G., Baichun, L., Chellali, A., Mentis, H., Jones, S. Jones, D.B., Schwaitzberg, S., De, S., Cao, C.G.L. (2014). A new virtual reality immersive surgical trainer with distractions for situated and cognitive training. Presented at the 2014 Surgical Education Week of the Annual Meeting of the Associate for Surgical Education, Chicago, IL, April 8-12, 2014.
+
+Dumas, C., Coles, T., de Visser, H., Cao, C.G.L., Grimpen, F. (2014). Haptic feedback tuning in colonoscopy simulation. Presented at Eurohaptics 2014, Versailles, France, June 24-26, 2014.
+
+Miller, A., Saxe, J., Cao, C.G.L. (2014). ICG infrared imaging: a novel alternative to intraoperative cholangiography. Presented at the 2014 SAGES Annual Meeting, Salt Lake City, UT, April 2-5, 2014.
+
+Dumas, C., Cao, C.G.L., Coles, T. (2014). ETrack: an affordable ergonomic assessment tool for surgical settings. Presented at the 2014 SAGES Annual Meeting, Salt Lake City, UT, April 2-5, 2014.
+
+Coles, T., Cao, C.G.L., Dumas, C. (2014). Medimq: a medical image diagnostic learning and assessment tool. Presented at the 2014 SAGES Annual Meeting, Salt Lake City, UT, April 2-5, 2014.
+
+Jones S.B., Spindler D., Sankaranarayanan G., Halic T., Jones D.B., De S., Cao C. (2015). Development of a Virtual Airway Skill Trainer (VAST): An Initial Task Analysis. 2015 SEA Annual Meeting, Seattle, WA, April 24 - 26, 2105.
+
+Butler K, Petrusa E, Spindler D, Halic T, Ryanson A, Sankaranarayanana, G,De S, deMoya M, Cao, C.G.L. (2015). Development of a Virtual Airway Skill Trainer (VAST): An Initial Task Analysis of the Open Cricothyroidotomy. 2015 ASE Annual Meeting, Seattle, WA, April 23-25, 2015.
+
+Wang, J., Lin, K., Watson, K., Cao, C.G.L. (2015). 3D modelling of patient-specific abdomen for port placement planning in robot-assisted surgery. 2015 SAGES Annual Meeting, Nashville, TN, April 15-18, 2015.
+
+Maddah, M., Wang, J., Galloway, M., Lin, K., Watson, K., Cao, C.G.L. (2015). Kinect accuracy in abdominal surface reconstruction for robotic surgery. BMES 2015 Annual Meeting, Tampa, Florida, October 7-10, 2015.
+
+Flinn, J., Berguer, R., Cao, C.G.L. (2015). Display optimisation of indocyanine green cholangiography (ICG) imaging. 2015 SAGES Annual Meeting, Nashville, TN, April 15-18, 2015.
+
+Hoskins, R.D., Babbitt, K., Wang, J., Diller, E., Cao, C.G.L. (2015). Use of stochastic resonance methods for improving laparoscopic surgery performance. 2015 SAGES Annual Meeting, Nashville, TN, April 15-18, 2015.
+
+Babbit, K., Hoskins, R., Wang, J., Diller, E., Spindler, D., Cao, C.G.L. (2015). Vibrotactile feedback and stochastic resonance improves simulated laparoscopic palpation. 2015 Medical Student Program, American College of Surgeons, Division of Education. Chicago, IL, October 4-6, 2015.
+
+Diller, E., Cao, C.G.L. (2015). The use of stochastic resonance in a two-dimensional Fitts’ task. BMES 2015 Annual Meeting, Tampa, Florida, October 7-10, 2015.
+
+Linsk, A.M., Diller, E., Monden, K., Sankaranarayanan, G., Ahn, W., Awtrey, C., De, S., Jones, D., Schwaitzberg, S., Epstein, S., Rideout, J., Cao, C.G.L. (2016). Comparison of learning curves on the FLS and the Virtual Basic Laparoscopic Skill Trainer (VBLaST): pattern cutting and ligating loop tasks. Presented at the 2016 SAGES Annual Meeting, Boston, MA, March 16-19, 2016.
+
+Wang, J., Ahn, W., Dorozhkin, D., Jones, D., De, S., Cao, C.G.L. (2016). Virtual translumenal endoscopic surgical trainer (VTEST): an evaluation study. Presented at the 2016 SAGES Annual Meeting, Boston, MA, March 16-19, 2016.
+
+Wang, J., Hellan, M., Lin, K., Watson, K., Galloway, M., Cao, C.G.L. (2016). Need help with port-placement in robot-assisted surgery: a survey study. Presented at the 2016 SAGES Annual Meeting, Boston, MA, March 16-19, 2016.
+
+Dorozhkin, D., De, S., Jones, D., Schwaitzberg, S., Jones, S., Olasky, J., Molina, M, Henriques, S., Wang, J., Flinn, J., Cao, C.G.L. (2016). OR fire virtual training simulator: design and face validity. Presented at the 2016 SAGES Annual Meeting, Boston, MA, March 16-19, 2016.
+
+Santos, N., Carter, J., He, F., Linsk, A., Lungarini, A., Nemani, A., Sankaranarayanan, G., Jones, D., De, S., Schwaitzberg, S., Cao, C.G.L. (2017). A learning curve study using the virtual transluminal endoscopic surgery trainer (VTEST). Presented at the 2017 SAGES Annual Meeting, Houston, TX, March 2017.
+
+Santos, N., Lamien, A., Findley, A., Galloway, M., Hellan, M., McCarthy, M., Simon, T., Linsk, A., Derevianko, A., Olasky, J., Fitzpatrick, E., Nguyen, B., Schwaitzberg, S., Jones, D., De, S., Cao, C.G.L. (2018). Measuring transfer of skill from the virtual transluminal endoscopic surgery trainer (VTEST) to EASIE-R model. Presented at the 2018 SAGES Annual Meeting, Seattle, WA, April 2018.
+
+Lopez, C., Misra, A., Milef, N., Santos, N., Lamien, A., Cao, C.G.L., Schwaitzberg, S., Jones, D., De, S., Olasky, J. (2018). Design of the electrosurgery skill trainer (VEST) direct and capacitive coupling effects module. Presented at the 2018 SAGES Annual Meeting, Seattle, WA, April 2018.
+
+He, S., Goonetilleke, R., Cao, C.G.L. (2018). Hardness perception of viscoelasticity in a probing task. Presented at the IEEE Haptics Symposium 2018, San Francisco, CA, March 25-28.
+
+Hamdan, M. & Cao, C.G.L. (2018) Investigating the after-effects of stochastic resonance for use in laparoscopic surgery. Presented at the IEEE Haptics Symposium 2018, San Francisco, CA, March 25-28.
+
+Topolski, C., Mensah, A., Cao, C.G.L. (2018). Trust in robot-assisted surgery. Presented at the BMES 2018 Annual Meeting, Atlanta, GA, October 17-20, 2018.
+
+Cao, C.G.L. & Topolski, C. (2019). Physician and patient trust in robotic surgery. Presented at the 2019 International Symposium on Human Factors and Ergonomics in Health Care, Chicago, IL, March 24-27, 2019.
+
+Asvadi, A., Bechu, G., Beugnard, A., Cao, C.G.L., Lohr, C., Papadakis, P., Perez, Q., Urtado, C., Vauttier, S. (2022). Model-driven deployment of digital twins for smart environments – The Human at home project case study. Journée nationales du GDR GPL 2022, June 22, 2022, Vannes France.
+
+Béchu, G., Beugnard, A., Cao, C. G. L., Perez, Q., Urtado, C., Vauttier, S. (2022). Déploiement dirigé par les modèles de jumeaux numériques dans les environnements intelligents. HUT LaConf 2022 – L’interdisciplinarité au service des environnements intelligents, November, 2022, Montpellier, France.
+
+Allemang-Trivalle, Donjat, J., Bechu, G., Coppin, G., Klaproth, O.W., Mitschke, A., Schirrmann, A., Chollet, M., Cao, C.G.L. (2023). Human model for industrial system and production design in Industry 5.0: A case study. Presented at IISE Annual Conference & Expo 2023, May 20-23, 2023, New Orleans, Louisiana.
+
+Kessassi, C., Chollet, M., Dumas, C., Cao, C. G. L. (2023). Virtually stressed: Interaction between copresence and virtual agent behaviour. Presented at the 7th International Conference on Human Computer Interaction Theory and Applications, VISIGRAPP 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Application. Lisbon, Portugal, February 19-21, 2023.
+
+Cao, C. G. L., & Wilcox, K. (2023). Application of haptic augmentation in laparoscopic surgery. Presented at the AHFE 2023 Conference. Honolulu, Hawaii, December 4-7, 2023.
+
+Nepomuceno, A., Gupta, A., Cao, C.G.L. (2024). Jump XR: A proposed methodology and design framework for medical XR simulation curriculum integration and case study. Presented at the HFES International Symposium, Chicago, IL, March 24-27, 2024.
+
+
+Refereed Conference Papers and Presentations
+Cao, C.G.L., MacKenzie, C.L., & Payandeh, S. (1996). Task and motion analyses in endoscopic surgery. Proceedings of the ASME Dynamic Systems and Controls Division. (Fifth Annual Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems), DSC-Vol. 58, 583-590.
+
+MacKenzie, C.L., Ibbotson, J.A., Cao, C.G.L., & Lomax, A.J. (1998). Intelligent tools for minimally invasive surgeries: safety and error issues. In A.L. Scheffler & L.A. Zipperer (Eds.), Proceedings of Enhancing Patient Safety and Reducing Errors in Health Care. Chicago: National Patient Safety Foundation. 226-229.
+
+Ibbotson, J.A., MacKenzie, C.L., Cao, C.G.L., & Lomax, A.J. (1999). Gaze patterns in laparoscopic surgery. In J.D. Westwood, H.M. Hoffman, R.A. Robb, D. Stredney (Eds.), Medicine Meets Virtual Reality: 7. The Convergence of Physical and Informational Technologies: Options for a New Era in Healthcare. IOS Press, Washington, DC. 154-160.
+
+ MacKenzie, C.L., Graham, E.D., Cao, C.G.L., & Lomax, A.J. (1999). Virtual hand laboratory meets endoscopic surgery. In J.D. Westwood, H.M. Hoffman, R.A. Robb, D. Stredney (Eds.), Medicine Meets Virtual Reality: 7. The Convergence of Physical and Informational Technologies: Options for a New Era in Healthcare. IOS Press, Washington, DC. 212-218.
+
+Cao, C.G.L., MacKenzie, C.L., Ibbotson, J.A., Turner, L.J., Blair, N.P., & Nagy, A.G. (1999). Hierarchical decomposition of laparoscopic procedures. In J.D. Westwood, H.M. Hoffman, R.A. Robb, D. Stredney (Eds.), Medicine Meets Virtual Reality: 7. The Convergence of Physical and Informational Technologies: Options for a New Era in Healthcare. IOS Press, Washington, DC. 83-89.
+
+Cao, C.G.L. (2000). Augmented reality displays for endoscopic orientation and navigation. Doctoral Consortium. Proceedings of the CHI 2000 Conference on Human Factors in Computing Systems. 91-92.
+
+Cao, C.G.L. & Milgram, P. (2000). Case studies of disorientation in minimally invasive surgery. Proceedings of the 44th Annual Meeting of the Human Factors and Ergonomics Society and XIVth Triennial Congress of the International Ergonomics Association. Vol 4, 169-172.
+
+Cao, C.G.L. (2001). Designing for spatial orientation in non-rigid endoscopic environments. Proceedings of the 45th Annual Meeting of the Human Factors and Ergonomics Society. 1259-1263. CHAPANIS BEST STUDENT PAPER PRIZE FINALIST
+
+Payandeh, S., Lomax, A.J., Dill, J., MacKenzie, C.L., Cao, C.G.L. (2002). On defining metrics for assessing laparoscopic surgical skills in a virtual training environment. In J.D. Westwood, H.M. Hoffman, R.A. Robb, D. Stredney (Eds.), Medicine Meets Virtual Reality: 10, Digital Upgrades: Applying Moore’s Law to Health. IOS Press, Washington, DC. 334-340.
+
+Lomax, A.J., Payandeh, S., Dill, J., MacKenzie, C.L., Cao, C.G.L. (2002). Design of a virtual laparoscopic training environment based on time and motion analyses of surgeons’ manipulative performance. Proceedings of the Annual Meeting of the Society for Medical Innovation and Technology. National Hospital, Oslo, Norway, September 5, 2002.
+
+Cao, C.G.L. (2003). How do endoscopists maintain spatial awareness in colonoscopy? Proceedings of the International Ergonomics Association XVth Triennial Congress.
+
+Cao, C.G.L., Waxberg, S., Smith, E. (2003). Role of landmark for spatial mapping in non-rigid environments. Proceedings of the 47th Annual Meeting of the Human Factors and Ergonomics Society. 1545-1548.
+
+Cao, C.G.L., Webster, J., Perreault, J., Schwaitzberg, S., Rogers, G. (2003). Visually perceived force feedback in simulated robotic surgery. Proceedings of the 47th Annual Meeting of the Human Factors and Ergonomics Society. 1466-1470.
+
+Horn, M., Cao, C.G.L., Baise, L., Kilmer, M., Hassoun, S., Souvaine, D. (2004). Model for mentoring and retaining engineering students from underrepresented groups. Proceedings of the ASEE New England Section 2004 Annual Conference.
+
+Cao, C.G.L. & Taylor, H. (2004). Effects of new technology on the operating room team. Proceedings of the 7th International Conference on Work with Computing Systems, special session on IT in Healthcare. 309-312.
+
+Alvarado, C. & Cao, C.G.L. (2004). Panel: Human factors in healthcare in 2020. Proceedings of the 48th Annual Meeting of the Human Factors and Ergonomics Society. 1764-1767.
+
+Waxberg, S., Goodell, K., Avgerinos, D., Schwaitzberg, S., Cao, C.G.L. (2004). Evaluation of physical versus virtual surgical simulators. Proceedings of the 48th Annual Meeting of the Human Factors and Ergonomics Society. 1675-1679.
+
+ Perreault, J. & Cao, C.G.L. (2004). Effects of friction on haptic perception in simulated endoscopic environments. Proceedings of the 48th Annual Meeting of the Human Factors and Ergonomics Society. 1704-1707.
+
+Webster, J. & Cao, C.G.L. (2004). Divided attention in using robotic surgical systems. Proceedings of the 48th Annual Meeting of the Human Factors and Ergonomics Society. 1751-1754.
+
+Gaulin, M. & Cao, C.G.L. (2005). Surgical learning aid: Reducing uncertainty for the novice during simulated minimally invasive surgery. Proceedings of the 49th Annual Meeting of the Human Factors and Ergonomics Society, 1089-1093.
+
+Waxberg, S., Schwaitzberg, S. & Cao, C.G.L. (2005). Effects of video game experience on laparoscopic skill acquisition. Proceedings of the 49th Annual Meeting of the Human Factors and Ergonomics Society, 1047-1051.
+
+Rivera, C. & Cao, C.G.L. (2005). Toward improved communication in laparoscopic surgery: Accounting for multiple frames of reference and visuomotor transformations. Proceedings of the 49th Annual Meeting of the Human Factors and Ergonomics Society, 999-1003.
+
+O’Connor, A., Cao, C.G.L. & Schwaitzberg, S. (2006). Knowledge of results in surgical skills training. Current Surgery. BEST PAPER PRIZE – 3RD PLACE
+
+Cao, C.G.L., Ozdas, A., Slagle, J. (2006). Utilisation of computerised order entry protocols in the ICU for glucose management. Proceedings IEA 2006 Congress, Maastricht, the Netherlands, July 10-14, 2006.
+
+Hall, T.J., Rudolph, J. W. & Cao, C.G.L. (2006). Fixation and attention allocation in anaesthesiology crisis management: an abstraction hierarchy perspective. Proceedings of the 50th Annual Meeting of the Human Factors and Ergonomics Society, 1064-1067.
+
+Schoonmaker, R. & Cao, C.G.L. (2006). Vibrotactile feedback enhances force perception in minimally invasive surgery. Proceedings of the 50th Annual Meeting of the Human Factors and Ergonomics Society, 1029-1033. HEALTHCARE TECHNICAL GROUP BEST STUDENT PAPER PRIZE
+
+Shimotsu, R. & Cao, C.G.L. (2006). Improving depth perception in laparoscopic surgery using colour-contrasting shadows. Proceedings of the 50th Annual Meeting of the Human Factors and Ergonomics Society, 1024-1028.
+
+Waxberg, S. & Cao, C.G.L. (2006). Modelling surgical resident performance. Proceedings of the 50th Annual Meeting of the Human Factors and Ergonomics Society, 994-998.
+
+Schoonmaker, R.E. & Cao, C.G.L. (2006). Vibrotactile force feedback system for minimally invasive surgical procedures. Proceedings of the 2006 IEEE International Conference on Systems, Man, and Cybernetics, 2464-2469.
+
+Cao, C.G.L. (2007). Panel: Beyond see-one, teach-one: Applying HF to clinical training and education. (Panel chair: Klaus Christoffersen). Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society, 755-759.
+
+Cao, C.G.L., Kalsher, M., Vredenburg, A., Weinger, M., Israelski, E. (2007). Mock trial: Role of human factors in litigation involving an automatic external defibrillator (AED). Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society, 1514-1516.
+
+Bell, A. & Cao, C.G.L. (2007). How does artificial force feedback affect laparoscopic surgery performance? Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society, 646-650.
+
+Zhou, M.G., Jones, D., Schwaitzberg, S.D., Cao, C.G.L. (2007). Role of haptic feedback and cognitive load in surgical skill acquisition. Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society, 631-635.
+
+Zhou, M.G., Perreault, J., Schwaitzberg, S.D., Cao, C.G.L. (2007). Shifts in force perception threshold in laparoscopic surgery with experience. Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society, 636-640.
+
+Afram, A., Briedis, J., Fujiwara, D., Jacob, R., Cao, C.G.L., Kahle, D. (2007). Evaluation of semantic fisheye zooming to provide focus+context. Proceedings of the 51st Annual Meeting of the Human Factors and Ergonomics Society, 459-463.
+
+Zhou, M.G., Perreault, J., Schwaitzberg, S.D. & Cao, C.G.L. (2007). Force perception threshold varies with experience in minimally invasive surgery. Symposium on Haptics in Medical Applications (Chair: Greg Gerling). Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics, 2228-2232.
+
+Bell, A. & Cao, C.G.L. (2007). Effects of artificial force feedback in laparoscopic surgery training simulators. Symposium on Haptics in Medical Applications (Chair: Greg Gerling). Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics, 2239-2243.
+
+Cao, C.G.L., Lilge, L., Wong, P., Xing, H., Zamarripa, N. (2008). Advanced shape tracking to improve flexible endoscopic diagnostics. In T. Kundu (Ed.), Health Monitoring of Structural and Biological Systems 2008, Proceedings of SPIE, 6935, 6935221-6935228.
+
+Gavalis, R.M., Xing, H., Wong, P.Y., Lilge, L., Cao, C.G.L. (2008). Endoscope shape-tracker based on embedded fluorescent dyes in an optical fiber. Presented at the ASME 2008 Summer Bioengineering Conference, Proceedings of the ASME 2008 Summer Bioengineering Conference (SBC2008), Marco Island, FL, June 25-29, 2008.
+
+Cao, C.G.L. (2008). Navigation in a non-rigid environment: colonoscopy. Presented at the APA Division 21 Symposium, Boston, MA, August 14-17, 2008.
+
+Zhou, M., Tse, S., Derevianko, A., Jones, D.B., Schwaitzberg, S.D., Cao, C.G.L. (2008). The effect of haptic feedback on laparoscopic suturing and knot-tying: A learning curve study. Proceedings of the 52nd Annual Meeting of the Human Factors and Ergonomics Society.
+
+Eisenstein, J., Gavalis, R., Wong, P.Y., Cao, C.G.L. (2009). Optical design of endoscopic shape-tracker using quantum dots embedded in fiber bundles. Novel Optical Systems Design and Optimization XII 2009, Proceedings of SPIE, 74290X.
+
+Bell, A. & Cao, C.G.L. (2009). Vibration frequency modulation for force-feedback delivery in laparoscopic surgery. Proceedings of the 2009 International Ergonomics Association Congress, Beijing, China, August 9-14, 2009.
+
+Zhou, M. & Cao, C.G.L. (2009). Application of vibrotactile stimulation to augment haptic perception in minimally invasive surgery. Proceedings of the 2009 International Ergonomics Association Congress, Beijing, China, August 9-14, 2009.
+
+Zhou, M. & Cao, C.G.L. (2009). Vibrotactile feedback improves laparoscopic palpation skills. Proceedings of the 53rd Annual Meeting of the Human Factors and Ergonomics Society, San Antonio, TX, October 19-23, 2009. HEALTHCARE TECHNICAL GROUP BEST STUDENT PAPER PRIZE
+
+Zhang, L. & Cao, C.G.L. (2010). The effect of image orientation on a dynamic laparoscopic task. Proceedings of the 54th Annual Meeting of the Human Factors and Ergonomics Society. San Francisco, September 27 – October 1, 2010.
+
+Cao, C.G.L. & Danahy, E. (2011). Increasing accessibility to medical robotics education. The 2011 IEEE International Conference on Technologies for Practical Robot Applications (TePRA), Woburn, MA, April 11-12, 2011.
+
+Takac, B. Grosdemouge, C., Chellali, A., Milleville, I., Dumas, C. Cao, C.G.L. (2011). Haptic communication. Proceedings of the 55th Annual Meeting of the Human Factors and Ergonomics Society. Las Vegas, September 19- 23, 2011.
+
+Wong, C., Grosdemouge, C., Milleville, I., C., Dumas, C., Cao, C.G.L. (2011). Human haptic evaluation. Proceedings of the 55th Annual Meeting of the Human Factors and Ergonomics Society. Las Vegas, September 19- 23, 2011.
+
+Monzon, E.L.R., Chellali, A., Dumas, C., Cao, C.G.L. (2011). Haptic sensitivity in needle insertion: the effects of training and visual aid. International Conference of the European SKILLS Project, Montpellier, France, December 15-16, 2011.
+
+Zhang, L., Grosdemouge, C., Sankaranarayanan, G., Anh, W., Sreekanth, A.V., De, S., Jones, D., Schwaitzberg, S., Cao, C.G.L. (2012). The reality of virtual reality technology for surgical training. IEA 2012 Meeting, Recife, Brazil, February 12-16, 2012.
+
+Cao, C.G.L. & Rivera, C. (2012). Ergonomic considerations in natural orifice translumenal endoscopic surgery. Symposium on Ergonomic Aspects of Clinical and Surgical Procedures. IEA 2012 Meeting, Recife, Brazil, February 12-16, 2012.
+
+Monzon, E.L.R., Chellali, A., Dumas, C., Cao, C.G.L. (2012). Training effects of a visual aid on haptic sensitivity in a needle insertion task. The 2012 IEEE Haptics Symposium: Engaging and Connecting with the User, Vancouver, Canada, March 4-7, 2012.
+
+Cunningham, S., Chellali, A., Cao, C.G.L. (2012). Design of a spatial aid for team communication in robotic surgery. 2012 Proceedings of the ASME 11th Biennial Conference on Engineering Systems Design and Analysis (ESDA 2012), 847-854.
+
+Banez, J., Caro, S., Schwaitzberg, S., Classe, J-M., Cao, C.G.L. (2012). Modelling patients for optimised port placement in robot-assisted surgery. 2012 Proceedings of the ASME 11th Biennial Conference on Engineering Systems Design and Analysis (ESDA 2012), 821-826.
+
+Cao, C.G.L., Danahy, E., Goble, J. (2012). Educational robotics for a teleoperated general exam. 2012 IEEE International Conference on Technologies for Practical Robot Applications (TePRA), Woburn, MA, April 11-12, 2012.
+
+Grosdemouge, C., Weyhrauch, P., Niehaus, J., Schwaitzberg, S., Cao, C.G.L. (2012). Design of training protocol for perceptual and technical skills in minimally invasive surgery. 2012 Proceedings of the ASME 11th Biennial Conference on Engineering Systems Design and Analysis (ESDA 2012), 855-860.
+
+Balestra, M. & Cao, C.G.L. (2012). Affective interactions: Developing a framework to enable meaningful haptic interactions over geographic distance. Applied Human Factors and Ergonomics International 2012. San Francisco, CA, July 19-23, 2012.
+
+Cunningham, S. & Cao, C.G.L. (2012). Spatial communication in robotic surgery. Proceedings of the 56th Annual Meeting of the Human Factors and Ergonomics Society. Boston, Massachusetts, October 22-26, 2012.
+
+Banez, J. & Cao, C.G.L. (2012). Ergonomics of robotic surgery. Symposium on Ergonomic aspects of clinical and surgical procedures. Proceedings of the 56th Annual Meeting of the Human Factors and Ergonomics Society. Boston, Massachusetts, October 22-26, 2012.
+
+Nemani, A., Sankaranarayanan, G., Roberts, K., Panait, L., Cao, C.G.L., De, S. (2012). Hierarchical task analysis of hybrid rigid scope natural orifice translumenal endoscopic surgery (NOTES) cholecystectomy procedures. Studies in Health Technology and Informatics, 184, 293-297.
+
+Nemani, A., Sankaranarayanan, G., Cao, C.G.L., De, S. (2013). Hierarchical task analysis of hybrid rigid scope natural orifice translumenal endoscopic surgery (NOTES) cholecystectomy procedures. Presented at the 2013 Medicine Meets Virtual Reality Conference, February, San Diego, CA.
+
+Flinn, J., Galloway, M., Lin, K., Cao, C.G.L. (2013). Development and usability testing of an online tool for intraoperative assessment of surgical residents. The 57th Annual Meeting of the Human Factors and Ergonomics Society. San Diego, CA, September 30 – October 4, 2013.
+
+Sankaranarayanan, G. & Cao, C.G.L. (2013). Characterization of the learning plateau and the learning rate of the VBLaST PT simulator with a kinematic objective performance metric. Symposium: MIS – Beyond the box trainer. The 57th Annual Meeting of the Human Factors and Ergonomics Society. San Diego, CA, September 30 – October 4, 2013.
+
+Chellali, A. & Cao, C.G.L. (2013). The impact of new instrumentation on surgical performance in Natural Orifice Translumenal Endoscopic Surgery. Symposium: MIS – Beyond the box trainer. The 57th Annual Meeting of the Human Factors and Ergonomics Society. San Diego, CA, September 30 – October 4, 2013.
+
+Miller, A., Sun, T., Ganapathy, S., Pyatka, N., Weyrauch, P., Niehaus, J., Cao, C.G.L. (2013). Strategies for training for technical and non-technical surgical skills. Symposium: MIS – Beyond the box trainer. The 57th Annual Meeting of the Human Factors and Ergonomics Society. San Diego, CA, September 30 – October 4, 2013.
+
+Sankaranarayanan, G. & Cao, C.G.L. (2013). Generation (GEN) 2 surgical simulator. Symposium: Me and My VE, Part 2. The 57th Annual Meeting of the Human Factors and Ergonomics Society. San Diego, CA, September 30 – October 4, 2013.
+
+Wang, J., Chellali, A., Cao, C.G.L. (2013). A study of communication modalities in a virtual collaborative task. IEEE SMC 2013 Conference, Part SMC: Human-Machine. Manchester, UK, October 13-16, 2013.
+
+Simoes, M. & Cao, C.G.L. (2013). Leonardo: A first step towards an interactive decision aid for port-placement in robotic surgery. IEEE SMC 2013 Conference, Part SMC: Human-Machine. Manchester, UK, October 13-16, 2013.
+
+Lou, Y., Finn, J., Ganapathy, S., Weywrach, P., Niehaus, J., Cao, C.G.L. (2014). Supporting procedural and perceptual learning in laparoscopic surgery. The 2014 International Annual Meeting of the Human Factors and Ergonomics Society. Chicago, IL, October 27-31, 2014.
+
+Cao, C.G.L (2014). Experience and work culture in robotic surgery. Panel: Conducting studies in the OR: Translating HFE research into clinical best practice. The HFES 2014 International Symposium on Human Factors and Ergonomics in Health Care: Leading the Way. Chicago, IL. March 16-19, 2014.
+
+Flinn, J., Miller, A., Saxe, J., Cao, C.G.L. (2014). Display optimisation for ICG medical imaging: A psychophysical approach. The 2014 International Annual Meeting of the Human Factors and Ergonomics Society. Chicago, IL, October 27-31, 2014.
+
+Coles, T., Dumas, C., Cao, C.G.L. (2014). ETrack: Ergonomic assessment tool in surgical settings. Symposium: Ergonomic aspects of clinical and surgical procedures. The 2014 International Annual Meeting of the Human Factors and Ergonomics Society. Chicago, IL, October 27-31, 2014.
+
+Weyhrauch, P., Niehaus, J., Cao, C.G.L., Schwaitzberg, S.D. (2015). Research & development on capturing, defining, and assessing cognitive skills – methodology for annotating skill trees (MAST). International Meeting for Simulation in Healthcare. New Orleans, January 10-15, 2015.
+
+Rinehart, B., Martin, M., Cao, C.G.L. (2015). Characterisation of concentration effects on optical properties of CdTe quantum dots. SPIE Smart Structures /NDE 2015. San Diego, CA, March 8-12, 2015.
+
+Wang, J. & Cao, C.G.L. (2014). Reproduction of displacement with haptic feedback in 3D space. The 2014 International Annual Meeting of the Human Factors and Ergonomics Society. Chicago, IL, October 27-31, 2014.
+
+Diller, E., Cao, C.G.L. (2015). The use of stochastic resonance in a two-dimensional Fitts’ task. BMES 2015 Annual Meeting, Tampa, Florida, October 7-10, 2015.
+
+Luu, D.K., Dumas, D., Coles, T.R., Wang, J., Cao, C.G.L. (2015). Replicating contralateral haptic feedback. Proceedings of the IEEE SMC 2015 Conference, Hong Kong, October 9-12, 2015.
+
+Dumas, C., Coles, T., de Visser, H., Grimpen, F., Cao, C.G.L. (2016). Haptic feedback tuning in colonoscopy simulation. Proceedings of the IEEE SMC 2016 Conference, Budapest, Hungary, October 9-12, 2016.
+
+Flach, J., Reynolds, P., Cao, C.G.L. (2017). Engineering representations to support evidence-based clinical practice. Proceedings of the HFES 2017 International Symposium on Human Factors and Ergonomics in Health Care. New Orleans, LO, March 508, 2017.
+
+Maddah, M., Dumas, C., Cao, C.G.L. (2017). A patient-specific 3D model for port placement in robotic surgery. Proceedings of the Surgetica 2017 Meeting, Strasbourg, France, November 20-22, 2017.
+
+Endsley, M., Saab, N., Cao, C.G.L., Handley, H., Harris-Adamson, C. (2019). HFES goes to Washington. Proceedings of the HFES 63rd International Annual Meeting of the Human Factors and Ergonomics Society. Seattle, WA, October 28-November 1, 2019.
+
+Bass, E.J., Bisantz, A., Carayon, P., Cao, C.G.L., Cooke, N., Pritchett, A. (2019). Moving forward from the mid-career: Path options and strategies for mid-career academics. Proceedings of the HFES 63rd International Annual Meeting of the Human Factors and Ergonomics Society. Seattle, WA, October 28-November 1, 2019.
+
+Topolski, C., Dumas, C., Rigaud, J., Cao, C.G.L. (2019). Why is circular suturing so difficult? Proceedings of the HFES Europe Chapter 2019 Annual Conference, ISSN 2333-4959 (http://hfes-europe.org)
+
+Axiopoulou, A., Lin, K., Watson, K., Cao, C.G.L. (2020). How do surgeon preferences and technique variance affect outcome? Proceedings of the 2020 International Symposium on Human Factors and Ergonomics in Health Care, Virtual Event, May 18-21, 2020.
+
+Bass, E., Caldwell, B., Cao, C.G.L., Lee, J., Miller, C. (2020). Planning the sabbatical: Potential benefits, options and strategies. Proceedings of the HFES 64th International Annual Meeting of the Human Factors and Ergonomics Society. Virtual Event, October 5-8, 2020.
+
+Lechappe, A., Chollet, M., Rigaud, J., Cao, C.G.L. (2020). Assessment of situation awareness during robot-assisted surgery using multimodal data. Proceedings of the ICMI’20 Workshop, Virtual Event, October 25-29, 2020.
+
+Lechappe, A., Chollet, M., Rigaud, J., Cao, C.G.L. (2021). Using multimodal data to predict surgeon situation awareness. International Ergonomics Association 21st Triennial Congress, Vancouver, Canada, June 13-18, 2021.
+
+Axiopoulou, A., Day, J., Cao, C.G.L. (2021). Design of a virtual coach for training critical care air transport teams. International Ergonomics Association 21st Triennial Congress, Vancouver, Canada, June 13-18, 2021.
+
+Vredenburgh, M., Stone, P., Cao, C.G.L. (2021). User experience: An evaluation of the Pilot education platform and online learning at a public university in USA. Proceedings of the HFES 65th International Annual Meeting of the Human Factors and Ergonomics Society. Hybrid Event, 2021.
+
+ Béchu, G., Beugnard, A., Cao, C.G.L., Perez, Q., Urtado, C., Vauttier, S. (2022). A software engineering point of view on digital twin architecture. Proceedings of the 27th Annual Conference of the IEEE Industrial Electronics Society: International Conference on Emerging Technologies and Factory Automation (ETFA 2022), Stuttgart, Germany, September 6-9, 2022.
+
+. Kessassi, C., Dumas, C., Chollet, M., Cao, C.G.L. (2023). Social presence mediates audience 1. behaviour effects on social stress in virtual public speaking. Proceedings of the ACII 2023 (Affective Computing and Intelligent Interaction). Boston, MA., Sept. 10-13, 2023.
+
+Nepomuceno, A., Kim, I., Schultz, C., Sharp, L., Cao, C.G.L. (2024). Immersive digital-twin simulation-driven nursing education and job training. To be presented at the 2024 IISE Annual Conference & Expo, Montreal, Canada, May 18-21, 2024.
+
+ Kessassi, C., Duma, C., Cao, C.G.L., Chollet, M. (2024). You're hired! Effect of virtual agents' social status and social attitudes on stress induction in virtual job interviews. To be presented at IEEE VR 2024, Orlando, FL, USA, March 18-21, 2024.
+
+
+Invited Lectures
+Gender Equality in Academic Research
+Panelist
+ at German-French Industry of the Future Workshop
+Moderator of breakout session on Industry-Education 
+Engagement
+L'Innovation en Sante 
+Round Table panelist for Telemedicine and Connected Health
+
+Round Table panelist for Clinical Translation, Computer-Integrated Surgery: Intelligent Systems of the Future Workshop
+
+Table-ronde panelist: Technologies en sante numerique
+
+Moderator of workshop "Medtech: Mauvaise conception ou mauvais medecins?"
+
+
+Patents
+US 8,725,234 B2, Systems, devices, and methods employing fiber optic shape tracking. Inventors Cao, Lilge, Milgram, Wong. Issued May 13, 2014.
+US 8,219,180 B2, System and method employing fiber optic shape tracking. Inventors Cao, Lilge, Milgram, Wong. Issued July 10, 2012.
+PCT/US17?55346 (US 62/404,370), Sensorized guidewire and catheter. Inventor Cao. Filed Oct 2017.
+
+
+Magazine Articles
+Vietnamese refugee Caroline Cao boosts Wright Stateâ€™s expertise in medical imaging and human-factors engineering
+
+Professional Societies
+Societe Canadienne D'Apprentissage Psychomoteur er de Psychologie du Sport (SCAPPS), 1193-96
+North American Society for the Psychology of Sport and Physical Activity (NASPSPA),   1993-2006
+Board of Directors, Charter Member (2002), Human Factors and Ergonomics Society, New England Chapter, 2002-05
+American Society of Mechanical Engineers (ASME), 2003-present
+Track co-chair, Technical programme committee, ASME ESDA 2012, 11th biennial
+conference on engineering systems design and analysis, 2-4 July 2012, Nantes, France
+
+Society of American Gastrointestinal and Endoscopic Surgeons (SAGES), 2006-present
+SAGES Committees:  Technology;  Fundamentals of Laparoscopic Surgery, 2011-2020
+Ohio Order of Engineers, 2013-present
+Associate Editor, IEEE Transactions on Systems, Man and Cybernetics, Part A:  Systems and Humans), 2008-12 
+Associate Editor, IEEE Transactions on Human-Machine Systems (formerly SMC, Part A:  Systems and Humans), 2012-16
+Associate Editor, Journal of Advances in Human-Computer Interaction, 2007-present
+Associate Editor, Human Factors, 2017-present
+Human Factors and Ergonomics Society (HFES)
+Science and Policy Fellow, 2018-21
+Co-Founder, Early Career Professionals Group
+IEEE, Member 2003 to present
+Chair, Human-Computer Interaction Technical Committee, SMC 2015-2018
+Registration Chair, Haptics Symposium, 202 (Washington , DC), 2022 (UC Santa Barbara, CA), 2024 (Long Beach, CA)
+
+Honors
+BC Scholar (1985)
+Vancouver Citizenship Award (1985)
+MacKenzie King Entrance Scholarship, UBC (1985 (declined)
+)
+Gordon M. Shrum Scholarship, SFU  (1985-1988)
+SFU Graduate Fellowship (1997 (declined))
+Gordon Diewert Fellowship  (1997 (declined))
+University of Toronto Graduate Fellowship  (1997-1999)
+Ontario Graduate Scholarship (1999-2001)
+Claudette MacKay-Lassonde Scholarship (Women in Engineering), U of T Nominee  (2000)
+Chapanis Best Student Paper Award, Finalist (2001)
+NSF early CAREER Award (2003)
+Mellon Foundation Research Grant (2006)
+Ohio Research Scholar (2012-2015)
+HERS Fellow, nominated and selected 2013 (2013)
+Eminent Engineer, Tau Beta Pi Ohio Mu Chapter (2016)
+US Fulbright Scholar (host: International University, HCMC, Vietnam) (2016-17)
+ELATE Fellow, nominated and selected  (2018)
+Science Policy Fellow (2018-21)
+Fellow (elected 2018
+)
+Service Excellence Award, College of Engineering and Computer Science 
+ (2019)
+Fellow, Human Factors and Ergonomics Society (2018)
+IEA Fellow (2024)
+
+Recent Courses TaughtBSE 744 - Simulation I
+SE 598 - Research Methods in HFE
+

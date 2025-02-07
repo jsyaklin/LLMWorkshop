@@ -1,0 +1,317 @@
+
+
+
+Houtan Jebelli he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+hjebelli@illinois.edu
+2108 Newmark Civil Engineering Bldg
+
+
+For More Information
+Link to the Robotic, Automation, and Intelligent Sensing (RAISe) Lab.
+
+Link to most recent list of publications
+
+Education
+Ph.D., Civil and Environmental Engineering, University of Michigan, 2019
+
+MS, Electrical Engineering and Computer Science, University of Michigan, 2016
+
+MS Minor, Biomedical Engineering, University of Michigan, 2016
+
+MS, Construction Engineering and Management, University of Nebraska- Lincoln, 2015
+
+MS, Structural Engineering, Sharif University of Technology, 2013
+
+BS, Civil and Environmental Engineering, Tehran Polytechnic University, 2012
+
+
+BiographyDr. Houtan Jebelli is currently an Assistant Professor in the Department of Civil and Environmental Engineering at the University of Illinois Urbana-Champaign. Prior to joining UIUC, he held positions as an Assistant Professor of Construction Engineering and Mechanical Engineering at Pennsylvania State University. Dr. Jebelli earned his Ph.D. in Civil Engineering from the University of Michigan. He also holds a bachelor's degree from Tehran Polytechnic University, a Master's degree in Structural Engineering from Sharif University of Technology, a Master's degree in Construction Engineering and Management from the University of Nebraska-Lincoln, and a third Master's in Electrical Engineering and Computer Science, with a focus on Machine Learning and Robotics, also from the University of Michigan.As the director of the Robotic, Automation, and Intelligent Sensing (RAISE) Lab at UIUC, Dr. Jebelli's research centers around construction automation and robotics, particularly the integration of human physiology into robotic control and motion planning systems. This work enhances interactions and adaptations between workers and robots on construction sites. The RAISE lab aims to develop human-centric robotic perception and adaptation mechanisms, promote worker-robot collaborations, and emphasize safety and efficiency. Their work also incorporates physiological computing to automate construction processes and implement health monitoring systems for workers, using real-time physiological data.Dr. Jebelli's substantial contributions to the field include authoring four books, seven book chapters, 73 peer-reviewed conference papers, and 41 peer-reviewed journal papers. His expertise in securing funding has led to over $4.5 million in grants from organizations such as the National Science Foundation, the Centers for Disease Control and Prevention, and the National Institute for Occupational Safety and Health (NIOSH). In recognition of his dedication and excellence, Dr. Jebelli has received several awards, including the Charles M. Eastman Top Ph.D. Paper Award, two Outstanding Thesis Awards, the Rackham Research Grant, the John L. Tishman Fellowship, and the Calvin C. Solem Foundation Fellowship.Beyond his research, Dr. Jebelli is deeply committed to education and mentorship, nurturing the intellectual growth of both undergraduate and graduate students. He actively contributes to the broader academic community, serving as the Vice-Chair for the ASCE Global Computing committee and participating in the ASCE Data Sensing and Analysis (DSA) and ASCE Visualization, Information Modelling, and Simulation (VIMS) committees.
+Academic Positions
+Graduate Student Research Assistant, Sharif University of Technology, Tehran, Iran (2012-2013)
+
+Graduate Student Research Assistant, University of Nebraska- Lincoln, Lincoln, NE, U.S. (2013-2015)
+
+Graduate Student Research Assistant, University of Michigan, Ann Arbor, MI, U.S. (2015-2019)
+
+Affiliated of the Center for Healthy Aging, College of Health and Human Development, The Pennsylvania State University, State College, PA, U.S. (2019-2023)
+Affiliate of the Institute for Computational and Data Sciences, College of Engineering, The Pennsylvania State University, State College, PA, U.S. (2019-2023)
+Assistant Professor of Construction Engineering, College of Engineering, The Pennsylvania State University, State College, PA, U.S. (2019-2023)
+Assistant Professor of Mechanical Engineering, College of Engineering, The Pennsylvania State University, State College, PA, U.S.  (2022– 2023)
+Assistant Professor of Civil and Environmental Engineering, The Grainger College of Engineering (2023 – Present)
+Affiliate Assistant Professor, Coordinated Science Laboratory (Robotics Group), The Grainger College of Engineering (2024–Present)
+
+Graduate Research Opportunities
+Undergraduate Research OpportunitiesThe Robotics, Automation, and Intelligent Sensing (RAISE) Lab at the University of Illinois Urbana-Champaign invites top UIUC undergraduate students, passionate about the future of construction and robotics, to join our pioneering research team. Under the guidance of Dr. Jebelli, our lab spearheads the effort to integrate robotics, automation, and intelligent sensing within the construction industry, with the aim of significantly enhancing safety, productivity, and health. Our objective is to transform construction sites into highly automated, efficient environments, utilizing data acquisition, simulation tools, and advanced data analytics. Participating students will gain invaluable hands-on experience in a diverse, multidisciplinary setting that prepares them for upcoming challenges. We are looking for driven students eager to contribute to significant advancements in construction automation. Interested individuals are encouraged to demonstrate their enthusiasm for technology and their dedication to innovation by sending their CV to Dr. Jebelli. This presents a unique opportunity for top undergraduates to be at the forefront of shaping the future of the construction industry.
+Research Interests
+Advanced Robotic Systems for Operational Excellence in Construction Projects
+Advancing Robotics and Automation Engineering Pedagogy through the Strategic Integration of Cutting-Edge Immersive Technologies.
+Next-Generation Wearable Sensor Technologies for Predictive Analytics in Health and Safety Management
+Optimized Deployment of Advanced Safe Human-Robot Interaction Dynamics in Complex and Unstructured Environments
+
+
+Research Areas
+Construction Engineering and Management
+Societal Risk & Hazard Mitigation
+Sustainable and Resilient Infrastructure Systems
+
+
+Books Edited or Co-Edited (Original Editions)
+Houtan Jebelli, Somayeh Asadi, Ivan Mutis, Rui Liu, and Jack Cheng, 2024, Digital Twins in Construction and the Built Environment, American Society of Civil Engineers (ASCE).
+Milad Sadat-Mohammadi, Morteza Nazari-Heris, Somayeh Asadi, Behnam Mohammadi-Ivatloo, and Houtan Jebelli, 2022, Renewable Energy for Buildings: Technology, Control, and Operational Techniques (Green Energy and Technology), Springer.
+
+Houtan Jebelli, Mahmoud Habibnezhad, Shayan Shayesteh, Somayeh Asadi, and S. Lee, 2021, Automation and Robotics in the Architecture, Engineering, and Construction Industry, Springer.
+
+Morteza Nazari-Heris, Somayeh Asadi, Behnam Mohammadi-Ivatloo, Moloud Abdar, Houtan Jebelli, and Milad Sadat-Mohammadi, 2021, Application of Machine Learning and Deep Learning Methods to Power System Problems (Power Systems) 1st ed, Springer.
+
+
+Chapters in Books
+Gautam, Y., Adhikari, R., Ojha, A., Jebelli, H., & Sitzabee, W. E. (2024).  "Predictive Maintenance of Building Facility: A Digital Twin Framework Using Long Short-Term Memory Encode–Decode Model," In Digital Twins in Construction and the Built Environment (pp. 173-188). Reston, VA: American Society of Civil Engineers.
+
+Sadat-Mohammadi, M., Asadi, S., & Jebelli, H. (2024). "Digital Twin Based Ergonomic Risk Assessment Framework for Maintenance Technicians in Near Real Time," In Digital Twins in Construction and the Built Environment (pp. 77-90). Reston, VA: American Society of Civil Engineers.
+
+Shayesteh, S., Ojha, A., Jebelli, H., & Ray, A. (2024). "Digital Twin Enabled Health Monitoring of Construction Workers during Robotic Teleoperation," In Digital Twins in Construction and the Built Environment (pp. 77-90). Reston, VA: American Society of Civil Engineers.
+Liu, Y., Habibnezhad, M., & Jebelli, H. (2022). "Worker-Aware Task Planning for Construction Robots: A Physiologically Based Communication Channel Interface," In Automation and Robotics in the Architecture, Engineering, and Construction Industry (pp. 181-200). Springer, Cham.
+
+Shayesteh, S., Ojha, A., & Jebelli, H. (2022). "Workers Trust in Collaborative Construction Robots: EEG-Based Trust Recognition in an Immersive Environment," In Automation and Robotics in the Architecture, Engineering, and Construction Industry (pp. 201-215). Springer, Cham.
+
+Jebelli, H., & Lee, S. (2019). "Feasibility of wearable electromyography (EMG) to assess construction workers’ muscle fatigue," In Advances in informatics and computing in civil and construction engineering (pp. 181-187). Springer, Cham.
+Jebelli, H., Khalili, M. M., & Lee, S. (2019). "Mobile EEG-based workers’ stress recognition by applying deep neural network," In Advances in informatics and computing in civil and construction engineering (pp. 173-180). Springer, Cham.
+
+Selected Articles in Journals
+Gautam, Y. and Jebelli, H. (2024). "Design of flexible polyimide-based serpentine EMG sensor for AI-enabled fatigue detection in construction," Sensing and Bio-Sensing Research, 46, 100713.
+
+Ren, T., and Jebelli, H. (2024). "Efficient 3D robotic mapping and navigation method in complex construction environments," Computer‐Aided Civil and Infrastructure Engineering.
+
+Ojha, A., Gautam, Y., Jebelli, H., and Akanmu, A. (2024). "Physiological impact of powered back-support exoskeletons in construction: Analyzing muscle fatigue, metabolic cost, ergonomic risks, and stability." Automation in Construction, 168, 105742.
+
+Olukanni, E., Akanmu, A., Jebelli, H., and Terreno, S. (2024). "Competencies for Human-Robot Collaboration in the Construction Industry–Academia’s Perspective." International Journal of Construction Education and Research, 1-20.
+
+Ojha, A., Shayesteh, S., Sharifironizi, A., Liu, Y., and Jebelli, H. (2024). "Worker-centric heat strain analysis: Integrating physiological signals with ensemble learning and domain adaptation." Automation in Construction, 166, 105670.
+
+Gautam, Y., and Jebelli, H. (2024). "Autoencoder-based Photoplethysmography (PPG) signal reliability enhancement in construction health monitoring." Automation in Construction, 165, 105537.
+
+Liu, Y., and Jebelli, H. (2023). "Intention-Aware Robot Motion Planning for Safe Worker-Robot Collaboration," Computer-Aided Civil and Infrastructure Engineering, 1-28.
+
+Ojha, A., Liu, Y., Shayesteh, S.⸙, Jebelli, H., W., Sitzabee (2023). "Affordable Multi-Agent Robotic System for Same-level Fall Hazard Detection in Indoor Construction Environments" Journal of Computing in Civil Engineering, ASCE
+
+Shayesteh, S., Ojha, A. , Liu, Y. , and Jebelli, H. (2023). "Human-robot teaming in construction: Evaluative safety training through the integration of immersive technologies and wearable physiological sensing," Safety Science, Elsevier, 159
+
+Kurdi, Y., Alkhatatbeh, B., Asadi, S., Jebelli, H. (2022). "A decision-making design framework for the integration of PV systems in the urban energy planning process," Renewable Energy, Elsevier, 197(September), 288-304
+
+Liu, Y., Ojha, A., Shayesteh, S., Jebelli, H., Lee, S. (2022). " Robotic Sensing and Perception in Construction: Generative Adversarial Networks (GANs) based Physiological Computing Mechanism to Enable Robots to Perceive Workers' Cognitive Load " Canadian Journal of Civil Engineering, Canadian Science Publishing, 5(July)
+
+Liu, Y. , Habibnezhad, M., Shayesteh, S., Jebelli, H., and Lee, S. (2021). "Paving the Way for Future EEG Studies in Construction: Dependent Component Analysis (DCA) for Automatic Ocular Artifact Removal from Brainwave Signals," Journal of Construction Engineering and Management, ASCE, 147(8)
+
+Sadat-Mohammadi, M. , Shakerian, S. , Liu, Y. , Asadi, S., and Jebelli, H. (2021). Non-invasive physical demand assessment using wearable respiration sensor and random forest classifier. Journal of Building Engineering
+
+Shakerian, S.⸙, Habibnezhad, M.⸙⸙, Ojha, A.⸙, Liu, Y.⸙, Jebelli, H., Lee, S. (2021). "Assessing occupational risk of heat stress at construction: A worker-centric wearable sensor-based approach" Safety Science, Elsevier
+
+Lee, G., Choi, B., Jebelli, H., and Lee, S. (2021). "Assessment of construction workers' perceived risk using physiological data from wearable sensors: A machine learning approach," Journal of Building Engineering, Elsevier, 42, 102824,
+
+Nazari-Heris, M., Mirzaei, M., Asadi, S., Mohammadi, B., Zare, K., and Jebelli, H (2021). "A hybrid robust-stochastic optimization framework for optimal energy management of electric vehicles parking lots," Sustainable Energy Technologies and Assessments, Elsevier, 47 (2021), 101467. 
+Liu, Y., Habibnezhad, M., and Jebelli, H. (2021). "Brainwave-Driven Human-Robot Collaboration in Construction" Automation in Construction, Elsevier, 124, 103556.
+
+Liu, Y. , Habibnezhad, M., and Jebelli, H. (2021). "Brain-Computer Interface for Hands-Free Teleoperation of Construction Robots" Automation in Construction, Elsevier, 123, 103523.
+
+Habibnezhad. M., Shayesteh, S., Puckett, J., and Jebelli, H. (2021). "Comparison of Ironworkers' Fall Risk Assessment Systems Using an Immersive Biofeedback Simulator," Automation in Construction, Elsevier, 122, 103471.
+
+Nazari-Heris, M., Mirzaei, M., Asadi, S., Mohammadi, B.⸙, Zare, K., Jebelli, H. and Marzband, M. (2020). "Evaluation of hydrogen storage technology in risk-constrained stochastic scheduling of multi-carrier energy systems considering power, gas and heating network constraints" Journal of Cleaner Production, Elsevier, 45 (55), 30129-30141. 
+Lee, G., Choi, B., Jebelli, H., Ahn, C., and Lee, S. (2019). "Noise Reference Signal-based Denoising Method for EDA Collected by a Multimodal Wearable Biosensor from Fields" Journal of Computing in Civil Engineering, ASCE, 34 (6), p.04020044.
+Sadat-Mohammadi. M. ⸙, Nazari-Heris, M., Abedi, M., Asadi, S., and Jebelli, H. (2020). " Intelligent approach for residential load scheduling," IET Generation, Transmission & Distribution, IEEE, 14 (21), 4738 - 4745.
+
+Sadat-Mohammadi, M., Asadi, S., Habibnezhad, M., and Jebelli, H. (2020). "Robust Scheduling of a Multi-chiller System with Chilled-water Storage under Time-of-use Electrical Rates," Energy and Buildings, Elsevier, 218, 110058.
+
+Jebelli, H., Seo. J., Hwang, S., and Lee, S. (2020). "Physiology-based Dynamic Upper Limp Muscle Fatigue Model for during Construction Tasks, "International Journal of Industrial Ergonomics, Elsevier, 78, 102984. 
+Habibnezhad. M. ⸙⸙, Puckett, J., Jebelli, H., Karji, A., Fardhosseini, S., and Asadi, S. (2020). "Neurophysiological Test to Assess Construction Workers' Task Performance at Virtual Height," Automation in Construction, Elsevier, 113, 31-43.
+Lee, G., Choi, B., Jebelli, H., Ahn, C., and Lee, S. (2020). "Wearable Biosensor and Collective Sensing–Based Approach for Detecting Older Adults' Environmental Barriers" Journal of Computing in Civil Engineering, ASCE, 34(2), 04020002.
+Jebelli, H., Choi, B., and Lee, S. (2019). "Application of Wearable Biosensors in Construction Sites. Part II: Assessing Workers' Physical Demand," Journal of Construction Engineering and Management, ASCE, 145(12), 04019080. 
+Sun, C., Yang, K., Jebelli, H., Choi, B., Ahn, C., and Lee, S. (2019). "A Review of Wearable Sensing Technology Applications in Construction Safety and Health, "Journal of Construction Engineering and Management, ASCE, Sep 30, 145(12):04019079 
+Choi, B., Jebelli, H. and Lee, S. "Feasibility Analysis of Electrodermal Activity (EDA) Acquired from Wearable Sensors to Assess Construction Workers' Perceived Risk, (2019)." Safety Science, Elsevier, 115, 110-120. 
+Jebelli, H., Khalili, M., and Lee, (2018). "A Real-Time, Continuously Updated Stress Recognition Procedure Using Electroencephalogram (EEG) by Applying Online Multi-Task Learning Algorithms," IEEE Journal of Biomedical and Health Informatics, IEEE, 23(5), 1928-1939. 
+Ryu, J., Seo, J., Jebelli, H., and Lee, S. (2018). "Automated Action Recognition Using an Accelerometer-Embedded Wristband-Type Activity Tracker," Journal of Construction Engineering and Management, ASCE, 145(1), 04018114. 
+Jebelli, H., Hwang, S., and Lee, S. (2018) "EEG-based Workers' Stress Recognition at Construction Sites," Automation in Construction, Elsevier, 93,315-324. 
+Hwang, S., Jebelli, H., Choi, B., Choi, M., and Lee, S. (2018). " Measuring Workers' Emotional State during Construction Tasks Using Wearable EEG," Journal of Construction Engineering and Management, ASCE, 144(7), 04018050.
+Kim, H., Ahn, C.R., and Stentz, L.S. Jebelli, H., and Moore, D.S. (2017). "Assessing the Effects of Slippery Steel Beam Coatings to Ironworkers' Gait Stability, "Applied Ergonomics, Elsevier, 68, 72-79. 
+Jebelli, H., Hwang, S., and Lee, S. (2017). " EEG Signal Processing Framework to Obtain High-Quality Brain Waves from an Off-the-Shelf Wearable EEG Device," Journal of Computing in Civil Engineering, ASCE, 32(1), 04017070. 
+Hwang, S., Seo. J., Jebelli, H., and Lee, S. (2016). "Feasibility Analysis of Heart Rate Monitoring of Construction Workers Using a photoplethysmography (PPG) Sensor Embedded in a Wristband-Type Activity Tracker," Automation in Construction, Elsevier, 2016, 21-32. 
+Jebelli, H., Ahn, C.R., and Stentz. L.S. (2016). "Fall Risk Analysis of Construction Workers Using Inertial Measurement Units: Validating the Usefulness of the Postural Stability Metrics in Construction," Safety Science, Elsevier, 84, 161-170. 
+Jebelli, H., Ahn, C.R., and Stentz. L.S. (2015). "Comprehensive Fall-Risk Assessment of Construction Workers Using Inertial Measurement Units: Validation of the Gait-Stability Metric to Assess the Fall Risk of Iron Worker," Journal of Computing in Civil Engineering, ASCE, 30(3), 4015034. 
+Jebelli, H., Sharifironizi, M., Mazarei, V., Aflaki, E. (2014). "Using Neural Networks for the Prediction of Permeability in Rock for Derik Embankment Earth Dam," Science Journal of Civil Engineering and Architecture, 2014 (1), 165.1-165.8. 
+Jebelli, H., Mofid, E. (2013). "Effects of Using Low Yield Point Steel in Steel Plate Shear Wall," The IES Journal Part A: Civil and Structural Engineering, Tylor & Francis, 7(1), 51-56. 
+
+Articles in Conference Proceedings
+Gautam, Y., Liu, Y., and Jebelli, H., (2025). "A Multimodal Machine Learning Approach to Fatigue Assessment in Construction Workers Using Wearable Technology," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Zhang, Y., Ren, T., and Jebelli, H., (2025). "Enhancing Ergonomics and Posture with Wearable Robots for Construction Tasks: Evaluating the Impact of Virtual Reality-Based Exoskeleton Training Platforms," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Zhang, Y., Shayesteh, S., and Jebelli, H., (2025). "Evolving Construction Robotics Training: Embracing Virtual Reality for Effective Wearable Robot Use in Construction," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Gautam, Y., and Jebelli, H. (2025). "Retrieval Augmented Generation (RAG) based Personalized Feedback for Construction Worker Well-being," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Gautam, Y., Ojha, A., Liu, Y., and Jebelli, H., (2025). "Advancing Realtime Physiological Health Monitoring in Construction: A Feasibility Study of Fatigue Estimation of Construction Workers on Smart Devices," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Shayesteh, S., and Jebelli, H. (2025). "Revolutionizing Human-Robot Collaboration in Construction: An Empirical Inquiry into the Role of Advanced Multi-finger Haptic Feedback within Immersive Environments," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Ojha, A., Zhao, X., Zhang, Y., Liu, Y., and Jebelli, H. (2025). "Improving Heat Strain Prediction in Construction Workers: A Transfer Learning Approach to Overcome Variability Challenges," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Ojha, A., Zhang, Y., Shayesteh, S.⸙⸙, Sharifironizi, A., Jebelli, H. and Akanmu, A. (2025). "Advancing Construction Robotics Learning Through Virtual Reality: A User Experience and Usability Study," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Ojha, A., Gautam, Y., Zhao, X., Sharifironizi, A., Jebelli, H., and Martin, A. (2025). "Understanding the Impact of an Exoskeleton System on Metabolic Cost of Workers During Common Repetitive Construction Tasks." 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Shayesteh, S., Ojha, A., Gautam, Y., Jebelli, H., and Akanmu, A. (2025). "Evaluating the Impact of Back-Support Exoskeletons on Construction Workers Fall Risk," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Afolabi., A., Okonula., A., Akanmu, A., and Jebelli, H., (2025). "Exoskeleton Fall Risk Assessment: A Study of Peak Pressure and Foot Region," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Olukayode., A.,Afolabi., A., Akanmu, A., and Jebelli, H., (2025). "Neuro-Muscular Assessment of Exoskeleton Use: A Correlation between Physiological, Psychological, and Subjective Evaluation Measures," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Okonula., A., Afolabi., A., Akanmu, A., and Jebelli, H., (2025). "Effect of Active Back-Support Exoskeleton on Muscular Loading During Construction," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Zhao, X., and Jebelli, H. (2025). "Grounding Large Language Models in Robot Control: Facilitating Human-Robot Collaboration in Construction," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Ren, T., and Jebelli, H. (2025). "Robotic Navigation and Obstacle Avoidance System for Advancing Attic Insulation" 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Zhao, X., Ren, T., and Jebelli, H. (2025). "Adaptive Intelligence for Robot Navigation Efficiency with a Deep-Reinforcement-Learning-Based Cyber-Physical System," 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Ren, T., and Jebelli, H. (2025). "Developing an Advanced Perception System for Robotic Attic Insulation Using Large Vision-Language Models and LiDAR" 2024 International Conference on Computing in Civil Engineering (i3CE), Pittsburgh, PA, U.S.
+
+Ojha, A., Jebelli, H., Alexander, L., and Loeffert, J. R. (2024). "Quantifying the Implications of Humidity and Temperature on Heat Stress Exposure of Construction Workers: A Worker-Centric Physiological Sensing Approach." In Construction Research Congress 2024 (pp. 196-205), Des Moines, Iowa, U.S. 
+Gautam, Y., Liu, Y., and Jebelli, H. (2024). "Unsupervised Adversarial Domain Adaptation in Wearable Physiological Sensing for Construction Workers Health Monitoring Using Photoplethysmography." In Construction Research Congress 2024 (pp. 339-348), Des Moines, Iowa, U.S.
+
+Gautam, Y., and Jebelli, H. (2024). "Autoencoder-Based Motion Artifact Reduction in Photoplethysmography (PPG) Signals Acquired from Wearable Sensors during Construction Tasks." In Construction Research Congress 2024 (pp. 719-728), Des Moines, Iowa, U.S. 
+Ojha, A., Sharifironizi, A., Liu, Y., and Jebelli, H. (2024). "Enhancing Human-Centric Physiological Data-Driven Heat Stress Assessment in Construction through a Transfer Learning-Based Approach." In Construction Research Congress 2024 (pp. 157-167), Des Moines, Iowa, U.S. 
+Adhikari, R., Gautam, Y., Jebelli, H., and Sitzabee, W. E. (2024). "Deep Learning and Reinforcement Learning for Modeling Occupants Information in an Occupant-Centric Building Control: A Systematic Literature Review." In Construction Research Congress 2024 (pp. 186-195), Des Moines, Iowa, U.S. 
+
+Shayesteh, S., and Jebelli, H. (2024). "Evaluating the Feasibility of Personalized Health Status Feedback to Enhance Worker Safety and Well-Being at Construction Jobsites." In Construction Research Congress 2024 (pp. 575-585), Des Moines, Iowa, U.S.
+Liu, Y., Gautam, Y., Ojha, A., Shayesteh, S., and Jebelli, H. (2024). "Studying the Effects of Back-Support Exoskeletons on Workers Cognitive Load during Material Handling Tasks." In Construction Research Congress 2024 (pp. 659-669), Des Moines, Iowa, U.S. 
+Liu, Y., Gautam, Y., Shayesteh, S., Jebelli, H., and Mahdi Khalili, M. (2024). "Towards an Efficient Physiological-Based Worker Health Monitoring System in Construction: An Adaptive Filtering Method for Removing Motion Artifacts in Physiological Signals of Workers," 2023 International Conference on Computing in Civil Engineering (i3CE) (pp. 483-491), Corvallis, Oregon, U.S.
+
+Shayesteh, S., Ojha, A., Liu, Y., and Jebelli, H. (2024). "Evaluating the Impact of Powered Back-Support Exoskeletons and Virtual Reality Interventions on Gait Stability of Construction Workers at Heights," 2023 International Conference on Computing in Civil Engineering (i3CE) (pp. 392-399), Corvallis, Oregon, U.S.
+
+Ojha, A., Guo, H., Jebelli, H., Martin, A., and Akanmu, A. (2024). "Assessing the Impact of Active Back Support Exoskeletons on Muscular Activity during Construction Tasks: Insights from Physiological Sensing," 2023 International Conference on Computing in Civil Engineering (i3CE) (pp. 340-347), Corvallis, Oregon, U.S.
+
+Breneman, M., Ojha, A., Jebelli, H., Simkins, S. J., and Akanmu, A. (2024). "Breaking Down Barriers: A Study of Challenges to Adopting Powered Exoskeletons in the US Construction Industry," 2023 International Conference on Computing in Civil Engineering (i3CE) (pp. 463-770) , Corvallis, Oregon, U.S.
+
+​Ojha, A., Liu, Y., Jebelli, H., Cheng, H., and Kiani, M. (2024). "Improving Health Monitoring of Construction Workers Using Physiological Data-Driven Techniques: An Ensemble Learning-Based Framework to Address Distributional Shifts," 2023 International Conference on Computing in Civil Engineering (i3CE) (pp. 631-638), Corvallis, Oregon, U.S.
+
+Shayesteh, S., Jebelli, H., and Messner, J. (2024). "Digital Twin-Based Health Maps for Construction Worker Health Monitoring: Assessing Feasibility and Viability," 2023 International Conference on Computing in Civil Engineering (i3CE) (pp. 492-498), Corvallis, Oregon, U.S.
+
+Shayesteh, S. and Jebelli, H. (2023). "Investigating the Impact of Construction Robots Automation Level on Workers' Cognitive Load," Proceedings of the 2021 Canadian Society for Civil Engineering (CSCE) (pp. 255-267), Montreal, Quebec.
+
+Ojha, A., Jebelli, H., and Sharifironizi, M., (2023). "Understanding Students Engagement in Learning Emerging Technologies of Construction Sector: Feasibility of Wearable Physiological Sensing System-Based Monitoring," Proceedings of the 2021 Canadian Society for Civil Engineering (CSCE) (pp. 269-281), Montreal, Quebec.
+
+Ojha, A., Shakerian, S., Habibnezhad, M., and Jebelli, H. (2023). "Feasibility Verification of Multimodal Wearable Sensing System for Holistic Health Monitoring of Construction Workers," Proceedings of the 2021 Canadian Society for Civil Engineering (CSCE) (pp. 283-294), Montreal, Quebec.
+
+Liu, Y., and Jebelli, H. (2023). "Enhanced Robotic Teleoperation in Construction Using a GAN-Based Physiological Signal Augmentation Framework," Proceedings of the 2021 Canadian Society for Civil Engineering (CSCE) (pp. 295-307), Montreal, Quebec.
+
+Ojha, A., Habibnezhad, M., Jebelli, H., and Leicht, R., (2022). Barrier Analysis of Effective Implementation of Robotics in the Construction Industry, Construction Research Congress 2022 (ASCE) (pp. 661-669), Arlington, Virginia, U.S.
+
+Liu, Y., and Jebelli, H. (2023). "Enhanced robotic teleoperation in construction using a GAN-based physiological signal augmentation framework," Canadian Society for Civil Engineering Conference (CSCE) (pp. 295-307), Montreal, Quebec.
+
+Ojha, Y., Shakerian, S., Habibnezhad, M., and Jebelli, H. (2023). " Feasibility verification of multimodal wearable sensing system for holistic health monitoring of construction workers," Canadian Society for Civil Engineering Conference (CSCE) (pp. 283-294), Montreal, Quebec.
+
+Shayesteh, S., and Jebelli, H. (2023). "Investigating the impact of construction robots autonomy level on workers' cognitive load," Canadian Society for Civil Engineering Conference (CSCE), Montreal, Quebec.
+
+Ojha, A., and Jebelli, H. (2023). " Understanding students' engagement in learning emerging technologies of the construction sector: feasibility of wearable physiological sensing system-based monitoring," Canadian Society for Civil Engineering Conference (CSCE), Montreal, Quebec.
+
+Shayesteh, S. and Jebelli, H. (2022). "Toward Human-in-the-loop Construction Robotics: Understanding Workers' Response through Trust Measurement during Human-Robot Collaboration" 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S.
+
+Shayesteh, Y. and Jebelli, H. (2022). "Enhanced Situational Awareness in Worker-robot Interaction in Construction: Assessing the Role of Visual Cues," 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S.
+
+Liu, Y., and Jebelli, H. (2022). "Intention Estimation in Physical Human-Robot Interaction in Construction: Empowering Robots to Gauge Workers' Posture," 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S.
+
+Liu, Y., and Jebelli, H. (2022). "Worker-aware Robotic Motion Planner in Construction for Improved Psychological Well-being during Worker-Robot Interaction," 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S. 
+Seagers, J., Liu, Y., and Jebelli, H. (2022). "Smart Robotic System to Fight the Spread of COVID-19 at Construction Sites," 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S. 
+
+Ojha, A., Habibnezhad, M.⸙⸙, Jebelli, H., Leicht, R. (2022). "Barrier Analysis of Effective Implementation of Robotics in the Construction Industry," 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S. 
+Ojha, A⸙. and Jebelli, H. (2022). "Feasibility of Embodied Virtual Agents for Augmenting Students' Knowledge of Robotic Safety in Construction," 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S. 
+Fardhosseini, S., Ojha, A., Habibnezhad, M, ⸙⸙ Lee, H., and Jebelli, H. (2022). "An optimal resource allocation strategy for unreinforced masonry buildings in the pre-disaster stage," 2022 Construction Research Congress (CRC), ASCE, Arlington, Virginia, U.S. 
+Shayesteh, S. and Jebelli, H. (2021). "Investigating the Impact of Construction Robots' Automation Level on Workers' Cognitive Load," 2021 Canadian Society for Civil Engineering (CSCE), Montreal, Quebec.
+
+Ojha, A., Jebelli, H., and Sharifironizi, M., (2021). "Feasibility of Wearable Physiological Sensing Technologies for Understanding Students' Engagement in Construction Safety Education in Distance Learning" 2021 Canadian Society for Civil Engineering (CSCE), Montreal, Quebec.
+
+Ojha, A., Habibnezhad, M., and Jebelli, H. (2021). "Feasibility Verification of Multimodal Wearable Sensing System for Holistic Health Monitoring of Construction Workers" 2021 Canadian Society for Civil Engineering (CSCE), Montreal, Quebec.
+
+Lee G., Jebelli, H., and Lee, S. (2020). "Online Multi-Task Learning and Wearable Biosensor-based Detection of Multiple Seniors' Stress in Daily Interaction with the Urban Environment," The 8th International Conference on Construction Engineering and Project Management, Hong Kong.
+Hwang S., Jebelli, H., Lee, S., Chung, S., and Lee, S. (2020). "Measurement of Individuals' Emotional Stress Responses to Construction Noise through Analysis of Human Brain Waves," The 8th International Conference on Construction Engineering and Project Management, Hong Kong. 
+Habibnezhad, M., Shayesteh, S.⸙, Yizhi, Y.⸙, Fardhosseini, S., and Jebelli, H. (2020). "The Architecture of an Intelligent Digital Twin for a Cyber-Physical Route-Finding System in Smart Cities," The 8th International Conference on Construction Engineering and Project Management, Hong Kong. 
+
+Ojha, A., Seagers, J., Shayesteh, S., Habibnezhad, M.⸙, and Jebelli, H. (2020). "Construction Safety Training and their Evaluations Approaches: A Systematic Literature Review," The 8th International Conference on Construction Engineering and Project Management, Hong Kong.
+Kim, D., Jebelli, H., Lee, S., and Kamat, V.R. (2020). "Enhancing Deep Neural Network-Based Trajectory Prediction: Fine-Tuning and Inherent Movement-Driven Post-Processing," 2020 Construction Research Congress (CRC), ASCE, Tempe, Arizona, U.S. 
+
+Pratama, L., Fardhosseini, S., Habibnezhad, M.⸙⸙, H., Jebelli, H., Dossick, C., and Lee, H. (2020). "BIM-GIS Implementation for a Disaster Reconstruction Effort: A Critical Evaluation," 37th International CIB W78 Conference, Sao Paulo, Brazil. 
+Hwang, S., Jebelli, H., Lee, S., Chung. S., and Lee, S. (2020). "Measuring Individual Stress from Construction Noises by Analyzing Human Brain Waves," The 8th International Conference on Construction Engineering and Project Management (ICCEPM 2019), Hong Kong 
+Ojha, A.⸙, Shakerian, S.⸙, Habibnezhad, M.⸙⸙, Jebelli, H., and Lee, S. (2020). "Feasibility of Using Physiological Signals from a Wearable Biosensor to Monitor Heat Stress of Construction Workers," Creative Construction Conference 2020, ASCE, Opatija, Croatia 
+
+Ojha, A., Shayesteh, S., Jebelli, H., Akanmu, A., Miller, S., and Sharma, P. (2024). "Revitalizing Students Perception and Knowledge of Construction Safety: Leveraging Virtual Reality as an Experiential Learning Tool for Construction Robotic Safety Education." In Construction Research Congress 2024 (pp. 129-138), Des Moines, Iowa, U.S.
+Nazari-Heris, M., Sadat-Mohammadi, M.⸙, Asadi, S., Jebelli, H (2020). "Robust Energy Management of Integrated Power Infrastructure and Gas Networks with High Penetration of Renewable Energy Sources," 2020 Construction Research Congress (CRC), Tempe, Arizona, U.S. 
+Sadat-Mohammadi, M.⸙, Nazari-Heris, M., Asadi, S., and Jebelli, H. (2020). "An Incentive-Based Vehicle to Grid Service in Electrical Energy Networks Considering the Effect of Battery Degradation Cost," 2020 Construction Research Congress (CRC), ASCE, Tempe, Arizona, U.S. 
+Liu, Y.⸙, Jebelli, H., Asadi, S., and Lee, S. (2020). "Ocular Artifacts Reduction in EEG Signals by Applying a Dependent Component Analysis (DCA)," 2020 Construction Research Congress (CRC), ASCE, Tempe, Arizona, U.S. 
+
+Jebelli, H., Khalili, M., Hwang, S., and Lee, S. (2020). "Multi-level Assessment of Occupational Stress in the Field Using a Wearable EEG Headset," 2020 Construction Research Congress (CRC), Tempe, Arizona, ASCE, U.S. 
+Fardhosseini, S., Karji, A., Dossick, C., Lee, H., Jebelli, H., and Beaty, S. (2020). "The Cost-Effectiveness of Integrating Digital Fabrication for Concrete Formworks," 2020 Construction Research Congress (CRC), ASCE, Tempe, Arizona, U.S.
+Fardhosseini, Habibnezhad, Jebelli, H., Migliaccio, G., Lee, H., and Puckett, J. (2020). "Recognition of Construction Workers' Physical Fatigue Based on Three-axis Accelerometer Embedded in a Smartphone," 2020 Construction Research Congress (CRC), ASCE, Tempe, Arizona, U.S. 
+Choi, B., Lee, G., Jebelli, H., and Lee, S. (2019). "Assessing Workers' Perceived Risk During Construction Task Using a Wristband-Type Biosensor," 2019 Proceedings of the Creative Construction Conference (CCC 2019), Budapest, Hungary.
+Lee, G., Choi, B., Jebelli, H., Ahn, C., and Lee, S. (2019). " Reference Signal-Based Method to Remove Respiration Noise in Electrodermal Activity (EDA) Collected from the Field," 2019 International Conference on Computing in Civil Engineering (i3CE), Atlanta, Georgia, U.S.
+Jebelli, H., Yang, K.,   Ahn, C.R., and Stentz. L.S. (2018). "Assessing the Effects of Tool-Loading Formation on Construction Workers' Postural Stability," 2018 Construction Research Congress (CRC), Baton Rouge, Louisiana, U.S. 
+Jebelli, H., Khalili, M., Hwang, S., and Lee, S. (2018). "A Supervised Learning-based Construction Workers' Stress Recognition Using a Wearable Electroencephalography (EEG) Device," 2018 Construction Research Congress (CRC), Baton Rouge, Louisiana, U.S.  
+Jebelli, H., Choi, B., Kim, H., and Lee, S. (2018). "Feasibility Study of a Wristband-type Wearable Sensor to Understand Construction Workers' Physical and Mental Status," 2018 Construction Research Congress (CRC), Baton Rouge, Louisiana, U.S.  
+Jebelli, H., Hwang, S., and Lee, S. (2017). " Feasibility of Field Measurement of Construction Workers' Valence Using a Wearable EEG Device," 2017 International Workshop on Computing in Civil Engineering (IWCCE 2017), Seattle, WA, U.S. 
+Yang, K., Jebelli, H.,   Ahn, C.R., and Stentz. L.S. (2015). "Threshold-Based Approach to Detect Near-Miss Falls of Iron-Workers Using Inertial Measurement Units," ASCE International Workshop on Computing in Civil Engineering, ASCE, Austin, TX, U.S. 
+Jebelli, H., Ahn, C.R., and Stentz. L.S. (2014). "The Validation of Gait-Stability Metrics to Assess Construction Workers' Fall Risk," 2014 International Conference on Computing in Civil and Building Engineering (ICCCBE), ASCE, Orlando, FL, U.S. 
+
+Journal Editorships
+Editor for the Springer Nature Special Issue on 'Automation and Robotics in the Architecture, Engineering, and Construction Industry' (2021).
+Editor for the Springer Nature Special Issue on 'Application of Machine Learning and Deep Learning Methods to Power System Problems' (2021).
+Editor for the Springer Nature Special Issue on 'Renewable Energy for Buildings: Technology, Control, and Operational Techniques', part of the Green Energy and Technology series (2022).
+Guest Editor for the Elsevier Journal of Developments in the Built Environment, Special Issue on 'Human Emergency Response' (2024).
+
+Editor for the American Society of Civil Engineers (ASCE) Special Issue on 'Digital Twins for Construction and the Built Environment' (2024).
+
+
+Professional Societies
+Committee Member, Data Sensing and Analysis (DSA) Committee, Technical Council on Computing and Information Technology (TCCIT), American Society of Civil Engineers (ASCE), 2018–Present.
+Committee Member, Visualization, Information Modeling, And Simulation (VIMS) Committee, Technical Council on Computing and Information Technology (TCCIT), American Society of Civil Engineers (ASCE), 2018–Present.
+Secretary, Global Center for Excellence in Computing Committee, Technical Council on Computing and Information Technology (TCCIT),  American Society of Civil Engineers (ASCE) (2019– 2021)
+Vice Chair, Global Center for Excellence in Computing Committee, Technical Council on Computing and Information Technology (TCCIT), American Society of Civil Engineers (ASCE) (2021– 2023)
+Chair, Global Center for Excellence in Computing Committee, Technical Council on Computing and Information Technology (TCCIT), American Society of Civil Engineers (ASCE) (2023 – Present)
+
+Honors
+NIOSH Exploratory/Developmental Grant Program (R21) Award #1R21OH012715-01: Human-Centric Assessment of Field Workers' Health Stress Exposure
+NSF Award #2123343: Infusion of data science and computation into engineering curricula
+NSF Award #2410255: Understanding Underlying Risks and Sociotechnical Challenges of Powered Wearable Exoskeleton to Construction Workers
+NSF Award #2401745: Future of Construction Workplace Health Monitoring
+NSF Award #2402008: Investigating the Impact of Immersive VR-Based Learning Environments on Human-Robot Collaboration in Construction Robotics Education.
+
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students, 2024 (Outstanding Ranking)
+
+
+Research Honors
+Best Poster Award, 1st Place at the " 2024 ASCE International Conference on Computing in Civil Engineering" hosted by Carnegie Mellon University. Poster Title: "Evaluating the Adoption and Effectiveness of Active Back-Support Exoskeletons in the Construction Industry"
+ (2024
+)
+Outstanding Graduate Student Award, The Pennsylvania State University. (student advisee: Yizhi Liu) (2023)
+Finalist, 2021 AI Nittany Challenge, The Pennsylvania State University  (2021)
+Best Presentation Award, 1st Place at the "3-Minute Competition 2021" hosted by AACEI-Montreal Section, Montreal. (student advisee: Amit Ojha) (2021)
+Best Poster Award, 2nd award at the 2020 Institute for Computational and Data Sciences (ICDS) Symposium, The Pennsylvania State University.   (2020)
+The Charles M. Eastman Best Paper Award, Best Paper Award from the 35th CIB W78 Conference: I.T. in Design, Construction, and Management  (2018)
+Finalist of Towner Prize for Outstanding Engineering Graduate Student Instructor (GSIs) College of Engineering, University of Michigan  (2018)
+Best Poster Award, 1st award in Engineering Research Symposium Technical Session Competition, College of Engineering, University of Michigan  (2017)
+Outstanding Master's Thesis Award, College of Engineering, University of Nebraska-Lincoln  (2016)
+John L. Tishman Fellowship, University of Michigan
+ (2015
+)
+The Calvin C. Solem Foundation Fellowship, University of Nebraska-Lincoln (2013)
+
+Recent Courses TaughtCEE 498 CS3 (CEE 498 CS4, CEE 498 CSC, CEE 498 CSO) - Construction Safety
+CEE 598 CR (CEE 598 CRC, CEE 598 CRO) - Construction Robotics
+

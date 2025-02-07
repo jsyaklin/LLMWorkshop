@@ -1,0 +1,62 @@
+
+
+
+David Heath 
+
+
+
+
+
+Assistant Professor
+
+
+
+daheath@illinois.edu
+ 
+
+
+For More Information
+Personal Webpage
+
+Resident Instruction
+Instructor, CS407/ECE407: Cryptography, Spring 2025
+Instructor, CS 598 DH Special Topics in Secure Computation, Spring 2024
+Instructor, CS407/ECE407: Cryptography, Fall 2023
+Instructor, CS598 DH: Special Topics in Secure Computation, Spring 2023
+Instructor, CS598 DH: Special Topics in Secure Computation, Fall 2022
+
+
+
+Articles in Conference Proceedings
+ANANYA APPAN, David Heath, and Ling Ren. Oblivious single access machines - A new model for oblivious computation. In Bo Luo, Xiaojing Liao, Jun Xu, Engin Kirda, and David Lie, editors, ACM CCS 2024, pages 3080-3094. ACM Press, October 2024. Conference acceptance rate 16.9%.
+David Heath. Efficient arithmetic in garbled circuits. In Marc Joye and Gregor Leander, editors, EUROCRYPT 2024, Part V, volume 14655 of LNCS, pages 3-31. Springer, Cham, May 2024. Conference acceptance rate 21.8%.
+
+David Heath, Vladimir Kolesnikov, and Lucien Ng. Garbled circuit lookup tables with logarithmic number of ciphertexts. In Marc Joye and Gregor Leander, editors, EUROCRYPT 2024, Part V, volume 14655 of LNCS, pages 185-215. Springer, Cham, May 2024. Conference acceptance rate 21.8%.
+Yibin Yang, David Heath, Carmit Hazay, Vladimir Kolesnikov, and Muthu Venkitasubramaniam. Batchman and Robin: Batched and non-batched branching for interactive ZK. In Weizhi Meng, Christian Damsgaard Jensen, Cas Cremers, and Engin Kirda,
+editors, ACM CCS 2023, pages 1452-1466. ACM Press, November 2023. Conference acceptance rate 19.2%.
+
+David Heath, Vladimir Kolesnikov, and Rafail Ostrovsky. Tri-state circuits: A circuit model that captures RAM. In Helena Handschuh and Anna Lysyanskaya, editors, CRYPTO 2023, Part IV, volume 14084 of LNCS, pages 128-160. Springer, Cham, August 2023. Conference acceptance rate 25.9%.
+
+David Heath, Vladimir Kolesnikov, and Rafail Ostrovsky. EpiGRAM: Practical garbled RAM. In Orr Dunkelman and Stefan Dziembowski, editors, EUROCRYPT 2022, Part I, volume 13275 of LNCS, pages 3-33. Springer, Heidelberg, May / June 2022. Conference acceptance rate 23.0%.
+David Heath and Vladimir Kolesnikov. Stacked garbling - garbled circuit proportional to longest
+execution path. In Daniele Micciancio and Thomas Ristenpart, editors, CRYPTO 2020, Part II,
+volume 12171 of LNCS, pages 763-792. Springer, Heidelberg, August 2020. Conference acceptance rate 22.9%.
+
+Honors
+ACM CCS 2023 Distinguished Paper Award. "Batchman and Robin: Batched and Non-batched Branching for Interactive ZK".
+Yibin Yang, David Heath, Carmit Hazay, Vladimir Kolesnikov, and Muthuramakrishnan Venkitasubramaniam. (2023
+)
+Outstanding Doctoral Dissertation Award
+Georgia Tech College of Computing.
+ (2023)
+IACR EUROCRYPT 2022 Best Paper Award. "EpiGRAM: Practical Garbled RAM". David Heath, Vladimir Kolesnikov, and Rafail Ostrovsky. (2022)
+
+Teaching Honors
+Teacher Ranked as Excellent by their Students  (Spring 2024)
+Teacher Ranked as Excellent by their Students  (Fall 2023)
+Teacher Ranked as Excellent by their Students  (Spring 2023)
+
+Recent Courses TaughtCS 591 SP - Security and Privacy
+CS 598 DH - Secure Computation
+ECE 407 (CS 407) - Cryptography
+

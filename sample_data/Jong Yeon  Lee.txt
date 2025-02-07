@@ -1,0 +1,47 @@
+
+
+
+Jong Yeon Lee he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+jongyeon@illinois.edu
+ 
+
+
+Education
+Ph.D. in Physics, Harvard University, 2020
+B.S. in Physics and Mathematics, California Institute of Technology, 2015
+
+BiographyProfessor Jong Yeon Lee received his bachelor's degree in Physics and Mathematics from the California Institute of Technology in 2015, where he was awarded Richard P. Feynman Prize in Theoretical Physics. In the groups of John Preskill and Olexei Motrunich, he worked on quantum state tomography algorithms and exotic quantum criticalities. After, he went on to receive his Ph.D. from Harvard University in 2020, under the supervision of Ashvin Vishwanath. His thesis research focused on various exotic phenomena in quantum many-body systems, from topological band theories and anomalous responses to fractionalization and emergent gauge dynamics. From 2020 to 2023, Professor Lee held a postdoctoral scholar position at the Kavli Institute for Theoretical Physics, where he pioneered the physics of "decohered" quantum many-body systems. Decoherence involves the gradual loss of quantum information in a quantum system as it becomes entangled with environmental degrees of freedom. Understanding the behavior of quantum systems, particularly quantum many-body systems, under the influence of decoherence is of significant importance and interest due to recent developments in quantum simulator platforms. Professor Lee has shown that with an appropriate decoding protocol, one is able to observe or utilize quantum many-body entanglement from topological phases even under the presence of decoherence, such as errors in measurement, gate application, or even decoding protocol. Taking a further step, he has established a framework to understand an information-theoretic capacity of quantum many-body systems under generic decoherence, where information theoretic transition can take a place. He showed that such a transition can be understood using the language of boundary quantum criticality. This implies that the quantum information encoded within the topological order becomes irretrievably lost once a critical level of entanglement with the environment is surpassed.Professor Lee joined the physics department at the University of Illinois in 2023. His research interest lies at the intersection of condensed matter physics and quantum information science, namely "Many-Body Physics of Information”.
+Post-Doctoral Research OpportunitiesPost-docs in quantum information/condensed matter theory are encouraged to get in touch via email to discuss potential openings.
+Graduate Research OpportunitiesWe currently have positions available for graduate students.
+Research Interests
+Numerical Simulations (e.g. DMRG, QMC, tensor-networks)
+Topological phases and critical phenomena 
+Coherent control of quantum simulator platforms 
+Quantum information and non-equilibrium dynamics 
+
+
+Research Areas
+Condensed Matter Physics (theoretical)
+Quantum Information Science
+
+
+Selected Articles in Journals
+J. Y. Lee, C.-M. Jian, C. Xu. Quantum Criticality under Decoherence or Weak Measurement. PRX Quantum 4, 030317 (2023).
+J.S. Hofmann, E. Khalaf, A. Vishwanath, E. Berg, J.Y. Lee. Fermionic Monte Carlo study of a realistic model of twisted bilayer graphene. Phys. Rev. X 12, 011061  (2021)
+J.Y. Lee, J. Ahn, H. Zhou, A. Vishwanath. Topological Correspondence between Hermitian and Non-Hermitian Systems: Anomalous Dynamics. Phys. Rev. Lett. 123, 206404 (2019)
+J.Y. Lee, C. W., M.P. Zaletel, A. Vishwanath, Y.-C. He. Emergent Multi-flavor QED3 at the Plateau Transition between Fractional Chern Insulators: Applications to graphene heterostructures. Phys. Rev. X 8, 031015 (2018)
+
+Pending Articles
+J.Y. Lee, Y.-Z. You, C. Xu. Symmetry Protected Topological Phases under Decoherence (Submitted 2024).
+
+Recent Courses TaughtPHYS 598 JYL - Special Topics in Physics
+

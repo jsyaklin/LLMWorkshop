@@ -1,0 +1,119 @@
+
+
+
+Jacob P. Covey 
+
+
+
+
+
+Assistant Professor
+
+
+
+jcovey@illinois.edu
+327 Loomis Laboratory
+
+
+For More Information
+coveylab.com
+
+
+Education
+Ph.D., Physics, University of Colorado-Boulder, 2017 (PhD advisors: Jun Ye and Deborah Jin. Thesis title: "Enhanced optical and electric manipulation of a quantum gas of KRb molecules")
+M.S., Physics, University of Colorado-Boulder, 2013
+B.S., Engineering Physics (Physics and Mathematics as additional majors), University of Wisconsin-Madison, 2011
+
+Academic Positions
+Assistant Professor, University of Illinois at Urbana-Champaign, Physics, August 2020 - Present
+Richard Chace Tolman Postdoctoral Scholar, California Institute of Technology, Physics, August 2017 - June 2020
+(Postdoctoral advisor: Manuel Endres)
+
+Research Interests
+Quantum Optics
+Atomic Physics
+Quantum Information Science
+
+
+Research Areas
+Atomic, Molecular, and Optical Physics
+Quantum Information Science
+
+
+Books Authored or Co-Authored (Original Editions)
+J. P. Covey, Enhanced optical and electric manipulation of a quantum gas of KRb molecules, Springer Thesis, ISBN: 978-3-319-98107-9 (2018)
+
+
+Chapters in Books
+J. P. Covey, S. A. Moses, D. S. Jin, and J. Ye, "Controlling Ultracold Chemical Reactions using Optical Lattices", chapter in Cold Chemistry: Molecular Scattering and Reactivity Near Absolute Zero, Royal Society of Chemistry, ISBN: 978-1-78262-597-1 (2017)
+
+
+Selected Articles in Journals
+S. J. Masson, J. P. Covey, S. Will, and A. Asenjo-Garcia, "Dicke superradiance in ordered arrays of multilevel atoms", PRX Quantum 5, 010344 (2024)
+J. P. Covey, H. Weinfurter, and H. Bernien, "Quantum networks with neutral atom processing nodes", npj Quantum Information 9, 90 (2023)
+W. Huie,, N. Chen, X. Hu, Z. Jia, W. K. C. Sun, and J. P. Covey, "Repetitive readout and real-time control of nuclear spin qubits in Yb-171 atoms", PRX Quantum 4, 030337 (2023)
+
+J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, J. P. Covey, J. S. Cotler, D. K. Mark, H.-Y. Huang, A. Kale, H. Pichler, F. G.S.L. Brandao, S. Choi, and M. Endres, “Preparing random states and benchmarking with many-body quantum chaos”, Nature 613, 468-473 (2023)
+L. Li, W. Huie, N. Chen, B. DeMarco, and J. P. Covey, “Active cancellation of servo-induced noise on stabilized lasers via feedforward”, Phys. Rev. Appl. 18, 064005 (2022)
+
+A. J. Sigillito, J. P. Covey, J. M. Fink, K. Petersson, and S. Preble, "Emerging qubit systems: Guest editorial", Appl. Phys. Lett. 120, 190401 (2022)
+J. P. Covey, "Microwave-optical transducer efficiency boost", Nature Photonics 16, 262-264 (2022)
+J. P. Covey, "Atom arrays for superresolution imaging", Physics 15, 23 (2022)
+N. Chen, L. Li, W. Huie, M. Zhao, I. Vetter, C. H. Greene, and J. P. Covey, "Analyzing the Rydberg-based optical-metastable-ground architecture for 171Yb nuclear spins", Phys. Rev. A 105, 052438 (2022)
+
+J. Ang'ong'a, C. Huang, J. P. Covey, and B. Gadway, "Gray molasses cooling of 39K atoms in optical tweezers", Phys. Rev. Research 4, 013240 (2022)
+
+W. Huie, S. G. Menon, H. Bernien, and J. P. Covey, "Multiplexed telecommunication-band quantum networking with atom arrays in optical cavities", Phys. Rev. Research 3, 043154 (2021)
+
+V. V. Albert, J. P. Covey, and J. Preskill, "Robust Encoding of a Qubit in a Molecule", Phys. Rev. X 10, 031050 (2020)
+I. S. Madjarov*, J. P. Covey*, A. L. Shaw, J. Choi, A. Kale, A. Cooper, H. Pichler, V. Schkolnik, J. R. Williams, and M. Endres, (*equal contribution), "High-fidelity entanglement and detection of alkaline-earth Rydberg atoms", Nature Phys. 16, 857-861 (2020)
+N. Lauk, N. Sinclair, S. Barzanjeh, J. P. Covey, M. Saffman, M. Spiropulu, C. Simon, "Perspectives on quantum transduction", Quantum Sci. & Tech. 5, 020501 (2020)
+I. S. Madjarov, A. Cooper, A. L. Shaw, J. P. Covey, V. Schkolnik, T. H. Yoon, J. R. Williams, and M. Endres, "An Atomic-Array Optical Clock with Single-Atom Readout", Phys. Rev. X 9, 041052 (2019)
+J. P. Covey, A. Sipahigil, and M. Saffman, "Microwave-to-optical conversion via four-wave-mixing in a cold ytterbium ensemble", Phys. Rev. A 100, 012307 (2019)
+J. P. Covey, I. Madjarov, A. Cooper, and M. Endres, "2000-times repeated imaging of strontium atoms in clock-magic tweezer arrays", Phys. Rev. Lett. 122, 173201 (2019)
+J. P. Covey, A. Sipahigil, S. Szoke, N. Sinclair, M. Endres, and O. Painter, "Telecom-Band Quantum Optics with Ytterbium Atoms and Silicon Nanophotonics", Phys. Rev. Appl. 11, 034044 (2019)
+L. De Marco, G. Valtolina, K. Matsuda, W. Tobias, J. P. Covey, and J. Ye, "A Degenerate Fermi Gas of Polar Molecules", Science 363, 6429 853-856 (2019)
+A. Cooper, J. P. Covey, I. Madjarov, S. G. Porsev, M. S. Safronova, and M. Endres, "Alkaline-Earth Atoms in Optical Tweezers", Phys. Rev. X 8, 041055 (2018)
+J. P. Covey, L. De Marco, O. L. Acevedo, A. M. Rey, and J. Ye, "An approach to spin-resolved molecular gas microscopy", New J. Physics 20, 043031 (2018)
+S. A. Moses, J. P. Covey, M. T. Miecnikowski, D. S. Jin, and J. Ye, "New frontiers for quantum gases of polar molecules", Nature Phys. 13, 1 13-20 (2017)
+J. P. Covey, S. A. Moses, M. Garttner, A. Safavi-Naini, M. T. Miecnikowski, Z. Fu, J. Schachenmayer, P. S. Julienne, A. M. Rey, D. S. Jin, and J. Ye, "Doublon dynamics and polar molecule production in an optical lattice", Nature Commun. 7, 11279 (2016)
+S. A. Moses, J. P. Covey, M. T. Miecnikowski, B. Yan, B. Gadway, J. Ye, and D. S. Jin, "Creation of a low entropy quantum gas of polar molecules in an optical lattice", Science 350, 6261 (2015)
+K. R. A. Hazzard, B. Gadway, M. Foss-Feig, B. Yan, S. A. Moses, J. P. Covey, N. Yao, M. D. Lukin, J. Ye, D. S. Jin, and A. M. Rey, "Many-body dynamics of dipolar molecules in an optical lattice", Phys. Rev. Lett. 113, 195302 (2014)
+B. Zhu, B. Gadway, M. Foss-Feig, J. Schachenmayer, M. L. Wall, K. R. A. Hazzard,  B. Yan, S. A. Moses, J. P. Covey, D. S. Jin, J. Ye, M. Holland, and A. M. Rey, "Suppressing the Loss of Ultracold Molecules Via the Continuous Quantum Zeno Effect", Phys. Rev. Lett. 112, 070404 (2014)
+B. Yan, S. A. Moses, B. Gadway, J. P. Covey, K. R. A. Hazzard, A. M. Rey, D. S. Jin, and J. Ye, "Observation of dipolar spin-exchange interactions with lattice-confined polar molecules", Nature 501, 521-525 (2013)
+B. Neyenhuis, B. Yan, S. A. Moses, J. P. Covey, A. Chotia, A. Petrov, S. Kotochigova, J. Ye, and D. S. Jin, "Anisotropic Polarizability of Ultracold Polar 40K87Rb Molecules", Phys. Rev. Lett. 109, 230403 (2012)
+ A. Chotia, B. Neyenhuis, S. A. Moses, B. Yan, J. P. Covey, M. Foss-Feig, A. M. Rey, D. S. Jin, and J. Ye, "Long-lived dipolar molecules and Feshbach molecules in a 3D optical lattice", Phys. Rev. Lett. 108, 080405 (2012)
+
+Patents
+J. P. Covey, W. Huie, N. Chen, L. Li, H. Bernien, and S. G. Menon, "Multiplexed telecommunication-band quantum networking with atom arrays in optical cavities", US Provisional Patent No. 63/359,699 (2022)
+M. Endres, A. Cooper, J. P. Covey, I. S. Madjarov, A. L. Shaw, T. H. Yoon, V. schkolnik, and J. R. Williams, "Controlling Alkaline Earth Atoms For Quantum Computing And Metrology Applications", US Patent No. 10,809,177 B2 (2020)
+
+Teaching Honors
+NSF CAREER Award
+ (2024
+)
+
+Research Honors
+NSF CAREER Award 
+ (2024
+)
+Young Investigator Award from the Air Force Office of Scientific Research (AFOSR) (2023)
+Young Investigator Award from the Office of Naval Research (ONR)
+ (2022
+)
+Springer PhD Thesis Award (2018)
+
+Other Honors
+Center for Advanced Study Fellowship, University of Illinois Urbana-Champaign
+ (2024-2025
+)
+Richard Chace Tolman Prize Postdoctoral Fellowship, Caltech (2017)
+DoD National Defense Science and Engineering Graduate (NDSEG) Fellowship (2013)
+Hilldale Undergraduate Research Fellowship, UW-Madison (2010)
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 212 - University Physics: Elec & Mag
+PHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 370 - Intro to Quant Info and Comp
+

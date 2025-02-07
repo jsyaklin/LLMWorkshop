@@ -1,0 +1,46 @@
+
+
+
+Gary E Gladding 
+
+
+
+
+
+Professor Emeritus
+
+
+(217) 333-0864
+geg@illinois.edu
+305 Loomis Laboratory
+
+
+Education
+Ph.D., Physics, Harvard University, 1971
+
+BiographyGary Gladding, a high energy experimentalist, joined the Department of Physics at Illinois as an assistant professor in 1973, after receiving his Ph.D. from Harvard in 1971. He is currently involved in experiments using the silicon vertex detector (CLEO II) at the Wilson Synchrotron Laboratory at Cornell University to study charmed meson decays. Earlier, he made numerous original contributions to high energy experiments at the Stanford Linear Accelerator Center, where he was involved in experiments measuring the decay of B mesons produced in the decays of the Z0 boson (SLD collaboration) and the initial detailed studies of particles containing the charmed quark (MARK III collaboration). He also contributed to the first studies of the photoproduction of particles containing the charmed quark at Fermilab.
+Since 1996, Professor Gladding has led the faculty group responsible for the success of the massive curriculum revision that has transformed the introductory physics curriculum here at Illinois. This effort has involved more than 50 faculty and improved physics instruction for more than 25,000 science and engineering undergraduate students. He has shifted his research focus over the last five years to physics education research (PER) and currently leads the PER research group. He is also heavily involved in preparing at-risk students for success in physics coursework through the development of Physics 100.
+Research StatementVideo Coding Software Development
+We are developing software that will enable us to analyze the 800 hours of videotaped collaborative learning. Our video collection enables us to study what students do "in nature"; that is, we can study what really happens during collaborative problem solving in a physics course. The software we develop will allow researchers to play back video on a computer and very easily record the statements and interactions made by each student in a group. This data will be recorded in a database so that trends can be found. We plan on looking for correlations between a student's interactions during collaborative problem solving in class and his or her interactions with on-line homework. This software, called Coder, is currently available for researchers to use free of charge. 
+
+Mathematical Communication in Physics
+Some students may perform poorly in our introductory physics courses, not because of their inability to conceptually understand the physics content, but because of their inability to communicate mathematically. Indeed, a dominant contributor to student failure in physics may be related to students’ inability to represent concepts with, and extract information from, the physics equations. We have found evidence that many students view the meaning of the physics equations primarily in terms of numeric computations. These students view the computational uses of the equations as completely separate from the conceptual relationships the equations express. Our research has focused on understanding student difficulties with mathematical communication and the pedagogical practices effective at overcoming these difficulties. 
+
+The Role of Metacognition in Physics Instruction
+Metacognition is important in the teaching of physics. We are exploring how to ask good metacognitive questions and the effect of such questions on student learning.
+
+Research Areas
+Physics Education
+
+
+Honors
+Fellow, American Physical Society, 1999
+
+Teaching Honors
+APS Excellence in Education Award 2013
+AAPT Award for Excellence in Undergraduate Physics Teaching, 2005
+Collins Award for Innovative Teaching 2004
+BP Amoco Award for Innovation in Undergraduate Instruction 2001
+UIUC College of Engineering Teaching Excellence Award 2000
+Rose Award for Teaching Excellence 1998
+

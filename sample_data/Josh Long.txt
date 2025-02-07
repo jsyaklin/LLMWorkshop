@@ -1,0 +1,57 @@
+
+
+
+Josh Long 
+
+
+
+
+
+Professor
+
+
+
+jcl11@illinois.edu
+493 Loomis Laboratory
+
+
+Education
+Ph.D., Physics, Johns Hopkins University, 1998
+
+BiographyJosh Long received a B.A. in physics from Amherst College in 1989, where he did a thesis on high-Tc superconductors, soon after the discovery of those compounds.  He earned a Ph.D. in physics from Johns Hopkins University in 1998, helping to construct the NOMAD experiment at CERN and using that experiment to set preliminary constraints on muon-tau neutrino oscillations in the limit of large (~ 5 eV) neutrino mass differences.  From 1997-2002 he was a postdoctoral associate at the University of Colorado, Boulder, where he conducted a test of the gravitational inverse-square law at sub-millimeter distance scales.  From 2002-2005 he was a staff scientist at the Los Alamos National Lab, where he studied the dielectric properties of large volumes of superfluid helium in support of the neutron Electric Dipole Moment (nEDM) experiment at the Oak Ridge Spallation Neutron Source.  From 2005-2022 he was on the faculty at Indiana University, Bloomington, first as a research scientist then as an assistant and associate professor of physics.  At Indiana he continued his gravity experiments, extending their sensitivity to shorter ranges and using them to test Lorentz invariance, and began related experiments to search for exotic spin-dependent forces and axion-like particles.  He also continued collaboration on the nEDM experiment, constructing a large, custom dilution refrigerator for the 1200 liters of superfluid needed for that experiment. 
+Academic Positions
+Professor of Physics, University of Illinois, Urbana-Champaign, 2022-present
+Associate Professor of Physics, Indiana University, Bloomington, 2016-2022
+Assistant Professor of Physics, Indiana University, Bloomington, 2008-2016
+Assistant Scientist, Indiana University, Bloomington, 2005-2008
+Staff Scientist, Los Alamos National Laboratory, 2002-2005
+Postdoctoral Research Associate, University of Colorado, Boulder, 1997-2002
+
+Research StatementMy research concentrates on experimental tests of fundamental symmetries and searches for macroscopic forces beyond gravity and electromagnetism ("5th forces") at submillimeter length scales, using nuclear and other techniques. 
+SNS Neutron EDM Experiment
+I collaborate on an experimental search for a permanent electric dipole moment of the neutron (nEDM) with the Nuclear Physics group.  An nEDM signal would be an example of time reversal symmetry violation and a key to understanding the matter-antimatter asymmetry in the universe.  This experiment, under construction at the Oak Ridge National Laboratory, aims for a hundred-fold improvement in the current nEDM sensitivity.  It is an NMR-type experiment, in which the Larmor precession frequency of a sample of neutrons held in a weak magnetic field is monitored for shifts as a strong electric field is applied in parallel.  The experiment is managed by a collaboration of about 100 scientists from 20 institutes.  My group is currently fabricating part of the large cryogenic systems needed for this project.
+Short-range 5th forces
+Another experiment, under construction at UIUC, is a test of the Newtonian inverse square law (ISL) at distance ranges less than 100 microns.  Modifications to the ISL at short range, arising from new elementary particles, violations of Lorentz symmetry, or even extra spacetime dimensions, are predicted from models that attempt to describe gravity and the other fundamental interactions in the same theoretical framework.  The experiment is a table-top apparatus, using 1 kHz mechanical oscillators as test masses.
+Spin-coupled forces and ARIADNE
+Recently, the test masses in the mechanical oscillator experiment have been augmented with spin-polarized materials, to make the experiment sensitive to exotic submillimeter forces coupled to spin.  These forces could be mediated by the axion: a light, weakly-interacting particle that is a leading candidate for dark matter.
+I also collaborate on the Axion Resonant InterAction DetectioN Experiment (ARIADNE), which has even greater potential sensitivity to exotic spin-coupled forces.  This is an NMR-type experiment, which searches for induced magnetization in a sample of cryogenic, polarized helium-3 atoms as a dense, non-magnetic source mass is modulated in close proximity.  ARIADNE is managed by a group of about 20 scientists from 8 institutes.  My group is responsible for the source mass.
+Graduate Research OpportunitiesWe have openings for graduate students on all of the experiments described above. Contact Prof. Long directly (email preferred) for details.
+Undergraduate Research OpportunitiesUndergraduates have participated in all aspects of our fifth force experiments and electric dipole moment searches, including design, construction, and data taking and analysis.  They have gained experience with low-noise electronics, vacuum and cryogenic techniques, magnetic materials, instrumentation programming, and finite element and Monte Carlo methods.  Contact Prof. Long directly about opportunities on all of the above projects.
+
+Research Areas
+Nuclear Physics (experimental)
+
+
+Selected Articles in Journals
+H. Fosbinder-Elkins, et al. (ARIADNE Collaboration) "A method for controlling the magnetic field near a superconducting boundary in the ARIADNE axion experiment". Quantum Sci. Technol. 7 (2022), 014002
+
+Nancy Aggarwal, et al. (ARIADNE Collaboration) "Characterization of magnetic field noise in the ARIADNE source mass rotor". Phys. Rev. Res. 4, (2022) 013090.
+
+Cheng-Gang Shao et al. “Combined Search for a Lorentz-Violating Force in Short-Range Gravity Varying as the Inverse Sixth Power of Distance”. Phys. Rev. Lett. 122 (2019), 011102.
+M.W. Ahmed et al. “A new cryogenic apparatus to search for the neutron electric dipole moment”. J Instrum. 14:11 (Nov. 2019), P11017–P11017.
+H Yan et al. “Absolute measurement of thermal noise in a resonant short-range force experiment”. Class. Quantum Gravity 31:20 (2014), p. 205007.
+T. M. Leslie et al. “Prospects for electron spin-dependent short-range force experiments with rare earth iron garnet test masses”. Phys. Rev. D 89 (2014), p. 114022. 
+J.C. Long et al. “Upper limits to submillimeter-range forces from extra space-time dimensions”. Nature 421 (2002), pp. 922–925.
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+

@@ -1,0 +1,249 @@
+
+
+
+ Bob Norris he/him/his
+
+
+
+
+
+Research ProfessorResearch Professor
+
+
+(217) 300-6647
+wrnorris@illinois.edu
+110 Transportation Building
+
+
+For More Information
+My Lab
+My Professional Profile
+
+Education
+Doctor of Philosophy, UIUC, Agricultural Engineering, Concentration: Control Theory, Systems Engineering, Robotics, 2001. 
+Master of Business Administration, Duke University, General Management, Decision Analysis 2007.
+Master of Science, UIUC, General Engineering, Concentration: Control Theory. 1997.  	
+Bachelor of Science, UIUC, General Engineering, Concentration: Control Systems/ Robotics, 1996.
+
+Academic Positions
+Research Professor, Department of Industrial and Enterprise Systems Engineering, UIUC
+Clinical Associate Professor, Department of Industrial and Enterprise Systems Engineering, UIUC
+Affiliate, Department of Electrical and Computer Engineering, UIUC
+Affiliate, Coordinated Science Lab, CSL
+Affiliate, Discovery Partners Institute, DPI
+Affiliate, Center for Digital Agriculture, NCSA
+Affiliate, Intelligent Robotics Laboratory, Center for Autonomy
+Faculty member, Smart Transportation Infrastructure Initiative (STII)
+Faculty member, Center of Autonomy UIUC
+
+
+Other Professional Employment
+Business Owner/ Consultant - Robust Smart Control Solutions LLC, iMS2, LLC - Rock Hill SC 2009-2017 
+Entrepreneur in Residence - Innovation Fund North Carolina - 2013-2015
+Deere and Company - research and product development - senior, staff engineer, program manager, business manager  2001-2009
+
+Major Consulting Activities
+US Army Corps of Engineers ERDC - Engineer Research Development Center - Basic Research Review - 2021
+US Army Corps of Engineers ERDC - Engineer Research Development Center - Basic Research Review - 2020
+US Army - Basic Research Review - Robotics   2013
+
+Professional Highlights
+Led the development of the first manufactured, large scale, autonomous vehicle from concept through product delivery and support.
+
+Resident Instruction
+SE 397 Independent Study
+SE 497 Independent Study
+SE 597 Independent Study
+SE 498 Systems Engineering
+SE498  Introduction to Autonomous Systems
+
+IE597 Independent Study
+
+Course Development
+SE 498 Systems Engineering
+SE498  Introduction to Autonomous Systems
+
+Design Teams
+Senior Design - Spring 2022 MIFab Grease Interceptor Design and Testing Analysis for Increased Capacity
+Senior Design - Spring 2022 UMark Transition from Metal to Plastic Parts
+Senior Design - Fall 2021 Poly Cart Competitive Analysis and Dump Feature Integration Design - Bernt O. Larson Award - First Place
+Senior Design - Spring 2021 AgriFab   Semi-autonomous Testing Rig
+Senior Design - Fall 2020 My lab - Jackal Dynamic Model
+Senior Design - Spring 2019 John Deere Tango Autonomous Mower Fleet Management
+
+Research Interests
+Mechatronics 
+Control Systems 
+Expert Systems
+
+Decision Analysis
+Adaptive Systems
+Deep Learning
+Machine Learning
+Robotics
+Systems Engineering
+Autonomous/ Unmanned Systems
+
+
+Research Areas
+Data Analytics
+Decision and Control Systems
+Design and Manufacturing
+Social, Human, and Engineering Systems
+
+
+Selected Articles in Journals
+Chen, H. Y., Sang, I. C., Norris, W. R., Soylemezoglu, A., & Nottage, D. (2024). Terrain classification method using an NIR or RGB camera with a CNN-based fusion of vision and a reduced-order proprioception model. Computers and Electronics in Agriculture, 227, Article 109539. https://doi.org/10.1016/j.compag.2024.109539
+Dekhterman, S., Norris, WR., Nottage, D., Soylemezoglu, A. (TBase Reduction Fuzzy Control for Path Tracking with Differential Steer Vehicle.  IEEE Transactions on Fuzzy Systems. Accepted for publication.
+Juston, M., Dekhterman, S., Norris, W.R., Nottage, D., Soylemezoglu, A. . (2024) Hierarchical Rule-Base Reduction Based ANFIS with Online Optimization Through DDPG. TechRxiv. Accepted IEEE Transactions on Fuzzy Systems.
+Sang, I-Chen, and Norris, W. R. (2024) An Adaptive Image Thresholding Algorithm Using Fuzzy Logic for Autonomous Underwater Vehicle Navigation. IEEE journal of selected topics in signal processing: 1–10. Web.
+Dekhterman, S., Cichon, M., Norris, WR., Nottage, D., Soylemezoglu, A. (2024) Hierarchical Rule-Base Reduction Fuzzy Control for Constant Velocity Path Tracking of a Differential Steer Vehicle. Wiley, Journal of Field Robotics. 
+Juston, M.F.R.,Norris, W.R. (2024) Ad Hoc Mesh Network Localization Using Ultra-Wideband for Mobile Robotics. Sensors 2024, 24, 1154
+Sang, I., Norris, W.(2024). A Robust Lane Detection Algorithm Adaptable to Challenging Weather Conditions," in IEEE Access, vol. 12, pp. 11185-11195, 2024.
+Sang, I., Norris, W. (2023). An autonomous underwater vehicle simulation with fuzzy sensor fusion for pipeline inspection. IEEE Sensors Journal. Accepted
+Srikonda, S., Norris, W.R., Nottage, D., Soylemezoglu, A.(2022) Deep Reinforcement Learning for AutonomousDynamic Skid Steer Vehicle Trajectory Tracking. Robotics 2022, 11(5), 95.
+Cui, H., Zhang, J., Norris, W.R. (2022) A Real-time Embedded Drive-by-Wire Control Module for Self-driving Cars with ROS2.  International Journal of Mechatronics and Automation 9 (2), 61-71
+Chen, Y., Rastogi, C., Norris, W.R. (2021) A CNN Based Vision-Proprioception Fusion Method for Robust UGV Terrain Classification.  IEEE Robotics and Automation Letters 6 (4), 7965-7972.
+Norris, W.R.,Patterson,A.E. (2019).  System-Level Testing and Evaluation Plan for Field Robots: A Tutorial with Test Course Layouts.  Robotics 8 (4), 83.
+Patterson, A.E., Yuan, Y., and Norris, W.R. (2019). Development of User-Integrated Semi-Autonomous Lawn Mowing Systems: A Systems Engineering Perspective and Proposed Architecture. AgriEngineering 1 (3), 453-474.
+J. Reid, J. Schueller, and W. Norris. “Reducing the Manufacturing and Management Costs of Tractors and Agricultural Equipment”. Agricultural Engineering International: the CIGR Journal of Scientific Research and Development”. Vol. V.Invited Overview Paper. Presented at the Club of Bologna meeting November 16, 2003. Bologna, Italy.
+Norris, W. R., R. Sreenivas, Q. Zhang, and J. C. Lopez–Dominguez. 2001. Hierarchical rule–base reduction for a fuzzy logic based human operator performance model. In Intelligent Engineering Systems through Artificial Neural Networks, Vol. 11: 285–294. C. H. Dagli, A. L. Buczak, J. Ghosh, M. J. Embrechts, O. Ersoy, and S. Kercal, eds. New York, N.Y.: ASME
+Press.
+Norris, W.R., Q. Zhang and R. Sreenivas, 2006. Rule-base reduction for a fuzzy human operator performance model. Applied Engineering Agriculture, 22(4): 611-618.
+Norris, W. R., Zhang Q. and Sreenivas, R. S. A Human Operator Performance Model for Designing the Steering Control System of an Articulated Off-road Vehicle. Accepted January 2003. Special Edition - Computers and Electronics in Agriculture.
+Norris, W. R., Q. Zhang, R. Sreenivas, and J. C. Lopez-Dominguez. 2003. A design tool for operator-adaptive steering controller. Transactions of the ASAE 46(3): 883-891.
+
+Articles in Conference Proceedings
+Chen, Y., Mansouri, M., Wang, Z., Xiao, C., J. Ramos, Hsiao-Wecksler, E.T., and Norris, W.R. “Evaluation of a Shared Controller for Obstacle Avoidance of a Ballbot Wheelchair”, 47th Annual Meeting of the American Society of Biomechanics, Madison, WI, August 5-8, 2024
+Chen, Y., Rastogi, C., Norris, W.R. (2021) A Convolutional Neural Network Based Vision-Proprioception Fusion Method for Robust UGV Terrain Classification.  2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021) conference paper.  RA-Letters journal option.
+Cui, H., Wu, J., Zhang, J., Chowdhary, G., Norris, W.R. (2021) 3D  Detection  and  Tracking  for  On-road  Vehicles  with  a Monovision  Camera  and  Dual  Low-cost  4D  mmWave  Radars.  Submitted to IEEE Intelligent Transportation Systems Society Conference, April 2021
+Cui, H., Zhang, J., and Norris, W.R. (2020) A Safety and Reliability Enhanced Autonomous Driving Platform using ROS2.  IEEE International Conference on Mechatronics and Automation 2020.
+Lewandowski,J., Nagi R., Norris, W.R., Sreenivas, R., Nottage, D., Soylemezoglu, A. (2020) An Ontology for Semantic Classification of Construction Areas and Tasks. Proceedings of the 2020 IISE Annual Conference
+
+Lobato, A., Norris, W.R., Nagi R., Nottage, D., Soylemezoglu, A. (2021) Comparison of Semantic Segmentation Deep Learning Models for Land Use Mapping: Site Characterization for Construction Site Preparation.  Submitted to Proceedings of the 2021 IISE Annual Conference
+Lobato, M., Norris, WR., Nagi, R., Soylemezoglu, A., Nottage, D. (2021) Machine Learning for Soil Moisture Prediction Using Hyperspectral and Multispectral Data.  2021 IEEE 24th International Conference on Information Fusion (FUSION), 1-7
+Sengupta, S., Nagi, R., Norris, W.R., Sreenivas, R., Nottage, D., Soylemezoglu, A.(2020) A Balancing Algorithm for Robust Decentralized Parallel Machine Scheduling to Minimize Makespan.  Proceedings of the 2020 IISE Annual Conference.   
+Seung Yun (Leo) Song, Nadja Marin, Chenzhang Xiao, ,Mahshid Mansouri, Joao Ramos, Yu Chen, Adam W. Bleakney, Deana C. McDonagh , William R. Norris, Jeannette R. Elliot,  Patricia B. Malik, Elizabeth T. Hsiao-Wecksler.  Accepted to ACM/IEEE HRI 2024 Boulder, CO, USA. 
+Song, S.Y, Marin, N., Xiao, C., Mansouri, M., Chen, Y., J. Ramos, Norris, W.R., and Hsiao-Wecksler, E.T. “Performance Evaluation of Hands-free Lean-to-Steer Control of a Ballbot Wheelchair”, 47th Annual Meeting of the American Society of Biomechanics, Madison, WI, August 5-8, 2024
+Xu, J. and Norris, W.R. (2019)  Hierarchical Mamdani-type Fuzzy Logic Control Design with Stability Criteria. Proceedings of the 2019 4th International Conference on Automation, Control.
+Zhang, J., Cui, H., Wu, J., Norris, W. R. Simulator and Transplantable Control Architecture Development for an Electric Autonomous Vehicle.    2024 IEEE International Conference on Mechatronics (ICMA), pg 275-280.
+Norris, W. R., Sreenivas, R. S.  On a Control Policy that Maintains Indoor Air Quality in a Variable-Air-Volume Air-Handling Unit.  Proceedings of the 1997 IEEE/ASME Conference on Control Applications, Hartford, Connecticut, October 1997.
+Norris, W. R., Sreenivas, R. S., and Zhang Q. A Real-Time Human Operator Performance Model for Performing Adaptive System Design.  Proceedings of the Automation Technology for Off-road Equipment (ATOE) 2002, ASAE, Chicago, Illinois, July 2002.
+Norris, W. R., Sreenivas, R. S., and Zhang Q. An Approach Using a Neural Network Based Adaptive Filter for Performing Real-Time, On-line Qualitative System Design.  Proceedings of the Automation Technology for Off-road Equipment (ATOE) 2002, ASAE, Chicago, Illinois, July 2002. 
+Norris, W. R., Sreenivas, R. S., Zhang Q. and Lopez - Dominguez, J. Qualitative Control System Design Incorporating Operator Preferred Performance Characteristics Using Virtual Environments.  Proceedings of the SCI 2001 Conference, IEEE, Orlando, Florida, July 2001.  Best Control Systems Paper at Conference.
+Norris, W. R., Sreenivas, R. S., Zhang Q. and Lopez - Dominguez, J. Virtual Design Tools: A Technique for Performing Qualitative Human-in-the-Loop System Design.  Proceedings of the 2001 ASAE Annual International Meeting, Sacramento, California, July 2001.  Honorable Mention for Best Paper.
+Norris, W.R., Reid John F.  Human Perception Modeling Applied to Autonomous Agricultural System Path Following Control Applications.  Accepted to AgEng2004 Leuven, Belgium International Conference on Agricultural Engineering Sept. 2004.  
+Norris, W.R., Reid John F.  The Assessment of Path Following Capability for Autonomous Agricultural Vehicle Systems.  Accepted to AgEng2004 Leuven, Belgium International Conference on Agricultural Engineering Sept. 2004.
+Patterson, A., Vajipeyajula, B, and Norris, W. (2022) System Architecture and Design Parameters for Extrusion-Based Autonomous Construction Systems. Accepted Proceedings of the ASME 2022 International Additive Manufacturing Conference IAM2022.
+
+Pending Articles
+Folorunsho, S., Norris, W. R. Semantic segmentation-based approach for autonomous navigation in challenging farm terrains. Submitting to Computers and Electronics in Agriculture.
+Folorunsho, S., Norris, W. R. Redefining Aerial Innovation: Autonomous Tethered Drones as a Solution to Battery Life and Data Latency Challenges. Submitting to Computers and Electronics in Agriculture.
+Folorunsho, S., Norris, W. R. Spannotation: Enhancing Semantic Segmentation for Autonomous Navigation with Efficient Image Annotation.  Submitting to Computers and Electronics in Agriculture.
+Gujarathi, I.A., Norris, W.R., Patterson, A.E. "Spiral development for non-software product and system engineering", Preprint submitted to ArXiv, pending submission to Systems Engineering.  
+Sang, I., Norris, W. "Improved Generalizability of CNN-Based Lane Detection in Challenging Weather Using Adaptive Preprocessing Parameter Tuning," in IEEE Transactions on Artificial Intelligence, Submitted in Feb 2024
+Chen, H.  Y., Sang, I., Norris, W. R., Soylemezoglu, A., & Nottage, D. Terrain Classification Method Using Nir or Rgb Camera with a Cnn-Based Fusion of Vision and a Reduced-Order Proprioception Model.  Submitted to ELSEVIER, Computers and Electronics in Agriculture. Special issue title: "Intelligent Agricultural Machinery and Field Robotics" in Dec 2023.
+Chen, Y., Rastogi, C., Zhou, Z., and Norris, W.R.(2023) A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications.  IEEE IROS2024. Manuscript submitted for publication.
+Yurkanin, J., Norris, W.R., Nottage, D., Soylemezoglu, A. (TBD) Neural Network Augmented Off-Road Skid Steer Vehicle Model. Submitted to IEEE Transactions on Robotics.
+Dekhterman, S., Norris, WR., Nottage, D., Soylemezoglu, A. (TBD) Hierarchical Rule-Base Reduction Fuzzy Control for Path Tracking with Differential Steer Vehicle.  IEEE Transactions on Fuzzy Systems. Manuscript submitted for publication.
+
+Other Publications
+S Balasubramanian, A Rajput, RW Hascaryo, C Rastogi, WR Norris. (2020) Comparison of Dynamic and Kinematic Model Driven Extended Kalman Filters (EKF) for the Localization of Autonomous Underwater Vehicles
+arXiv preprint arXiv:2105.12309.
+Patterson, A.E., Yuan, Y., and Norris, W.R. (2019). System-level development of a user-integrated semi-autonomous lawn mowing system: Problem overview, basic requirements, and proposed architecture. ArXiv Preprint, Accepted, pending announcement and digital identifier. 
+Norris, W.R. and Patterson, A.E. (2019). Remote Sensing of Weeds in Field Crops via Image Processing: A Short Literature Collection. Technical report, IDEALS – University of Illinois at Urbana-Champaign. Available online at http://hdl.handle.net/2142/104209.  
+Yuan, Y., Patterson, A.E., Patterson, T.L., and Norris, W.R. (2019). User-Integrated Semi-Autonomous Lawn Mowing Systems: Example Basic, Functional, Non-Functional, and Safety and Security Requirement. Technical report, IDEALS - University of Illinois at Urbana-Champaign. Available online at http://hdl.handle.net/2142/104210.  
+Norris, W.R. and Patterson, A.E. (2019). Automation, autonomy, and semi-autonomy: A brief definition relative to robotics and machine systems. IDEALS - University of Illinois at Urbana-Champaign. Available online at http://hdl.handle.net/2142/104214. 
+
+Patents
+(Provisional) Steering and Velocity Hierarchical Fuzzy Control | Expert Operator Model Control. W.R. Norris, Samuel Dekterman
+(Provisional) Online and Offline Adaptive Hierarchical Fuzzy Control W.R. Norris , Marius Justin
+(Provisional) A Texture Oriented, Self-Supervised One-shot Drivable Area Segmentation FrameworkW.R. Norris, Hsao Yu Chen, Yu Chen
+
+(Provisional) Adaptive image parameter optimization algorithm. W.R. Norris. I-Chen Sang
+
+(Current Disclosure) Localization engine for navigation and control of autonomous lawn-mowing vehicles. W.R. Norris 
+(Current Disclosure) Mapping and area-exclusion system for use by autonomous lawn-mowing vehicles. W.R. Norris 
+(Current Disclosure) Area boundary definition system for use by autonomous lawn-mowing vehicles. W.R. Norris 
+(Current Disclosure)  Ad Hoc, Reconfigurable, Mesh Network Beacon System for Use in Obstructed and Unobstructed Environments:  W.R. Norris and A.E. Patterson. (September 2018).
+EP2551133 (B1) Active suspension system  William R Norris, Bernard E Romig
+
+EP2033118 (B1) Multiple mode system with multiple controllers. nWilliam Robert Norris
+12,048,655.  A low-profile and high-load ball-balancing rolling system: A.W. Bleakney, J.R. Elliott, E.T. Hsiao-Wecksler, P. B. Malik, D. C. McDonagh, A. K. Rausin, W.R. Norris, J. L. Almeida de Souza Ramos, Y. Chen, C. Xiao, Y. Pei, S. Y. Song
+9,429,944	Versatile robotic control module. Mikhail O Filippov, Osa Fitch, Scott P Keller, John O'connor, David S Zendzian, Nadim El Fata, Kevin Larsen, Arlen Eugene Meuchel, Mark David Schmaltz, James Allard, Chris A De Roo, William Robert Norris, Andrew Julian Norby, Christopher David Glenn Turner
+9,098,080	Systems and methods for switching between autonomous and manual operation of a vehicle. William Robert Norris, James Allard, Mikhail O Filippov, Robert Dale Haun, Christopher David Glenn Turner, Seth Gilbertson, Andrew Julian Norby
+9,043,016	Versatile robotic control module. Mikhail O Filippov, Osa Fitch, Scott P Keller, John O'connor, David S Zendzian, Nadim El Fata, Kevin Larsen, Arlen Eugene Meuchel, Mark David Schmaltz, James Allard, Chris A De Roo, William Robert Norris, Andrew Julian Norby, Christopher David Glenn Turner
+8,874,300	Systems and methods for obstacle avoidance. James Allard, Kathleen A Wienhold, William Robert Norris, Anthony Francis Catalfano
+8,825,294	Vehicle center of gravity active suspension control system. William R Norris, Bernard E Romig
+
+8,510,034	Perception model for trajectory following autonomous and human augmented steering control. William Robert NorrisBernard Edwin RomigJohn Franklin Reid
+8,498,796	Perception model for trajectory following autonomous and human augmented speed control. William Robert NorrisBernard Edwin RomigJohn Franklin Reid
+8,473,140	Networked multi-role robotic vehicle. William Robert NorrisJames AllardJeffery Scott
+8,195,364	Perception model for trajectory following autonomous and human augmented steering control
+8,020,657	Systems and methods for obstacle avoidance. James Allard, Kathleen A Wienhold, William Robert Norris, Anthony Francis Catalfano
+7,895,135	Human perception model for speed control performance. William Robert NorrisBernard Edwin RomigJohn Franklin Reid
+7,894,951	Systems and methods for switching between autonomous and manual operation of a vehicle. William Robert Norris, James Allard, Mikhail O Filippov, Robert Dale Haun, Christopher David Glenn Turner, Seth Gilbertson, Andrew Julian Norby
+
+7,769,512	Vehicle steering control method and performance. William Robert NorrisBernard Edwin RomigJohn Franklin Reid
+	
+7,743,159	Reusable application framework for translating between a client and an external entity
+
+(Provisional) Neural Networks as a Modulation Surface for Electrohydraulic Systems: W.R. Norris, J.C.L. Dominguez, R.S. Sreenivas and Q. Zhang. (November 2000).
+(Provisional) Adapative Modulation Curve for Electrohydraulic Systems using Neural Networks: W.R. Norris, J.C.L. Dominguez, R.S. Sreenivas and Q. Zhang. (November 2000).
+(Provisional) Virtual Interpreter and Trajectory Mapping: W.R. Norris, J.C.L. Dominguez and R.S. Sreenivas. (November 2000).
+(Provisional) Virtual Design Tools: W.R. Norris, J.C.L. Dominguez and R.S. Sreenivas. (November 2000).
+(Provisional) Adaptive Modulation Curve for Electrohydraulic Systems using Adaptive Optimization Functions: W.R. Norris, J.C.L. Dominguez, R.S. Sreenivas and Q. Zhang. (November 2000).
+(Provisional) Human Performance Modeling Using Fuzzy Logic: W.R. Norris, J.C.L. Dominguez and R.S. Sreenivas. (November 2000).
+
+Reports
+Norris, W. R.  Intelligent Vehicle System Evaluation Methodology – Guidance, Obstacle Detection, Safeguarding and Safety.  Submitted Technical Report, John Deere, January 2003.
+Norris, W. R.  Multi-attribute Utility Analysis for Evaluation of and Selection of Autonomous Systems.  Submitted Technical Report, John Deere, January 2003.
+Norris, W. R.  Intelligent Vehicle System Evaluation Methodology, T-4477 P-9120, Technical Report, John Deere, December 2002.
+Norris, W. R.  Steering Control System Evaluation for The 5510n Autonomous Tractor For Orchard Operations TR-281 P-9120, Technical Report, John Deere, December 2002.
+Norris, W. R.  UtilRate Programmer’s Manual, United States Army Construction Engineering Research Laboratories, USACERL. September 2002.
+Norris, W. R.  UtilRate User Manual, Technical Report, United States Army Construction Engineering Research Laboratories, USACERL. September 2002.
+Van Blaricum, V., Norris, W. R.  Cathodic Protection Equipment Demonstration on Remote Locations, Technical Report, United States Army Construction Engineering Research Laboratories, USACERL. July 2001.
+Van Blaricum, V., Norris, W. R.  Cathodic Protection Equipment Demonstration.  User Guide, United States Army Construction Engineering Research Laboratories, USACERL.  April, 1997.
+Van Blaricum, V., Norris, W. R.  Cathodic Protection Equipment Demonstration.  Technical Report, United States Army Construction Engineering Research Laboratories, USACERL.  April, 1997. 
+Defense Air Quality Management System (DAQMS) Version 0.5, Software Development and User Manual, United States Army Construction Engineering Research Laboratories, USACERL, December 1997.
+Auxiliary Power Supply for the Electronic Control Module, Cummins Engine (Power), Senior Design Project. May 1996.
+
+Professional Societies
+ASME
+IEEE
+IISE
+INCOSE
+
+Service on Department Committees
+Safety Committee
+Space and Facilities Committee
+Lab & Computer Policy
+
+Service to Federal and State Government
+NSF funding Review Committee, Nanotechnology 2012
+Army Basic Research Review 2013
+
+Honors
+Alpha Epsilon honor society member
+Gamma Epsilon honor society member
+Tau Beta Pi honor society member
+Phi Kappa Phi honor society member
+Fuqua School of Business Merit Scholarship   2006
+Chaired sessions:  SCI2001, ASAE2001, ANNIE 2001, ATOE2001
+Best Paper ASAE 2001 (out of 150)
+Best Control Systems Paper SCI2001 (IEEE) (out of 500), 
+John Deere Innovation Award 
+
+Research Honors
+Robert A. Jewett Endowment (2020)
+William A. Chittenden Award (1998)
+Research Assistant of  the Year Award for ERDC and the Corps of Engineers (2000)
+
+Public Service Honors
+Forever Duke Alumni Award (2013)
+
+Recent Courses TaughtSE 498 SE1 (SE 498 SE2) - Principles of Systems Engrg
+SE 498 WL1 (SE 498 WL2, SE 498 WL3) - Autonomous Vehicle Sys Lab
+SE 498 WN1 (SE 498 WN2) - Autonomous Vehicle Systems
+SE 498 WN1 (SE 498 WN2) - Systems Engineering
+

@@ -1,0 +1,131 @@
+
+
+
+Jeremy Guest he/him/his
+
+
+
+
+
+Professor
+David C. Crawford Faculty ScholarLevenick Professor
+
+
+(217) 244-9247
+jsguest@illinois.edu
+3221 Newmark Civil Engineering Bldg
+
+
+For More Information
+QSDsan Home
+BioSTEAM Development Group
+Guest Research Group Website
+
+Education
+Ph.D., Environmental Engineering, University of Michigan, 2012
+M.S., Civil Engineering, Virginia Polytechnic Institute and State University, 2007
+B.S., Civil Engineering, Bucknell University, 2005
+
+BiographyDr. Jeremy Guest (pronouns: he/him/his) is the Levenick Professor in the Department of Civil and Environmental Engineering and the Department of Chemical & Biomolecular Engineering (by courtesy) at the University of Illinois Urbana-Champaign (UIUC). The core goal of Professor Guestâ€™s group is to advance the circular bioeconomy to achieve equitable, healthy, and prosperous communities while simultaneously enhancing the ecosystems that support them. His group makes progress toward this goal on two fronts: (i) increasing access to and the sustainability of sanitation in both developing and technologically advanced communities, which they pursue by developing technologies and service delivery models that manage sanitation media (i.e., human bodily excreta) as a renewable resource; and (ii) expediting the research, development, and deployment (RD&D) of technologies that advance the sustainability of agriculture and the conversion of plants to bioproducts, biofuels, and nutritious foods. Central to their work is Quantitative Sustainable Design (QSD), a structured methodology to inform engineering, investment, and policy decision-making. - - - - - - - - - - - - - - - - - - - - - - - - Professor Guest currently serves as the Associate Director for Research for the Institute for Sustainability, Energy, and Environment at UIUC, and as the Sustainable Design Lead for the Center for Advanced Bioenergy and Bioproducts Innovation (a $262.5M center funded by the U.S. Department of Energy, DOE). From 2021-2023, Professor Guest also served as the Illinois Thrust Lead for Sustainability for the IBM-Illinois Discovery Accelerator Institute (a $200M venture launched in 2021). He is the recipient of a National Science Foundation (NSF) CAREER Award, the 2016 recipient of the Paul L. Busch Award for innovation in applied water quality research from the Water Research Foundation, and the 2021 James J. Morgan Environmental Science & Technology Early Career Award for creativity and leadership in his field. His research has been sponsored by a number of agencies including the NSF, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture, the U.S. DOE, the U.S. Agency for International Development, and the Bill & Melinda Gates Foundation. Professor Guestâ€™s formal training includes a B.S. and M.S. in civil engineering from Bucknell University and Virginia Tech, respectively, and a Ph.D. in environmental engineering from the University of Michigan.
+Academic Positions
+Levenick Professor; Civil and Environmental Engineering; University of Illinois Urbana-Champaign; 2024-present.
+Associate Director for Research; Institute for Sustainability, Energy, and Environment (iSEE); University of Illinois Urbana-Champaign; 2021-present.
+Affiliate; Center for Social and Behavioral Science (CSBS); University of Illinois Urbana-Champaign; 2020-present.
+Associate Professor; Civil and Environmental Engineering; University of Illinois Urbana-Champaign; 2019-2024.
+Assistant Professor; Civil and Environmental Engineering; University of Illinois Urbana-Champaign; December 2011-2019.
+
+Research Interests
+Wastewater Treatment and Resource Recovery [microalgae for wastewater treatment & renewable feedstock production; non-sewered sanitation (NSS) technologies & service delivery models; underserved communities; international development engineering]
+Sustainable Design [open-source tools for life cycle assessment (LCA) & techno-economic analysis (TEA); quantitative sustainable design (QSD); prioritization of research, development, & deployment (RD&D) pathways for emerging technologies]
+Circular Bioeconomy [nutrient (nitrogen, phosphorus) & energy recovery from human bodily waste; bioprocess engineering for the conversion of plants to biofuels & bioproducts; biorefinery design]
+
+
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+Sustainable and Resilient Infrastructure Systems
+
+
+Selected Articles in Journals
+Jia, Y.; Maitra, S.; Kudli, L.; Guest, J.S.; Singh, V. Economic and environmental sustainability of bio-based HMF production and recovery from lignocellulosic biomass. Green Chemistry. 2024, 26: 11340-11350. https://doi.org/10.1039/D4GC04270K
+Zhang, X.; Arnold, W.A.; Wright, N.; Novak, P.J.; Guest, J.S. Prioritization of early-stage research and development of a hydrogel-encapsulated anaerobic technology for distributed treatment of high strength organic wastewater. Environmental Science & Technology. 2024, 58(44): 19651-19665. https://doi.org/10.1021/acs.est.4c05389
+Cortes-Pena, Y.R.; Woodruff, W.; Banerjee, S.; Li, Y.; Singh, V.; Rao, C.V.; Guest, J.S. Integration of plant and microbial oil processing at oilcane biorefineries for more sustainable biofuel production. GCB Bioenergy. 2024, 16(11): e13183. https://doi.org/10.1111/gcbb.13183
+Fan, X.; Khanna, M.; Lee, Y-.Y.; Kent, J.; Shi, R.; Guest, J.S.; Lee, D.K. Spatially varying costs of GHG abatement with alternative cellulosic feedstocks for sustainable aviation fuels. Environmental Science & Technology. 2024, 58(26): 11352-11362. https://doi.org/10.1021/acs.est.4c01949
+Molitor, H.R.; Kim, G.-Y.; Hartnett, E.; Gincley, B.; Alam, M.; Feng, J.; Avila, N.M.; Fisher, A.; Hodaei, M.; Li, Y.; McGraw, K.; Cusick, R.D.; Bradley, I.M.; Pinto, A.J.; Guest, J.S. Intensive microalgal cultivation and tertiary phosphorus recovery from wastewaters via the EcoRecover process. Environmental Science & Technology. 2024, 58(20): 8803-8814. https://doi.org/10.1021/acs.est.3c10264
+Feng, J.; Li, Y.; Strathmann, T.J.; Guest, J.S. Characterizing the opportunity space for sustainable hydrothermal valorization of wet organic wastes. Environmental Science & Technology. 2024, 58(5): 2528-2541. https://doi.org/10.1021/acs.est.3c07394
+Tran, V.G.; Mishra, S.; Bhagwat, S.S.; Shafaei, S.; Shen, Y.; Allen, J.L.; Crosly, B.A.; Tan, S-.I.; Fatma, Z.; Rabinowitz, J.; Guest, J.S.; Singh, V.; Zhao, H. An end-to-end pipeline for succinic acid production at an industrially relevant scale using Issatchenkia orientalis. Nature Communications. 2023, 14(1): 6152. https://doi.org/10.1038/s41467-023-41616-9
+McKenna, P.; Zakaria, F.; Guest, J.S.; Evans, B.; Banwart, S. Will the circle be unbroken? The climate mitigation and sustainable development given by a circular economy of carbon, nitrogen, phosphorus and water. RSC Sustainability. 2023, 1: 960-974. https://doi.org/10.1039/D2SU00121G
+Watabe, S.; Lohman, H.A.C.; Li, Y.; Morgan, V.L.; Rowles, L.S.; Stephen, T.; Shyu, H.Y.; Bair, R.A.; Castro, C.J.; Cusick, R.D.; Yeh, D.H.; Guest, J.S. Advancing the economic and environmental sustainability of the NEWgeneratorTM non-sewered sanitation system. ACS Environmental Au. 2023, 3(4): 209-222. https://doi.org/10.1021/acsenvironau.3c00001
+Lohman, H.A.C.; Morgan, V.L.; Li, Y.; Zhang, X.; Rowles, L.S.; Cook, S.M.; Guest, J.S. DMsan: A multi-criteria decision analysis framework and package to characterize contextualized sustainability of sanitation and resource recovery technologies. ACS Environmental Au. 2023, 3(3): 179-192. https://doi.org/10.1021/acsenvironau.2c00067
+Li, Y.; Kontos, G.A.; Cabrera, D.V.; Avila, N.M.; Parkinson, T.; Viswanathan, M.B.; Singh, V.; Altpeter, F.; Labatut, R.; Guest, J.S. Design of a high-rate wastewater treatment process for energy and water recovery at biorefineries. ACS Sustainable Chemistry & Engineering. 2023, 11(9): 3861-3872. https://doi.org/10.1021/acssuschemeng.2c07139
+Stewart, D.W.; Cortes-Pena, Y.R.; Li, Y.; Stillwell, A.S.; Khanna, M.; Guest, J.S. Implications of biorefinery policy incentives and location-specific economic parameters for the financial viability of biofuels. Environmental Science & Technology. 2023, 57(6): 2262-2271. https://doi.org/10.1021/acs.est.2c07936
+Cortes-Pena, Y.R.; Kurambhatti, C.; Eilts, K.; Singh, V.; Guest, J.S. Economic and environmental sustainability of vegetative oil extraction strategies at integrated oilcane and oil-sorghum biorefineries. ACS Sustainable Chemistry & Engineering. 2022, 10(42): 13980-13990. https://doi.org/10.1021/acssuschemeng.2c04204
+Li, Y.; Trimmer, J.T.; Hand, S.; Zhang, X.; Chambers, K.G.; Lohman, H.A.C.; Shi, R.; Byrne, D.M.; Cook, S.M.; Guest, J.S. Quantitative sustainable design (QSD) for the prioritization of research, development, and deployment of technologies: A tutorial and review. Environmental Science: Water Research & Technology. 2022, 8: 2439-2465. https://doi.org/10.1039/D2EW00431C
+Li, Y.; Zhang, X.; Morgan, V.L.; Lohman, H.A.C.; Rowles, L.S.; Mittal, S.; Kogler, A.; Cusick, R.D.; Tarpeh, W.A.; Guest, J.S. QSDsan: An integrated platform for quantitative sustainable design of sanitation and resource recovery systems. Environmental Science: Water Research & Technology. 2022, 8: 2289-2303. https://doi.org/10.1039/D2EW00455K
+Rowles, L.S.; Morgan, V.L.; Li, Y.; Zhang, X.; Watabe, S.; Stephen, T.; Lohman, H.A.C.; DeSouza, D.; Hallowell, J.; Cusick, R.D.; Guest, J.S. Financial viability and environmental sustainability of fecal sludge management with pyrolysis Omni Processors. ACS Environmental Au. 2022, 2(5): 455-466. https://doi.org/10.1021/acsenvironau.2c00022
+Bhagwat, S.S.; Li, Y.; Cortes-Pena, Y.R.; Brace, E.C.; Martin, T.A.; Zhao, H.; Guest, J.S. Sustainable production of acrylic acid via 3-hydroxypropionic acid from lignocellulosic biomass. ACS Sustainable Chemistry & Engineering. 2021, 9(49): 16659-16669. https://doi.org/10.1021/acssuschemeng.1c05441
+Bradley, I.M.; Li, Y.; Guest, J.S. Solids residence time impacts carbon dynamics and bioenergy feedstock potential in phototrophic wastewater treatment systems. Environmental Science & Technology. 2021, 55(18): 12574-12584. https://doi.org/10.1021/acs.est.1c02590
+Echevarria, D.; Trimmer, J.T.; Cusick, R.D.; Guest, J.S. Defining nutrient colocation typologies for human-derived supply and crop demand to advance resource recovery. Environmental Science & Technology. 2021, 55(15): 10704-10713. https://doi.org/10.1021/acs.est.1c01389
+McClelland, D.J.; Wang, B.X.; Cordell, W.; Cortes-Pena, Y.R.; Gilcher, E.B.; Zhang, L.; Guest, J.S.; Pfleger, B.F.; Huber, G.; Dumesic, J.A. Renewable linear alpha-olefins by base-catalyzed dehydration of biologically-derived fatty alcohols. Green Chemistry. 2021, 23: 4338-4354. https://doi.org/10.1039/D1GC00243K
+Byrne, D.M.; Hamilton, K.; Houser, S.A.; Mubasira, M.; Katende, D.; Lohman, H.A.C.; Trimmer, J.T.; Banadda, N.; Zerai, A.; Guest, J.S. Navigating data uncertainty and modeling assumptions in quantitative microbial risk assessment (QMRA) to support decision-making in an informal settlement. Environmental Science & Technology. 2021, 55(8): 5463–5474. https://doi.org/10.1021/acs.est.0c05693
+Li, Y.; Bhagwat, S.S.; Cortes-Pena, Y.R.; Ki, D.; Rao, C.V.; Jin, Y.-S.; Guest, J.S. Sustainable lactic acid production from lignocellulosic biomass. ACS Sustainable Chemistry & Engineering. 2021, 9(3): 1341-1351. https://doi.org/10.1021/acssuschemeng.0c08055
+Shi, R.; Guest, J.S. BioSTEAM-LCA: An integrated modeling framework for agile life cycle assessment of biorefineries under uncertainty. ACS Sustainable Chemistry & Engineering. 2020, 8(51): 18903-18914. https://doi.org/10.1021/acssuschemeng.0c05998
+Trotochaud, L.; Andrus, R.; Tyson, K.; Miller, G.; Welling, C.; Donaghy, P.; Incardona, J.; Evans, W.; Smith, P.; Oriard, T.; Norris, I.; Stoner, B.; Guest, J.S.; Hawkins, B. Laboratory demonstration and preliminary techno-economic analysis of an onsite wastewater treatment system. Environmental Science & Technology. 2020, 54(24): 16147-16155. https://doi.org/10.1021/acs.est.0c02755
+Trimmer, J.T.; Lohman, H.A.C.; Byrne, D.M.; Houser, S.A.; Jjuuko, F.; Katende, D.; Banadda, N.E.; Zerai, A.; Miller, D.C.; Guest, J.S. Navigating multidimensional social-ecological system tradeoffs across sanitation alternatives in an urban informal settlement. Environmental Science & Technology. 2020, 54(19): 12641-12653. https://doi.org/10.1021/acs.est.0c03296
+Trimmer, J.T.; Miller, D.C.; Byrne, D.M.; Lohman, H.A.C.; Banadda, N.; Baylis, K.; Cook, S.M.; Cusick, R.D.; Jjuuko, F.; Margenot, A.J.; Zerai, A.; Guest, J.S. Re-envisioning sanitation as a human-derived resource system. Environmental Science & Technology. 2020, 54(17): 10466-10459. https://doi.org/10.1021/acs.est.0c03318
+Corominas, Ll.; Byrne, D.M.; Guest, J.S.; Hospido, A.; Roux, P.; Shaw, A.; Short, M. The application of life cycle assessment (LCA) to wastewater treatment: A best practice guide and critical review. Water Research. 2020, 184: 116058 (1-18). https://doi.org/10.1016/j.watres.2020.116058
+Cortes-Pena, Y.; Kumar, D.; Singh, V.; Guest, J.S. BioSTEAM: A fast and flexible platform for the design, simulation, and techno-economic analysis of biorefineries under uncertainty. ACS Sustainable Chemistry & Engineering. 2020, 8(8): 3302-3310. https://doi.org/10.1021/acssuschemeng.9b07040
+
+Journal Editorships
+Guest Editor: Joint Special Issue on "Advancing the Circular Economy" across four American Chemical Society (ACS)  journals: Environmental Science & Technology (ES&T); ES&T Letters; ACS Sustainable Chemistry and Engineering; ACS Sustainable Resource Management; 2025. Other Guest Editors: J. Zimmerman, P. Licence, M. Eckelman, W. Tarpeh, W.Q. Chen, M. Tam.
+Early Career Editorial Advisory Board: Environmental Science & Technology; an American Chemical Society (ACS) Journal; 2021-2023.
+Guest Editor: Special Issue on "Resource Recovery from Water: From Concept to Standard Practice"; Water Research, an Elsevier Journal; 2019. Other Guest Editors: Ilje Pikaar (Univ. of Queensland), Francesco Fatone (University Politecnica delle Marche), Xia Huang (Tsinghua Univ.).
+
+Other Scholarly Activities
+QSDsan - Quantitative Sustainable Design of Sanitation and Resource Recovery Systems. QSDsan is an open-source process simulator in Python that enables the design, simulation, techno-economic analysis (TEA), and life cycle assessment (LCA) of sanitation and resource recovery technologies under uncertainty. Documentation: https://qsdsan.com/; Download: https://github.com/QSD-Group.
+BioSTEAM - The Biorefinery Simulation and Techno-Economic Analysis Modules in Python. BioSTEAM is an open-source steady-state process simulator in Python that enables the design, simulation, techno-economic analysis (TEA), and life cycle assessment (LCA) of biorefineries under uncertainty. Documentation: https://biosteam.readthedocs.io/; Download: https://github.com/BioSTEAMDevelopmentGroup.
+
+Professional Societies
+Cluster Member; Resource Recovery from Water Cluster; International Water Association (IWA); 2016-present.
+Management Team Member; Life Cycle Assessment (LCA) of Water and Wastewater Treatment Working Group; Modelling and Integrated Assessment Specialist Group; International Water Association (IWA); 2012-2020.
+Management Team Member; Modelling of Integrated Urban Water Systems (MIUWS) Working Group; Modelling and Integrated Assessment Specialist Group; International Water Association (IWA); 2012-2020.
+
+Service on Department Committees
+Committee Member; Department Advisory Committee; 2016-2018, 2020-2024.
+Co-Chair, B.S. in Environmental Engineering Committee; 2021-2023.
+
+Service on College Committees
+Theme Lead - Sustainability; Illinois-IBM Discovery Accelerator Institute (IIDAI); Grainger College of Engineering; 2021-2023.
+
+Teaching Honors
+List of Teachers Ranked as Excellent by their Students; UIUC (2014 (Sp,Fa) & every semester taught since Fall 2015 [2015 (Fa); 2016 (Sp,Fa); 2017 (Sp,Fa); 2018 (Fa); 2019 (Sp,Fa); 2020 (Sp); 2021 (Fa); 2022 (Fa); 2023 (Fa)])
+Award for Outstanding Teaching in Environmental Engineering & Science; Association of Environmental Engineering and Science Professors (AEESP) (2019)
+Excellence Award for Undergraduate Advising and Mentoring; Department of Civil & Environmental Engineering, UIUC (2018)
+Bill Boyle Outstanding Educator Award ("Educator of the Year"); Central States Water Environment Association (CSWEA) (2016)
+
+Research Honors
+James J. Morgan Early Career Award; Environmental Science & Technology (ES&T) (2021)
+Best Policy Analysis Article in 2020; Environmental Science & Technology (ES&T) (2021)
+Dean's Award for Excellence in Research; College of Engineering, UIUC (2018)
+Beckman Fellow; Center for Advanced Study (CAS), UIUC (2017-2018)
+Paul L. Busch Award; Water Environment & Reuse Foundation (now The Water Research Foundation) (2016)
+Faculty Early Career Development (CAREER) Award; National Science Foundation (NSF) (2014-2019)
+
+Other Honors
+David C. Crawford Faculty Scholar Award; Dept. of Civil & Environmental Engineering; UIUC (2022-2024)
+Paul V. Roberts / AEESP Outstanding Doctoral Dissertation Award; John T. Trimmer (Ph.D. Advisee); Association of Environmental Engineering and Science Professors (AEESP) (2020)
+CEE Outstanding Young Alumni Award; Department of Civil & Environmental Engineering; Virginia Tech (2020)
+Outstanding Reviewer; Water Research and Water Research X; Elsevier (2019)
+Excellence Faculty Fellow; Department of Civil & Environmental Engineering (2016)
+MWH/AEESP Master's Thesis Award, First Place; Brian D. Shoener (M.S. Advisee); Association of Environmental Engineering and Science Professors (AEESP) (2015)
+Excellence in Review Award; Environmental Science & Technology; American Chemical Society (2014)
+
+Recent Courses TaughtCEE 330 - Environmental Engineering
+CEE 437 - Water Quality Engineering
+CEE 443 - Env Eng Principles, Chemical
+CEE 493 - Sustainable Design Eng Tech
+CEE 538 - Water Quality Control Proc II
+CEE 595 AG - Adv Environmental Engr Seminar
+CEE 598 DE - Design Experience Envrn Engrs
+ENVS 301 - Tools for Sustainability
+

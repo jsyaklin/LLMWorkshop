@@ -1,0 +1,73 @@
+
+
+
+Jordan Smart he/him/his
+
+
+
+
+
+Assistant Professor
+
+
+
+jtsmart@illinois.edu
+ 
+
+
+Education
+Ph.D., Aeronautics and Astronautics, Stanford University, 2023
+M.Sc., Aeronautics and Astronautics, Stanford University, 2018
+B.Sc., Mechanical Engineering, Rutgers University, 2015
+
+Other Professional Employment
+Lockheed Martin Space Systems, Mechanical Engineer, 2016-2017 
+Aerospace Research Community LLC, Co-Founder, 2023-Present
+Stargazer Design Technologies Inc., Co-Founder, 2022-Present
+
+Professional Registrations
+Sigma Xi, Associate Member, 2015-Present
+AIAA, Professional Member, 2013-Present
+
+Short Courses
+Leadership in Engineering, Stanford University, 2021, 15, In-Person Lectures
+
+Research Interests
+Numerical Techniques: Simulation acceleration, gradient passing methods, data structures for system design
+Modeling & Simulation: Novel system performance simulation, integration of knowledge representation and learning methods, uncertainty quantification
+Optimization: Global optimization, heuristic methods, and optimal design studies within aerospace engineering
+AI/ML for Design: The application of data-driven analysis and generative inference for system design problems
+
+
+
+Selected Articles in Journals
+J. Smart, H. Benaroya. "An Examination of Non-Linear and Passive Technology Transfer in the Space Sector: Consideration of the Contingent Effectiveness Model as a Basis for Formal Modeling." Space Policy 38, p.39-47, 2015
+
+Articles in Conference Proceedings
+E. Botero, J. Smart, "DeepSPACE: Generative AI for Configuration Design Space Exploration." AIAA Aviation Forum and Ascend. Las Vegas, NV. 2024
+J. Smart, J. Alonso. "Configuration Selection via Self-Supervised, Performance-Weighted Generative Neural Networks." AIAA SciTech Forum and Exposition. National Harbor, MD. 2023
+E. Botero, M. Clarke, R. Erhard, J. Smart, J. Alonso, A. Blaufox. "Aerodynamic Verification and Validation of SUAVE." AIAA Sci Tech Forum and Exposition. San Diego, CA. 2022
+M. Clarke, R. Erhard, J. Smart, J. Alonso, Aerodynamic Optimization of Wing-Mounted Propeller Configurations for Distributed Electric Propulsion Architectures. AIAA Aviation Forum. Virtual Event. 2021
+J. Smart, J. Alonso. "CPU Parallelization and GPU Acceleration of SUAVE: Advancements in Sampling and Optimization." AIAA Science and Technology Forum. Virtual Event. 2021
+J. M. Vegh, E. Botero, M. Clarke, J. Smart and Juan Alonso. "Current Capabilities and Challenges of NDARC and SUAVE for eVTOL Aircraft Design and Analysis." AIAA Propulsion and Energy Forum and Exposition. Indianapolis, IN. 2019
+M. Clarke, J. Smart, E. Botero, W. Maier, J. Alonso. "Strategies for Posing a Well-Defined Problem for Urban Air Mobility Vehicles." AIAA Sci Tech Forum and Exposition, San Diego, CA. 2019
+
+Professional Societies
+Tau Beta Pi, Member, 2014-Present
+Sigma Xi, Associate Member, 2015-Present
+AIAA, Professional Member, 2023-Present
+
+Honors
+Robert H. Cannon Jr. Summer Fellowship, Stanford Department of Aeronautics and Astronautics (2021)
+DARE Fellowship, Stanford Vice Provost for Graduate Education (2021)
+EDGE Fellowship, Stanford Vice Provost for Graduate Education (2019)
+Graduate Research Fellowship, National Science Foundation (2018)
+
+Public Service Honors
+JEDI Service Graduation Award, Stanford School of Engineering (2022)
+Community Impact Award, Stanford Alumni Association (2022)
+James W. Lyons Award, Stanford University (2021)
+
+Recent Courses TaughtAE 442 S1 - Aerospace Systems Design I
+AE 443 S1 - Aerospace Systems Design II
+

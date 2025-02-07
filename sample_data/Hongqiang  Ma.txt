@@ -1,0 +1,56 @@
+
+
+
+Hongqiang Ma 
+
+
+
+
+
+Research Assistant Professor
+
+
+
+mhq@illinois.edu
+ 
+
+
+Education
+B.S. in Biomedical Engineering, Huazhong University of Science and Technology, Wuhan, China, 2009
+Ph.D. in Biomedical Engineering, Huazhong University of Science and Technology, Wuhan, China, 2014
+
+Academic Positions
+Research Assistant Professor, Department of Bioengineering, University of Illinois Urbana-Champaign, January 2024 -  present
+Research Assistant Professor, Departments of Medicine, University of Pittsburgh, November 2017 - December 2023
+
+Research Interests
+High-resolution, multimodal, multiplex, mesoscope for information-rich spatial biology
+High-throughput super-resolution localization imaging platform to map the multiplex biomarkers of  clinical tissue and biopsy with a nanoscale resolution
+
+
+Research Areas
+Biomedical imaging
+Biophotonics
+Computational bioengineering
+Single-molecule imaging
+
+
+Research Topics
+Bioimaging at Multi-Scale
+
+Chapters in Books
+Hongqiang Ma and Yang Liu, "Super-Resolution Imaging through Single-Molecule Localization," in Biomedical Optical Imaging: From Nanoscopy to Tomography, edited by Jun Xia and Regine Choe (AIP Publishing, Melville, New York, 2021), Chapter 4, pp. 4-1–4-26.
+
+Selected Articles in Journals
+Ma H, Nguyen P, Liu Y. A Versatile Drift-Free Super-Resolution Imaging Method via Oblique Bright-Field Correlation. Adv Sci 2024:2412127. https://doi.org/10.1002/ADVS.202412127.
+Ma H, Chen M, Xu J, Yang Y, Zhao Y, Liu Y. An Omni-Mesoscope for multiscale high-throughput quantitative phase imaging of cellular dynamics and high-content molecular characterization. Science Advances, 2024; 10: eadq5009.
+Xu J, Sun X, Chen Z, Ma H, Liu Y. Super-resolution imaging of T lymphocyte activation reveals chromatin decondensation and disrupted nuclear envelope. Communications Biology, 2024; 7: 717.
+Ma H, Chen M, Nguyen P, Liu Y. Towards drift-free high-throughput nanoscopy through adaptive intersection maximization. Science Advances, 2024; 10: eadm7765.
+Skoko JJ, Cao J, Gaboriau D, Attar M, Asan A, Hong L, Paulsen CE, Ma H, Liu Y, Wu H, Harkness T, Furdui CM, Manevich Y, Morrison CG, Brown ET, Normolle D, Spies M, Spies MA, Carroll K, Neumann CA. Redox regulation of RAD51 Cys319 and homologous recombination by peroxiredoxin 1. Redox Biol. 2022 Oct;56:102443. doi: 10.1016/j.redox.2022.102443. Epub 2022 Aug 24. PubMed PMID: 36058112; PubMed Central PMCID: PMC9450138.
+Xu J, Sun X, Kim K, Brand RM, Hartman D, Ma H, Brand RE, Bai M, Liu Y. Ultrastructural visualization of chromatin in cancer pathogenesis using a simple small-molecule fluorescent probe. Sci Adv. 2022 Mar 4;8(9):eabm8293. doi: 10.1126/sciadv.abm8293. Epub 2022 Mar 4. PubMed PMID: 35245126; PubMed Central PMCID: PMC8896800.
+Ma H, Liu Y. Robust emitter localization with enhanced harmonic analysis. Opt Lett. 2021 Dec 1;46(23):5798-5801. doi: 10.1364/OL.437409. PubMed PMID: 34851893; PubMed Central PMCID: PMC8640370.
+Ma H, Jiang W, Xu J, Liu Y. Enhanced super-resolution microscopy by extreme value based emitter recovery. Sci Rep. 2021 Oct 14;11(1):20417. doi: 10.1038/s41598-021-00066-3. PubMed PMID: 34650088; PubMed Central PMCID: PMC8517018.
+Ma H, Liu Y. Embedded nanometer position tracking based on enhanced phasor analysis. Opt Lett. 2021 Aug 15;46(16):3825-3828. doi: 10.1364/OL.433740. PubMed PMID: 34388751; PubMed Central PMCID: PMC8622170.
+[Ma H#, Xu J#], Ma HB, Jiang W, Mela CA, Duan M, Zhao S, Gao C, Hahm ER, Lardo SM, Troy K, Sun M, Pai R, Stolz DB, Zhang L, Singh S, Brand RE, Hartman DJ, Hu J, Hainer SJ, Liu Y. Super-resolution imaging reveals the evolution of higher-order chromatin folding in early carcinogenesis. Nat Commun. 2020 Apr 20;11(1):1899. doi: 10.1038/s41467-020-15718-7. PubMed PMID: 32313005; PubMed Central PMCID: PMC7171144.
+Ma H, Xu J, Liu Y. WindSTORM: Robust online image processing for high-throughput nanoscopy. Sci Adv. 2019 Apr;5(4):eaaw0683. doi: 10.1126/sciadv.aaw0683. eCollection 2019 Apr. PubMed PMID: 31032419; PubMed Central PMCID: PMC6486217.
+

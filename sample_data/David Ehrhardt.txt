@@ -1,0 +1,91 @@
+
+
+
+David Ehrhardt 
+
+
+
+
+
+Assistant Research Professor 
+
+
+(217) 265-8489
+dehrhar2@illinois.edu
+204b Talbot Laboratory
+
+
+For More Information
+Advanced Material Testing and Evaluation Laboratory
+
+
+Education
+BS Mechanical Engineering, Bradley University, 2009
+MS Mechanical Engineering, Bradley University, 2011
+PhD Engineering Mechanics, University of Wisconsin-Madison, 2015
+
+
+BiographyDavid Ehrhardt’s academic research a the University of Wisconsin-Madison focused on novel methods of model calibration for prediction of structural responses from extreme loading.  His dissertation centered on the use of nonlinear normal modes as an optimization feature to match experimental data with numerical prediction so updated models could be used to predict the nonlinear static and dynamic response from extreme acoustic/thermal/mechanical loading. His postdoctoral research at the University of Bristol used the tools from his dissertation for the experimental and numerical prediction of nonlinear normal modes to design a structure exhibiting unique nonlinear behavior. Using these tools, he was able to design a structure with variable nonlinear coupling with a focus on 1-1 and 1-3 coupling. This work was the first to identify a detached nonlinear normal mode experimentally, analytically, and numerically in the same structure. His continuing research at the Air Force Research Lab focuses on the experimental measurement of structures in combined acoustic/thermal/mechanical loading. This work is centered on a flexible panels under extreme mechanical/thermal excitation with additional fluid-thermal-structural interaction work in Mach 2, Mach 4 and Mach 6 wind-tunnels. Using novel optical measurement techniques, he was able to measure the static/dynamic structural response in addition to the thermal state of thin panels in these environments.In 2021, he joined the Applied Research Institute at the University of Illinois and was simultaneously appointed the Lab Coordinator of the Advanced Material Testing and Evaluation Laboratory. 
+Academic Positions
+Senior Research Engineer, Applied Research Institute, 2021-2024
+
+Research Assistant Professor, Aerospace Engineering, 2024-Present
+
+
+Other Professional Employment
+Postdoctoral Research Associate, University of Bristol, 2015-2016
+Postdoctoral Researcher, Air Force Research Lab, Wright Patterson Air Force Base, 2016-2017
+Owner, Ehrhardt Engineering LLC, 2017-2021
+
+Research Interests
+Additive Manufacturing of Structural Components
+
+Optical Combined Temperature, Pressure, Displacement Measurements
+
+Materials Testing in Extreme Environments
+
+Finite Element Model Updating and Validation
+Linear and Nonlinear Structural Dynamics
+
+
+
+
+Selected Articles in Journals
+Mills, J.G., Duttion, J.C., Elliott, G., Fluid-structure interactions of a fin over a compliant panel in supersonic flow," AIAA Journal 2024.  DOI: 10.2514/1.J064083
+Brouwer, K.R., Perez, R.A., Beberniss, T.J., and Spottswood, S.M, and Ehrhardt, D.A., "Evaluation of reduced-order aeroelastic simulations for shock-dominated flows," Journal of Fluids and Structures 2022. DOI: 10.1016/j.jfluidstructs.2021.103429
+
+Riley, Z.B., Hagen, B., and Ehrhardt, D.A., “Aero-optical Measurements of the Response of a Thin Panel at Mach 6,” American Institute of Aeronautics and Astronautics Journal 2022. DOI: 10.2514/1.J060408
+
+Spottswood, S.M., Smarslok, B., Perez, R.A., Beberniss, T.J., Hagen, B.J., Riley, Z.B., Brouwer, K.R., and Ehrhardt, D.A., "Supersonic aerothermoelastic experiments of aerospace structures," AIAA Journal 2021. DOI: 10.2514/1.J060403
+
+Brouwer, K.R., Perez, R.A., Beberniss, T.J., Spottswood, S.M., and Ehrhardt, D.A., “Experiments on a Thin Panel Excited by Turbulent Flow and Shock/Boundary Layer Interactions,” American Institute of Aeronautics and Astronautics Journal 2021. DOI: 10.2514/1.J060114
+
+Brouwer, K.R., Perez, R.A., Beberniss, T.J., Spottswood, S.M, Ehrhardt, D.A., and Wiebe, R., “Investigation of aeroelastic instabilities for a thin panel in turbulent flow,” Nonlinear Dynamics 2021. DOI: 10.1007/s11071-021-06571-4
+
+Riley, Z.B., Perez, R.A., and Ehrhardt, D.A., “Response of a Thin Panel to Aerothermal Loading at Mach 6,” American Institute of Aeronautics and Astronautics Journal 2021. DOI: 10.2514/1.J060404
+
+Beberniss, T.J., and Ehrhardt, D.A., “Visible Light Refraction Effects on High-speed Stereo Digital Image Correlation Measurement of a Thin Panel in Mach 2 Flow,” Experimental Techniques 2021. DOI: 10.1007/s40799-020-00408-2
+
+Ehrhardt, D.A., Virgin, LN., Spottswood, S.M., “Experiments on probing the configuration space of post-buckled panels,” Journal of Applied Mechanics 2020. DOI: 10.1115/1.4048197
+
+Ehrhardt, D.A., Hill, T.L., Neild, S.A., Cooper, J.E., “Experimentally measuring an isolated branch of Nonlinear Normal Modes,” Journal of Sound and Vibration 2020. DOI: 10.1016/j.jsv.2019.6.006
+
+Ehrhardt, D.A., Virgin, L.N., and Spottswood, S.M., “Experiments on the thermal post-buckling of panels, including localized heating,” Journal of Sound and Vibration 2019. DOI: 10.1016/j.jsv.2018.08.043
+
+Spottswood, S.M., Beberniss, T.J., Eason, T.G., Perez, R.A., Donbar, J.M., Ehrhardt, D.A., Riley, Z.B., "Exploring the response of a thin, flexible panel to shock-turbulent boundary-layer interactions," Journal of Sound and Vibration 2019. DOI: 10.1016/j.jsv.2018.11.035
+
+Renson, L., Hill, T.L., Ehrhardt, D.A., Barton, D.A.W., and Neild, S.A., “Force appropriation of nonlinear structures,” Proceedings. Mathematical, Physical, and Engineering Sciences 2018. DOI: 10.1098/rspa.2017.0880
+
+Ehrhardt, D.A., Hill, T.L., Neild, S.A., Cooper, J.E., “Veering and Nonlinear Interactions of a Clamped Beam in Bending and Torsion,” Journal of Sound and Vibration 2018. DOI: 10.1016/j.jsv.2017.11.045
+
+Szalai, R., Ehrhardt, D.A., and Haller, G., “Nonlinear Model Identification and Spectral Submanifolds for Multi-Degree-of-Freedom Mechanical Vibrations.” Proceedings Mathematical, Physical, and Engineering Sciences 2017. DOI: 10.1098/rspa.2016.0759.
+
+Ehrhardt, D.A., Allen, M.S., Beberniss, T.J., and Neild, S.A., “Finite Element Model Calibration of a Nonlinear Perforated Plate,” Journal of Sound and Vibration 2017. DOI: 10.1016/j.jsv.2016.12.037
+
+Beberniss, T.J. and Ehrhardt, D.A., ” High-speed 3D digital image correlation vibration measurement: Recent advancements and noted limitations,” Mechanical Systems and Signal Processing 2017. DOI: 10.1016/j.ymssp.2016.04.014
+
+Ehrhardt, D.A., Yang, S., Beberniss, T.J., and Allen, M.S., “Full Field Measurements of beams and plates with Continuous-Scan Laser Doppler Vibrometry and 3D-Digital Image Correlation,” Mechanical Systems and Signal Processing 2017. DOI: 10.1016/j.mssp.2015.12.00
+
+Ehrhardt, D.A., Allen, M.S., and Beberniss, T.J., “Measurement of Nonlinear Normal Modes using Multi-Harmonic Force Appropriation and Free Decay,” Mechanical Systems and Signal Processing 2016 DOI: 10.1016/j.ymssp.2016.02.063
+
+

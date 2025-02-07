@@ -1,0 +1,122 @@
+
+
+
+Can Bayram he/him/his
+
+
+
+
+
+Associate Professor
+
+
+(217) 300-0978
+cbayram@illinois.edu
+3264 Micro & Nanotechnology Lab
+
+
+For More Information
+LinkedIn
+Google Scholar Profile
+Higher Educational Initiative in Semiconductors (HIVE)
+Open Boundary Quantum LED Simulator (OBQ-LEDsim)
+Innovative COmpound semiconductoR LABoratory (ICORLAB)
+
+BiographyDr. Can Bayram is an Intel Alumni Endowed Faculty Scholar & Associate Professor in the Department of Electrical and Computer Engineering and a resident faculty at the Nick Holonyak, Jr Micro and Nanotechnology Laboratory, University of Illinois at Urbana-Champaign, IL, USA. In all aspects of modern life, we utilize semiconductor technologies. From lighting to communication and computing to transportation, we rely on semiconductors for comfort, safety, and sustainability. Prof. Bayram understands, controls, and exploits semiconductor technologies and creates an innovative research and education platform considering the needs of not only the current but also of the next generation. Dr. Bayram is the recipient of the International Union of Pure and Applied Physics Young Scientist Medal, the IEEE Nanotechnology Council Early Career Award, the IEEE Electron Devices Society Early Career Award, NSF CAREER & AFOSR Young Investigator Awards amongst many other (inter)national awards. He is an SPIE Fellow.
+Teaching StatementThe 21st century is the age of semiconductors. In all aspects of modern life, we utilize semiconductor technologies. From lighting to communication and computing to transportation, we rely on semiconductors for comfort, safety, and sustainability. Today, we are switching to solid-state lighting for halving our lighting electricity usage, 5G communication for networked devices, and autonomous systems for land/sea/air transportation. Our reliance on semiconductors is only to evolve as solid-state lighting extends into horticulture and medicine, new communication spectra above 95 gigahertz open opportunities for 6G and beyond networking, and space exploration leads to space settlements. Thus, it is imperative to understand, control, and exploit semiconductor technologies and to create an innovative education platform considering the needs of not only the current but also of the next generation.
+Research StatementThe fundamental particle of optics, a photon, is unique as it rarely interacts with other fundamental particles. If a photon hardly interacts with another photon or an electron/hole, how can we create photons of interest efficiently? The answer is through man-made semiconductor materials. I research electron/hole and photon interactions in semiconductors and use the emergent understanding to design novel semiconductors and semiconductor devices. Particularly, I engineer semiconductor quantum structures with unique electronic band properties for high-speed transport and energy states for ultraviolet, visible, and terahertz optical transitions. 
+Post-Doctoral Research OpportunitiesOur group does not have an opening for a postdoctoral research scientist. Exceptions can be made for OUTSTANDING candidates who have extensive SEMICONDUCTOR DEVICE FABRICATION expertise in a CLEANROOM environment. We also encourage SELF-, GOVERMENT- and COMPANY-funded candidates to apply. Postdoctoral candidates are encouraged to contact Prof. Can Bayram directly via email (and should attach their CV and the contact information for at least two references) to inquire about the position/project openings.
+Graduate Research OpportunitiesOur group invites undergraduate and graduate students to apply for PhD thesis openings. Incoming and/or interested graduates are encouraged to browse the group webpage and contact Prof. Can Bayram directly via email (and should attach their CV and unofficial UG/GRAD transcripts) to inquire about the position/project openings.
+Undergraduate Research OpportunitiesOur group invites highly motivated undergraduates, currently enrolled at our University of Illinois at Urbana-Champaign, to join our research team. Particularly, students who wish to have experience in semiconductor devices and who are passionate about creating next generation photonic and micro/nano-electronic devices are welcomed. Please contact Prof. Can Bayram directly via email (and attach your CV and unofficial transcript showing your courses) to inquire about any position/project openings.
+
+Research Areas
+Efficient energy management and conversion for lighting, communications, information technology, transportation, and appliances
+Electromagnetics and Optics
+Energy storage conversion, management, and control
+Gallium nitride power semiconductors
+Microcavity lasers and nanophotonics
+Microelectromechanical systems (MEMS)
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Microwave devices and circuits
+Microwave integrated circuits
+Millimeter wave integrated circuits
+Nano-electronics and single electronics
+Nano-materials
+Nano-photonics
+Nanotechnology
+Photonic crystals
+Photonic integrated circuits (PICs)
+Power and Energy Systems
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sensors
+
+
+Research Topics
+Beyond CMOS
+Charge particle physics and engineering
+Electronics, Plasmonics, and Photonics
+Energy
+Micro & nanoelectromechanical M/NEMS integrated systems
+Photonics: optical engineering and systems
+Quantum optics, cryptography, information, and computing
+RF and microwave engineering
+Semiconductor devices and manufacturing
+Solar and renewable technology
+
+Selected Articles in Journals
+J. Lee, C. Bayram, and J.P. Leburton, High Field Transport in (Ultra) Wide Bandgap Semiconductors: Diamond vs. Cubic GaN, IEEE Trans. Electron Devices 71 (9), 5638-5644 (2024). (TOP Downloaded Article)
+Z. Han, J. Lee, S. Messing, T. Reboli, A. Mironov, and C. Bayram, Buried Channel Diamond Photoconductive Switch with High Above-Bandgap Responsivity, IEEE Electron Device Lett. IEEE Electron Device Lett. 45 (6) 1044 (2024). (TOP Downloaded Article)
+J. Lee and C. Bayram, Green-emitting Cubic GaN/In0.16Ga0.84N/GaN Quantum Well with 32% Internal Quantum Efficiency at Room Temperature, Appl. Phys. Lett. 124, 011101 (2024). (FRONT COVER ARTICLE) (EDITOR’S PICK 2024)
+Z. Han and C. Bayram, Diamond p-type lateral Schottky barrier diodes with high breakdown voltage (4612 V at 0.01 mA/mm), IEEE Electron Device Lett. 44 (10) 1692 (2023). (TOP Downloaded Article)
+J. Lee, J.P. Leburton, and C. Bayram, Design trade-offs between traditional hexagonal and emerging cubic InXGa(1 X)N/GaN-based green light-emitting diodes, J. Opt. Soc. Am. B 40(5), 1017-1023 (2023). (EDITOR’S PICK 2023) (TOP Downloaded Article)
+Y.C. Chiu and C. Bayram, Low Temperature Absolute Internal Quantum Efficiency of InGaN-based Light-Emitting Diodes, Appl. Phys. Lett. 122, 091101 (2023).
+
+Professional Societies
+Fellow, SPIE Society, 2025-present (member since 2006)
+
+Teaching Honors
+Gentec Electro-Optics Company Laser Lab Award (2024)
+Faculty Advisor, UIUC Campus Nominee, CGS/ProQuest Distinguished Dissertation Award Competition (2022)
+Faculty Advisor, Best Student Poster Honorable Mention, DOE Lighting R&D Workshop (2021)
+Faculty Advisor, Graduate Finalist, Lemelson-MIT Student Prize (2020)
+Faculty Advisor, Outstanding Presentation Trophy, Gulf Coast Undergraduate Research Symposium (2019)
+List of Teachers Ranked as Excellent by Their Students, ECE 443 LEDs and Solar Cells (2018)
+
+Research Honors
+Fellow, SPIE Society (2025)
+TOP Downloaded Article - High Field Transport in (Ultra) Wide Bandgap Semiconductors: Diamond Versus Cubic GaN, IEEE Transactions on Electron Devices. (2024)
+The Graduate Team Runner-up (i.e., 2nd place), Collegiate Inventors Competition, National Inventors Hall of Fame (2024)
+TOP Downloaded Article - Buried Channel Diamond Photoconductive Switch with High Above-Bandgap Responsivity, IEEE Electron Device Letters. (2024)
+Dean's Award for Early Innovation for Associate Professor (2024)
+Dean's Award for Excellence in Research for Associate Professor (2024)
+EDITOR'S PICK & FRONT COVER ARTICLE - Green-emitting Cubic GaN/In0.16Ga0.84N/GaN Quantum Well with 32% Internal Quantum Efficiency at Room Temperature, Applied Physics Letters journal (2024)
+TOP Downloaded Article - Diamond p-type lateral Schottky barrier diodes with high breakdown voltage (4612 V at 0.01 mA/mm), IEEE Electron Device Letters. (2023)
+Intel Alumni Endowed Faculty Scholar in Electrical and Computer Engineering (2023)
+EDITOR'S PICK & TOP Downloaded Article - Design tradeoffs between traditional hexagonal and emerging cubic InGaN/GaN-based green light-emitting diodes, Journal of the Optical Society of America B (2023)
+Andrew T. Yang Research and Entrepreneurship Award in ECE (2022)
+EDITOR'S PICK - Structural and Optical Properties of Cubic GaN on U-grooved Si (100), Applied Physics Letters (2022)
+FRONT COVER ARTICLE - Band Alignments of Ternary Wurtzite and Zincblende III-Nitrides Investigated by Hybrid Density Functional Theory, ACS Omega journal (2020)
+Finalist, Collegiate Inventors Competition, National Inventors Hall of Fame (2019)
+Invitation, China-America Frontiers of Engineering Symposium, hosted by Qualcomm and organized by the National Academy of Engineering and Chinese Academy of Engineering (2019)
+Young Scientist Medal, International Union of Pure and Applied Physics (2018)
+Early Career Award, IEEE Nanotechnology Council (2018)
+Dean's Award for Excellence in Research for Assistant Professor (2018)
+Young Scholar Award, Turkish American Scientists & Scholars Association (2018)
+Senior Membership, OSA Society (2018)
+CAREER Award, NSF (2017)
+Best Student Paper Award, CS MANTECH Conference (2017)
+Young Investigator Award, AFOSR  (2016)
+Senior Membership, IEEE Society (2016)
+Early Career Award, IEEE Electron Devices Society (2014)
+
+Public Service Honors
+Community Champion, SPIE Society (2019)
+
+Recent Courses TaughtECE 110 - Introduction to Electronics
+ECE 443 - LEDs and Solar Cells
+ECE 500 U (ECE 500 U1) - ECE Colloquium
+

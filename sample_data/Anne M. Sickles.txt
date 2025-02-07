@@ -1,0 +1,76 @@
+
+
+
+Anne M Sickles 
+
+
+
+
+
+Professor
+
+
+(217) 244-9057
+sickles@illinois.edu
+403 Loomis Laboratory
+
+
+For More Information
+group web page
+
+BiographyProfessor Sickles received her bachelor's degree in physics from Gonzaga University in 2001 and her Ph.D. in physics from Stony Brook University in 2005.  She was a postdoctoral researcher at Brookhaven National Lab from 2005 to 2009.  In 2009 she joined the scientific staff of Brookhaven first as an Assistant Physicist and then Associate Physicist (2011).  She joined the Department of Physics at the University of Illinois as an assistant professor in 2014.
+Professor Sickles' research is in the field of relativistic heavy ion collisions.  She is the convener of the ATLAS Heavy Ion Working Group (2018-2020) at the Large Hadron Collider at CERN and a member of the sPHENIX Experiment at the Relativistic Heavy Ion Collider at Brookhaven.
+Academic Positions
+Assistant Physicist, Brookhaven National Laboratory, Physics, 2009-2014
+Associate Physicist, Brookhaven National Laboratory, Physics, 2011-2014
+Assistant Professor, University of Illinois, Physics, 2014--2019
+Associate Professor, University of Illinois, Physics, 2019-2023
+Professor, University of Illinois, 2023-present
+
+Research StatementMy research is focused on experimental studies of the matter created in relativistic heavy ion collisions, the quark gluon plasma.  This matter is created when temperatures are sufficiently high that colorless hadrons are no longer the relevant degrees of freedom.  This matter is characterized by strong interactions between the constituents and is better described as a liquid than a gas.  
+Recently, evidence of fluid-like behavior in proton-Pb collisions at the LHC was found.  This was not expected given that any initial system has a size no bigger than the size of the smaller nucleus.  The signature test of this is to vary the geometry of the initial collision region by changing the initial geometry of the system.  I led the first measurement to do this by analyzing deuteron-Au collisions at PHENIX.  In this case the elongated geometry of the deuteron would lead to an elliptic initial shape for the QGP.  We found evidence for this in the particle correlations and the result was published in Phys. Rev. Lett.  Taking this further I am interested in He3-Au collisions in which the initial QGP would have a triangular shape.  Investigating the small size limit of the QGP provides a new frontier in determining its properties and particularly how the matter itself is formed on such a short timescale.
+High energy jets from the hard scattering of quarks and gluons are a very powerful tool with which to study the QGP.  In heavy ion collisions the jets propagate through the plasma and the jets are found to "lose" energy during this process.  Of course the energy isn't gone, but it is moved away from the jet axis.   My group has measured how the jets are modified and where particles are, both within and around the jets,  this information is key to understanding the modification of the jets by the QGP and how the QGP reacts to the presence of a jet.  The wealth of ATLAS data from Run 2 allow more detailed studies of jets.
+My group also works on the  the sPHENIX detector.  sPHENIX is a new detector at RHIC which is expected to start data taking in 2023.  It is designed specifically to measure jets and will allow direct comparisons with jet measurements at the LHC.   Illinois is the primary construction site for the electromagnetic calorimeter blocks.
+It will be especially exciting to have measurements at both RHIC and the LHC.  The different collision energies mean different initial temperatures are achieved in the collisions.  Jet quenching measurements at both colliders provide the best path to constrain the physics of jet quenching.
+
+Research Areas
+Nuclear Physics
+
+
+Selected Articles in Journals
+The Present and Future of QCD, P. Achenbach, et al, arXiv:2303.02579
+
+Measuring jet energy loss fluctuations in the quark-gluon plasma via multiparticle correlations, Holtermann, Noronha-Hostler, Sickles, and Wang, submitted to Phys. Rev. C
+Measurement of the centrality dependence of the dijet yield in p+Pb collisions at 8.16 TeV with the ATLAS detector ,Phys. Rev. Lett. 132(10), 102301 (2024), ATLAS Collaboration
+Multi-particle correlations, cumulants, and moments sensitive to fluctuations in rare-probe azimuthal anisotropy in heavy ion collisions,  Holtermann, Noronha-Hostler, Sickles, and Wang, Phys. Rev. C 108(6), 064901 (2023)
+Measurements of the suppression and correlations of dijets in Pb+Pb collisions at 5.02 TeV, Phys Rev C  107 (2023) 5, 054908, ATLAS Collaboration
+Measurement of the nuclear modification factor of b-jets in 5.02 TeV Pb+Pb collisions with the ATLAS detector,  ATLAS Collaboration Eur.Phys.J.C 83 (2023) 5, 438
+Studying the QGP with Jets at the LHC and RHIC,     Leticia Cunqueiro & Anne M. Sickles,     Prog.Part.Nucl.Phys. 124 (2022) 103940
+Measurements of azimuthal anisotropies of jet production in Pb+Pb collisions at 5.02 TeV with the ATLAS detector, (G. Aad, et al)     Phys.Rev.C 105 (2022) 064903
+Measurements of the suppression and correlations of dijets in Pb+Pb collisions at 5.02 TeV, ATLAS Collaboration (no public author list) submitted to Phys. Rev. C (2022)
+ATLAS Collaboration (M. Aaboud et al.) Dijet azimuthal correlations and conditional yields in pp and p+Pb collisions at 5.02 TeV with the ATLAS detector, Phys. Rev. C 100 (2019) 034903
+ATLAS Collaboration (G. Aad et al.) Measurement of angular and momentum distributions of charged particles within and around jets in Pb+Pb and pp collisions at 5.02 TeV with the ATLAS detector, Phys. Rev. C100 (2019) 064901
+Design and Beam Test Results for the 2D Projective sPHENIX Electromagnetic Calorimeter Prototype, C.A. Aidala, et al,        IEEE Trans.Nucl.Sci. 68 (2021) 2, 173-181
+Design and Beam Test Results for the sPHENIX Electromagnetic and Hadronic Calorimeter Prototypes,  C. Aidala, et al.,     IEEE Trans.Nucl.Sci. 65 (2018) 12, 2901-2919
+Measurement of jet fragmentation in Pb+Pb and pp collisions at 5.02 TeV with the ATLAS detector,  Physical Review C98, 024908 (2018)
+Measurement of jet fragmentation in 5.02 TeV proton--lead and proton--proton collisions with the ATLAS detector, ATLAS Collaboration,  Nucl. Phys. A 978 (2018) 65
+A. Adare, et al. (PHENIX Collaboration) Measurement of long-range angular correlation and quadrupole anisotropy of pions and (anti) protons in central d+Au collisions at 200 GeV (2015)
+Anne M. Sickles, Possible Evidence for Radial Flow of Heavy Mesons in d+Au Collisions, Phys. Lett B731 51-56 (2014)
+A. Adare et al. (PHENIX Collaboration) Quadrupole Anisotropy in Dihadron Azimuthal Correlations in Central d+Au Collisions at 200 GeV, Phys. Rev. Lett. 111 212301 (2013)
+ 	
+J.A. Hanks, A.M. Sickles, et al. Method for separating jets and the underlying event in heavy ion collisions at the BNL Relativistic Heavy Ion Collider, Phys. Rev C86 024908 (2012)
+A. Adare et al. (PHENIX Collaboration) Measurements of Higher-Order Flow Harmonics in Au+Au Collisions at 200 GeV, Phys. Rev. Lett. 107 252301 (2011)
+F. Arleo, S.J. Brodsky, D.S. Hwang, A.M. Sickles, Higher-Twist Dynamics in Large Transverse Momentum Hadron Production, Phys. Rev. Lett. 105 062002 (2010)
+A. M. Sickles, M.P. McCumber, A.M. Adare, Extraction of Correlated Jet Pair Signals in Relativistic Heavy Ion Collisions, Phys. Rev. C81 014908 (2010)
+S.J. Brodsky, A.M. Sickles, The Baryon Anomaly: Evidence for Color Transparency and Direct Hadron Production at RHIC, Phys. Lett. B668 111-115 (2008)
+S.S. Adler et al. (PHENIX Collaboration) Jet structure of baryon excess in Au + Au collisions at s(NN)**(1/2) = 200-GeV, Phys. Rev. C71 051902 (2005)
+S.S. Adler et al. (PHENIX Collaboration) Absence of suppression in particle production at large transverse momentum in200-GeV d + Au collisions, Phys. Rev. Lett. 91 072303 (2003)
+
+Other Publications
+Looking Inside Trillion Degree Matter with ATLAS at the LHC, Anne M. Sickles & Iwona Grabowska-Bold
+
+Recent Courses TaughtPHYS 211 - University Physics: Mechanics
+PHYS 212 - University Physics: Elec & Mag
+PHYS 398 DAP - Soph/Junr Special Topics Phys
+PHYS 403 - Modern Experimental Physics
+

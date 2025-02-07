@@ -1,0 +1,136 @@
+
+
+
+Caroline Cvetkovic 
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+ccvetko@illinois.edu
+3138 Everitt Laboratory
+
+
+For More Information
+Prof. Cvetkovic's LinkedIn Profile
+Prof. Cvetkovic's Google Scholar Profile
+
+Education
+Ph.D., Bioengineering, University of Illinois at Urbana-Champaign, 2017
+M.S., Bioengineering, University of Illinois at Urbana-Champaign, 2013
+B.S., Bioengineering, University of Illinois at Urbana-Champaign, 2011
+
+Academic Positions
+Teaching Assistant Professor, University of Illinois at Urbana-Champaign, Bioengineering, 2021-present
+Postdoctoral Research Fellow, Center for Neuroregeneration and Department of Neurosurgery, Houston Methodist Research Institute, 2017-2021
+
+Resident Instruction
+BIOE 360: Transport & Flow in Bioengineering (Spring 2022, Spring 2024, Spring 2025)
+
+BIOE 306: Biofabrication Lab (Spring 2023)
+BIOE 303: Quantitative Physiology Lab (Fall 2021, Spring 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024)
+BIOE 199: Bioengineering Experience - Campus Honors Program (Spring 2025)
+BIOE 120: Introduction to Bioengineering (Fall 2023, Fall 2024)
+
+Research Interests
+Biomedical Engineering Education
+Neural Engineering
+Regenerative Medicine
+Tissue Engineering
+Biofabrication
+
+
+Research Areas
+Microfabrication
+Regenerative tissue engineering
+
+
+Research Topics
+Neural Engineering
+Research in BME Education
+
+Chapters in Books
+Cvetkovic C, Ko E, Kaufman C, Grant L, Gillette M, Kong H, Bashir R. (2018). “Rapid prototyping of soft bioactuators,” in 3D Bioprinting in Regenerative Engineering: Principles and Applications, 1st ed., A. Khademhosseini and G. Camci-Unal, Eds. Taylor & Francis.
+
+
+Selected Articles in Journals
+Patel M, Lavekar S, Jaisalmeria J, Oji S, Jayasi J, Cvetkovic C, & Krencik R. (2024). Human Astrocytes Synchronize Neural Organoid Networks. bioRxiv [Preprint].
+
+Cvetkovic C, Lindley S, Golecki HM, Krencik R. (2024). Biofabrication of Neural Organoids: An Experiential Learning Approach for Instructional Laboratories. Biomed Eng Education, 4 (2).
+
+Golecki HM, Robinson J, Cvetkovic C, Walsh C. (2024). Empowering Students in Medical Device Design: An Interdisciplinary Soft Robotics Course. Biomed Eng Education, 4 (2).
+
+Cvetkovic C, Patel R, Hogan MK, Shetty A, Anderson M, Basu N, Ramesh S, Sardar D, Ward ME, Deneen B, Horner PJ, Krencik R. (2022). Assessing Gq-GPCR–induced human astrocyte reactivity using bioengineered neural organoids. J Cell Biol, 221 (4): e202107135.
+
+Zinger A*, Cvetkovic C*, Sushnitha M, Naoi T, Baudo G, Anderson M, Shetty A, Basu N, Tasciotti E, Amit M, Xie T, Taraballi F, Krencik R. (2021). Humanized Biomimetic Nanovesicles for Neuron Targeting. Adv Sci, 8(19):e2101437.
+
+Kaufman CD, Liu SC, Cvetkovic C, Lee C, Naseri Kouzehgarani G, Gillette R, Bashir R, Gillette MU. (2020). Emergence of Functional Neuromuscular Junctions in an Engineered, Multicellular Spinal Cord-Muscle Bioactuator. APL Bioeng, 4(2):026104. Cover Image.
+
+Grant L, Raman R, Cvetkovic C, Ferrall-Fairbanks MC, Pagan-Diaz GJ, Hadley P, Ko E, Platt MO, Bashir R. (2019). Long-Term Cryopreservation and Revival of Tissue-Engineered Skeletal Muscle. Tissue Eng A, 25(13-14):1023-1036.
+
+Cvetkovic C, Basu N, Krencik R. (2018). Synaptic Microcircuit Modeling with 3D Cocultures of Astrocytes and Neurons from Human Pluripotent Stem Cells. JoVE, 138.
+
+Krencik R, Seo K, Van Asperen J, Basu N, Cvetkovic C, Barlas S, Chen R, Ludwig C, Wang C, Ward ME, Gan L, Horner PJ, Rowitch DH, Ullian EM. (2017). Systematic three-dimensional coculture rapidly recapitulates interactions between human neurons and astrocytes. Stem Cell Rep, 9(6):1745-1753.
+
+Cvetkovic C*, Ferrall-Fairbanks MC*, Ko E, Grant L, Kong H, Platt MO, Bashir R. (2017). Investigating the Life Expectancy and Proteolytic Degradation of Engineered Skeletal Muscle Biological Machines. Sci Rep, 7(1):3775.
+
+Cvetkovic C, Rich MH, Raman R, Kong H, Bashir R. (2017). A 3D Printed Platform for Modular Neuromuscular Motor Units. Microsyst Nanoeng, 3(1):17015.
+
+Raman R, Cvetkovic C, Bashir R. (2017). A Modular Approach to Design, Fabrication, and Characterization of Muscle-Powered Biological Machines. Nat Protoc, 12(3), 519-533. Cover Image.
+
+Raman R, Cvetkovic C, Uzel SGM, Platt, RJ, Sengupta P, Kamm RD, Bashir R. (2016). Optogenetic Skeletal Muscle-Powered Adaptive Biological Machines. PNAS, 113(13), 3497-3502.
+
+Cvetkovic C*, Raman R*, Chan V, Williams BJ, Tolish M, Bajaj P, Sakar MS, Asada HH, Saif MTA, Bashir R. (2014). Three-Dimensionally Printed Biological Machines Powered by Skeletal Muscle. PNAS, 111(28), 10125-10130.
+
+
+Articles in Conference Proceedings
+
+	Golecki H, Wright A, Mann J, Althaus EW, Cvetkovic C, Hajj R, Chang W, Ansari A. (2025). Reflective Teaching Practices for Equity-Minded Engineering Instructors. Collaborative Network for Engineering & Computing Diversity (CoNECD) Conference, San Antonio TX, February 2025.
+
+
+Cvetkovic C, Jahnke K, Miriyala M, Owen B. (2024). Empowering Future Engineers by Integrating Science Communication into Undergraduate Labs. 2024 Frontiers in Education (FIE) Conference, Washington DC, October 2024.
+Reck R, Golecki H, TerBush J, Cvetkovic C, Schmitz C, Mussulman D, Ansell K, Radhakrishnan C. Getting Started Teaching an Undergraduate Engineering Laboratory. American Society for Engineering Education (ASEE) Annual Conference & Exposition, Portland OR, June 2024.
+
+Cvetkovic C, Jahnke K, Lindley S, Owen B. (2024). Embedding the Entrepreneurial Mindset into Undergraduate Bioengineering Courses: Two Instructional Laboratory Case Studies. American Society for Engineering Education (ASEE) Annual Conference & Exposition, Portland OR, June 2024.
+
+Aghlara‐Fotovat S, Anderson M, Cvetkovic C, Patel M, Tahanis A, Veiseh O, Krencik R. “Elucidating The Consequence of The Inflammatory Human Astrocyte Secretome on Bioengineered Neural Organoids.” TERMIS ‐ AMERICAS Toronto, Ontario, Canada (2022). Tissue Eng. Part A. 1-408.
+
+
+Refereed Conference Papers and Presentations
+Cvetkovic C, Golecki HM, Jahnke K.  "From Labs to Launchpads: Integrating Design, Entrepreneurship and Science Communication in Undergraduate Instructional Laboratories." Biomedical Engineering Society (BMES) Annual Meeting, Baltimore MD, October 2024.
+Cvetkovic C , Golecki H. “Biofabrication Design Electives as Preparation for Capstone Design in Undergraduate Education.” Biomedical Engineering Society (BMES) Annual Meeting, Seattle, WA, October 2023.
+
+Patents
+Zinger A, Cvetkovic C, Krencik R, Tasciotti E, Taraballi F. (2021). “Neurosome/astrosome compositions and methods of use.” WO 2021/091582 A1.
+
+Bashir R, Raman R, Cvetkovic C. (2021). “Muscle-Powered Biological Machines.” US Patent 10,906,169 B1.
+
+Bashir R, Chan V, Raman R, Cvetkovic C. (2018). “Locomotive Biological Machines.” US Patent 10,156,560.
+
+
+Teaching Honors
+List of Teachers Ranked as Excellent: BIOE 360 (Spring 2024)
+List of Teachers Ranked as Excellent: BIOE 303 (Spring 2024)
+Excellence in Mentoring Award – Houston Methodist Association for Postdoctoral and Trainee Affairs (MAPTA), National Postdoctoral Fellow Appreciation Week (2020)
+
+Research Honors
+3D Imaging Contest Feature – Cell Picture Show, CellPress (2020)
+People’s Choice Winner and Juror's Choice Winner – NeuroArt Image Contest, MBF Bioscience (2020)
+Neural Control of Organ Degeneration and Regeneration (NeuralCODR) Fellowship – Center for Neuroregeneration, Houston Methodist Research Institute (2020-2021)
+
+Other Honors
+2nd place winner: Best Paper of New Engineering Educators (NEE) division - American Society for Engineering Education (ASEE) Annual Conference (2024)
+Career Development Award – Biomedical Engineering Society (BMES) (2019)
+Trainee Professional Development Award – Society for Neuroscience (SfN) (2018)
+
+Recent Courses TaughtBIOE 120 - Introduction to Bioengineering
+BIOE 199 - Bioengineering Experience
+BIOE 303 - Quantitative Physiology Lab
+BIOE 306 - Biofabrication Lab
+BIOE 360 - Transport & Flow in Bioengrg
+BIOE 497 CEC (BIOE 297 CEC) - Individual Study
+

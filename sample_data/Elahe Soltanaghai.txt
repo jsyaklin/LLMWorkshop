@@ -1,0 +1,78 @@
+
+
+
+Elahe Soltanaghai 
+
+
+
+
+
+Assistant Professor
+
+
+
+elahe@illinois.edu
+3108 Siebel Center for Comp Sci
+
+
+For More Information
+Elahe Soltanaghai's website
+
+
+Education
+PhD in Computer Science, University of Virginia, 2019
+MS in Computer Engineering, Sharif University of Technology, 2014.
+
+BS in Computer Engineering (2011) & Information Technology Engineering (2013), Amirkabir University of Technology, Tehran, Iran.
+
+
+Academic Positions
+Faculty Affiliate, University of Illinois Urbana-Champaign, Electrical and Computer Engineering, 01/2022-Present
+Assistant Professor, University of Illinois Urbana-Champaign, Computer Science, 01/2022-Present
+
+NCSA Fellow, University of Illinois Urbana-Champaign, 2022-Present
+
+Postdoctoral Researcher, Carnegie Mellon University, Pittsburgh, 2019-2021.
+
+
+Research Interests
+Wireless Sensing and Communication
+Wireless Embedded Systems
+
+Cyber-physical Systems
+
+
+Research Areas
+Antennas for communication and wireless sensing
+Networking and distributed computing
+Systems and Networking
+Wireless communication systems
+
+
+Articles in Conference Proceedings
+C. Zhang, T. Chen, E. Shaffer E. Soltanaghai, "FocusFlow: Leveraging Focal Depth for Gaze Interaction in Virtual Reality", CHI, 2024.
+R. Okubo, L. Jacobs, J. Wang, S. Bowers, E. Soltanaghai. "Integrated Two-way Radar Backscatter Communication and Sensing with Low-power IoT Tags ", SIGCOMM, 2024.
+T. King, J. He, C. Yao, A. Prabhakara, M. Alipour, S. Kumar, A. Rowe, E. Soltanaghai, "Enabling Long-range Sub-mm Micro-Displacement Sensing with Passive Tags as Phase Carriers", IPSN, 2023
+R. Sharma, E. Soltanaghai, V. Sarkar, A. Rowe. "Lumos: Detecting and Localizing Unknown IoT Devices in an Untrusted Environment" In 31st USENIX Security Symposium, 2022.
+
+E. Soltanaghai, A. Prabhakara, A. Balanuta, M. Anderson, S. Kumar, A. Rowe. "mmWave Retro-Reflectors for Long Range Localization in Autonomous Driving." In In Proceedings of the 27th Annual International Conference on Mobile Computing and Networking (MobiCom), 2022.
+E. Soltanaghai, A. Dongare, A. Prabhakara, S. Kumar, A. Rowe, K. Whitehouse. "TagFi: Locating Ultra-Low Power WiFi Tags Using Unmodified WiFi Infrastructure." In ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021.
+E. Soltanaghai, R. Sharma, Z. Wang, A. Chittilappilly, A. Luong, E. Giler, K. Hall, S. Elias, A. Rowe.  "Robust and Practical WiFi Human Sensing Using On-device Learning with a Domain Adaptive Model." In Buildsys, 2020.
+A. Kalyanaraman, E. Soltanaghai, K. Whitehouse. "Doorpler: A radar-based system for real-time, low power zone occupancy sensing". In  IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2019.
+E. Soltanaghai, A. Kalyanaraman, K. Whitehouse. "Multipath triangulation: Decimeter-level wifi localization and orientation with a single unaided receiver." In Proceedings of the 16th annual international conference on mobile systems, applications, and services (MobiSys), 2018.
+E. Soltanaghai, Kamin Whitehouse. "Walksense: Classifying home occupancy states using walkway sensing." In Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), 2016.
+
+Honors
+Google Research Scholar Award (2022)
+Named one of the 10 N2Women Rising Star Women Worldwide
+ (2021
+)
+Recipient of ACM SIGMOBILE Dissertation Award  (2020)
+EECS Rising Stars (2019)
+
+Recent Courses TaughtCS 437 EKS - Topics in Internet of Things
+CS 437 EKS - Wireless IoT systems
+CS 438 (ECE 438) - Communication Networks
+CS 591 WN - Wireless Networking Seminar
+CS 598 EKS - Smart cities, homes, & beyond
+

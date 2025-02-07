@@ -1,0 +1,83 @@
+
+
+
+Cody M. Allen 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 265-0561
+allencm@illinois.edu
+360R Agricultural Engr Sciences Bld
+
+
+Education
+Ph.D., Mechanical Engineering, Purdue University, 2019
+M.S., Mechanical Engineering, Purdue University, 2016
+B.S., Mechanical Engineering, University of Illinois, 2014
+
+Academic Positions
+Assistant Professor, Department of Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, 2020-present
+Affiliate, Center for Digital Agriculture, University of Illinois Urbana-Champaign, 2022-present
+
+Other Professional Employment
+Guidance, Navigation, and Control Engineer, The Boeing Company, St. Louis, MO, 2019-2020
+
+Resident Instruction
+ABE 361: Functional Analysis and Design of Agricultural Machine Systems
+ABE 466: Engineering Off-Road Vehicles
+ETMA 262: Agricultural Machine Systems Management
+ETMA 464: Heavy Equipment Powertrains
+
+Research Interests
+Digital and precision agriculture
+Agricultural automation and autonomy
+Controls and sensing for on- and off-highway machine systems
+Machine systems testing, modeling, and analysis
+Heavy-duty vehicle engines and powertrains
+
+
+
+Selected Articles in Journals
+Liu, Z., Dhamankar, S., Evans, J.T., Allen, C.M., Jiang, C., Shaver, G.M., Etienne, A., Vyn, T.J., Puryk, C.M., McDonald, B.M. (2022) Development and experimental validation of a system for agricultural grain unloading-on-the-go. Computers and Electronics in Agriculture, 198, https://doi.org/10.1016/j.compag.2022.107005
+Gosala, D.B., Raghukumar, H., Allen, C.M., Shaver, G.M., McCarthy, J., & Lutz, T.P. (2021). Model-based design of dynamic firing patterns for supervisory control of diesel engine vibration. Control Engineering Practice, 107, https://doi.org/10.1016/j.conengprac.2020.104681
+Allen, C. M., Joshi, M. C., Gosala, D. B., Shaver, G. M., Farrell, L., & McCarthy, J. (2019). Experimental assessment of diesel engine cylinder deactivation performance during low-load transient operations. International Journal of Engine Research. https://doi.org/10.1177/1468087419857597
+Gosala, D. B., Allen, C. M., Shaver, G. M., Farrell, L., Koeberlein, E., Franke, B., Stretch, D., & McCarthy, J. (2018). Dynamic cylinder activation in diesel engines. International Journal of Engine Research, 20(8-9), 849-861. https://doi.org/10.1177/1468087418779937
+Allen, C. M., Gosala, D. B., Shaver, G. M., & McCarthy, J. (2018). Comparative study of diesel engine cylinder deactivation transition strategies. International Journal of Engine Research, 20(5), 570-580. https://doi.org/10.1177/1468087418768117
+Vos, K. R., Shaver, G. M., Lu, X., Allen, C. M., McCarthy, J., & Farrell, L. (2017). Improving diesel engine efficiency at high speeds and loads through improved breathing via delayed intake valve closure timing. International Journal of Engine Research, 20(2), 194-202. https://doi.org/10.1177/1468087417743157
+ Gosala, D. B., Ramesh, A. K., Allen, C. M., Joshi, M. C., Taylor, A. H., Van Voorhis, M., Shaver, G. M., Farrell, L., Koeberlein, E., McCarthy, J., & Stretch, D. (2017). Diesel engine aftertreatment warm-up through early exhaust valve opening and internal exhaust gas recirculation during idle operation. International Journal of Engine Research, 19(7), 758-773. https://doi.org/10.1177/1468087417730240
+Joshi MC, Gosala DB, Allen CM, Vos K, Van Voorhis M, Taylor A, Shaver GM, McCarthy J, Jr. Stretch D, Koeberlein E and Farrell L (2017) Reducing diesel engine drive cycle fuel consumption through use of cylinder deactivation to maintain aftertreatment component temperature during idle and low load operating conditions. Front. Mech. Eng. 3:8. doi: 10.3389/fmech.2017.00008
+ Ramesh, A. K., Shaver, G. M., Allen, C. M., Nayyar, S., Gosala, D. B., Caicedo Parra, D., Koeberlein, E., McCarthy, J., & Nielsen, D. (2017). Utilizing low airflow strategies, including cylinder deactivation, to improve fuel efficiency and aftertreatment thermal management. International Journal of Engine Research, 18(10), 1005-1016. https://doi.org/10.1177/1468087417695897
+
+ Gosala, D. B., Allen, C. M., Ramesh, A. K., Shaver, G. M., McCarthy, J., Stretch, D., Koeberlein, E., & Farrell, L. (2017). Cylinder deactivation during dynamic diesel engine operation. International Journal of Engine Research, 18(10), 991-1004. https://doi.org/10.1177/1468087417694000
+
+Articles in Conference Proceedings
+Joshi, M.J., Gosala, D.B., Allen, C.M., Srinivasan, S., Ramesh, A.K., VanVoorhis, M., Taylor, A., Vos, K.R., Shaver, G.M., McCarthy, J., Farrell, F., Koeberlein, E.D. (2018). Diesel Engine Cylinder Deactivation for Improved System Performance over Transient Real-World Drive Cycles. SAE Technical Paper 2018-01-0880. https://doi.org/10.4271/2018-01-0880
+Ramesh, A.K., Gosala, D.B., Allen, C.M., Joshi, M.J., McCarthy, J., Farrell, L., Koeberlein, E.D., Shaver, G.M. (2018). Cylinder Deactivation for Increased Engine Efficiency and Aftertreatment Thermal Management in Diesel Engines. SAE Technical Paper 2018-01-0384. https://doi.org/10.4271/2018-01-0384
+
+Teaching Honors
+Spring 2024 List of Teachers Ranked as Excellent by their Students (ABE 361 & ETMA 262)
+Ben and Georgeann Jones Excellence in Teaching Award, UIUC Dept. of Agricultural and Biological Engineering (2023)
+Fall 2023 List of Teachers Ranked as Excellent by their Students (ABE 466 & ETMA 464)
+Spring 2023 List of Teachers Ranked as Excellent by their Students (ETMA 262 & ETMA 464)
+Fall 2022 List of Teachers Ranked as Excellent by their Students (ABE 466)
+Spring 2022 List of Teachers Ranked as Excellent by their Students (TSM 262)
+Fall 2021 List of Teachers Ranked as Excellent by their Students (ABE 466 & ABE 361)
+Spring 2021 List of Teachers Ranked as Excellent by their Students (TSM 464)
+
+Other Honors
+ASABE Outstanding Reviewer (2023)
+SAE John Johnson Best Paper Award (2018)
+
+Recent Courses TaughtABE 361 - Func Analysis Des Agr Mach Sys
+ABE 361 - Off-Road Machine Design
+ABE 466 - Engineering Off-Road Vehicles
+ETMA 262 - Agric Machine Sys Management
+ETMA 464 - Heavy Equipment Powertrains
+ETMA 464 (TSM 464) - Engine and Tractor Power
+TSM 262 - Off-Road Equipment Management
+
